@@ -15,6 +15,12 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 Threat-Informed Defense Ecosystem: https://start.me/p/X25q7l/threat-informed-defense-ecosystem
 
+The easiest way to run WireGuard VPN + Web-based Admin UI: https://github.com/WeeJeWel/wg-easy
+
+ArchiveBox: Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more: https://github.com/ArchiveBox/ArchiveBox
+
+Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all: https://github.com/svenstaro/genact
+
 ----
 
 ### Timelines:
