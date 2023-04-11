@@ -42,6 +42,12 @@ BadSecrets - a library for detecting known secrets across many web frameworks: h
 
 GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily: https://github.com/GONZOsint/gvision
 
+Cyberdoor - Automated Payload Generator Tool: https://github.com/AnonymousAt3/cyberdoor
+
+OrbitalDump - A simple multi-threaded distributed SSH brute-forcing tool written in Python: https://github.com/k4yt3x/orbitaldump
+
+LAZYPARIAH - A tool for generating reverse shell payloads on the fly.: https://github.com/octetsplicer/LAZYPARIAH
+
 ----
 
 ### Timelines:
