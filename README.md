@@ -13,6 +13,35 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 ### Draft:
 
+Elon Musk just killed Twitter. Twitter Inc. no longer exists 🤯  
+  
+It's now X Corp., another step towards the Everything App, or what could be the most powerful FinTech company in the world.  
+  
+A filing in the Southern District of Florida shows that Twitter Inc. has been merged with X Corp. and now Twitter as we know it no longer exists.  
+  
+The new phase of Twitter will be X Corp., which will run on a vision laid out more than 20 years ago.  
+  
+Everything goes back to the days of X dot com, an online bank Elon Musk co-founded with Harris Ficker, Christopher Payne, and Ed Ho in 1999. The company later became PayPal, which today is one of the biggest and most important payment companies in the world.  
+  
+Despite the merger, Elon's sentiment for X always remained, and now might be the best time to make it happen. But on a much bigger scale.  
+  
+That's why the CEO of Tesla & SpaceX bought Twitter in October 2022 and described his acquisition as "an accelerant to creating X, the everything app". A month later, Musk said he will execute the X product plan "with some improvements" which will make Twitter "the most valuable financial institution in the world.  
+  
+Fast forward to 2023, and it's clear that Elon is walking the talk.  
+  
+With 238 million users, the social media giant could definitely be transformed into an app that does everything.  
+  
+Not only it could become the first Super App of the West. More importantly, Twitter can become the Super App PayPal, Klarna, and Revolut always dreamed of.  
+  
+WeChat, the gold standard of Super Apps, today has 1 billion users and brings together social networking, payments, e-commerce, games, news, events, shopping, etc. all in one place.  
+  
+And it started as a messaging app. Just like Twitter.  
+  
+The transformation Twitter is undergoing right now will be super difficult and with no guaranteed chances of success. But one thing is clear:  
+  
+We're witnessing the beginnings of the most powerful FinTech company in the world.
+
+
 WAR IN UKRAINE: THE NEW GEOGRAPHY OF CYBER WARFARE BY THALES GROUP: https://www.thalesgroup.com/en/group/news/war-ukraine-new-geography-cyber-warfare
 
 There are only 2,000 chip designers left in Russia: https://habr.com/ru/articles/722942/
