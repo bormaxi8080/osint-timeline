@@ -48,6 +48,10 @@ OrbitalDump - A simple multi-threaded distributed SSH brute-forcing tool written
 
 LAZYPARIAH - A tool for generating reverse shell payloads on the fly.: https://github.com/octetsplicer/LAZYPARIAH
 
+Quidam allows you to retrieve information thanks to the forgotten password function of some sites: https://github.com/megadose/Quidam
+
+
+
 ----
 
 ### Timelines:
