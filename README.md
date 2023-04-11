@@ -13,9 +13,11 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 ### Draft:
 
-https://habr.com/ru/articles/722942/
-
 WAR IN UKRAINE: THE NEW GEOGRAPHY OF CYBER WARFARE BY THALES GROUP: https://www.thalesgroup.com/en/group/news/war-ukraine-new-geography-cyber-warfare
+
+There are only 2,000 chip designers left in Russia: https://habr.com/ru/articles/722942/
+
+Articles:
 
 Threat-Informed Defense Ecosystem: https://start.me/p/X25q7l/threat-informed-defense-ecosystem
 
@@ -32,6 +34,13 @@ If you need to save time while assessing a bunch of web servers, try Gowitness, 
 Top 10 SMTP Test Tools to Detect Server Issues & To Test Email Security: https://cybersecuritynews.com/smtp-test-tools/
 
 
+mip22 is a advanced phishing tool. ### 83 default websites, clone any site with manual method, add any site with customize method, mask link with subdomains, url shortener, audio notice for view the credentials live, music in background etc.: https://github.com/makdosx/mip22
+
+Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts: https://github.com/cisagov/Malcolm
+
+BadSecrets - a library for detecting known secrets across many web frameworks: https://github.com/blacklanternsecurity/badsecrets
+
+GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily: https://github.com/GONZOsint/gvision
 
 ----
 
