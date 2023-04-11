@@ -79,6 +79,10 @@ LAZYPARIAH - A tool for generating reverse shell payloads on the fly.: https://g
 
 Quidam allows you to retrieve information thanks to the forgotten password function of some sites: https://github.com/megadose/Quidam
 
+CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL: https://github.com/drfabiocastro/certwatcher
+
+Community curated list of templates for the Certwatcher.: https://github.com/drfabiocastro/certwatcher-templates
+
 
 
 ----
