@@ -13,6 +13,8 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 ### Draft:
 
+https://habr.com/ru/articles/722942/
+
 WAR IN UKRAINE: THE NEW GEOGRAPHY OF CYBER WARFARE BY THALES GROUP: https://www.thalesgroup.com/en/group/news/war-ukraine-new-geography-cyber-warfare
 
 Threat-Informed Defense Ecosystem: https://start.me/p/X25q7l/threat-informed-defense-ecosystem
