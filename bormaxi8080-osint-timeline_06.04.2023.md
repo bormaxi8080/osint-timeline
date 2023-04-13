@@ -8,11 +8,16 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 ----
 
+### bormaxi8080 OSINT Timeline - 01 (06.04.2023):
+
+
 ...Every evil has a name. Certain people are responsible for the lawlessness committed for political reasons - judges, investigators, prosecutors and many others. This site contains everything we know about them: https://black-book.wiki/search/
 
+----
 
 It's horrible. Read only to people with a strong psyche: https://github.com/zbroyar/mass_killings/blob/master/ru/Cleansing.md
 
+----
 
 Elon Musk is suspected of underreporting tweets about the war in Ukraine.  
   
@@ -25,6 +30,8 @@ Ukrainian Twitter users noticed that their tweets about the war began to collect
 In addition, the Musk was suspected that the algorithm increases the issuance of his tweets. Markers for Musk, "power users", "Democrat users" and "Republican users" were found in the code. Twitter explained this by collecting statistics and comparing reactions to Musk's tweets with reactions to politicians' tweets.
 
 Link to source code: https://github.com/search?q=repo%3Atwitter%2Fthe-algorithm+Ukrain&type=code
+
+----
 
 ### Timeline:
 
