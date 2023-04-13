@@ -15,6 +15,9 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 There are only 2,000 chip designers left in Russia: https://habr.com/ru/articles/722942/
 
+Awesome Red Team Operations: https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
+
+An engine to make Tor network your default gateway: https://github.com/htrgouvea/nipe
 
 ----
 
