@@ -23,7 +23,11 @@ Person OSINT investigation workflow from a privacy perspective: https://www.osin
 
 By splitting a QR code into 7 fragments, we may physically split and distribute a secret into the real world. For example by printing the QR fragments onto transparent paper and handing them out to multiple people: https://github.com/jzck/horqrux
 
+dontgo403 is a tool to bypass 40X errors: https://github.com/devploit/dontgo403
 
+FinalRecon is an **automatic web reconnaissance** tool written in python. Goal of FinalRecon is to provide an **overview** of the target in a **short** amount of time while maintaining the **accuracy** of results. Instead of executing **several tools** one after another it can provide similar results keeping dependencies **small and simple**: https://github.com/thewhiteh4t/FinalRecon
+
+User Agent switcher and Manager: https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
 
 ----
 
