@@ -19,13 +19,19 @@ Awesome Red Team Operations: https://github.com/CyberSecurityUP/Awesome-Red-Team
 
 An engine to make Tor network your default gateway: https://github.com/htrgouvea/nipe
 
+Person OSINT investigation workflow from a privacy perspective: https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/
+
+By splitting a QR code into 7 fragments, we may physically split and distribute a secret into the real world. For example by printing the QR fragments onto transparent paper and handing them out to multiple people: https://github.com/jzck/horqrux
+
+
+
 ----
 
 ### Timelines:
 
-[bormaxi8080 OSINT Timeline (01) - 06.04.2023](bormaxi8080-osint-timeline_06.04.2023.md)
-
 [bormaxi8080 OSINT Timeline (02) - 13.04.2023](bormaxi8080-osint-timeline_13.04.2023)
+
+[bormaxi8080 OSINT Timeline (01) - 06.04.2023](bormaxi8080-osint-timeline_06.04.2023.md)
 
 ----
 
