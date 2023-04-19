@@ -13,6 +13,8 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 ### Draft:
 
+Using OSINT to help in mine clearance operations in Ukraine: [https://lnkd.in/d5Uuz9bg](https://lnkd.in/d5Uuz9bg)
+
 There are only 2,000 chip designers left in Russia: https://habr.com/ru/articles/722942/
 
 Awesome Red Team Operations: https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
@@ -28,6 +30,12 @@ dontgo403 is a tool to bypass 40X errors: https://github.com/devploit/dontgo403
 FinalRecon is an **automatic web reconnaissance** tool written in python. Goal of FinalRecon is to provide an **overview** of the target in a **short** amount of time while maintaining the **accuracy** of results. Instead of executing **several tools** one after another it can provide similar results keeping dependencies **small and simple**: https://github.com/thewhiteh4t/FinalRecon
 
 User Agent switcher and Manager: https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
+
+Cutting the Cord: Harnessing OpenAI's Whisper in an Offline Environment:
+Link: https://www.digitalforensicstips.com/2023/04/cutting-cord-harnessing-openais-whisper.html
+GitHub: https://github.com/openai/whisper
+
+
 
 ----
 
