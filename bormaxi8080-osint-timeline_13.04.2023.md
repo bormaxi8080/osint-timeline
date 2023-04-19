@@ -1,4 +1,3 @@
-### bormaxi8080 OSINT Timeline:
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 
