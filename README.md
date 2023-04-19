@@ -35,7 +35,17 @@ Cutting the Cord: Harnessing OpenAI's Whisper in an Offline Environment:
 Link: https://www.digitalforensicstips.com/2023/04/cutting-cord-harnessing-openais-whisper.html
 GitHub: https://github.com/openai/whisper
 
+pamspy leverage eBPF technologies to achieve an equivalent work of [3snake](https://github.com/blendin/3snake).
+It will track a particular userland function inside the PAM (Pluggable Authentication Modules) library, used by many critical applications to handle authentication like:
+-   sudo
+-   sshd
+-   passwd
+-   gnome
+-   x11
+-   and many other ...
+https://github.com/citronneur/pamspy
 
+live-forensicator - Powershell Script to aid Incidence Response and Live Forensics | Bash Script for MacOS Live Forensics and Incidence Response: https://github.com/Johnng007/Live-Forensicator
 
 ----
 
