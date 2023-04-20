@@ -13,6 +13,12 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 ### Draft:
 
+...I imagined here: you wake up in the morning, look at the monitors, and there is a nebula in the constellation Canis Major, 15 thousand light years from the Earth. A tough day ahead: wake up the crew, explore a couple of planetary systems, sort out navigation, send out reports...
+
+The great science fiction writers were right: the essence should not be in ourselves, but only in what we can become in ten, a hundred, a thousand years - in order to realize what the great science fiction writers thought about.
+
+Meanwhile, we are all about the war, money and braces...
+
 
 
 ----
