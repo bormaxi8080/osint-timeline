@@ -21,6 +21,13 @@ That's when God is very close.
 
 And in the meantime, we are all about war, money and braces...
 
+Tools:
+
+Katana - A next-generation crawling and spidering framework: https://github.com/projectdiscovery/katana
+
+eNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with…
+https://github.com/yogeshojha/rengine
+
 
 
 ----
