@@ -46,11 +46,11 @@ Wireshark Filters for Security Analyst: https://www.socinvestigation.com/wiresha
 
 ### Timelines:
 
-[bormaxi8080 OSINT Timeline (03) - 20.04.2023](bormaxi8080-osint-timeline_20.04.2023.md)
+[bormaxi8080 OSINT Timeline (03) - 20.04.2023](./timelines/bormaxi8080-osint-timeline_20.04.2023.md)
 
-[bormaxi8080 OSINT Timeline (02) - 13.04.2023](bormaxi8080-osint-timeline_13.04.2023.md)
+[bormaxi8080 OSINT Timeline (02) - 13.04.2023](./timelines/bormaxi8080-osint-timeline_13.04.2023.md)
 
-[bormaxi8080 OSINT Timeline (01) - 06.04.2023](bormaxi8080-osint-timeline_06.04.2023.md)
+[bormaxi8080 OSINT Timeline (01) - 06.04.2023](./timelines/bormaxi8080-osint-timeline_06.04.2023.md)
 
 ----
 
