@@ -48,6 +48,10 @@ this exciting area of research: https://github.com/volatilityfoundation/volatili
 
 Wireshark Filters for Security Analyst: https://www.socinvestigation.com/wireshark-filters-for-security-analyst/
 
+PowerMeUp - A small library of powershell scripts for post exploitation that you may need or use! It is also a custom reverse shell that you can use to add modules of your choice and not be stuck to things you do not need or use: https://github.com/ItsCyberAli/PowerMeUp
+
+Cyber X-Ray (https://cyber-xray.com/) - A pretty domain list scanner and domain investigation service.
+
 ----
 
 ### Timelines:
