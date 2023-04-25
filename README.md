@@ -21,6 +21,12 @@ That's when God is very close.
 
 And in the meantime, we are all about war, money and braces...
 
+
+The GRU leadership oversees the Silk Road International Automobile Rally project, which it uses as an infrastructure for its residents and to establish political contacts. Documents obtained by The Insider testify to this. As can be seen from the telephone connections, the official director of the rally was in constant contact with the officers from military unit 29155, who were involved in the explosions of military warehouses and poisoning with chemical weapons.
+
+https://theins.ru/politika/261148
+
+
 Tools:
 
 Katana - A next-generation crawling and spidering framework: https://github.com/projectdiscovery/katana
