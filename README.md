@@ -70,6 +70,7 @@ this exciting area of research: https://github.com/volatilityfoundation/volatili
    GitHub: https://github.com/alentum/sitemapper-nodejs
 
 - Sourcegraph - Searching millions of public repositories: https://sourcegraph.com/search
+- Just-Metadata is a tool that gathers and analyzes metadata about IP addresses. It attempts to find relationships between systems within a large dataset: https://github.com/FortyNorthSecurity/Just-Metadata
 
 ----
 
