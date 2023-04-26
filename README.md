@@ -69,6 +69,8 @@ this exciting area of research: https://github.com/volatilityfoundation/volatili
 - Visual Site Mapper is a free service that can quickly show a map of a site. The service is available at [http://www.visualsitemapper.com](http://www.visualsitemapper.com/) 
    GitHub: https://github.com/alentum/sitemapper-nodejs
 
+- Sourcegraph - Searching millions of public repositories: https://sourcegraph.com/search
+
 ----
 
 ### Timelines:
