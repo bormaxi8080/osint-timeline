@@ -24,7 +24,7 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 - killport is a command-line utility for killing processes listening on specific ports. It's designed to be simple, fast, and effective. The tool is built with Rust and works on Linux and macOS: https://github.com/jkfran/killport
 
-- Pentest-GPT - a GPT-empowered penetration testing tool: https://github.com/GreyDGL/PentestGPT
+- PentestGPT - a GPT-empowered penetration testing tool: https://github.com/GreyDGL/PentestGPT
 
 - Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices: https://github.com/den4uk/andriller
 
