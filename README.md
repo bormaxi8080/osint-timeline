@@ -13,6 +13,29 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 ### Draft:
 
+----
+
+### Articles:
+
+Qualcomm chips were caught secretly spying on users.  
+  
+According to the blog of the German company Nitrokey, which deals with hardware solutions in the field of information security, undocumented functionality has been discovered in Qualcomm single-chip platforms, thanks to which some data from smartphones is sent directly to Qualcomm servers - without any involvement of the operating system.
+
+https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker
+
+
+Instant Plugins for ChatGPT - Introducing the Wolfram ChatGPT Plugin Kit: https://writings.stephenwolfram.com/2023/04/instant-plugins-for-chatgpt-introducing-the-wolfram-chatgpt-plugin-kit/
+
+----
+
+The death and revival of Russian occupation telegram channels: https://www.linkedin.com/pulse/death-revival-russian-occupation-telegram-channels-maxim-marshak
+
+Telegram channels and groups catalog: https://tgstat.ru/en
+
+Telegram-OSINT - Separate Repository for Telegram as there is a large amount of resources available: https://github.com/cqcore/Telegram-OSINT
+
+### Tools:
+
 - Cyber X-Ray (https://cyber-xray.com/) - A pretty domain list scanner and domain investigation service.
 
 - Visual Site Mapper is a free service that can quickly show a map of a site. The service is available at [http://www.visualsitemapper.com](http://www.visualsitemapper.com/) 
@@ -30,7 +53,9 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 - localsend - an open source cross-platform alternative to AirDrop: https://github.com/localsend/localsend
 
-- wikit - Wikipedia summaries from the command line: https://github.com/KorySchneider/wikit
+- wikit - Wikipedia summaries from the command line: https://github.com/KorySchneider/wikit\
+
+- gluetun - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in: https://github.com/qdm12/gluetun
 
 ----
 
