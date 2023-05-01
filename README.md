@@ -61,6 +61,8 @@ Instant Plugins for ChatGPT: Introducing the Wolfram ChatGPT Plugin Kit: https:/
 
 - gluetun - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in: https://github.com/qdm12/gluetun
 
+- **deep**doctection is a Python library that orchestrates document extraction and document layout analysis tasks using deep learning models. It does not implement models but enables you to build pipelines using highly acknowledged libraries for object detection, OCR and selected NLP tasks and provides an integrated framework for fine-tuning, evaluating and running models. For more specific text processing tasks use one of the many other great NLP libraries: https://github.com/deepdoctection/deepdoctection
+
 ----
 
 ### Timelines:
