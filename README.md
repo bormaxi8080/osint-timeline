@@ -34,6 +34,10 @@ Telegram channels and groups catalog: https://tgstat.ru/en
 
 Telegram-OSINT - Separate Repository for Telegram as there is a large amount of resources available: https://github.com/cqcore/Telegram-OSINT
 
+Wolfram uniquely unifies algorithms, data, notebooks, linguistics and deployment—enabling powerful workflows across desktop, cloud, server and mobile: https://www.wolfram.com/
+
+Instant Plugins for ChatGPT: Introducing the Wolfram ChatGPT Plugin Kit: https://writings.stephenwolfram.com/2023/04/instant-plugins-for-chatgpt-introducing-the-wolfram-chatgpt-plugin-kit/
+
 ### Tools:
 
 - Cyber X-Ray (https://cyber-xray.com/) - A pretty domain list scanner and domain investigation service.
