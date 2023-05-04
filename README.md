@@ -13,9 +13,6 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 ### Draft:
 
-----
-
-### Articles:
 
 Qualcomm chips were caught secretly spying on users.  
   
@@ -24,21 +21,11 @@ According to the blog of the German company Nitrokey, which deals with hardware 
 https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker
 
 
-Instant Plugins for ChatGPT - Introducing the Wolfram ChatGPT Plugin Kit: https://writings.stephenwolfram.com/2023/04/instant-plugins-for-chatgpt-introducing-the-wolfram-chatgpt-plugin-kit/
-
-----
-
-The death and revival of Russian occupation telegram channels: https://www.linkedin.com/pulse/death-revival-russian-occupation-telegram-channels-maxim-marshak
-
-Telegram channels and groups catalog: https://tgstat.ru/en
-
-Telegram-OSINT - Separate Repository for Telegram as there is a large amount of resources available: https://github.com/cqcore/Telegram-OSINT
-
-Wolfram uniquely unifies algorithms, data, notebooks, linguistics and deployment—enabling powerful workflows across desktop, cloud, server and mobile: https://www.wolfram.com/
-
 Instant Plugins for ChatGPT: Introducing the Wolfram ChatGPT Plugin Kit: https://writings.stephenwolfram.com/2023/04/instant-plugins-for-chatgpt-introducing-the-wolfram-chatgpt-plugin-kit/
 
 ### Tools:
+
+- Wolfram uniquely unifies algorithms, data, notebooks, linguistics and deployment—enabling powerful workflows across desktop, cloud, server and mobile: https://www.wolfram.com/
 
 - Cyber X-Ray (https://cyber-xray.com/) - A pretty domain list scanner and domain investigation service.
 
@@ -70,6 +57,8 @@ Instant Plugins for ChatGPT: Introducing the Wolfram ChatGPT Plugin Kit: https:/
 ----
 
 ### Timelines:
+
+[bormaxi8080 OSINT Timeline (05) - 04.05.2023](./timelines/bormaxi8080-osint-timeline_04.05.2023.md)
 
 [bormaxi8080 OSINT Timeline (04) - 27.04.2023](./timelines/bormaxi8080-osint-timeline_27.04.2023.md)
 
