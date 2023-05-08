@@ -23,6 +23,20 @@ https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-sh
 
 Instant Plugins for ChatGPT: Introducing the Wolfram ChatGPT Plugin Kit: https://writings.stephenwolfram.com/2023/04/instant-plugins-for-chatgpt-introducing-the-wolfram-chatgpt-plugin-kit/
 
+
+Ethos - the OT-centric, open-source platform for sharing anonymous early warning threat information: https://www.ethos-org.io/
+
+
+**IP Geolocation API**
+Around the globe, industry-leading organizations use IPinfo's geolocation data to create efficient, enjoyable, and secure online experiences for their users. These IP geolocation insights lead to better conversion rates, improved customer satisfaction, and much more with our API that's built for low latency responses. Link: https://ipinfo.io/products/ip-geolocation-api
+
+
+Napalm FTP Indexer - Search for millons FTPs: https://www.searchftps.net/
+
+
+Metlo - an open-source API security platform: https://github.com/metlo-labs/metlo
+
+
 ### Tools:
 
 - Wolfram uniquely unifies algorithms, data, notebooks, linguistics and deployment—enabling powerful workflows across desktop, cloud, server and mobile: https://www.wolfram.com/
