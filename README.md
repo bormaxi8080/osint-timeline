@@ -68,6 +68,8 @@ Metlo - an open-source API security platform: https://github.com/metlo-labs/metl
 
 - A free, secure and open source app for Android to manage your 2-step verification token: https://github.com/beemdevelopment/Aegis
 
+- Th3inspector - tool for Information Gathering: https://github.com/Moham3dRiahi/Th3inspector
+
 ----
 
 ### Timelines:
