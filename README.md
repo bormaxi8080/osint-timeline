@@ -14,6 +14,11 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 ### Draft:
 
 
+...The cat brought us kittens yesterday. Already big, two whites and a fiery red fluffy. Already grown up savages and do not allow themselves to be photographed yet.
+And I thought that this is how the world should be. Grill barbecue, tame cats, grow flowers and greens in the yard. No rat pack. Without evil spirits. Without vk, mailru and yandex. Without all these Usmanov-Prilepin-Konashenkov-Prigozhin. Without parades and "colorado" covens.
+This is worth living and working for.
+
+
 Qualcomm chips were caught secretly spying on users.  
   
 According to the blog of the German company Nitrokey, which deals with hardware solutions in the field of information security, undocumented functionality has been discovered in Qualcomm single-chip platforms, thanks to which some data from smartphones is sent directly to Qualcomm servers - without any involvement of the operating system.
