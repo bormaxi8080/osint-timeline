@@ -19,6 +19,9 @@ And I thought that this is how the world should be. Grill barbecue, tame cats, g
 This is worth living and working for.
 
 
+On one of the mausoleums, built by order of Timur, the saying was inscribed: "The Sultan is the shadow of God on earth." Over time, the inscription partially crumbled and remained: "The Sultan is a shadow". Why do they always forget it?..
+
+
 Qualcomm chips were caught secretly spying on users.  
   
 According to the blog of the German company Nitrokey, which deals with hardware solutions in the field of information security, undocumented functionality has been discovered in Qualcomm single-chip platforms, thanks to which some data from smartphones is sent directly to Qualcomm servers - without any involvement of the operating system.
