@@ -1,8 +1,4 @@
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
-
-You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
-
-[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
+...On one of the mausoleums, built by order of Timur, the saying was inscribed: "The Sultan is the shadow of God on earth." Over time, the inscription partially crumbled and remained: "The Sultan is a shadow". Why do they always forget it?..
 
 ----
 
@@ -54,5 +50,15 @@ Around the globe, industry-leading organizations use IPinfo's geolocation data t
 - Just-Metadata is a tool that gathers and analyzes metadata about IP addresses. It attempts to find relationships between systems within a large dataset: https://github.com/FortyNorthSecurity/Just-Metadata
 
 - killport is a command-line utility for killing processes listening on specific ports. It's designed to be simple, fast, and effective. The tool is built with Rust and works on Linux and macOS: https://github.com/jkfran/killport
+
+----
+
+bormaxi8080 OSINT timeline:
+
+GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+
+You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
+
+[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
 
 ----

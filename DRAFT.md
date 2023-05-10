@@ -1,8 +1,5 @@
 ### Draft:
 
-...On one of the mausoleums, built by order of Timur, the saying was inscribed: "The Sultan is the shadow of God on earth." Over time, the inscription partially crumbled and remained: "The Sultan is a shadow". Why do they always forget it?..
-
-
 Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool: https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/
 
 
@@ -17,10 +14,6 @@ Metlo - an open-source API security platform: https://github.com/metlo-labs/metl
 
 epieos - Retrieve information linked to an email address: https://epieos.com/
 
-
-
-
-### Tools:
 
 - SubDomainizer - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github: https://github.com/nsonaniya2010/SubDomainizer
 

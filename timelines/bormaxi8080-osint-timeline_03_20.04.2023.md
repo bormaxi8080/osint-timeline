@@ -1,14 +1,4 @@
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
-
-You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
-
-[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
-
-----
-
-### bormaxi8080 OSINT Timeline (03) - 20.04.2023:
-
 ...Remember the horror stories that almost microphones are built into Chinese smart teapots?
 The Verge writes that modern smart vacuum cleaners have "learned" to give a video stream from their sensors for recognizing obstacles. Accordingly, you can use your au pair as a mobile security camera.
 I suspect that with the proper skill, other agents may use it for other purposes: from abuse to wiretapping. Here he rides on his floor, you even stop noticing him and thinking that he has been crawling around in one corner for the third minute already. And he looks. Looks. And listens...
@@ -47,3 +37,15 @@ Person OSINT investigation workflow from a privacy perspective: https://www.osin
 - live-forensicator - Powershell Script to aid Incidence Response and Live Forensics | Bash Script for MacOS Live Forensics and Incidence Response: https://github.com/Johnng007/Live-Forensicator
 
 - Free Tools to Scan WordPress for Vulnerabilities: https://www.wpexplorer.com/scan-wordpress-website/
+
+----
+
+bormaxi8080 OSINT timeline:
+
+GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+
+You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
+
+[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
+
+----

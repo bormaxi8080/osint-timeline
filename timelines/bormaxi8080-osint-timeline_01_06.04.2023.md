@@ -1,15 +1,3 @@
-Welcome to bormaxi8080 OSINT timeline!
-
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
-
-You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
-
-[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
-
-----
-
-### bormaxi8080 OSINT Timeline - 01 (06.04.2023):
-
 
 ...Every evil has a name. Certain people are responsible for the lawlessness committed for political reasons - judges, investigators, prosecutors and many others. This site contains everything we know about them: https://black-book.wiki/search/
 
@@ -74,3 +62,15 @@ Tools:
 - Have you ever faced with the lack of possibility of using NMap? For instance if you have reverse shell as an unprivileged user and there are no useful tools preinstalled? This is a small script which will help you to scan a network if you have nothing: https://github.com/IvanGlinkin/Port-enumeration
 
 - A modern alternative network traffic sniffer: https://github.com/chenjiandongx/sniffer
+
+----
+
+bormaxi8080 OSINT timeline:
+
+GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+
+You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
+
+[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
+
+----

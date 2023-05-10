@@ -1,10 +1,3 @@
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
-
-You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
-
-[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
-
-----
 
 The cover photo was taken by me a year ago in Novosibirsk, Russia. "During the 52 days of the war, about 200 children were killed in Ukraine". The author of the action is unknown.
 
@@ -30,3 +23,15 @@ Telegram Keyword Trends - an analysis tool to explore the emergence of hatespeec
 Gephi: https://gephi.org/
 
 And that's just a drop in the ocean...
+
+----
+
+bormaxi8080 OSINT timeline:
+
+GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+
+You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
+
+[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
+
+----

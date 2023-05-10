@@ -1,14 +1,4 @@
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
-
-You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
-
-[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
-
-----
-
-### bormaxi8080 OSINT Timeline (02) - 13.04.2023:
-
 ...If you take a transparent plastic box, put many, many multi-colored pebbles in it, close it, and then start shaking, you can see that any two pebbles at some point will definitely come into contact with each other.
 The people of the world are pebbles in a box. Everything must be connected. The trajectory of the stone is unpredictable: any touch is possible at any moment. The size of the stone is the same. According to the theory of probability, at some point another stone will definitely crush you. And where he will fly from is unknown.
 Yura, I'm sorry, but you probably didn't know about this...
@@ -77,3 +67,15 @@ Tools:
 - pbgopy acts like [pbcopy/pbpaste](https://www.unix.com/man-page/osx/1/pbcopy/) but for multiple devices. It lets you share data across devices like you copy and paste: https://github.com/nakabonne/pbgopy
 
 - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching: https://github.com/opsdisk/pagodo
+
+----
+
+bormaxi8080 OSINT timeline:
+
+GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+
+You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
+
+[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
+
+----

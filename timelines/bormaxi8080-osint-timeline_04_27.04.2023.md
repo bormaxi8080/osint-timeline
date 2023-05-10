@@ -1,10 +1,3 @@
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
-
-You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
-
-[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
-
-----
 
 ...I imagined here: you wake up in the morning, look at the monitors, and there is a nebula in the constellation Canis Major, 15 thousand light years from the Earth. A tough day ahead: wake up the crew, explore a couple of planetary systems, sort out navigation, send out reports...
 
@@ -48,5 +41,15 @@ Wireshark Filters for Security Analyst: https://www.socinvestigation.com/wiresha
 - PowerMeUp - A small library of powershell scripts for post exploitation that you may need or use! It is also a custom reverse shell that you can use to add modules of your choice and not be stuck to things you do not need or use: https://github.com/ItsCyberAli/PowerMeUp
 
 -  The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples. The extraction techniques are performed completely independent of the system being investigated but offer visibilty into the runtime state of the system. The framework is intended to introduce people to the techniques and complexities associated with extracting digital artifacts from volatile memory samples and provide a platform for further work into this exciting area of research: https://github.com/volatilityfoundation/volatility
+
+----
+
+bormaxi8080 OSINT timeline:
+
+GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+
+You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
+
+[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
 
 ----
