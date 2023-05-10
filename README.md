@@ -29,6 +29,12 @@ According to the blog of the German company Nitrokey, which deals with hardware 
 https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker
 
 
+Tracing the Odnoklassniki Profile of the Texas Mall Shooter: https://www.bellingcat.com/news/2023/05/09/tracing-the-odnoklassniki-profile-of-the-texas-mall-shooter/
+
+
+Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool: https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/
+
+
 Instant Plugins for ChatGPT: Introducing the Wolfram ChatGPT Plugin Kit: https://writings.stephenwolfram.com/2023/04/instant-plugins-for-chatgpt-introducing-the-wolfram-chatgpt-plugin-kit/
 
 
