@@ -6,10 +6,27 @@
 Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool: https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/
 
 
+Espionage campaign linked to Russian intelligence services: https://www.gov.pl/web/baza-wiedzy/espionage-campaign-linked-to-russian-intelligence-services
+
+
+How the “trolls” of Tajikistan and their Kazakhstani “colleagues” work: https://rus.azattyq.org/a/tajikstan-and-its-troll-factories/29926761.html
+
+
 Metlo - an open-source API security platform: https://github.com/metlo-labs/metlo
 
 
+epieos - Retrieve information linked to an email address: https://epieos.com/
+
+
+
+
 ### Tools:
+
+- SubDomainizer - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github: https://github.com/nsonaniya2010/SubDomainizer
+
+- SecretKeyWords - Secret Keywords patterns - aggregated from different sources.: https://github.com/nsonaniya2010/SecretKeyWords
+
+- sanfinder - it finds Subject Alternative Names for a given list of domains: https://github.com/nsonaniya2010/sanfinder
 
 - Napalm FTP Indexer - Search for millons FTPs: https://www.searchftps.net/
 
