@@ -1,4 +1,3 @@
-### Draft:
 
 Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool: https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/
 
@@ -13,6 +12,24 @@ Metlo - an open-source API security platform: https://github.com/metlo-labs/metl
 
 
 epieos - Retrieve information linked to an email address: https://epieos.com/
+
+
+[OpenCorporates](https://www.linkedin.com/company/opencorporates/) - [https://lnkd.in/e5VPM2Mu](https://lnkd.in/e5VPM2Mu) - The largest open database of companies in the world  
+  
+[https://id.occrp.org/](https://id.occrp.org/) - Browse a global index of public registries for company, land and court records. We've pulled together over 1,000 sources from 181 countries.  
+  
+[https://lnkd.in/enS8NigU](https://lnkd.in/enS8NigU) - OSINT framework focused on gathering information from free tools or resources.  
+  
+[Spotlight Infosec LLC](https://www.linkedin.com/company/spotlight-infosec-llc/) / [Micah Hoffman](https://www.linkedin.com/in/ACoAAACv17YBho-5eWyZGAhfB60BlqVi4p5HEp4) [https://webbreacher.com/](https://webbreacher.com/) - multiple OSINT projects  
+  
+[https://spyonweb.com/](https://spyonweb.com/) - We take the information from public sources, then structure it for your quick and convenient search for the websites that probably belong to the same owner.  
+  
+[https://www.xlek.com/](https://www.xlek.com/) - Free public data search  
+  
+[https://intelx.io/](https://intelx.io/) - Intelligence X is an independent European technology company founded in 2018 by Peter Kleissner. The company is based in Prague, Czech Republic. Its mission is to develop and maintain the search engine and data archive.  
+  
+[https://www.nerdydata.com/](https://www.nerdydata.com/) - Get a list of websites that use certain technologies, plus their company and spend data.  
+Perfect for lead generation, market analysis, and competitive research.
 
 
 - SubDomainizer - A tool to find subdomains and interesting things hidden inside, external Javascript files of page, folder, and Github: https://github.com/nsonaniya2010/SubDomainizer
