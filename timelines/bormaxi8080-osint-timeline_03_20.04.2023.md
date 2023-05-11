@@ -1,4 +1,6 @@
 
+![alt text](../img/03.jpeg)
+
 ...Remember the horror stories that almost microphones are built into Chinese smart teapots?
 The Verge writes that modern smart vacuum cleaners have "learned" to give a video stream from their sensors for recognizing obstacles. Accordingly, you can use your au pair as a mobile security camera.
 I suspect that with the proper skill, other agents may use it for other purposes: from abuse to wiretapping. Here he rides on his floor, you even stop noticing him and thinking that he has been crawling around in one corner for the third minute already. And he looks. Looks. And listens...

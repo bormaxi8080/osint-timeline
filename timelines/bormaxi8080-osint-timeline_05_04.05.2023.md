@@ -1,3 +1,4 @@
+![alt text](../img/05.jpeg)
 
 The cover photo was taken by me a year ago in Novosibirsk, Russia. "During the 52 days of the war, about 200 children were killed in Ukraine". The author of the action is unknown.
 

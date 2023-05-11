@@ -1,4 +1,6 @@
 
+![alt text](../img/02.jpeg)
+
 ...If you take a transparent plastic box, put many, many multi-colored pebbles in it, close it, and then start shaking, you can see that any two pebbles at some point will definitely come into contact with each other.
 The people of the world are pebbles in a box. Everything must be connected. The trajectory of the stone is unpredictable: any touch is possible at any moment. The size of the stone is the same. According to the theory of probability, at some point another stone will definitely crush you. And where he will fly from is unknown.
 Yura, I'm sorry, but you probably didn't know about this...
