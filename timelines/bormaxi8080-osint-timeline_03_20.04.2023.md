@@ -1,5 +1,5 @@
 
-![alt text](../img/03.jpeg)
+![alt text](img/03.jpeg)
 
 ...Remember the horror stories that almost microphones are built into Chinese smart teapots?
 The Verge writes that modern smart vacuum cleaners have "learned" to give a video stream from their sensors for recognizing obstacles. Accordingly, you can use your au pair as a mobile security camera.

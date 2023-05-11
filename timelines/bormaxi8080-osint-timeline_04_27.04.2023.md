@@ -1,4 +1,4 @@
-![alt text](../img/04.png)
+![alt text](img/04.png)
 
 ...I imagined here: you wake up in the morning, look at the monitors, and there is a nebula in the constellation Canis Major, 15 thousand light years from the Earth. A tough day ahead: wake up the crew, explore a couple of planetary systems, sort out navigation, send out reports...
 

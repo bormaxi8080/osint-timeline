@@ -1,4 +1,4 @@
-![alt text](../img/06.jpeg)
+![alt text](img/06.jpeg)
 
 ...On one of the mausoleums, built by order of Timur, the saying was inscribed: "The Sultan is the shadow of God on earth." Over time, the inscription partially crumbled and remained: "The Sultan is a shadow". Why do they always forget it?..
 
