@@ -1,5 +1,5 @@
 
-![alt text](../img/01.jpeg)
+![alt text](img/01.jpeg)
 
 ...Every evil has a name. Certain people are responsible for the lawlessness committed for political reasons - judges, investigators, prosecutors and many others. This site contains everything we know about them: https://black-book.wiki/search/
 
