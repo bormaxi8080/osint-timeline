@@ -5,17 +5,23 @@
 The Verge writes that modern smart vacuum cleaners have "learned" to give a video stream from their sensors for recognizing obstacles. Accordingly, you can use your au pair as a mobile security camera.
 I suspect that with the proper skill, other agents may use it for other purposes: from abuse to wiretapping. Here he rides on his floor, you even stop noticing him and thinking that he has been crawling around in one corner for the third minute already. And he looks. Looks. And listens...
 
+----
+
 ### Articles:
 
 Using OSINT to help in mine clearance operations in Ukraine: [https://cybernews.com/security/ukraine-osint-clears-mines/](https://cybernews.com/security/ukraine-osint-clears-mines/)
 
 There are only 2,000 chip designers left in Russia: https://habr.com/ru/articles/722942/
 
+----
+
 ### Collections:
 
 Awesome Red Team Operations: https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
 
 Person OSINT investigation workflow from a privacy perspective: https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/
+
+----
 
 ### Tools:
 

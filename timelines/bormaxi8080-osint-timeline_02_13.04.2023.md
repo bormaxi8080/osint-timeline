@@ -28,13 +28,13 @@ The transformation Twitter is undergoing right now will be super difficult and w
 
 ----
 
-### Timeline:
-
-Articles:
+### Articles:
 
 Threat-Informed Defense Ecosystem: https://start.me/p/X25q7l/threat-informed-defense-ecosystem
 
-Tools:
+----
+
+### Tools:
 
 - Top 10 SMTP Test Tools to Detect Server Issues & To Test Email Security: https://cybersecuritynews.com/smtp-test-tools/
 
