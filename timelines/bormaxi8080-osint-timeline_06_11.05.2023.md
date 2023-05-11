@@ -22,7 +22,7 @@ PentestGPT - a GPT-empowered penetration testing tool: https://github.com/GreyDG
 
 ----
 
-### Plaatforms:
+### Platforms:
 
 Ethos - the OT-centric, open-source platform for sharing anonymous early warning threat information: https://www.ethos-org.io/
 
