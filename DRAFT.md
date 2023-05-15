@@ -1,18 +1,21 @@
 
-Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool: https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/
+Any scars heal. A much worse scar is that these people can go unpunished and walk the streets next to us...
 
+How the “trolls” of Tajikistan and their Kazakhstani “colleagues” work: https://rus.azattyq.org/a/tajikstan-and-its-troll-factories/29926761.html
 
 Espionage campaign linked to Russian intelligence services: https://www.gov.pl/web/baza-wiedzy/espionage-campaign-linked-to-russian-intelligence-services
 
 
-How the “trolls” of Tajikistan and their Kazakhstani “colleagues” work: https://rus.azattyq.org/a/tajikstan-and-its-troll-factories/29926761.html
 
+Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool: https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/
+
+Bashfuscator - a fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team: https://github.com/Bashfuscator/Bashfuscator
 
 Metlo - an open-source API security platform: https://github.com/metlo-labs/metlo
 
+Postmaniac - Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces: https://github.com/boringthegod/postmaniac
 
 epieos - Retrieve information linked to an email address: https://epieos.com/
-
 
 [OpenCorporates](https://www.linkedin.com/company/opencorporates/) - [https://lnkd.in/e5VPM2Mu](https://lnkd.in/e5VPM2Mu) - The largest open database of companies in the world  
   
