@@ -18,7 +18,11 @@ Postmaniac - Postman OSINT tool to extract creds, token, username, email & more 
 epieos - Retrieve information linked to an email address: https://epieos.com/
 
 [OpenCorporates](https://www.linkedin.com/company/opencorporates/) - [https://lnkd.in/e5VPM2Mu](https://lnkd.in/e5VPM2Mu) - The largest open database of companies in the world  
-  
+
+mailcow: dockerized Ubuntu mail server - https://github.com/mailcow/mailcow-dockerized
+
+InstaOSINTbr - Instagram OSINT tools collection: https://github.com/DavizinBR/InstaOSINTbr
+
 [https://id.occrp.org/](https://id.occrp.org/) - Browse a global index of public registries for company, land and court records. We've pulled together over 1,000 sources from 181 countries.  
   
 [https://lnkd.in/enS8NigU](https://lnkd.in/enS8NigU) - OSINT framework focused on gathering information from free tools or resources.  
