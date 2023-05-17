@@ -5,6 +5,8 @@ How the “trolls” of Tajikistan and their Kazakhstani “colleagues” work: 
 
 Espionage campaign linked to Russian intelligence services: https://www.gov.pl/web/baza-wiedzy/espionage-campaign-linked-to-russian-intelligence-services
 
+Ethnic and regional inequalities in the Russian military fatalities in Ukraine: Preliminary findings from crowdsourced data: https://osf.io/preprints/socarxiv/s43yf
+
 
 
 Finding Geolocation Leads with Bellingcat's OpenStreetMap Search Tool: https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/
@@ -22,6 +24,8 @@ epieos - Retrieve information linked to an email address: https://epieos.com/
 mailcow: dockerized Ubuntu mail server - https://github.com/mailcow/mailcow-dockerized
 
 InstaOSINTbr - Instagram OSINT tools collection: https://github.com/DavizinBR/InstaOSINTbr
+
+Instagram Story Saver: https://www.storysaver.net/
 
 [https://id.occrp.org/](https://id.occrp.org/) - Browse a global index of public registries for company, land and court records. We've pulled together over 1,000 sources from 181 countries.  
   
