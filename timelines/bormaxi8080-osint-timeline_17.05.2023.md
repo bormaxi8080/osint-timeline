@@ -22,11 +22,11 @@ Espionage campaign linked to Russian intelligence services: https://www.gov.pl/w
 
 ### Services
 
-[OpenCorporates](https://www.linkedin.com/company/opencorporates/) - [https://lnkd.in/e5VPM2Mu](https://lnkd.in/e5VPM2Mu) - The largest open database of companies in the world  
+[OpenCorporates](https://opencorporates.com/) - The largest open database of companies in the world  
 
 [https://id.occrp.org/](https://id.occrp.org/) - Browse a global index of public registries for company, land and court records. We've pulled together over 1,000 sources from 181 countries.  
 
-[https://lnkd.in/enS8NigU](https://lnkd.in/enS8NigU) - OSINT framework focused on gathering information from free tools or resources.  
+[osintframework.com](https://osintframework.com/) - OSINT framework focused on gathering information from free tools or resources.  
   
 [Spotlight Infosec LLC](https://www.linkedin.com/company/spotlight-infosec-llc/) / [Micah Hoffman](https://www.linkedin.com/in/ACoAAACv17YBho-5eWyZGAhfB60BlqVi4p5HEp4) [https://webbreacher.com/](https://webbreacher.com/) - multiple OSINT projects  
   
