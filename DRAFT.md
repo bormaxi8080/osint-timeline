@@ -15,6 +15,8 @@ Bashfuscator - a fully configurable and extendable Bash obfuscation framework. T
 
 Metlo - an open-source API security platform: https://github.com/metlo-labs/metlo
 
+Evilginx - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication: https://github.com/kgretzky/evilginx2
+
 Postmaniac - Postman OSINT tool to extract creds, token, username, email & more from Postman Public Workspaces: https://github.com/boringthegod/postmaniac
 
 epieos - Retrieve information linked to an email address: https://epieos.com/
