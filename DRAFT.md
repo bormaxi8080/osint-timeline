@@ -19,5 +19,7 @@ Dome - Subdomain Enumeration Tool. Fast and reliable python script that makes ac
 
 Cbrutekrag - Penetration tests on SSH servers using brute force or dictionary attacks. Written in C: https://github.com/matricali/cbrutekrag
 
+A simple script just made for self use for bypassing 403: https://github.com/iamj0ker/bypass-403
 
+Recce - Domain availbility checker: https://github.com/unstabl3/recce
 
