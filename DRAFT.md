@@ -3,4 +3,7 @@
 The lake is silent. Anyone who decides to swim in it becomes a child for a few minutes. So the Lake teaches people to laugh. The more good a person has done for others, the funnier and easier it is for him.
 
 
+According to an investigation by the Organized Crime and Corruption Reporting Project, the territory of Kazakhstan is used to supply drones to the Russian military. For this, the company Aspan Arba is used, on the website of which it is stated that it supplies drones for the mining, oil industry, and agriculture. sectors. The company, according to the investigation, has the same owner as the Russian one, which sells drones to the military: https://www.occrp.org/en/investigations/kazakhstan-has-become-a-pathway-for-the-supply-of-russias-war-machine-heres-how-it-works
+
+
 
