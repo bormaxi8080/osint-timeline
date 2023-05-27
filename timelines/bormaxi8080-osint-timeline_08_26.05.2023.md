@@ -6,6 +6,8 @@ I met my homeland on a Polish forest path not far from Krakow. She was the color
 
 And now she's gone. There is no my homeland. Part of her cries and suffers. The other part is crazy, Nazi, fighting. This part is ruled by bastards that are bombing the Zhytomyr region with its chestnuts. Guards who promise six years in the camps for calling everything by its proper name. There is, for example, General Kartapolov, who in 2014 was in charge of Bukami, who shot down a Dutch plane. So he just asks for 6 years to everyone who dares to blurt something against their homeland. This is his home. He is so accustomed, they are so accustomed. Instill love in yourself with a stick and a camp. Let them live in their homeland. Let them plant each other. Scribbling denunciations. I don't fucking need her. I took my homeland with me.
 
+Petr Sokolov
+
 ----
 
 BiZness as usual: 25 European companies still supplying the Russian army: https://theins.ru/en/economics/261792
