@@ -12,6 +12,9 @@ Who creates the digital Gulag in Russia: https://avtozak.info/kto-v-rossii-sozda
 Geolocating Mobile Phones With An IP: https://nixintel.info/osint/geolocating-mobile-phones-with-an-ip/
 
 
+Nmap vs Wireshark: Comparing The Two Popular Network Tools: https://www.stationx.net/nmap-vs-wireshark/
+
+
 Pyramid - a tool to help operate in EDRs' blind spots: https://github.com/naksyn/Pyramid
 
 fireprox - AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation: https://github.com/chm0dx/fireprox
