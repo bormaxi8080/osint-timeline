@@ -12,7 +12,7 @@ Who creates the digital Gulag in Russia: https://avtozak.info/kto-v-rossii-sozda
 Geolocating Mobile Phones With An IP: https://nixintel.info/osint/geolocating-mobile-phones-with-an-ip/
 
 
-Nmap vs Wireshark: Comparing The Two Popular Network Tools: https://www.stationx.net/nmap-vs-wireshark/
+Nmap vs Wireshark - Comparing The Two Popular Network Tools: https://www.stationx.net/nmap-vs-wireshark/ and Understanding Nmap Scan with Wireshark: https://shamsher-khan-404.medium.com/understanding-nmap-scan-with-wireshark-5144d68059f7
 
 
 Pyramid - a tool to help operate in EDRs' blind spots: https://github.com/naksyn/Pyramid
