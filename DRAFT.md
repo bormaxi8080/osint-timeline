@@ -6,6 +6,9 @@ The lake is silent. Anyone who decides to swim in it becomes a child for a few m
 According to an investigation by the Organized Crime and Corruption Reporting Project, the territory of Kazakhstan is used to supply drones to the Russian military. For this, the company Aspan Arba is used, on the website of which it is stated that it supplies drones for the mining, oil industry, and agriculture. sectors. The company, according to the investigation, has the same owner as the Russian one, which sells drones to the military: https://www.occrp.org/en/investigations/kazakhstan-has-become-a-pathway-for-the-supply-of-russias-war-machine-heres-how-it-works
 
 
+Who creates the digital Gulag in Russia: https://avtozak.info/kto-v-rossii-sozdaet-cifrovoj-gulag/
+
+
 Geolocating Mobile Phones With An IP: https://nixintel.info/osint/geolocating-mobile-phones-with-an-ip/
 
 
@@ -20,4 +23,10 @@ gitSome - OSINT tool to extract email addresses and other useful info from vario
 leakyBuckets - Find open storage buckets and accessible files across Amazon Web Services, Google Cloud, and Microsoft Azure simultaneously: https://github.com/chm0dx/leakyBuckets
 
 maskRequired - Analyze a list of cleartext passwords and output a list of masks with the associated counts for each. Useful in identifying the highest value masks to use when trying to crack hashes from similar datasets: https://github.com/chm0dx/maskRequired
+
+CredKing - Password spraying using AWS Lambda for IP rotation: https://github.com/ustayready/CredKing
+
+CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens: https://github.com/ustayready/CredSniper
+
+cloudgpt - Vulnerability scanner for AWS customer managed policies using ChatGPT: https://github.com/ustayready/cloudgpt
 
