@@ -4,19 +4,22 @@ The lake is silent. Anyone who decides to swim in it becomes a child for a few m
 
 
 
+
+The smells of linden and apple trees interrupt everything: even the winter fumes mixed with burnt plastic. The smell of death. This is the first time even for me. Standing wet in the rain, and like this. Just let me feel what kind of bird flew by here and inadvertently touched it with its wing, what smell was and is, and what kind of flower: and I will understand. It happens sometimes.
+
+
 Be sure to look. The patriotic faces of these juveniles, not obscured by morality, are still motherfc..ers, under the leadership of motherfc..ers already adults, are creating state fascism and censorship. All young, promising, all smiling. Something is being discussed. They have mugs on OSINT, f..ck.
 It is these boys and girls born in 2000 that launch rockets.
 PS: All of these characters, one and all, will be counted and held accountable, regardless of age. The responsibility is severe. No one will go unnoticed.
 Link: https://t.me/rdc_grfc/117
 
-
-But, in fact, what grows out of juvenile motherf..ers: these motherfuc..ers are already adults and deserve special attention. Here is the website (tyts: https://internet-rozysk.rf/), and Facebook and VK groups (tyts: https://www.facebook.com/internet.rozysk/, tyts: https://vk. com/internet.rozysk), and a channel in a cart with twenty-five thousand subscribers (tyts: https://t.me/irozysk), or rather, a whole network of channels with bots, a system for tracking users, identifying numbers, locations, connecting to SORM, friendship with various influential Russian bodies, a blog with letters from them, and so on and so forth. And all this is loudly called OSINT, although in fact it is an ordinary Comrade Major. In general, the guys are serious, and they should also be dealt with seriously, with the involvement of serious resources.
-
-
-According to an investigation by the Organized Crime and Corruption Reporting Project, the territory of Kazakhstan is used to supply drones to the Russian military. For this, the company Aspan Arba is used, on the website of which it is stated that it supplies drones for the mining, oil industry, and agriculture. sectors. The company, according to the investigation, has the same owner as the Russian one, which sells drones to the military: https://www.occrp.org/en/investigations/kazakhstan-has-become-a-pathway-for-the-supply-of-russias-war-machine-heres-how-it-works
+But, in fact, what grows out of juvenile motherf..ers: these motherfuc..ers are already adults and deserve special attention. Here is the website (here: https://internet-rozysk.rf/), and Facebook and VK groups (here: https://www.facebook.com/internet.rozysk/, here: https://vk.com/internet.rozysk), and a channel in a cart with twenty-five thousand subscribers (here: https://t.me/irozysk), or rather, a whole network of channels with bots, a system for tracking users, identifying numbers, locations, connecting to SORM, friendship with various influential Russian bodies, a blog with letters from them, and so on and so forth. And all this is loudly called OSINT, although in fact it is an ordinary Comrade Major. In general, this guys are serious, and they should also be dealt with seriously, with the involvement of serious resources.
 
 
 Who creates the digital Gulag in Russia: https://avtozak.info/kto-v-rossii-sozdaet-cifrovoj-gulag/
+
+
+According to an investigation by the Organized Crime and Corruption Reporting Project, the territory of Kazakhstan is used to supply drones to the Russian military. For this, the company Aspan Arba is used, on the website of which it is stated that it supplies drones for the mining, oil industry, and agriculture. sectors. The company, according to the investigation, has the same owner as the Russian one, which sells drones to the military: https://www.occrp.org/en/investigations/kazakhstan-has-become-a-pathway-for-the-supply-of-russias-war-machine-heres-how-it-works
 
 
 Geolocating Mobile Phones With An IP: https://nixintel.info/osint/geolocating-mobile-phones-with-an-ip/
