@@ -44,6 +44,8 @@ leakyBuckets - Find open storage buckets and accessible files across Amazon Web 
 
 NetDahar - a network logging tool that logs per process activities: https://github.com/mamun-sec/NetDahar
 
+telegram_backup - Java app to download all your telegram data: https://github.com/fabianonline/telegram_backup
+
 Ripple - a "panic button" app for triggering a "ripple effect" across apps that are set up to respond to panic events: https://github.com/guardianproject/ripple
 
 maskRequired - Analyze a list of cleartext passwords and output a list of masks with the associated counts for each. Useful in identifying the highest value masks to use when trying to crack hashes from similar datasets: https://github.com/chm0dx/maskRequired
