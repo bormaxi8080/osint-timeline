@@ -1,6 +1,6 @@
 ![alt text](img/09.jpg)
 
-The smells of linden and apple trees interrupt everything: even the winter fumes mixed with burnt plastic. The smell of death. This is the first time even for me. Standing wet in the rain, and like this. Just let me feel what kind of bird flew by here and inadvertently touched it with its wing, what smell was and is, and what kind of flower: and I will understand. It happens sometimes.
+...The smells of linden and apple trees interrupt everything: even the winter fumes mixed with burnt plastic. The smell of death. This is the first time even for me. Standing wet in the rain, and like this. Just let me feel what kind of bird flew by here and inadvertently touched it with its wing, what smell was and is, and what kind of flower: and I will understand. It happens sometimes.
 
 Photo: Presidential Palace, Almaty, Kazakhstan, May 2022
 
