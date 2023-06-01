@@ -61,7 +61,7 @@ CredSniper is a phishing framework written with the Python micro-framework Flask
 
 cloudgpt - Vulnerability scanner for AWS customer managed policies using ChatGPT: https://github.com/ustayready/cloudgpt
 
-Proxy - Tool for search proxies. The script obtains a list of proxies from: [https://www.proxy-list.download: https://github.com/DeadS3c/Proxy
+Proxy - Tool for search proxies. The script obtains a list of proxies from: https://www.proxy-list.download: https://github.com/DeadS3c/Proxy
 
 DarkWeb - Repository to include the findings for the Dark Web: https://github.com/DeadS3c/DarkWeb
 
