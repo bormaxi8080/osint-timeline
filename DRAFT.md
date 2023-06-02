@@ -9,6 +9,9 @@ The lake is silent. Anyone who decides to swim in it becomes a child for a few m
 ...The streets are being washed. Everything is flowering. Spring. Pigeons flock. Ahead is a Muslim woman, with a stroller, all in black, black scarf, black hijab. A girl in a pink stroller. And behind me, in front of me, a boy of about four, lagged behind, runs to his mother and screams: - Mother! Mommy!..
 
 
+Over 1,000 Companies Have Curtailed Operations in Russia—But Some Remain (by Yale school of Management Chief Executive Leadership Institute): https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
+
+
 Kali Linux 2023.2 Release (Hyper-V & PipeWire) is now available: https://www.kali.org/blog/kali-linux-2023-2-release/
 
 Sourcemapper - Extract JavaScript source trees from Sourcemap files: https://github.com/denandz/sourcemapper
