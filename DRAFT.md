@@ -7,7 +7,9 @@ The lake is silent. Anyone who decides to swim in it becomes a child for a few m
 
 Best Online Tools for Telegram Investigations: https://medium.com/@TheInvestigatorBlog/best-online-tools-for-telegram-investigations-9746b17c90d8
 
-Open source pre-operation C2 server based on Python and Powershell: https://github.com/mhaskar/Octopus/
+DNS History - Largest archive of DNS records - Domain History: https://completedns.com/dns-history/
+
+Open source pre-operation C2 server based on Python and PowerShell: https://github.com/mhaskar/Octopus/
 
 
 
