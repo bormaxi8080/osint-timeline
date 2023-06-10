@@ -9,6 +9,8 @@ Best Online Tools for Telegram Investigations: https://medium.com/@TheInvestigat
 
 DNS History - Largest archive of DNS records - Domain History: https://completedns.com/dns-history/
 
+Saporo helps you understand your environment from the perspective of an attacker. Identify and address attack paths, misconfigurations and other vulnerabilities by continuously mapping assets, discovering risks, and prioritizing remediation efforts for IT and security teams: https://www.saporo.io/product
+
 Open source pre-operation C2 server based on Python and PowerShell: https://github.com/mhaskar/Octopus/
 
 
