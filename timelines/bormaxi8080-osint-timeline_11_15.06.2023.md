@@ -22,7 +22,7 @@ DNS History - Largest archive of DNS records - Domain History: https://completed
 
 OSINT-SPY - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target: https://github.com/SharadKumar97/OSINT-SPY
 
-Open source pre-operation C2 server based on Python and PowerShell: https://github.com/mhaskar/Octopus/
+Octopus - Open source pre-operation C2 server based on Python and PowerShell: https://github.com/mhaskar/Octopus/
 
 ----
 
