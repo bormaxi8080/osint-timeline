@@ -11,9 +11,13 @@ OSINT Methods To Investigate Suspected AI Generated Content - Guide: https://blo
 
 Best Online Tools for Telegram Investigations: https://medium.com/@TheInvestigatorBlog/best-online-tools-for-telegram-investigations-9746b17c90d8
 
+Saporo helps you understand your environment from the perspective of an attacker. Identify and address attack paths, misconfigurations and other vulnerabilities by continuously mapping assets, discovering risks, and prioritizing remediation efforts for IT and security teams: https://www.saporo.io/product
+
+Logsensor - A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning: https://github.com/Mr-Robert0/Logsensor
+
 DNS History - Largest archive of DNS records - Domain History: https://completedns.com/dns-history/
 
-Saporo helps you understand your environment from the perspective of an attacker. Identify and address attack paths, misconfigurations and other vulnerabilities by continuously mapping assets, discovering risks, and prioritizing remediation efforts for IT and security teams: https://www.saporo.io/product
+OSINT-SPY - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target: https://github.com/SharadKumar97/OSINT-SPY
 
 Open source pre-operation C2 server based on Python and PowerShell: https://github.com/mhaskar/Octopus/
 
