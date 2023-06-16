@@ -1,3 +1,13 @@
+Lived-were in a cloud of a point:
+Dots-daughters and sons
+Two hundred thousand sons
+Twenty thousand daughters
+Two hundred thousand black dots
+Sons and dot-daughters
+Black hail spilled
+And they went underground.
+
+
 (Cyber_Detective) A few links with instructions how to delete information about yourself from various services:
 Google Maps support.google.com/websearch/answer/4628134
 Google support.google.com/websearch/troubleshooter/3111061?en=id&hl=en
