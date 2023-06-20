@@ -22,3 +22,5 @@ Zehef is an OSINT tool to track emails: https://github.com/N0rz3/Zehef
 
 PhoneSploit-Pro - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session: https://github.com/AzeemIdrisi/PhoneSploit-Pro
 
+WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also extract data from the body of each page using regular expressions, making it an ideal tool for web scraping and data extraction: https://github.com/Malwarize/webpalm
+
