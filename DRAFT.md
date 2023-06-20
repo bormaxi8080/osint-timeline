@@ -16,5 +16,7 @@ Web Archive help.archive.org/help/removing-your-item-pages-from-archive-org/
 
 Gopher.js - A compiler from Go to JavaScript for running Go code in a browser: https://github.com/gopherjs/gopherjs
 
+Zehef is an OSINT tool to track emails: https://github.com/N0rz3/Zehef
 
+PhoneSploit-Pro - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session: https://github.com/AzeemIdrisi/PhoneSploit-Pro
 
