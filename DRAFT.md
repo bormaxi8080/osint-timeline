@@ -34,6 +34,10 @@ trurl is a command line tool for URL parsing and manipulation: https://github.co
 
 Zehef is an OSINT tool to track emails: https://github.com/N0rz3/Zehef
 
+TikTok Targeted OSINT Investigations (Part 1 - User): https://www.secjuice.com/tiktok-osint-part-1-user/
+
+Knock Subdomain Scan: https://github.com/guelfoweb/knock
+
 PhoneSploit-Pro - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session: https://github.com/AzeemIdrisi/PhoneSploit-Pro
 
 WebPalm is a powerful command-line tool for website mapping and web scraping. With its recursive approach, it can generate a complete tree of all webpages and their links on a website. It can also extract data from the body of each page using regular expressions, making it an ideal tool for web scraping and data extraction: https://github.com/Malwarize/webpalm
