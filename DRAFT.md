@@ -1,3 +1,6 @@
+In essence, what I'm trying to do now is combine the deadly accuracy of facts with the beauty of good writing and impressions. Serve the most terrible things in such a way that they not only pound, but also make you think - so that through and through. Connect the horror and beauty of the world. I've always wanted it, I've always wanted it. For me, this is the most important thing. It looks like it's starting to work.
+
+
 Lived-were in a cloud of a point:
 Dots-daughters and sons
 Two hundred thousand sons
@@ -8,11 +11,22 @@ Black hail spilled
 And they went underground.
 
 
+
+FleetMon's open database to track ships and ports in real-time: https://www.fleetmon.com/
+
+Need to simulate where the sun will form a shade on a building? Try http://shademap.app that gives you an idea of the shade of a building at any time, date, and year.
+
+If you want to investigate flights, http://radarbox.com helps you track flight and aircraft data in real time.
+
 (Cyber_Detective) A few links with instructions how to delete information about yourself from various services:
 Google Maps support.google.com/websearch/answer/4628134
 Google support.google.com/websearch/troubleshooter/3111061?en=id&hl=en
 Bing bing.com/webmasters/tools/contentremoval
 Web Archive help.archive.org/help/removing-your-item-pages-from-archive-org/
+
+How to use PGP keys as an information source in OSINT investigations: https://nixintel.info/osint-tools/using-pgp-keys-for-osint/
+
+Savant is a Python Computer Vision & Video Analytics Framework With Batteries Included: https://github.com/insight-platform/Savant
 
 Gopher.js - A compiler from Go to JavaScript for running Go code in a browser: https://github.com/gopherjs/gopherjs
 
