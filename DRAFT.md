@@ -30,6 +30,8 @@ Savant is a Python Computer Vision & Video Analytics Framework With Batteries In
 
 Gopher.js - A compiler from Go to JavaScript for running Go code in a browser: https://github.com/gopherjs/gopherjs
 
+Deduplicator - Filter, Sort & Delete Duplicate Files Recursively: https://github.com/sreedevk/deduplicator
+
 trurl is a command line tool for URL parsing and manipulation: https://github.com/curl/trurl
 
 Zehef is an OSINT tool to track emails: https://github.com/N0rz3/Zehef
