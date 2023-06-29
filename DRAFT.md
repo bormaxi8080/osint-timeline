@@ -2,3 +2,11 @@ I just love colors: colored tattoos, rings and bracelets with enamel, moments in
 
 
 
+Last week, the Bellingcat team hosted talks on open source techniques at RightsCon in Costa Rica: The Bellingcat Global Authentication Project team's popular webinar introduced the platform ATLOS to the RightsCon community and discussed data models in open source investigations.  
+If you want to know more about The Bellingcat Global Authentication Project , how to volunteer and the work the amazing team does, sign up for our mailing list via this link: [http://eepurl.com/iigd_v](http://eepurl.com/iigd_v)   
+ATLOS is being used by The Global Authentication Project to manage our data and community. For those interested, visit [atlos.org/waitlist](http://atlos.org/waitlist)  
+  
+Bellingcat's Investigative Tech Team ran an in person workshop on methods for archiving online content. The team outlined why backing up online data is important and provided a demo on Bellingcat’s auto archiver tool. You can learn more about the tool here: [https://atlos.org/](https://atlos.org/)
+
+
+
