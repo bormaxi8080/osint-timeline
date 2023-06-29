@@ -9,3 +9,12 @@ Looking Ahead: The Bizarre Reality of the Internet in North Korea: https://habr-
 SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled: https://github.com/searxng/searxng
 
 The Maltego WhatsMyName Transforms are based on the amazing [whatsmyname.app](https://whatsmyname.app/) tool created by [Micah "WebBreacher" Hoffman](https://webbreacher.com/) that allows you to enumerate usernames across many websites: https://github.com/TURROKS/Maltego_WhatsMyName
+
+Sysmon for Linux is a tool that monitors and logs system activity including process lifetime, network connections, file system writes, and more. Sysmon works across reboots and uses advanced filtering to help identify malicious activity as well as how intruders and malware operate on your network. Sysmon for Linux is part of Sysinternals: https://github.com/Sysinternals/SysmonForLinux
+
+
+All the repositories from CyberDetective at https://github.com/cipher387 archived. Users can no longer suggest changes, but they can download code or make forks. Most popular of them:
+Osint_Stuff_Tool_Collection
+Dorks_Collections_list
+API-s-for-OSINT
+Advanced search operators list
