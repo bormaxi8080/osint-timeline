@@ -8,5 +8,5 @@ ATLOS is being used by The Global Authentication Project to manage our data and 
   
 Bellingcat's Investigative Tech Team ran an in person workshop on methods for archiving online content. The team outlined why backing up online data is important and provided a demo on Bellingcat’s auto archiver tool. You can learn more about the tool here: [https://atlos.org/](https://atlos.org/)
 
-
+Atlos is a non-profit platform used by investigators to catalog and verify eyewitness media at scale. Atlos is specialized to the needs of visual investigations: The platform automatically archives source media and implements industry-standard researcher safety measures by default. While other systems are dedicated collaborative tools or databases, Atlos does both. Atlos powers Bellingcat's sprawling investigation into civilian harm in Ukraine: https://github.com/atlosdotorg/atlos
 
