@@ -11,6 +11,9 @@ Bellingcat's Investigative Tech Team ran an in person workshop on methods for ar
 Atlos is a non-profit platform used by investigators to catalog and verify eyewitness media at scale. Atlos is specialized to the needs of visual investigations: The platform automatically archives source media and implements industry-standard researcher safety measures by default. While other systems are dedicated collaborative tools or databases, Atlos does both. Atlos powers Bellingcat's sprawling investigation into civilian harm in Ukraine: https://github.com/atlosdotorg/atlos
 
 
+Zerodium pays **BIG bounties** to security researchers to acquire their original and previously unreported zero-day research. While the majority of existing bug bounty programs accept almost any type of vulnerabilities and PoCs but pay very little, **at Zerodium we focus on high-risk vulnerabilities with fully functional exploits** and we pay the highest rewards in the market (**up to $2,500,000 per submission**): https://zerodium.com/program.html
+
+
 History in the making – the International Centre for the Prosecution of the Crime of Aggression Against Ukraine starts operations at Eurojust: https://www.eurojust.europa.eu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust
 
 
