@@ -11,6 +11,9 @@ Bellingcat's Investigative Tech Team ran an in person workshop on methods for ar
 Atlos is a non-profit platform used by investigators to catalog and verify eyewitness media at scale. Atlos is specialized to the needs of visual investigations: The platform automatically archives source media and implements industry-standard researcher safety measures by default. While other systems are dedicated collaborative tools or databases, Atlos does both. Atlos powers Bellingcat's sprawling investigation into civilian harm in Ukraine: https://github.com/atlosdotorg/atlos
 
 
+History in the making – the International Centre for the Prosecution of the Crime of Aggression Against Ukraine starts operations at Eurojust: https://www.eurojust.europa.eu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust
+
+
 OpenResume is a powerful open-source resume builder and resume parser. The goal of OpenResume is to provide everyone with free access to a modern professional resume design and enable anyone to apply for jobs with confidence: https://github.com/xitanggg/open-resume
 
 
