@@ -10,3 +10,12 @@ Bellingcat's Investigative Tech Team ran an in person workshop on methods for ar
 
 Atlos is a non-profit platform used by investigators to catalog and verify eyewitness media at scale. Atlos is specialized to the needs of visual investigations: The platform automatically archives source media and implements industry-standard researcher safety measures by default. While other systems are dedicated collaborative tools or databases, Atlos does both. Atlos powers Bellingcat's sprawling investigation into civilian harm in Ukraine: https://github.com/atlosdotorg/atlos
 
+
+OpenResume is a powerful open-source resume builder and resume parser. The goal of OpenResume is to provide everyone with free access to a modern professional resume design and enable anyone to apply for jobs with confidence: https://github.com/xitanggg/open-resume
+
+
+Numlookup Reverse Image Search - The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture: https://www.numlookup.com/reverse-image-search
+
+Uscrapper is an OSINT tool that allows users to extract various personal information from a website. It leverages web scraping techniques and regular expressions to extract email addresses, social media links, author names, geolocations, phone numbers, and usernames from both hyperlinked and non-hyperlinked sources on the webpage: https://github.com/z0m31en7/Uscrapper
+
+
