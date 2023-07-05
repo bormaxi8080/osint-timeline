@@ -22,6 +22,8 @@ OpenResume is a powerful open-source resume builder and resume parser. The goal 
 
 Numlookup Reverse Image Search - The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture: https://www.numlookup.com/reverse-image-search
 
+WirelessPentesting-CheatSheet - This repository was originally made as a CheatSheet for OSWP Examination by Offensive Security. With the time, Offensive Security made an second version of OSWP that i haven't taken. As I'm adding sometimes Wireless Pentesting contents that I didn't learned from OSWP, and as i don't know the newest content of OSWP, I'm changing this repository as "WirelessPentesting-CheatSheet" instead of "OSWP-CheatSheet": https://github.com/V0lk3n/WirelessPentesting-CheatSheet
+
 Uscrapper is an OSINT tool that allows users to extract various personal information from a website. It leverages web scraping techniques and regular expressions to extract email addresses, social media links, author names, geolocations, phone numbers, and usernames from both hyperlinked and non-hyperlinked sources on the webpage: https://github.com/z0m31en7/Uscrapper
 
 Useful OSINT hints and links from [@SEINT_pl](https://twitter.com/seint_pl): https://github.com/seintpl/osint
