@@ -14,6 +14,9 @@ Atlos is a non-profit platform used by investigators to catalog and verify eyewi
 Zerodium pays **BIG bounties** to security researchers to acquire their original and previously unreported zero-day research. While the majority of existing bug bounty programs accept almost any type of vulnerabilities and PoCs but pay very little, **at Zerodium we focus on high-risk vulnerabilities with fully functional exploits** and we pay the highest rewards in the market (**up to $2,500,000 per submission**): https://zerodium.com/program.html
 
 
+Ukrainian Grain Exported Through Tax-Avoiding ‘Shell Firms,’ Robbing Country of Wartime Revenue: https://www.occrp.org/en/investigations/ukrainian-grain-exported-through-tax-avoiding-shell-firms-robbing-country-of-wartime-revenue
+
+
 History in the making – the International Centre for the Prosecution of the Crime of Aggression Against Ukraine starts operations at Eurojust: https://www.eurojust.europa.eu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust
 
 
@@ -38,4 +41,21 @@ web-check - Get info on a websites SSL certs, domain, headers, cookies, DNS reco
 
 email-comparision - A quick comparison of private and / or secure email providers: https://github.com/Lissy93/email-comparison
 
+Best free AI Image Editing Tools from Irina Shamaeva:
+LEDITS https://huggingface.co/spaces/editing-images/ledits
+UNCROP https://clipdrop.co/uncrop
+Microsoft Designer https://designer.microsoft.com/
+Stable Diffusion Inpainting https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting
+Adobe Firefly AI https://firefly.adobe.com/generate/inpaint
+DragGAN  https://huggingface.co/spaces/radames/DragGan
+
+snap.py - (Snap)shot SHA256 hashes of wireless access points to determine whether something has changed since your last visit (e.g. rogue AP), plus detect airbase-ng in use: https://github.com/SpiderLabs/snappy
+
+HostHunter a recon tool for discovering hostnames using OSINT techniques: https://github.com/SpiderLabs/HostHunter
+
+cve_server - Simple REST-style web service for the CVE searching: https://github.com/SpiderLabs/cve_server
+
+Masher – a helper/tool to help identify creative (non-standard) password hashing in use: https://github.com/SpiderLabs/masher
+
+NMap-Tools - This repository is to host Nmap scripts and tools that may be helpful to penetration testers or security researchers. Contents: /NSE - Nmap Scripting Engine (NSE) plugins --- http-screenshot.nse - Takes a screenshot using wkhtmltoimage-i386 of found web pages: https://github.com/SpiderLabs/Nmap-Tools
 
