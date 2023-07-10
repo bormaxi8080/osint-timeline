@@ -1,5 +1,12 @@
 
+It has been 500 days of horror since Russia’s full-scale invasion of Ukraine. Our team at [Centre for Information Resilience](https://www.linkedin.com/company/centre-for-information-resilience/) has watched and mapped 10,000+ videos and photos showing this horror at [eyesonrussia.org](http://eyesonrussia.org/) which we hope will support some level of accountability one day.
+
+
 Leica products are still sold on the Russian market. The company explains that they have nothing to do with this and liquidate the local business: https://theins.ru/news/263234
+
+
+Google Has a Secret Interview Process: https://thehustle.co/the-secret-google-interview-that-landed-me-a-job/
+
 
 GPT-4 API general availability and deprecation of older models in the Completions API: https://openai.com/blog/gpt-4-api-general-availability
 
