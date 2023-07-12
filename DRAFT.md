@@ -1,4 +1,10 @@
 
+She liked to sit on the windowsill - across, or even hanging her legs outward. The floor was the last. At first I was afraid that it would fall out, and then I calmed down and realized how cool it is to sit in the window, smoke and watch the whole world spin under your feet: people, houses, trees, cars and even birds...
+
+In the same way, I am now, probably, observing the world, only by myself, from above: people, events, memories, facts ... And even the birds remained.
+
+----
+
 It has been 500 days of horror since Russia’s full-scale invasion of Ukraine. Our team at [Centre for Information Resilience](https://www.linkedin.com/company/centre-for-information-resilience/) has watched and mapped 10,000+ videos and photos showing this horror at [eyesonrussia.org](http://eyesonrussia.org/) which we hope will support some level of accountability one day.
 
 
@@ -6,6 +12,9 @@ Leica products are still sold on the Russian market. The company explains that t
 
 
 Google Has a Secret Interview Process: https://thehustle.co/the-secret-google-interview-that-landed-me-a-job/
+
+
+Interesting about OODA technics: https://vc.ru/life/228341-ooda-cikl-chetyre-etapa-dlya-prinyatiya-effektivnyh-resheniy-v-kriticheski-vazhnyh-situaciyah
 
 
 TM View (Search 112,715,409 trade marks across the European Union and beyond) now has an reverse images AI search function. You can search for similar logos among different countries and different product types: https://www.tmdn.org/tmview/#/tmview/
