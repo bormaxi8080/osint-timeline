@@ -8,6 +8,12 @@ Leica products are still sold on the Russian market. The company explains that t
 Google Has a Secret Interview Process: https://thehustle.co/the-secret-google-interview-that-landed-me-a-job/
 
 
+TM View (Search 112,715,409 trade marks across the European Union and beyond) now has an reverse images AI search function. You can search for similar logos among different countries and different product types: https://www.tmdn.org/tmview/#/tmview/
+
+
+How to set up an OpenVPN server on Ubuntu 22.04: https://habr.com/ru/articles/744974/
+
+
 GPT-4 API general availability and deprecation of older models in the Completions API: https://openai.com/blog/gpt-4-api-general-availability
 
 GPT-3 found hundreds of security vulnerabilities in this repo: https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner
