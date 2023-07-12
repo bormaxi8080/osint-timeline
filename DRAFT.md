@@ -3,7 +3,9 @@ She liked to sit on the windowsill - across, or even hanging her legs outward. T
 
 In the same way, I am now, probably, observing the world, only by myself, from above: people, events, memories, facts ... And even the birds remained.
 
-----
+
+
+
 
 It has been 500 days of horror since Russia’s full-scale invasion of Ukraine. Our team at [Centre for Information Resilience](https://www.linkedin.com/company/centre-for-information-resilience/) has watched and mapped 10,000+ videos and photos showing this horror at [eyesonrussia.org](http://eyesonrussia.org/) which we hope will support some level of accountability one day.
 
@@ -23,6 +25,9 @@ TM View (Search 112,715,409 trade marks across the European Union and beyond) no
 How to set up an OpenVPN server on Ubuntu 22.04: https://habr.com/ru/articles/744974/
 
 
+Find, contact, and close your ideal buyers with over 265M contacts and streamlined engagement workflows powered by AI: https://www.apollo.io/
+
+
 GPT-4 API general availability and deprecation of older models in the Completions API: https://openai.com/blog/gpt-4-api-general-availability
 
 GPT-3 found hundreds of security vulnerabilities in this repo: https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner
@@ -38,6 +43,8 @@ Pwndgb GPT: https://github.com/tenable/pwndbg
 
 Geppeto IDA Pro Plugin with GPT3.5 and 4.0: https://github.com/JusticeRage/Gepetto
 
+
+glit - Retrieve all mails of users related to a git repository, a git user or a git organization: https://github.com/shadawck/glit
 
 Maryam: Open-source Intelligence(OSINT) Framework. OWASP Maryam is a modular open-source framework based on OSINT and data gathering. It is designed to provide a robust environment to harvest data from open sources and search engines quickly and thoroughly: https://github.com/saeeddhqan/Maryam
 
