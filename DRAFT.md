@@ -14,10 +14,12 @@ Google lens is not too user friendly for investigations. But this tool will help
 https://googlelens.imagesniper.eu/
 
 
-
 Must-Follow OSINT Newsletters: https://www.linkedin.com/feed/update/urn:li:activity:7086821012016685056/
 
 Access a vast collection of global event data, explore insights, and trends. The GDELT Analysis Service is a free cloud-based tool that lets you visualize, explore, and export GDELT data with easy: https://www.gdeltproject.org/
+
+
+Huge database of Swift translations (collected mostly by Russian and Russian speaking users). There you can check whether transfers are successfully taking place in a specific bank, between two banks, what are the working ways to transfer money between two countries, etc. The site also has a blog with articles about solving various problems related to Swift translations: https://ohmyswift.ru/
 
 Code Leak Search Engine - a Custom Search Tool by @RedHuntLabs Team looks for keywords/strings in following Online IDEs, Paste(s) sites and Code Sharing Platforms. The following search box can find strings across multiple IDE, Code Aggregators and Paste(s) sites: https://redhuntlabs.com/online-ide-search/
 
