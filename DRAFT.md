@@ -33,6 +33,8 @@ YouTube Scribe - Get summaries and transcripts from YouTube videos in your langu
 
 Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis: https://github.com/activecm/rita
 
+Canarytokens are a free, quick, painless way to help defenders discover they've been breached (by having attackers announce themselves): https://canarytokens.org/generate
+
 WormGPT – A ChatGPT Themed Hacking Tool Used to Launch Cyber Attack: https://gbhackers.com/wormgpt/
 
 Web Hacker's Weapons / A collection of cool tools used by Web hackers: https://github.com/hahwul/WebHackersWeapons
