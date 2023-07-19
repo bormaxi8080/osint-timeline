@@ -36,7 +36,7 @@ GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/borma
 
 You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
 
-[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/maxim-marshak/details/featured/)
+[bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
 If you like the projects that I do, I will be grateful for donations in ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
 
