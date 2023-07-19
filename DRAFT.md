@@ -18,6 +18,10 @@ Must-Follow OSINT Newsletters: https://www.linkedin.com/feed/update/urn:li:activ
 
 Access a vast collection of global event data, explore insights, and trends. The GDELT Analysis Service is a free cloud-based tool that lets you visualize, explore, and export GDELT data with easy: https://www.gdeltproject.org/
 
+Counter-OSINT - a guide to privacy and protecting your data online: https://github.com/soxoj/counter-osint-guide-ru
+
+Mainly YouTube, tools, techniques & tradecraft OSINT resources: https://github.com/cqcore/YouTube-Video-OSINT
+
 
 Huge database of Swift translations (collected mostly by Russian and Russian speaking users). There you can check whether transfers are successfully taking place in a specific bank, between two banks, what are the working ways to transfer money between two countries, etc. The site also has a blog with articles about solving various problems related to Swift translations: https://ohmyswift.ru/
 
