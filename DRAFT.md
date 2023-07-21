@@ -14,6 +14,10 @@ Australian Open Source Intelligence Gathering Resources, Australias Largest Open
 
 WhatsApp spy - logs online/offline events from ANYONE in the world: https://github.com/jasperan/whatsapp-osint
 
+zbox-fs - Zero-details, privacy-focused in-app file system: https://github.com/zboxfs/zbox
+
+
+
 
 
 
