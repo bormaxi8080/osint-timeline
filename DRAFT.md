@@ -1,3 +1,5 @@
+Live as you would not be ashamed if you lived to old age, do not shine to anyone if you cannot, but shine to your own, shine and sanctify to those and those whom you really love.
+
 
 There is everything: how to measure mortality at the front and the number of mobilized through search queries: https://theins.ru/obshestvo/263048
 
