@@ -21,6 +21,8 @@ Australian Open Source Intelligence Gathering Resources, Australias Largest Open
 
 An n-gram is a collection of n successive items in a text document that may include words, numbers, symbols, and punctuation. N-gram models are useful in many text analytics applications where sequences of words are relevant, such as in sentiment analysis, text classification, and text generation. N-gram modeling is one of the many techniques used to convert text from an unstructured format to a structured format. An alternative to n-gram is word embedding techniques, such as [word2vec](https://www.mathworks.com/discovery/word2vec.html): https://www.mathworks.com/discovery/ngram.html
 
+20 command line tools for forensic investigation of Windows artifacts: https://github.com/dfir-dd/dfir-toolkit
+
 
 WhatsApp spy - logs online/offline events from ANYONE in the world: https://github.com/jasperan/whatsapp-osint
 
