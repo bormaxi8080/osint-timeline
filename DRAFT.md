@@ -25,6 +25,8 @@ An n-gram is a collection of n successive items in a text document that may incl
 
 20 command line tools for forensic investigation of Windows artifacts: https://github.com/dfir-dd/dfir-toolkit
 
+Elcomsoft # iOS Forensic Toolkit Tips & Tricks: https://blog.elcomsoft.com/2023/07/ios-forensic-toolkit-tips-tricks/
+
 
 WhatsApp spy - logs online/offline events from ANYONE in the world: https://github.com/jasperan/whatsapp-osint
 
