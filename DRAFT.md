@@ -11,9 +11,17 @@ A new investigation by The Insider: how the GRU and SVR monitor the Moldovan aut
 
 Sberbank collects consent to the processing of biometric data using the terminal and your card with a PIN code: https://habr.com/ru/articles/457686/
 
+How OSINT Differs from Traditional Cyber Threat Intelligence: https://blog.shadowdragon.io/how-can-enterprise-business-use-osint-to-improve-cyber-threat-defense
 
+
+
+Like most of us, criminals enjoy the benefits of online activities and social networking. SocialNet captures these digital tracks, maps against their aliases, and explores their connections in near real time to expedite your investigations and threat analysis: https://www.linkedin.com/products/shadowdragon-socialnet/
 
 Search, drag and compare size on maps: https://www.thetruesize.com/
+
+Do you want to leverage shadows in geolocation investigations? You can benefit from SunCalc: http://suncalc.org/
+
+Image investigation tools on Malfrat's OSINT Map: https://map.malfrats.industries/
 
 http://leonardo.ai: AI graphic Swiss Army knife: Image generation (dozens of models) Canvas generation Texture generation Partly free, but very powerfull toolkit.
 
@@ -21,12 +29,15 @@ More than Mountaineering: Using PeakVisor for Geolocation: https://www.bellingca
 
 Australian Open Source Intelligence Gathering Resources, Australias Largest Open Source Intelligence Repository for Cyber Professionals and Ethical Hackers: https://github.com/DFW1N/DFW1N-OSINT
 
+Build an email spam detector using Amazon SageMaker: https://aws.amazon.com/blogs/machine-learning/build-an-email-spam-detector-using-amazon-sagemaker/
+
 An n-gram is a collection of n successive items in a text document that may include words, numbers, symbols, and punctuation. N-gram models are useful in many text analytics applications where sequences of words are relevant, such as in sentiment analysis, text classification, and text generation. N-gram modeling is one of the many techniques used to convert text from an unstructured format to a structured format. An alternative to n-gram is word embedding techniques, such as [word2vec](https://www.mathworks.com/discovery/word2vec.html): https://www.mathworks.com/discovery/ngram.html
 
 20 command line tools for forensic investigation of Windows artifacts: https://github.com/dfir-dd/dfir-toolkit
 
 Elcomsoft # iOS Forensic Toolkit Tips & Tricks: https://blog.elcomsoft.com/2023/07/ios-forensic-toolkit-tips-tricks/
 
+HackBrowserData is a command-line tool for decrypting and exporting browser data ( passwords, history, cookies, bookmarks, credit cards, download records, localStorage and extension ) from the browser. It supports the most popular browsers on the market and runs on Windows, macOS and Linux.: https://github.com/moonD4rk/HackBrowserData
 
 WhatsApp spy - logs online/offline events from ANYONE in the world: https://github.com/jasperan/whatsapp-osint
 
