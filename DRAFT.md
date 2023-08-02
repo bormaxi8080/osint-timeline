@@ -4,6 +4,8 @@ Hackers Released New Black Hat AI Tools XXXGPT and Wolf GPT: https://cybersecuri
 
 A critical vulnerability dubbed CVE-2023-30799 has put over 900,000 MikroTik RouterOS routers at severe risk, allowing attackers to gain “super-admin” privileges and take full control of the devices without detection: https://www.blackhatethicalhacking.com/news/super-admin-privilege-vulnerability-plagues-mikrotik-routers/
 
+FakeSG enters the 'FakeUpdates' arena to deliver NetSupport RAT: https://www.malwarebytes.com/blog/threat-intelligence/2023/07/socgholish-copycat-delivers-netsupport-rat
+
 Integrating Wireless Data into Your OSINT Investigations from Maltego: https://www.maltego.com/blog/integrating-wireless-data-into-your-osint-investigations/
 
 How to conduct person of interest investigations using OSINT and Maltego: https://www.maltego.com/blog/how-to-conduct-person-of-interest-investigations-using-osint-and-maltego/
@@ -14,6 +16,8 @@ The Phishing Risks of Twitter’s Name Change to X: https://socradar.io/the-phis
 Don't forget to update socid-extractor to the [last version (v0.0.25)!](https://github.com/soxoj/socid-extractor/commit/4503617d198219f72e27efbde60248166129b0d7)
 Also, remind you that you can start your investigations from any parseable account, example with **parse mode**: maigret --parse https://api.memory.lol/v1/tw/libsoftiktok
 Thanks to @cybdetective
+
+OSINT resources for CTI: https://www.authentic8.com/resources/OSINT-resources
 
 Awesome Browser Extensions for OSINT - A collection of awesome browser extension useful for OSINT along with their use case: https://github.com/osintambition/Awesome-Browser-Extensions-for-OSINT
 
@@ -33,6 +37,12 @@ Details: https://www.kitploit.com/2023/07/lfi-finder-tool-focuses-on-detecting.h
 Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner: https://github.com/D35m0nd142/LFISuite
 
 DWH - Simple (but working) WEP/WPA/WPA2 Hacking script: https://github.com/D35m0nd142/DWH
+
+fakes-gen-cli - ## About
+
+Library and CLI tool for generating fake data as formatted as CSV, TSV and JSON: https://github.com/ogata-k/fakes-gen-cli
+
+
 
 
 
