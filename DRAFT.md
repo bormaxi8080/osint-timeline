@@ -38,9 +38,7 @@ Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner: https://github.co
 
 DWH - Simple (but working) WEP/WPA/WPA2 Hacking script: https://github.com/D35m0nd142/DWH
 
-fakes-gen-cli - ## About
-
-Library and CLI tool for generating fake data as formatted as CSV, TSV and JSON: https://github.com/ogata-k/fakes-gen-cli
+fakes-gen-cli - Library and CLI tool for generating fake data as formatted as CSV, TSV and JSON: https://github.com/ogata-k/fakes-gen-cli
 
 
 
