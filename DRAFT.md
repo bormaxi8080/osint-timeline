@@ -31,6 +31,14 @@ lmt is a cli program written in go that can be used to run applications with res
 
 Pipper - Python Module able to automatically install missing imported libraries through pip: https://github.com/D35m0nd142/Pipper
 
+Sniffle - a sniffer for Bluetooth 5 and 4.x LE: https://github.com/nccgroup/Sniffle
+
+MetadataPlus - Chris Nevin @ NCCGroup A tool to extract metadata from Microsoft Office files that includes new locations not checked in other tools: https://github.com/nccgroup/MetadataPlus
+
+Code Credential Scanner - a script is intended to scan a large, diverse codebase for hard-coded credentials, or credentials present in configuration files. These represent a serious security issue, and can be extremely hard to detect and manage: https://github.com/nccgroup/ccs
+ 
+credential-diggera - a GitHub scanning tool that identifies hardcoded credentials while filtering the false positive data through machine learning models: https://github.com/SAP/credential-digger
+
 LFI-FINDER is an open-source tool available on GitHub that focuses on detecting Local File Inclusion (LFI) vulnerabilities: https://github.com/capture0x/LFI-FINDER
 Details: https://www.kitploit.com/2023/07/lfi-finder-tool-focuses-on-detecting.html
 
