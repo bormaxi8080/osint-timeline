@@ -2,17 +2,22 @@ The children of the void act without thought. Only a tear in the eye flashes.
 
 
 
-Hackers Released New Black Hat AI Tools XXXGPT and Wolf GPT: https://cybersecuritynews.com/black-hat-ai-tools-xxxgpt-and-wolf-gpt/
+Elon Musk's actions are a brazen attempt to silence honest criticism and independent research: https://doxa.team/news/2023-07-31-musk-infantile
+
+The Phishing Risks of Twitter’s Name Change to X: https://socradar.io/the-phishing-risks-of-twitters-name-change-to-x/
 
 A critical vulnerability dubbed CVE-2023-30799 has put over 900,000 MikroTik RouterOS routers at severe risk, allowing attackers to gain “super-admin” privileges and take full control of the devices without detection: https://www.blackhatethicalhacking.com/news/super-admin-privilege-vulnerability-plagues-mikrotik-routers/
 
-FakeSG enters the 'FakeUpdates' arena to deliver NetSupport RAT: https://www.malwarebytes.com/blog/threat-intelligence/2023/07/socgholish-copycat-delivers-netsupport-rat
 
-Integrating Wireless Data into Your OSINT Investigations from Maltego: https://www.maltego.com/blog/integrating-wireless-data-into-your-osint-investigations/
+Hackers Released New Black Hat AI Tools XXXGPT and Wolf GPT: https://cybersecuritynews.com/black-hat-ai-tools-xxxgpt-and-wolf-gpt/
+
 
 How to conduct person of interest investigations using OSINT and Maltego: https://www.maltego.com/blog/how-to-conduct-person-of-interest-investigations-using-osint-and-maltego/
 
-The Phishing Risks of Twitter’s Name Change to X: https://socradar.io/the-phishing-risks-of-twitters-name-change-to-x/
+Integrating Wireless Data into Your OSINT Investigations from Maltego: https://www.maltego.com/blog/integrating-wireless-data-into-your-osint-investigations/
+
+
+FakeSG enters the 'FakeUpdates' arena to deliver NetSupport RAT: https://www.malwarebytes.com/blog/threat-intelligence/2023/07/socgholish-copycat-delivers-netsupport-rat
 
 [Added](https://github.com/soxoj/maigret/commit/f5ca005766dcf073d4268284a48fbf3d716611cc) searching for old usernames of Twitter account with memory.lol in Maigret.
 Don't forget to update socid-extractor to the [last version (v0.0.25)!](https://github.com/soxoj/socid-extractor/commit/4503617d198219f72e27efbde60248166129b0d7)
@@ -48,7 +53,7 @@ Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner: https://github.co
 
 DWH - Simple (but working) WEP/WPA/WPA2 Hacking script: https://github.com/D35m0nd142/DWH
 
-fakes-gen-cli - Library and CLI tool for generating fake data as formatted as CSV, TSV and JSON: https://github.com/ogata-k/fakes-gen-cli
+fakes-gen-cli - a Library and CLI tool for generating fake data as formatted as CSV, TSV and JSON: https://github.com/ogata-k/fakes-gen-cli
 
 
 
