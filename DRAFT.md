@@ -55,6 +55,8 @@ DWH - Simple (but working) WEP/WPA/WPA2 Hacking script: https://github.com/D35m0
 
 fakes-gen-cli - a Library and CLI tool for generating fake data as formatted as CSV, TSV and JSON: https://github.com/ogata-k/fakes-gen-cli
 
+pdlist - a passive subdomain finder: https://github.com/gnebbia/pdlist
+
 
 
 
