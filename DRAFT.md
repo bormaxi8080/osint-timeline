@@ -5,6 +5,8 @@ I never believe when someone says about another that everything is always good a
 City Data - A large database of information about real estate in the USA. Find out the address and market value of home by owner's last name. Find out the owner's name (and the names of the owners of nearby houses) by address and more: http://www.city-data.com/
 
 
+A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards by Joshua Harrison, Ehsan Toreini and Maryam Mehrnezhad. Link: https://arxiv.org/pdf/2308.01074.pdf
+
 
 
 whisperbox-transcribe - Easy to deploy API for transcribing/translating video and audio using OpenAI's Whisper model and more from Bellingcat Team: https://github.com/bellingcat/whisperbox-transcribe
