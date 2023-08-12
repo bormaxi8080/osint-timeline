@@ -11,6 +11,8 @@ The stablecoin from PAYPAL, the PYUSD token (guess with reference to which curre
 
 Sam Bankman-Freed is finally arrested: the curly-haired SBF crypto prodigy pocketed billions of dollars of other people's money - but until the last moment, he seemed to manage to get away with it: https://vc.ru/money/561331-sem-benkman-frid-nakonec-arestovan-chto-vyyasnilos-o-kriptoafere-goda-vokrug-birzhi-ftx
 
+Xiaomi has banned the installation of Telegram apps on its smartphones. In China, the messenger is blocked, and it is undesirable to use it within the country. On the eve of the country's authorities tightened the rules for installing applications for all Chinese phones. Now on smartphones it will be possible to install only those applications that have been approved by the government.
+
 Technology publication CNET removed thousands of old articles - it decided that "it would be better in Google search results": https://vc.ru/media/790975-izdanie-o-tehnologiyah-cnet-udalilo-tysyachi-staryh-statey-ono-reshilo-chto-tak-budet-vyshe-v-poiskovoy-vydache-google
 
 ----
