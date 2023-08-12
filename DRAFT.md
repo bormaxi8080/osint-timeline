@@ -7,8 +7,32 @@ And walk more, look around, walk until your legs hurt: it really heals. Only on 
 
 ----
 
+The stablecoin from PAYPAL, the PYUSD token (guess with reference to which currency), the company released just the other day on August 7th. And oh shock, the contract has an option to freeze the wallet address...
 
+Sam Bankman-Freed is finally arrested: the curly-haired SBF crypto prodigy pocketed billions of dollars of other people's money - but until the last moment, he seemed to manage to get away with it: https://vc.ru/money/561331-sem-benkman-frid-nakonec-arestovan-chto-vyyasnilos-o-kriptoafere-goda-vokrug-birzhi-ftx
 
+Technology publication CNET removed thousands of old articles - it decided that "it would be better in Google search results": https://vc.ru/media/790975-izdanie-o-tehnologiyah-cnet-udalilo-tysyachi-staryh-statey-ono-reshilo-chto-tak-budet-vyshe-v-poiskovoy-vydache-google
+
+----
+
+Global Modern Slavery Directory - Connecting victims and survivors to support and services around the world: https://globalmodernslavery.org/
+
+Ceno (short for censorship.no!) is the world’s first mobile browser that side-steps current Internet censorship methods. Its peer-to-peer backbone allows people to access and share web information in and across regions where connectivity has been interrupted or compromised: https://censorship.no/en/index.html
+
+Facebook still widely used among bad actors. Full of posts, comments, and discussions, adversaries use coded messages with emojis to disseminate information on preparing criminal acts or intention for such. Moreover, building a psychological profile, finding motives behind a crime (or intention for crime), is crucial aspect of crime prevention and allows us to take proactive security measures to mitigate risks related to our physical or cyber safety. Here is one of the still working tools to search for content in Facebook, better through a sock puppet: https://fb-search.com/ 
+
+Need to compare different maps? Check out [https://mc.bbbike.org/mc/](https://mc.bbbike.org/mc/)  
+This tool lets you compare various [#maps](https://www.linkedin.com/feed/hashtag/?keywords=maps&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7094542799798157312) seamlessly, perfect for enhancing your geographic analysis.
+
+----
+
+Telegram STUN Interception Tool is now available for download. It hooks into the Telegram process and adds a new menu that allows you to unmask users' identities through a known leak in the protocols that apps such as Telegram are using, this software might also work with other chat apps such as Signal: https://websec.nl/downloads
+
+stunserver version 1.2 - a source code to STUNTMAN - an open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Compiles on Linux, MacOS, BSD, Solaris, and Win32 with Cygwin. Windows binaries avaialble from [www.stunprotocol.org](http://www.stunprotocol.org/).: https://github.com/jselbie/stunserver
+
+A Go implementation of STUN: https://github.com/pion/stun
+
+----
 
 
 
