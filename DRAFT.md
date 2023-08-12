@@ -19,6 +19,8 @@ Technology publication CNET removed thousands of old articles - it decided that 
 
 Global Modern Slavery Directory - Connecting victims and survivors to support and services around the world: https://globalmodernslavery.org/
 
+Audio OSINT - "Duch OSINT Guy" [Nico Dekens](https://www.linkedin.com/in/dutch-osintguy/) blog: https://www.dutchosintguy.com/post/audio-osint
+
 Ceno (short for censorship.no!) is the world’s first mobile browser that side-steps current Internet censorship methods. Its peer-to-peer backbone allows people to access and share web information in and across regions where connectivity has been interrupted or compromised: https://censorship.no/en/index.html
 
 Facebook still widely used among bad actors. Full of posts, comments, and discussions, adversaries use coded messages with emojis to disseminate information on preparing criminal acts or intention for such. Moreover, building a psychological profile, finding motives behind a crime (or intention for crime), is crucial aspect of crime prevention and allows us to take proactive security measures to mitigate risks related to our physical or cyber safety. Here is one of the still working tools to search for content in Facebook, better through a sock puppet: https://fb-search.com/ 
