@@ -58,7 +58,7 @@ FACTINSECT - Free online tool for automating #factchecking.  In order to confir
 
 certSniff - A certificate transparency log keyword sniffer written in python: https://github.com/A-poc/certSniff
 
-ColdType - an odd little library for programmatic typography, written for use on [Goodhertz](https://goodhertz.com/) projects and [text animations](https://vimeo.com/robstenson)_: https://github.com/coldtype/coldtype
+ColdType - an odd little library for programmatic typography, written for use on [Goodhertz](https://goodhertz.com/) projects and [text animations](https://vimeo.com/robstenson): https://github.com/coldtype/coldtype
 
 RecoX is an incredibly versatile and powerful tool that is specifically designed to aid in the identification and classification of vulnerabilities within web applications. The script is able to detect vulnerabilities that are not typically included in the OWASP top ten vulnerabilities list, making it a valuable addition to any security professional's toolkit: https://github.com/samhaxr/recox
 
