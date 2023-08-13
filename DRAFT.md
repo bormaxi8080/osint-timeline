@@ -7,7 +7,7 @@ And walk more, look around, walk until your legs hurt: it really heals. Only on 
 
 ----
 
-The stablecoin from PAYPAL, the PYUSD token (guess with reference to which currency), the company released just the other day on August 7th. And oh shock, the contract has an option to freeze the wallet address...
+The stablecoin from PAYPAL, the PYUSD token (guess with reference to which currency), the company released just the other day on August 7th. And oh shock, the contract has an option to freeze the wallet address.
 
 Sam Bankman-Freed is finally arrested: the curly-haired SBF crypto prodigy pocketed billions of dollars of other people's money - but until the last moment, he seemed to manage to get away with it: https://vc.ru/money/561331-sem-benkman-frid-nakonec-arestovan-chto-vyyasnilos-o-kriptoafere-goda-vokrug-birzhi-ftx
 
