@@ -28,6 +28,20 @@ Facebook still widely used among bad actors. Full of posts, comments, and discus
 Need to compare different maps? Check out [https://mc.bbbike.org/mc/](https://mc.bbbike.org/mc/)  
 This tool lets you compare various [#maps](https://www.linkedin.com/feed/hashtag/?keywords=maps&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7094542799798157312) seamlessly, perfect for enhancing your geographic analysis.
 
+Enola - a Sherlock's sister, Modern shiny CLI tool written with Golang to help you. Hunt down social media accounts by username across social networks: https://github.com/TheYahya/enola
+
+Social Media Analysis Toolkit (SMAT) - Tools developed to analyze social media, particularly hate and disinformation, at scale.: https://github.com/EmmiBevensee/social-media-analysis-toolkit
+
+Scalpel is a Python Static Analysis Framework. It provides essential program analysis functions for facilitating the implementation of client applications focusing on statically resolving dedicated problems: https://github.com/SMAT-Lab/Scalpel
+
+TraxOSINT - OSINT tool for track IP adress: https://github.com/N0rz3/TraxOsint
+
+----
+
+Twint - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations: https://github.com/twintproject/twint
+
+TwOSINT - Python tool that automates the process of Twitter OSiNT investigation using twint: https://github.com/falkensmz/tw1tter0s1nt
+
 ----
 
 Telegram STUN Interception Tool is now available for download. It hooks into the Telegram process and adds a new menu that allows you to unmask users' identities through a known leak in the protocols that apps such as Telegram are using, this software might also work with other chat apps such as Signal: https://websec.nl/downloads
