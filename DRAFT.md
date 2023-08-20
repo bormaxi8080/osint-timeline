@@ -8,5 +8,8 @@ Autoscraper - A Smart, Automatic, Fast and Lightweight Web Scraper for Python: h
 OSINT Discord resources that may be useful for searching or pivotting on Discord: https://github.com/Dutchosintguy/OSINT-Discord-resources
 
 OSINT Template Engine is a research-grade tool for [OSINT](https://securityonline.info/phoneinfoga/) Information gathering & Attack Surface Mapping which uses customizable templates to collect data from sources. It allows for new template creation and modification of existing ones which gives it a competitive advantage over other tools of the same category: https://securityonline.info/ote-osint-template-engine/
+GitHub: https://github.com/3nock/OTE
+
+
 
 
