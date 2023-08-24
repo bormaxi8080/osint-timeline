@@ -6,6 +6,9 @@ A positive balance on mobile often solves more than we imagine. This is Reality 
 
 Ray Bradbury
 
+
+She liked to sit on the windowsill - across, or even hanging her legs outward. The floor was the last. At first I was afraid that it would fall out, and then I calmed down and realized how cool it is to sit in the window, smoke and watch the whole world spin under your feet: people, houses, trees, cars and even birds ..
+
 ----
 
 The End of the Russian Idea. What It Will Take to Break Putinism’s Grip: https://www.foreignaffairs.com/russian-federation/vladimir-putin-end-russian-idea?utm_content=20230822
