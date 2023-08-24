@@ -13,6 +13,12 @@ She liked to sit on the windowsill - across, or even hanging her legs outward. T
 
 The End of the Russian Idea. What It Will Take to Break Putinism’s Grip: https://www.foreignaffairs.com/russian-federation/vladimir-putin-end-russian-idea?utm_content=20230822
 
+A New Tool Shows What War Has Done to Ukraine’s Forests: https://www.bellingcat.com/resources/2023/08/18/a-new-tool-shows-what-war-has-done-to-ukraines-forests/
+
+Can AI Chatbots Be Used for Geolocation: https://www.bellingcat.com/resources/2023/07/14/can-ai-chatbots-be-used-for-geolocation/
+
+More than Mountaineering: Using PeakVisor for Geolocation: https://www.bellingcat.com/resources/2023/07/13/more-than-mountaineering-using-peakvisor-for-geolocation/
+
 ----
 
 Binance "removed" Sberbank and Tinkoff from the list of payment systems. Instead of two banking options, "Rosbank" and "Tinkoff", new names "local card (green)" and "local card (yellow)" appeared.
