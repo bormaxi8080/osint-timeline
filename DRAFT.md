@@ -25,4 +25,9 @@ Binance "removed" Sberbank and Tinkoff from the list of payment systems. Instead
 
 ----
 
+Wireshark 4.0.8 released: https://www.wireshark.org/docs/relnotes/wireshark-4.0.8.html
+
+BryteSpray - Brute-Forcing from Nmap output - Automatically attempts default creds on found services: https://github.com/x90skysn3k/brutespray
+
+
 
