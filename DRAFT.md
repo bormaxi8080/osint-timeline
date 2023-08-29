@@ -29,5 +29,7 @@ Wireshark 4.0.8 released: https://www.wireshark.org/docs/relnotes/wireshark-4.0.
 
 BryteSpray - Brute-Forcing from Nmap output - Automatically attempts default creds on found services: https://github.com/x90skysn3k/brutespray
 
+Within the realm of Google Fact Check Tools, you'll come across two useful companions: the Fact Check Explorer and the Fact Check Markup Tool. Take a closer look at them right here: https://toolbox.google.com/factcheck/explorer
+
 
 
