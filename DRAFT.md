@@ -27,9 +27,12 @@ Binance "removed" Sberbank and Tinkoff from the list of payment systems. Instead
 
 Wireshark 4.0.8 released: https://www.wireshark.org/docs/relnotes/wireshark-4.0.8.html
 
+Within the realm of Google Fact Check Tools, you'll come across two useful companions: the Fact Check Explorer and the Fact Check Markup Tool. Take a closer look at them right here: https://toolbox.google.com/factcheck/explorer
+
 BryteSpray - Brute-Forcing from Nmap output - Automatically attempts default creds on found services: https://github.com/x90skysn3k/brutespray
 
-Within the realm of Google Fact Check Tools, you'll come across two useful companions: the Fact Check Explorer and the Fact Check Markup Tool. Take a closer look at them right here: https://toolbox.google.com/factcheck/explorer
+NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications: https://github.com/0xKayala/NucleiFuzzer
+
 
 
 
