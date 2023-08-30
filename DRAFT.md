@@ -29,7 +29,23 @@ Wireshark 4.0.8 released: https://www.wireshark.org/docs/relnotes/wireshark-4.0.
 
 Within the realm of Google Fact Check Tools, you'll come across two useful companions: the Fact Check Explorer and the Fact Check Markup Tool. Take a closer look at them right here: https://toolbox.google.com/factcheck/explorer
 
+OSINT Resources by Country - OSINT Resources repository, organized by country. Here you'll find a collection of links to various OSINT tools, websites, and projects that are specific to different countries. Feel free to contribute by adding more resources through pull requests!: https://github.com/wddadk/OSINT-for-countries
+
 ChatGPT in terminal without needing API keys: https://github.com/aandrew-me/tgpt
+
+Instagram Explorer by OSINT Combine - This tool is designed to make finding images by date on Instagram at particular locations easier and more efficient: https://www.osintcombine.com/instagram-explorer
+
+Plate Recognizer - Automatic License Plate Recognition software that works in all environments, optimized for your location: https://platerecognizer.com/
+
+A Curated list of Awesome Python Scripts that Automate Stuffs: https://github.com/hastagAB/Awesome-Python-Scripts
+
+Discord-OSINT - OSINT Discord resources that may be useful for searching or pivotting on Discord: https://github.com/wddadk/Discord-OSINT
+
+Data-OSINT - You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Always remember to consider what data you are allowed or not allowed to collect. When researching data, always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platfrom and these change frequently: https://github.com/cqcore/Data-OSINT
+
+osint4all start.me OSINT tools & services collection: https://start.me/p/L1rEYQ/osint4all
+
+FavFreak - Weaponizing favicon.ico for BugBounties , OSINT and what not: https://github.com/devanshbatham/FavFreak
 
 BryteSpray - Brute-Forcing from Nmap output - Automatically attempts default creds on found services: https://github.com/x90skysn3k/brutespray
 
