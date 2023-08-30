@@ -29,6 +29,8 @@ Wireshark 4.0.8 released: https://www.wireshark.org/docs/relnotes/wireshark-4.0.
 
 Within the realm of Google Fact Check Tools, you'll come across two useful companions: the Fact Check Explorer and the Fact Check Markup Tool. Take a closer look at them right here: https://toolbox.google.com/factcheck/explorer
 
+ChatGPT in terminal without needing API keys: https://github.com/aandrew-me/tgpt
+
 BryteSpray - Brute-Forcing from Nmap output - Automatically attempts default creds on found services: https://github.com/x90skysn3k/brutespray
 
 NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications: https://github.com/0xKayala/NucleiFuzzer
