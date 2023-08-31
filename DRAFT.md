@@ -11,6 +11,10 @@ She liked to sit on the windowsill - across, or even hanging her legs outward. T
 
 ----
 
+Binance "removed" Sberbank and Tinkoff from the list of payment systems. Instead of two banking options, "Rosbank" and "Tinkoff", new names "local card (green)" and "local card (yellow)" appeared. A few days later, the exchange banned Russians from transactions through a p2p service with any currency other than the ruble. Even later, the exchange allowed a complete withdrawal from Russia.
+
+----
+
 The End of the Russian Idea. What It Will Take to Break Putinism’s Grip: https://www.foreignaffairs.com/russian-federation/vladimir-putin-end-russian-idea?utm_content=20230822
 
 A New Tool Shows What War Has Done to Ukraine’s Forests: https://www.bellingcat.com/resources/2023/08/18/a-new-tool-shows-what-war-has-done-to-ukraines-forests/
@@ -19,17 +23,17 @@ Can AI Chatbots Be Used for Geolocation: https://www.bellingcat.com/resources/20
 
 More than Mountaineering: Using PeakVisor for Geolocation: https://www.bellingcat.com/resources/2023/07/13/more-than-mountaineering-using-peakvisor-for-geolocation/
 
-----
+Steganography - How images can hide secret messages in plain sight: https://www.blackhatethicalhacking.com/articles/steganography-how-images-can-hide-secret-messages-in-plain-sight/
 
-Binance "removed" Sberbank and Tinkoff from the list of payment systems. Instead of two banking options, "Rosbank" and "Tinkoff", new names "local card (green)" and "local card (yellow)" appeared. A few days later, the exchange banned Russians from transactions through a p2p service with any currency other than the ruble. Even later, the exchange allowed a complete withdrawal from Russia.
-
-----
+Who is who in the OSINT Community: https://osint-mindset.gitbook.io/index/community/kto-est-kto-v-osint
 
 Wireshark 4.0.8 released: https://www.wireshark.org/docs/relnotes/wireshark-4.0.8.html
 
 Within the realm of Google Fact Check Tools, you'll come across two useful companions: the Fact Check Explorer and the Fact Check Markup Tool. Take a closer look at them right here: https://toolbox.google.com/factcheck/explorer
 
-OSINT Resources by Country - OSINT Resources repository, organized by country. Here you'll find a collection of links to various OSINT tools, websites, and projects that are specific to different countries. Feel free to contribute by adding more resources through pull requests!: https://github.com/wddadk/OSINT-for-countries
+Find social media profiles FAST with this OSINT tool: https://www.youtube.com/watch?v=sXn1GBgSpUQ
+
+OSINT Resources by Country - OSINT Resources repository, organized by country. Here you'll find a collection of links to various OSINT tools, websites, and projects that are specific to different countries. Feel free to contribute by adding more resources through pull requests: https://github.com/wddadk/OSINT-for-countries
 
 ChatGPT in terminal without needing API keys: https://github.com/aandrew-me/tgpt
 
@@ -44,6 +48,8 @@ Discord-OSINT - OSINT Discord resources that may be useful for searching or pivo
 Data-OSINT - You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Always remember to consider what data you are allowed or not allowed to collect. When researching data, always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platfrom and these change frequently: https://github.com/cqcore/Data-OSINT
 
 osint4all start.me OSINT tools & services collection: https://start.me/p/L1rEYQ/osint4all
+
+DFIR-Detection-Engineering: https://github.com/adrianlois/DFIR-Detection-Engineering
 
 FavFreak - Weaponizing favicon.ico for BugBounties , OSINT and what not: https://github.com/devanshbatham/FavFreak
 
