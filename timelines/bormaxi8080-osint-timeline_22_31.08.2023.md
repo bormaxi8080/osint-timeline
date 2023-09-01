@@ -40,7 +40,7 @@ A Curated list of Awesome Python Scripts that Automate Stuffs: https://github.co
 
 Discord-OSINT - OSINT Discord resources that may be useful for searching or pivotting on Discord: https://github.com/wddadk/Discord-OSINT
 
-Data-OSINT - You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Always remember to consider what data you are allowed or not allowed to collect. When researching data, always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platfrom and these change frequently: https://github.com/cqcore/Data-OSINT
+Data-OSINT - You can find links to data acquisition websites. Some sites will charge you for their service, however some will also offer a small amount of data for free. Always remember to consider what data you are allowed or not allowed to collect. When researching data, always be careful what you click or download as malware maybe present. Telegram is included however you will have to find groups and bots on the platform and these change frequently: https://github.com/cqcore/Data-OSINT
 
 osint4all start.me OSINT tools & services collection: https://start.me/p/L1rEYQ/osint4all
 
