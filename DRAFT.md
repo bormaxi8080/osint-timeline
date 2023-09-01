@@ -10,8 +10,5 @@ ParamSpider - Mining URLs from dark corners of Web Archives for bug hunting/fuzz
 
 OpenRedireX - A fuzzer for detecting open redirect vulnerabilities: https://github.com/devanshbatham/OpenRedireX
 
-
-
-
-
+Dirhunt is a web crawler optimize for **search and analyze directories**. This tool can find interesting things if the server has the _"index of"_ mode enabled. Dirhunt is also useful if the directory listing is not enabled. It detects directories with **false 404 errors**, directories where an **empty index file** has been created to hide things and much more: https://github.com/Nekmo/dirhunt
 
