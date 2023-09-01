@@ -6,6 +6,10 @@ She liked to sit on the windowsill - across, or even hanging her legs outward. T
 
 ----
 
+ParamSpider - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing: https://github.com/devanshbatham/ParamSpider
+
+OpenRedireX - A fuzzer for detecting open redirect vulnerabilities: https://github.com/devanshbatham/OpenRedireX
+
 
 
 
