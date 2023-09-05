@@ -6,7 +6,15 @@ She liked to sit on the windowsill - across, or even hanging her legs outward. T
 
 ----
 
+Deep Geo-Analysis through Images: OSINT CHALLENGE #3: https://osintteam.blog/deep-geo-analysis-through-images-osint-challenge-3-2b733a9fd22a
+
+Geolocating Social Links Co-Founder via OSINT techniques: https://medium.com/@ronkaminskyy/geolocating-social-links-co-founder-via-osint-techniques-5172b9400cb
+
+----
+
 ParamSpider - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing: https://github.com/devanshbatham/ParamSpider
+
+Live-Forensicator - Powershell Script to aid Incidence Response and Live Forensics | Bash Script for MacOS Live Forensics and Incidence Response: https://github.com/Johnng007/Live-Forensicator
 
 OpenRedireX - A fuzzer for detecting open redirect vulnerabilities: https://github.com/devanshbatham/OpenRedireX
 
