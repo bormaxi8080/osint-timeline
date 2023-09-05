@@ -6,13 +6,23 @@ She liked to sit on the windowsill - across, or even hanging her legs outward. T
 
 ----
 
+
+Clown attack. Who is really behind the “Russian cyber army” Killnet: https://theins.ru/obshestvo/264744
+
 Deep Geo-Analysis through Images: OSINT CHALLENGE #3: https://osintteam.blog/deep-geo-analysis-through-images-osint-challenge-3-2b733a9fd22a
 
 Geolocating Social Links Co-Founder via OSINT techniques: https://medium.com/@ronkaminskyy/geolocating-social-links-co-founder-via-osint-techniques-5172b9400cb
 
+Steganography: How to hide data in images and extract them: https://www.blackhatethicalhacking.com/articles/steganography-how-to-hide-data-in-images-and-extract-them/
+
 ----
 
 ParamSpider - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing: https://github.com/devanshbatham/ParamSpider
+
+Steghide is a steganography program that is able to hide data in various kinds
+of image- and audio-files. The color- respectivly sample-frequencies are not
+changed thus making the embedding resistant against first-order statistical
+tests: https://github.com/StefanoDeVuono/steghide
 
 Live-Forensicator - Powershell Script to aid Incidence Response and Live Forensics | Bash Script for MacOS Live Forensics and Incidence Response: https://github.com/Johnng007/Live-Forensicator
 
