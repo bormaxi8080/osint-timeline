@@ -5,3 +5,6 @@ She liked to sit on the windowsill - across, or even hanging her legs outward. T
 
 
 
+----
+
+WEF: # WiFi Exploitation Framework. This project started about a year ago as a personal tool to easily audit networks without writing long commands, nor setting all values one by one and to automate the whole processes. After some time the repository obtained a bunch of stars so I decided to improve it: https://github.com/D3Ext/WEF
