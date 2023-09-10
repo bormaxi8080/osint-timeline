@@ -32,8 +32,8 @@ Live-Forensicator - Powershell Script to aid Incidence Response and Live Forensi
 OpenRedireX - A fuzzer for detecting open redirect vulnerabilities: https://github.com/devanshbatham/OpenRedireX
 
 The Official Wayback Machine Extension - by the Internet Archive - an Official Internet Archive Wayback Machine Browser Extension. Go back in time to see how a website has changed through the history of the Web. Save websites, view missing 404 Not Found pages, or read archived books & papers.
-Chrome: https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak?fbclid=IwAR1ev_edPH035OnaS0WSOdVZ09HE34U6r1eI3-3t2WOBvUxwL3IkT0qKscY
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/?fbclid=IwAR2lPSRZFoNy46wKhint86-CPWaUeJorD8oKZ7v5Th54ZhalFRhuCL0rnPc
+Chrome: https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/
 Safari: https://safari-extensions.apple.com/details/?id=archive.org.waybackmachine-ZSFX78H3ZT
 
 Loki - Like Prometheus, but for logs: https://github.com/grafana/loki
