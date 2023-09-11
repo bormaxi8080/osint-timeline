@@ -5,10 +5,14 @@ She liked to sit on the windowsill - across, or even hanging her legs outward. T
 
 When you need search by nickname in public IP addresses search engines (Shodan, Netlas, Fofa etc): https://publication.osintambition.org/when-you-need-search-by-nickname-in-public-ip-addresses-search-engines-shodan-netlas-fofa-etc-59d92af047cc
 
+OSINT Brasil: https://github.com/osintbrazuca/osint-brazuca
+
 
 ----
 
 Social Links is a Global OSINT (Open source intelligence) vendor with HQ in the US that empowers investigators and security professionals with ground-breaking AI-powered products. Our products include open-source data intelligence solutions for Maltego and i2 (SL Professional), ​​as well as on-premise solutions for National security and Enterprises with security operation centers (SL Private Platform): https://www.linkedin.com/company/social-links/
+
+zeeschuimer - A browser extension to collect social media data with: https://github.com/digitalmethodsinitiative/zeeschuimer
 
 Domain Audit - Audit tool for Active Directory. Automates a lot of checks from a pentester perspective: https://github.com/0xJs/domain_audit
 
