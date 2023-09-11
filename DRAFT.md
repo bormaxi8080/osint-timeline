@@ -24,4 +24,5 @@ WEF: WiFi Exploitation Framework. This project started about a year ago as a per
 
 MagickByteSelector - Burp Suite Extension for inserting a magick byte into responder's request: https://github.com/websecnl/MagickByteSelector/
 
+ffuf - Fast web fuzzer written in Go: https://github.com/ffuf/ffuf
 
