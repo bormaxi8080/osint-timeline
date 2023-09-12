@@ -5,8 +5,11 @@ She liked to sit on the windowsill - across, or even hanging her legs outward. T
 
 When you need search by nickname in public IP addresses search engines (Shodan, Netlas, Fofa etc): https://publication.osintambition.org/when-you-need-search-by-nickname-in-public-ip-addresses-search-engines-shodan-netlas-fofa-etc-59d92af047cc
 
-OSINT Brasil: https://github.com/osintbrazuca/osint-brazuca
+The latest version of Nmap, 7.94, was released on its 26th birthday. The most significant upgrade was the migration of Zenmap and Ndiff from Python 2 to Python 3 across all platforms: https://gbhackers.com/nmap-version-7-94-released/
 
+Geolocating Russia’s Disgraced General Surovikin from Bellingcat: https://www.bellingcat.com/news/2023/09/06/geolocating-russias-disgraced-general-surovikin/
+
+OSINT Resources in Brasil: https://github.com/osintbrazuca/osint-brazuca
 
 ----
 
