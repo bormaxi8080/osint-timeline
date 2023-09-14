@@ -15,7 +15,11 @@ OSINT Resources in Brasil: https://github.com/osintbrazuca/osint-brazuca
 
 Social Links is a Global OSINT (Open source intelligence) vendor with HQ in the US that empowers investigators and security professionals with ground-breaking AI-powered products. Our products include open-source data intelligence solutions for Maltego and i2 (SL Professional), ​​as well as on-premise solutions for National security and Enterprises with security operation centers (SL Private Platform): https://www.linkedin.com/company/social-links/
 
+Search 1.56 million historic newspaper photos using Newspaper Navigator: https://news-navigator.labs.loc.gov/search
+
 zeeschuimer - A browser extension to collect social media data with: https://github.com/digitalmethodsinitiative/zeeschuimer
+
+BabelStrike takes a full names list as input and performs 1. Romanization of non-English names (based on language alphabet transliteration maps) AND|OR 2. implements name-to-username conversions based on various naming convention rules: https://github.com/t3l3machus/BabelStrike
 
 Domain Audit - Audit tool for Active Directory. Automates a lot of checks from a pentester perspective: https://github.com/0xJs/domain_audit
 
