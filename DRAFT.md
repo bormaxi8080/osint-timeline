@@ -1,6 +1,8 @@
 
 She liked to sit on the windowsill - across, or even hanging her legs outward. The floor was the last. At first I was afraid that it would fall out, and then I calmed down and realized how cool it is to sit in the window, smoke and watch the whole world spin under your feet: people, houses, trees, cars and even birds...
 
+"Chthon" is a view of the world, a substance that transforms depression into a state where you can squeeze something good out of it. My recent definition. I don't know if it is possible to define more precisely.
+
 ----
 
 When you need search by nickname in public IP addresses search engines (Shodan, Netlas, Fofa etc): https://publication.osintambition.org/when-you-need-search-by-nickname-in-public-ip-addresses-search-engines-shodan-netlas-fofa-etc-59d92af047cc
