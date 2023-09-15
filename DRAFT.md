@@ -1,5 +1,4 @@
-
-
+Those who don’t want to see will never see, even if the whole world is covered with spotlights. Useless.
 
 ----
 
