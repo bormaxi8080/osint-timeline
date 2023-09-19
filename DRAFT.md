@@ -2,6 +2,8 @@ Those who don’t want to see will never see, even if the whole world is covered
 
 ----
 
+Ubuntu 23.10 released: https://cdimage.ubuntu.com/daily-live/current/
+
 Various OSINT tools and scripts, total 308 repos: https://github.com/sgxgsx/osint-tools
 
 The Dark Side of RAR Files: A New Method for Delivering Malicious Payloads: https://www.blackhatethicalhacking.com/articles/the-dark-side-of-rar-files-a-new-method-for-delivering-malicious-payloads/
@@ -18,7 +20,9 @@ leafmap - A Python package for interactive mapping and geospatial analysis with 
 
 Coraza is an open source, enterprise-grade, high performance Web Application Firewall (WAF) ready to protect your beloved applications. It is written in Go, supports ModSecurity SecLang rulesets and is 100% compatible with the OWASP Core Rule Set v4: https://github.com/corazawaf/coraza
 
-VberOSINT - a small script that helps you to automatically send phone numbers in bulk to your VIBER Channel as contacts and thus reveal whether a certain phone number is associated with a registered VIBER account. There's no need in sharing your contacts with Viber. Overall it helps you with your Open Source Intelligence (OSINT) workflow on Messangers - specifically Viber: https://github.com/sgxgsx/ViberOSINT
+ViberOSINT - a small script that helps you to automatically send phone numbers in bulk to your VIBER Channel as contacts and thus reveal whether a certain phone number is associated with a registered VIBER account. There's no need in sharing your contacts with Viber. Overall it helps you with your Open Source Intelligence (OSINT) workflow on Messangers - specifically Viber: https://github.com/sgxgsx/ViberOSINT
+
+Data set of top third party web domains with rich metadata about them: https://github.com/duckduckgo/tracker-radar
 
 chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security: https://github.com/dosyago/chai
 
