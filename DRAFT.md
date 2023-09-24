@@ -10,6 +10,8 @@ The Dark Side of RAR Files: A New Method for Delivering Malicious Payloads: http
 
 How to find out on what dates a web page was changed using archive.org CDX API. A simple seven-step guide: https://publication.osintambition.org/how-to-find-out-on-what-dates-a-web-page-was-changed-using-archive-org-b392e54407eb
 
+When you need search by nickname in public IP addresses search engines (Shodan, Netlas, Fofa etc): https://publication.osintambition.org/when-you-need-search-by-nickname-in-public-ip-addresses-search-engines-shodan-netlas-fofa-etc-59d92af047cc
+
 Want to manage your cookies? Try EditThisCookie to add, delete, edit, search, protect and block cookies: https://www.editthiscookie.com/
 
 ----
@@ -24,15 +26,23 @@ ViberOSINT - a small script that helps you to automatically send phone numbers i
 
 Data set of top third party web domains with rich metadata about them: https://github.com/duckduckgo/tracker-radar
 
+Car Make / Model Recognition API with 97% Accuracy: https://carnet.ai/
+
 chai - Experience Zero Trust security with Chai! Convert and view documents as vivid images right in your browser. No mandatory downloads, no hassle—just pure, joyful security: https://github.com/dosyago/chai
 
 krbRelay - Framework for Kerberos relaying: https://github.com/cube0x0/KrbRelay
 
 ThreatTracer - A python Script to identify CVE by name & version: https://github.com/anmolksachan/ThreatTracer
 
+unfurl - Pull out bits of URLs provided on stdin: https://github.com/tomnomnom/unfurl
+
+Goblyn is a Python tool focused to enumeration and capture of website files metadata: https://github.com/loseys/Goblyn
+
 HeaderPwn - A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers: https://github.com/devanshbatham/headerpwn
 
 OneDriveExplorer is a command line and GUI based application for reconstructing the folder structure of OneDrive from the UserCid.dat and UserCid.dat.previous file: https://github.com/Beercow/OneDriveExplorer
+
+VAmPI - Vulnerable REST API with OWASP top 10 vulnerabilities for security testing: https://github.com/erev0s/VAmPI
 
 PyPhisher - Easy to use phishing tool with 77 website templates. Author is not responsible for any misuse: https://github.com/KasRoudra/PyPhisher
 
