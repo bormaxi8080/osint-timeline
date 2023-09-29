@@ -2,6 +2,10 @@ There are pillow people. Soft and warm when you are with them, but... without sh
 
 ----
 
+Mantra - A tool used to hunt down API key leaks in JS files and pages: https://github.com/MrEmpy/mantra
+
+Bryobio - Network Pcap File Analysis Tool: https://github.com/emrekybs/Bryobio
+
 
 
 
