@@ -2,6 +2,10 @@ There are pillow people. Soft and warm when you are with them, but... without sh
 
 ----
 
+How to Get Into OSINT by Ritu Gill: https://www.sans.org/blog/how-to-get-into-osint
+
+----
+
 Mantra - A tool used to hunt down API key leaks in JS files and pages: https://github.com/MrEmpy/mantra
 
 Bryobio - Network Pcap File Analysis Tool: https://github.com/emrekybs/Bryobio
