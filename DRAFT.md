@@ -8,6 +8,8 @@ How to Get Into OSINT by Ritu Gill: https://www.sans.org/blog/how-to-get-into-os
 
 Mantra - A tool used to hunt down API key leaks in JS files and pages: https://github.com/MrEmpy/mantra
 
+Search in data leaks database (14, 491, 682, 918 records): https://search.0t.rocks/
+
 Bryobio - Network Pcap File Analysis Tool: https://github.com/emrekybs/Bryobio
 
 
