@@ -6,6 +6,8 @@ How to Get Into OSINT by Ritu Gill: https://www.sans.org/blog/how-to-get-into-os
 
 Mastering Military OSINT: A Comprehensive Guide for the Modern Analyst in Military Intelligence from twitter.com/InfosecNewsBot
 
+Search in data leaks database (14, 491, 682, 918 records): https://search.0t.rocks/
+
 ----
 
 Rainy - Aesthetic, minimalistic and customizable weather fetching tool: https://github.com/iambluie/rainy
@@ -14,7 +16,7 @@ lk_scraper - An fully configurable linkedin scrape, scrape anything within Linke
 
 Mantra - A tool used to hunt down API key leaks in JS files and pages: https://github.com/MrEmpy/mantra
 
-Search in data leaks database (14, 491, 682, 918 records): https://search.0t.rocks/
+Ghayri - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws: https://github.com/r0oth3x49/ghauri
 
 Bryobio - Network Pcap File Analysis Tool: https://github.com/emrekybs/Bryobio
 
