@@ -14,6 +14,8 @@ Rainy - Aesthetic, minimalistic and customizable weather fetching tool: https://
 
 lk_scraper - An fully configurable linkedin scrape, scrape anything within LinkedIn: https://github.com/jqueguiner/lk_scraper
 
+Pinkerton is an JavaScript file crawler and secret finder tool developed in Python: https://github.com/ronin-dojo/Pinkerton2
+
 Mantra - A tool used to hunt down API key leaks in JS files and pages: https://github.com/MrEmpy/mantra
 
 Ghayri - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws: https://github.com/r0oth3x49/ghauri
