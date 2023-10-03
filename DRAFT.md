@@ -10,6 +10,8 @@ Search in data leaks database (14, 491, 682, 918 records): https://search.0t.roc
 
 ----
 
+osint-google-analytics - A lightweight tool for scraping current and historic Google Analytics data: https://github.com/jclark1913/osint-google-analytics
+
 Rainy - Aesthetic, minimalistic and customizable weather fetching tool: https://github.com/iambluie/rainy
 
 lk_scraper - An fully configurable linkedin scrape, scrape anything within LinkedIn: https://github.com/jqueguiner/lk_scraper
@@ -17,6 +19,14 @@ lk_scraper - An fully configurable linkedin scrape, scrape anything within Linke
 Pinkerton is an JavaScript file crawler and secret finder tool developed in Python: https://github.com/ronin-dojo/Pinkerton2
 
 Mantra - A tool used to hunt down API key leaks in JS files and pages: https://github.com/MrEmpy/mantra
+
+vid2img - Extract frames from a video tool: https://github.com/tand826/vid2img
+
+Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations: https://github.com/cartographer-project/cartographer
+
+404 Frame has most tools for infiltrating a website. In this way, no time is wasted! Unlike most software, we wanted to give 404 Frame a different terminal feel. So what are the commands? We didn’t want to choose a very difficult command system, so you can command in normal conversational language: https://github.com/acnsoft/404Frame
+
+qrcp - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal: https://github.com/claudiodangelis/qrcp
 
 Ghayri - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws: https://github.com/r0oth3x49/ghauri
 
