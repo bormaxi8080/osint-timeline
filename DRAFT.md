@@ -8,6 +8,8 @@ Mastering Military OSINT: A Comprehensive Guide for the Modern Analyst in Milita
 
 ----
 
+Rainy - Aesthetic, minimalistic and customizable weather fetching tool: https://github.com/iambluie/rainy
+
 lk_scraper - An fully configurable linkedin scrape, scrape anything within LinkedIn: https://github.com/jqueguiner/lk_scraper
 
 Mantra - A tool used to hunt down API key leaks in JS files and pages: https://github.com/MrEmpy/mantra
