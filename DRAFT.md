@@ -30,6 +30,10 @@ Cartographer is a system that provides real-time simultaneous localization and m
 
 qrcp - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal: https://github.com/claudiodangelis/qrcp
 
+Cariddi - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more: https://github.com/edoardottt/cariddi
+
+Adamantium-Thief - Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version > 80 is supported: https://github.com/LimerBoy/Adamantium-Thief
+
 Ghayri - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws: https://github.com/r0oth3x49/ghauri
 
 fishsec - Generating fishing links: https://github.com/fuckwbored/fishsec
