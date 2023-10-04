@@ -22,6 +22,8 @@ Mantra - A tool used to hunt down API key leaks in JS files and pages: https://g
 
 vid2img - Extract frames from a video tool: https://github.com/tand826/vid2img
 
+UnpromptedControl - Remove unwanted objects and restore images without prompts, powered by ControlNet: https://github.com/vijishmadhavan/UnpromptedControl
+
 Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations: https://github.com/cartographer-project/cartographer
 
 404 Frame has most tools for infiltrating a website. In this way, no time is wasted! Unlike most software, we wanted to give 404 Frame a different terminal feel. So what are the commands? We didn’t want to choose a very difficult command system, so you can command in normal conversational language: https://github.com/acnsoft/404Frame
@@ -29,6 +31,8 @@ Cartographer is a system that provides real-time simultaneous localization and m
 qrcp - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal: https://github.com/claudiodangelis/qrcp
 
 Ghayri - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws: https://github.com/r0oth3x49/ghauri
+
+fishsec - Generating fishing links: https://github.com/fuckwbored/fishsec
 
 Bryobio - Network Pcap File Analysis Tool: https://github.com/emrekybs/Bryobio
 
