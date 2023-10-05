@@ -22,6 +22,8 @@ Mantra - A tool used to hunt down API key leaks in JS files and pages: https://g
 
 vid2img - Extract frames from a video tool: https://github.com/tand826/vid2img
 
+Whisper-JAX - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU: https://github.com/sanchit-gandhi/whisper-jax
+
 UnpromptedControl - Remove unwanted objects and restore images without prompts, powered by ControlNet: https://github.com/vijishmadhavan/UnpromptedControl
 
 Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations: https://github.com/cartographer-project/cartographer
@@ -34,12 +36,17 @@ Cariddi - Take a list of domains, crawl urls and scan for endpoints, secrets, ap
 
 Adamantium-Thief - Decrypt chromium based browsers passwords, cookies, credit cards, history, bookmarks, autofill. Version > 80 is supported: https://github.com/LimerBoy/Adamantium-Thief
 
+Waymore - Find way more from the Wayback Machine: https://github.com/xnl-h4ck3r/waymore
+
 Ghayri - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws: https://github.com/r0oth3x49/ghauri
 
 fishsec - Generating fishing links: https://github.com/fuckwbored/fishsec
 
-Bryobio - Network Pcap File Analysis Tool: https://github.com/emrekybs/Bryobio
+PoshC2 - A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement: https://github.com/nettitude/PoshC2
 
+SilentMoonwalker - PoC Implementation of a fully dynamic call stack spoofer: https://github.com/klezVirus/SilentMoonwalk
+
+Bryobio - Network Pcap File Analysis Tool: https://github.com/emrekybs/Bryobio
 
 
 
