@@ -15,6 +15,8 @@ If you like the projects that I do, I will be grateful for donations in ETH: 0xE
 
 ### Timelines:
 
+[bormaxi8080 OSINT Timeline (27) - 05.10.2023](./timelines/bormaxi8080-osint-timeline_27_05.10.2023.md)
+
 [bormaxi8080 OSINT Timeline (26) - 28.09.2023](./timelines/bormaxi8080-osint-timeline_26_28.09.2023.md)
 
 [bormaxi8080 OSINT Timeline (25) - 21.09.2023](./timelines/bormaxi8080-osint-timeline_25_21.09.2023.md)
