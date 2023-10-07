@@ -46,9 +46,13 @@ HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user
 
 Piña Colada, a powerful and extensible wireless drop box, capable of performing a wide range of remote offensive attacks on a network. It can be controlled via it's command line interface, or connect to it's Command and Control remote server to be controlled remotely, either by web application or Android app: https://github.com/ecthros/pina-colada
 
+Shoggoth - Asmjit Based Polymorphic Encryptor: https://github.com/frkngksl/Shoggoth
+
 Invoker - Penetration testing utility and antivirus assessment tool: https://github.com/ivan-sincek/invoker
 
 Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to generate simple payloads to provide Linux TCP attack: https://github.com/Best2Angle/thoron
+
+Robber is open source tool for finding executables prone to DLL hijacking: https://github.com/MojtabaTajik/Robber
 
 
 
