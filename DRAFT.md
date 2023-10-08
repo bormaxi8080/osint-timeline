@@ -2,6 +2,14 @@ We are worth what we can give.
 
 ----
 
+Vicarious trauma & OSINT - A practical guide by Nico Dekens: https://www.dutchosintguy.com/post/vicarious-trauma-osint-a-practical-guide
+
+The Dart Center: https://dartcenter.org/
+**Advocates** ethical and thorough reporting of trauma; compassionate, professional treatment of victims and survivors by journalists; and greater awareness by media organizations of the impact of trauma coverage on both news professionals and news consumers.  
+**Educates** journalists and journalism students about the science and psychology of trauma and the implications for news coverage.
+**Provides** a professional forum for journalists in all media to analyze issues, share knowledge and ideas, and advance strategies related to the craft of reporting on violence and tragedy. 
+**Creates** **and sustains** interdisciplinary collaboration and communication among news professionals, clinicians, academic researchers and others concerned with violence, conflict and tragedy.
+
 OSINT Communities by Ritu Gill:
 Kase Scenarios Discord: @kasescenarios  
 https://discord.gg/BakbPw6kJD
@@ -17,6 +25,12 @@ VK OSINT Tools Collection: https://github.com/OSINT-mindset/vk-osint-ru
 ----
 
 Stylometry is the application of the study of linguistic style, usually to written language, but it has successfully been applied to music and to fine-art paintings as well. Stylometry is often used to attribute authorship to anonymous or disputed documents. Stylometry has legal, academic, and literary applications, which include determination of the true authorship of some of Shakespeare's works and forensic linguistics: https://github.com/jpotts18/stylometry
+
+WhisperX - Automatic Speech Recognition with Word-level Timestamps (& Diarization): https://github.com/m-bain/whisperX
+
+video2dataset - Easily create large video dataset from video urls: https://github.com/m-bain/video2dataset
+
+webvid - Large-scale text-video dataset. 10 million captioned short videos: https://github.com/m-bain/webvid
 
 Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history: https://github.com/praetorian-inc/noseyparker
 
@@ -47,6 +61,8 @@ HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user
 Piña Colada, a powerful and extensible wireless drop box, capable of performing a wide range of remote offensive attacks on a network. It can be controlled via it's command line interface, or connect to it's Command and Control remote server to be controlled remotely, either by web application or Android app: https://github.com/ecthros/pina-colada
 
 Shoggoth - Asmjit Based Polymorphic Encryptor: https://github.com/frkngksl/Shoggoth
+
+NTLMRecon - Enumerate information from NTLM authentication enabled web endpoints: https://github.com/pwnfoo/NTLMRecon
 
 Invoker - Penetration testing utility and antivirus assessment tool: https://github.com/ivan-sincek/invoker
 
