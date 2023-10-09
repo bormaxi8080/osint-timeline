@@ -18,6 +18,8 @@ Reddit OSINT Community @Reddit https://www.reddit.com/r/OSINT
 
 OSINT tasks writeups by OSINT Mindset: https://github.com/OSINT-mindset/osint-cases-ru
 
+How To Find Timestamps For Verification: https://nixintel.info/osint/how-to-find-timestamps-for-verification/
+
 Wireshark 4.0.10 released: https://www.wireshark.org/docs/relnotes/wireshark-4.0.10.html
 
 VK OSINT Tools Collection: https://github.com/OSINT-mindset/vk-osint-ru
@@ -33,6 +35,8 @@ video2dataset - Easily create large video dataset from video urls: https://githu
 webvid - Large-scale text-video dataset. 10 million captioned short videos: https://github.com/m-bain/webvid
 
 Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history: https://github.com/praetorian-inc/noseyparker
+
+mailto_analyzer - PoC analyzer of your email address exposure on various services: https://github.com/soxoj/mailto_analyzer
 
 YaSeekrUltra - Advanced version of YaSeeker tool for gathering of information about Yandex account: https://github.com/OSINT-mindset/YaSeekerUltra
 
