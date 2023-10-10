@@ -62,7 +62,11 @@ Dom.ru Customer Check - Get additional information about Dom.ru customers with A
 
 HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing: https://github.com/HyperDbg/HyperDbg
 
+fail2ban - Daemon to ban hosts that cause multiple authentication errors: https://github.com/fail2ban/fail2ban
+
 Piña Colada, a powerful and extensible wireless drop box, capable of performing a wide range of remote offensive attacks on a network. It can be controlled via it's command line interface, or connect to it's Command and Control remote server to be controlled remotely, either by web application or Android app: https://github.com/ecthros/pina-colada
+
+The Social-Engineer Toolkit (SET) repository from TrustedSec: https://github.com/trustedsec/social-engineer-toolkit
 
 Shoggoth - Asmjit Based Polymorphic Encryptor: https://github.com/frkngksl/Shoggoth
 
