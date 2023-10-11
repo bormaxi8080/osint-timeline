@@ -2,6 +2,8 @@ We are worth what we can give.
 
 ----
 
+Hiring Managers, are you in search of outstanding Intelligence and OSINT Professionals? Explore the OSINT Jobs Job Board today: https://www.osint-jobs.com/careers/post-a-job
+
 Vicarious trauma & OSINT - A practical guide by Nico Dekens: https://www.dutchosintguy.com/post/vicarious-trauma-osint-a-practical-guide
 
 The Dart Center: https://dartcenter.org/
@@ -75,6 +77,8 @@ NTLMRecon - Enumerate information from NTLM authentication enabled web endpoints
 Invoker - Penetration testing utility and antivirus assessment tool: https://github.com/ivan-sincek/invoker
 
 Thoron Framework is a Linux post-exploitation framework that exploits Linux TCP vulnerability to provide a shell-like connection. Thoron Framework has the ability to generate simple payloads to provide Linux TCP attack: https://github.com/Best2Angle/thoron
+
+Voltron is an extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host. By running these views in other TTYs, you can build a customised debugger user interface to suit your needs: https://github.com/snare/voltron
 
 Robber is open source tool for finding executables prone to DLL hijacking: https://github.com/MojtabaTajik/Robber
 
