@@ -40,6 +40,10 @@ Nosey Parker is a command-line program that finds secrets and sensitive informat
 
 mailto_analyzer - PoC analyzer of your email address exposure on various services: https://github.com/soxoj/mailto_analyzer
 
+IpGeo is a python tool to extract IP addresses from captured network traffic file (pcap/pcapng) and generate csv report containing details about the geolocation of each ip in the packets: https://github.com/z4l4mi/IpGeo
+
+TEx is a Telegram Explorer tool created to help Researchers, Investigators and Law Enforcement Agents to Collect and Process the Huge Amount of Data Generated from Criminal, Fraud, Security and Others Telegram Groups: https://github.com/guibacellar/TEx
+
 YaSeekrUltra - Advanced version of YaSeeker tool for gathering of information about Yandex account: https://github.com/OSINT-mindset/YaSeekerUltra
 
 Fake News Debunker Chrome Extension by InVID & WeVerify - A verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders to save time and be more efficient in their fact-checking and debunking tasks on social networks especially when verifying videos and images: https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe (GitHub: https://github.com/AFP-Medialab/verification-plugin)
