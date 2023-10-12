@@ -2,7 +2,7 @@ We are worth what we can give.
 
 ----
 
-Hiring Managers, are you in search of outstanding Intelligence and OSINT Professionals? Explore the OSINT Jobs Job Board today: https://www.osint-jobs.com/careers/post-a-job
+Hiring Managers, are you in search of outstanding Intelligence and OSINT Professionals? Explore the OSINT Jobs Board today: https://www.osint-jobs.com/careers/post-a-job
 
 Vicarious trauma & OSINT - A practical guide by Nico Dekens: https://www.dutchosintguy.com/post/vicarious-trauma-osint-a-practical-guide
 
