@@ -20,7 +20,7 @@ Automated Retrieval of ACLED Conflict Event Data: https://github.com/cran/acled.
 
 ACLED Data Science Laboratory: https://github.com/heltmulig/acled-project
 
-ARmed Conflict Data - Creates a data pipeline from the Armed Conflict Location Event Data (ACLED) with the intent that users can obtain data to validate conflict models: https://github.com/projectmesadata/armedconflict
+Armed Conflict Data - Creates a data pipeline from the Armed Conflict Location Event Data (ACLED) with the intent that users can obtain data to validate conflict models: https://github.com/projectmesadata/armedconflict
 
 
 Netlas CookBook - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io: https://github.com/netlas-io/netlas-cookbook
