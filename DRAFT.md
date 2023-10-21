@@ -4,6 +4,10 @@ In order to truly love people, you first need to hate them very much.
 
 Coders are no longer the high-flying stars of Big Tech — and it's making them grumpy: https://www.businessinsider.com/tech-workers-employees-dissatisfied-jobs-new-data-labor-market-glassdoor-2023-10
 
+Free hands-on digital forensics labs for students and faculty: https://github.com/frankwxu/digital-forensics-lab
+
+Social Media OSINT collection containing - tools, techniques & tradecraft: https://github.com/cqcore/Social-Media-OSINT
+
 ----
 
 HTTPLoot - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites: https://github.com/redhuntlabs/HTTPLoot
