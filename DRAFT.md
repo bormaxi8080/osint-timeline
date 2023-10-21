@@ -18,6 +18,10 @@ usbdeath - anti-forensic tool that writes udev rules for known usb devices and d
 
 usbkill is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.: https://github.com/hephaest0s/usbkill
 
+CondensedMovies - Story-Based Retrieval with Contextual Embeddings. Largest freely available movie video dataset: https://github.com/m-bain/CondensedMovies
+
+pyannote-audio - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding: https://github.com/m-bain/pyannote-audio
+
 hackerEnv is an automation tool that quickly and easily sweep IPs and scan ports, vulnerabilities and exploit them. Then, it hands you an interactive shell for further testing. Also, it generates HTML and docx reports. It uses other tools such as nmap, nikto, metasploit and hydra. Works in kali linux and Parrot OS: https://github.com/abdulr7mann/hackerEnv
 
 t14m4t - Automated brute-forcing attack tool: https://github.com/MS-WEB-BN/t14m4t
