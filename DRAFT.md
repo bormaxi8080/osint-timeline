@@ -30,6 +30,8 @@ Drakus allows you to monitor the artifacts and domains used in a Red Team exerci
 
 going_places - The script uses an Google maps API to download photos of places in the area specified by coordinates and search radius: https://github.com/Beadyhx/going_places
 
+Geo Recon - An OSINT CLI tool desgined to fast track IP Reputation and geolocaton look up for Security Analysts: https://github.com/radioactivetobi/geo-recon
+
 scan-for-webcams - scan for webcams on the Internet: https://github.com/JettChenT/scan-for-webcams
 
 comHunter - Script to get comments from a site: https://github.com/Aetsu/comHunter
