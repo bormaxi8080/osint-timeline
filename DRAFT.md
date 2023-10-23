@@ -28,6 +28,8 @@ OneX is a hacking tool installer and package manager for hackers. Onex is a libr
 
 Drakus allows you to monitor the artifacts and domains used in a Red Team exercise to see if they have been uploaded to certain online malware analysis services: https://github.com/Aetsu/drakus
 
+going_places - The script uses an Google maps API to download photos of places in the area specified by coordinates and search radius: https://github.com/Beadyhx/going_places
+
 scan-for-webcams - scan for webcams on the Internet: https://github.com/JettChenT/scan-for-webcams
 
 comHunter - Script to get comments from a site: https://github.com/Aetsu/comHunter
