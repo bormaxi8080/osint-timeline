@@ -4,6 +4,8 @@ In order to truly love people, you first need to hate them very much.
 
 Finding Phones With Google Maps Part 1 (Android): https://thebinaryhick.blog/2023/10/17/finding-phones-with-google-maps-part-1-android/
 
+Getting an Instagram profile by phone number: https://soxoj.substack.com/p/getting-an-instagram-profile-by-phone
+
 Coders are no longer the high-flying stars of Big Tech — and it's making them grumpy: https://www.businessinsider.com/tech-workers-employees-dissatisfied-jobs-new-data-labor-market-glassdoor-2023-10
 
 Free hands-on digital forensics labs for students and faculty: https://github.com/frankwxu/digital-forensics-lab
