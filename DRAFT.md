@@ -28,6 +28,8 @@ usbdeath - anti-forensic tool that writes udev rules for known usb devices and d
 
 usbkill is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.: https://github.com/hephaest0s/usbkill
 
+Evine is a simple, fast, and interactive web crawler and web scraper written in Golang. Evine is useful for a wide range of purposes such as metadata and data extraction, data mining, reconnaissance and testing: https://github.com/saeeddhqan/evine
+
 CondensedMovies - Story-Based Retrieval with Contextual Embeddings. Largest freely available movie video dataset: https://github.com/m-bain/CondensedMovies
 
 pyannote-audio - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding: https://github.com/m-bain/pyannote-audio
