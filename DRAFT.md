@@ -40,6 +40,8 @@ CondensedMovies - Story-Based Retrieval with Contextual Embeddings. Largest free
 
 pyannote-audio - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding: https://github.com/m-bain/pyannote-audio
 
+DeHashed-API-Tool - A command-line tool to query the DeHashed API. Easily search for various parameters like usernames, emails, hashed passwords, IP addresses, and more: https://github.com/hmaverickadams/DeHashed-API-Tool
+
 hackerEnv is an automation tool that quickly and easily sweep IPs and scan ports, vulnerabilities and exploit them. Then, it hands you an interactive shell for further testing. Also, it generates HTML and docx reports. It uses other tools such as nmap, nikto, metasploit and hydra. Works in kali linux and Parrot OS: https://github.com/abdulr7mann/hackerEnv
 
 gethead - HTTP Header Analysis Vulnerability Tool: https://github.com/Aetsu/gethead
