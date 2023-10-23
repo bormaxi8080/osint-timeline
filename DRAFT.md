@@ -10,11 +10,17 @@ Free hands-on digital forensics labs for students and faculty: https://github.co
 
 Social Media OSINT collection containing - tools, techniques & tradecraft: https://github.com/cqcore/Social-Media-OSINT
 
+Scientific site of European demography: https://population-europe.org/ 
+
+The Human Fertility Database (HFD) is the leading scientific data resource on fertility in the developed countries. This open access database provides detailed and high-quality historical and recent data on period and cohort fertility by age of mother and birth order. The HFD is entirely based on official vital statistics and places a great emphasis on rigorous data checking and documentation. The HFD adopts uniform methodology to warrant data comparability across time and between countries. The database follows open data principles: https://www.humanfertility.org/
+
 ----
 
 HTTPLoot - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites: https://github.com/redhuntlabs/HTTPLoot
 
 OneX is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you: https://github.com/jackind424/onex
+
+scan-for-webcams - scan for webcams on the Internet: https://github.com/JettChenT/scan-for-webcams
 
 usbdeath - anti-forensic tool that writes udev rules for known usb devices and do some things at unknown usb insertion or specific usb device removal: https://github.com/trpt/usbdeath
 
