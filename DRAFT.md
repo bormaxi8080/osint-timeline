@@ -22,7 +22,13 @@ HTTPLoot - An automated tool which can simultaneously crawl, fill forms, trigger
 
 OneX is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you: https://github.com/jackind424/onex
 
+**Neton** is a tool for **getting information from Internet connected sandboxes**. It is composed by an agent and a web interface that displays the collected information. The Neton agent gets information from the systems on which it runs and exfiltrates it via HTTPS to the web server: https://github.com/Aetsu/Neton
+
+Drakus allows you to monitor the artifacts and domains used in a Red Team exercise to see if they have been uploaded to certain online malware analysis services: https://github.com/Aetsu/drakus
+
 scan-for-webcams - scan for webcams on the Internet: https://github.com/JettChenT/scan-for-webcams
+
+comHunter - Script to get comments from a site: https://github.com/Aetsu/comHunter
 
 usbdeath - anti-forensic tool that writes udev rules for known usb devices and do some things at unknown usb insertion or specific usb device removal: https://github.com/trpt/usbdeath
 
@@ -35,6 +41,10 @@ CondensedMovies - Story-Based Retrieval with Contextual Embeddings. Largest free
 pyannote-audio - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding: https://github.com/m-bain/pyannote-audio
 
 hackerEnv is an automation tool that quickly and easily sweep IPs and scan ports, vulnerabilities and exploit them. Then, it hands you an interactive shell for further testing. Also, it generates HTML and docx reports. It uses other tools such as nmap, nikto, metasploit and hydra. Works in kali linux and Parrot OS: https://github.com/abdulr7mann/hackerEnv
+
+gethead - HTTP Header Analysis Vulnerability Tool: https://github.com/Aetsu/gethead
+
+Beautify Nessus scan output: https://github.com/Aetsu/beautyCoon
 
 t14m4t - Automated brute-forcing attack tool: https://github.com/MS-WEB-BN/t14m4t
 
