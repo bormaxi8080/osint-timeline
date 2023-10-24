@@ -33,6 +33,8 @@ The Human Fertility Database (HFD) is the leading scientific data resource on fe
 
 misp-wireshark is a Lua plugin intended to help analysts extract data from Wireshark and convert it into the [MISP Core format](https://www.misp-project.org/datamodels/): https://github.com/MISP/misp-wireshark
 
+XSpider - A Distributed web crawler system. Support for templated spider development: https://github.com/zym1115718204/xspider
+
 HTTPLoot - An automated tool which can simultaneously crawl, fill forms, trigger error/debug pages and "loot" secrets out of the client-facing code of sites: https://github.com/redhuntlabs/HTTPLoot
 
 OneX is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you: https://github.com/jackind424/onex
