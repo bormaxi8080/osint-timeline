@@ -1,3 +1,6 @@
+People are evil to the extent that they are unhappy.
+
+
 In order to truly love people, you first need to hate them very much.
 
 ----
