@@ -8,9 +8,19 @@ Getting an Instagram profile by phone number: https://soxoj.substack.com/p/getti
 
 Coders are no longer the high-flying stars of Big Tech — and it's making them grumpy: https://www.businessinsider.com/tech-workers-employees-dissatisfied-jobs-new-data-labor-market-glassdoor-2023-10
 
+----
+
 Free hands-on digital forensics labs for students and faculty: https://github.com/frankwxu/digital-forensics-lab
 
 Social Media OSINT collection containing - tools, techniques & tradecraft: https://github.com/cqcore/Social-Media-OSINT
+
+OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts: https://github.com/LinaYorda/OSINTko
+
+Browser extension that I use daily to detect fake news; search images and collect data: https://github.com/LinaYorda/OSINT-browser-extentions
+
+A set of social media OSINT tools that I use when participating in Trace Labs Search Party CTF: https://github.com/LinaYorda/OSINTtools
+
+OSINT TOOLS - BULGARIA: https://github.com/LinaYorda/OSINT-Tools-Bulgaria
 
 Scientific site of European demography: https://population-europe.org/ 
 
@@ -40,6 +50,8 @@ usbdeath - anti-forensic tool that writes udev rules for known usb devices and d
 
 usbkill is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.: https://github.com/hephaest0s/usbkill
 
+autovpn is a tool to automatically connect you to a random VPN in a country of your choice. It uses openvpn to connect you to a server obtained from [VPN Gate](http://www.vpngate.net/en/).: https://github.com/vysecurity/autovpn
+
 Evine is a simple, fast, and interactive web crawler and web scraper written in Golang. Evine is useful for a wide range of purposes such as metadata and data extraction, data mining, reconnaissance and testing: https://github.com/saeeddhqan/evine
 
 CondensedMovies - Story-Based Retrieval with Contextual Embeddings. Largest freely available movie video dataset: https://github.com/m-bain/CondensedMovies
@@ -53,6 +65,10 @@ hackerEnv is an automation tool that quickly and easily sweep IPs and scan ports
 gethead - HTTP Header Analysis Vulnerability Tool: https://github.com/Aetsu/gethead
 
 Beautify Nessus scan output: https://github.com/Aetsu/beautyCoon
+
+stegoWiper: A powerful and flexible active attack for disrupting stegomalware: https://github.com/mindcrypt/stegowiper
+
+DomainDouche - OSINT tool abusing SecurityTrails domain suggestion API to find potentially related domains by keyword and brute force: https://github.com/n0kovo/DomainDouche
 
 t14m4t - Automated brute-forcing attack tool: https://github.com/MS-WEB-BN/t14m4t
 
