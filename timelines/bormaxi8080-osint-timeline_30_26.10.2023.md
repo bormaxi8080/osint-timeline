@@ -19,7 +19,7 @@ Social Media OSINT collection containing - tools, techniques & tradecraft: https
 
 OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts: https://github.com/LinaYorda/OSINTko
 
-Browser extension that I use daily to detect fake news; search images and collect data: https://github.com/LinaYorda/OSINT-browser-extentions
+Browser extensions that I use daily to detect fake news; search images and collect data: https://github.com/LinaYorda/OSINT-browser-extentions
 
 A set of social media OSINT tools that I use when participating in Trace Labs Search Party CTF: https://github.com/LinaYorda/OSINTtools
 
