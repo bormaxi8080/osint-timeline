@@ -8,7 +8,7 @@ The death and revival of Russian occupation telegram channels: https://www.linke
 
 Telegram channels and groups catalog: https://tgstat.ru/en
 
-Telegram-OSINT - Separate Repository for Telegram as there is a large amount of resources available: https://github.com/cqcore/Telegram-OSINT
+```Telegram-OSINT``` - Separate Repository for Telegram as there is a large amount of resources available: https://github.com/cqcore/Telegram-OSINT
 
 Regarding the analysis of data and the analysis of disinformation in social networks. The trouble for many journalists now is not even fact-checking, but their possession of technology at a level sufficient to quickly identify misinformation online. Well, that is, they know how to broadcast and present information, but they cannot master complex equipment. Well, coordination and mutual support, of course.
 
@@ -19,9 +19,9 @@ Incitement to Kill: Tracking hate speech targeting Ukrainians during Russia’s 
 In order to work with such, you need a lot of experience and even more great awareness.
 Well, a couple of thousands of utilities with which such data is collected.
 
-Telegram Keyword Trends - an analysis tool to explore the emergence of hatespeech, disinformation, and narratives of interest on the Telegram chat platform. Please use this tool with caution as it does not have content moderation or filtering. You are responsible for the content that may be exported: https://github.com/thomasjjj/tg-keyword-trends
+```Telegram Keyword Trends``` - an analysis tool to explore the emergence of hatespeech, disinformation, and narratives of interest on the Telegram chat platform. Please use this tool with caution as it does not have content moderation or filtering. You are responsible for the content that may be exported: https://github.com/thomasjjj/tg-keyword-trends
 
-Gephi: https://gephi.org/
+```Gephi```: https://gephi.org/
 
 And that's just a drop in the ocean...
 

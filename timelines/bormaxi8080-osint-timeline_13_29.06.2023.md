@@ -4,7 +4,7 @@
 
 ----
 
-Masha and the millions - Maria Borodunova means nothing. But this Latvian citizen turns out to hold an impressive real estate portfolio in several European countries, linked to Kremlin favourite and sanctioned Russian billionaire Arkady Rotenberg: https://en.rebaltica.lv/2023/06/masha-and-the-millions/
+```Masha and the millions``` - Maria Borodunova means nothing. But this Latvian citizen turns out to hold an impressive real estate portfolio in several European countries, linked to Kremlin favourite and sanctioned Russian billionaire Arkady Rotenberg: https://en.rebaltica.lv/2023/06/masha-and-the-millions/
 
 Kazakhstan, Kyrgyzstan and Russia agreed on the exchange of personal data of citizens: https://doxa.team/news/2023-06-21-personal-data
 
@@ -12,21 +12,22 @@ Looking Ahead: The Bizarre Reality of the Internet in North Korea: https://habr-
 
 ----
 
-All the repositories from CyberDetective at https://github.com/cipher387 archived. Users can no longer suggest changes, but they can download code or make forks. Most popular of them:
-Osint_Stuff_Tool_Collection
-Dorks_Collections_list
-API-s-for-OSINT
-Advanced search operators list
+All the repositories from ```CyberDetective``` at https://github.com/cipher387 archived. Users can no longer suggest changes, but they can download code or make forks. Most popular of them:
+
+- Osint_Stuff_Tool_Collection
+- Dorks_Collections_list
+- API-s-for-OSINT
+- Advanced search operators list
 
 ----
 
 ### Tools, Services and Frameworks:
 
-SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled: https://github.com/searxng/searxng
+```SearXNG``` is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled: https://github.com/searxng/searxng
 
-The Maltego WhatsMyName Transforms are based on the amazing [whatsmyname.app](https://whatsmyname.app/) tool created by [Micah "WebBreacher" Hoffman](https://webbreacher.com/) that allows you to enumerate usernames across many websites: https://github.com/TURROKS/Maltego_WhatsMyName
+```The Maltego WhatsMyName Transforms``` are based on the amazing [whatsmyname.app](https://whatsmyname.app/) tool created by [Micah "WebBreacher" Hoffman](https://webbreacher.com/) that allows you to enumerate usernames across many websites: https://github.com/TURROKS/Maltego_WhatsMyName
 
-Sysmon for Linux is a tool that monitors and logs system activity including process lifetime, network connections, file system writes, and more. Sysmon works across reboots and uses advanced filtering to help identify malicious activity as well as how intruders and malware operate on your network. Sysmon for Linux is part of Sysinternals: https://github.com/Sysinternals/SysmonForLinux
+```Sysmon``` for Linux is a tool that monitors and logs system activity including process lifetime, network connections, file system writes, and more. Sysmon works across reboots and uses advanced filtering to help identify malicious activity as well as how intruders and malware operate on your network. Sysmon for Linux is part of Sysinternals: https://github.com/Sysinternals/SysmonForLinux
 
 ----
 

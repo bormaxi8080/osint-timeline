@@ -25,24 +25,26 @@ Person OSINT investigation workflow from a privacy perspective: https://www.osin
 
 ### Tools:
 
-- nipe - An engine to make Tor network your default gateway: https://github.com/htrgouvea/nipe
+- ```nipe``` - An engine to make Tor network your default gateway: https://github.com/htrgouvea/nipe
 
 - By splitting a QR code into 7 fragments, we may physically split and distribute a secret into the real world. For example by printing the QR fragments onto transparent paper and handing them out to multiple people: https://github.com/jzck/horqrux
 
-- dontgo403 is a tool to bypass 40X errors: https://github.com/devploit/dontgo403
+- ```dontgo403``` is a tool to bypass 40X errors: https://github.com/devploit/dontgo403
 
-- FinalRecon is an **automatic web reconnaissance** tool written in python. Goal of FinalRecon is to provide an **overview** of the target in a **short** amount of time while maintaining the **accuracy** of results. Instead of executing **several tools** one after another it can provide similar results keeping dependencies **small and simple**: https://github.com/thewhiteh4t/FinalRecon
+- ```FinalRecon``` is an **automatic web reconnaissance** tool written in python. Goal of FinalRecon is to provide an **overview** of the target in a **short** amount of time while maintaining the **accuracy** of results. Instead of executing **several tools** one after another it can provide similar results keeping dependencies **small and simple**: https://github.com/thewhiteh4t/FinalRecon
 
-- User Agent switcher and Manager: https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
+- ```User Agent switcher and Manager```: https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
 
 - Cutting the Cord: Harnessing OpenAI's Whisper in an Offline Environment.
+
    Link: https://www.digitalforensicstips.com/2023/04/cutting-cord-harnessing-openais-whisper.html
+   
    GitHub: https://github.com/openai/whisper
 
-- pamspy leverage eBPF technologies to achieve an equivalent work of [3snake](https://github.com/blendin/3snake).
+- ```pamspy``` leverage eBPF technologies to achieve an equivalent work of [3snake](https://github.com/blendin/3snake).
  It will track a particular userland function inside the PAM (Pluggable Authentication Modules) library, used by many critical applications to handle authentication like sudo, sshd, passwd, x11 and many other: https://github.com/citronneur/pamspy
 
-- live-forensicator - Powershell Script to aid Incidence Response and Live Forensics | Bash Script for MacOS Live Forensics and Incidence Response: https://github.com/Johnng007/Live-Forensicator
+- ```live-forensicator``` - Powershell Script to aid Incidence Response and Live Forensics | Bash Script for MacOS Live Forensics and Incidence Response: https://github.com/Johnng007/Live-Forensicator
 
 - Free Tools to Scan WordPress for Vulnerabilities: https://www.wpexplorer.com/scan-wordpress-website/
 

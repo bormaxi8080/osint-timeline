@@ -7,12 +7,14 @@ I just love colors: colored tattoos, rings and bracelets with enamel, moments in
 History in the making – the International Centre for the Prosecution of the Crime of Aggression Against Ukraine starts operations at Eurojust: https://www.eurojust.europa.eu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust
 
 Last week, the Bellingcat team hosted talks on open source techniques at RightsCon in Costa Rica: The Bellingcat Global Authentication Project team's popular webinar introduced the platform ATLOS to the RightsCon community and discussed data models in open source investigations.  
+
 If you want to know more about The Bellingcat Global Authentication Project , how to volunteer and the work the amazing team does, sign up for our mailing list via this link: [http://eepurl.com/iigd_v](http://eepurl.com/iigd_v)   
-ATLOS is being used by The Global Authentication Project to manage our data and community. For those interested, visit [atlos.org/waitlist](http://atlos.org/waitlist)  
+
+```ATLOS``` is being used by The Global Authentication Project to manage our data and community. For those interested, visit [atlos.org/waitlist](http://atlos.org/waitlist)  
   
 Bellingcat's Investigative Tech Team ran an in person workshop on methods for archiving online content. The team outlined why backing up online data is important and provided a demo on Bellingcat’s auto archiver tool. You can learn more about the tool here: [https://atlos.org/](https://atlos.org/)
 
-Atlos is a non-profit platform used by investigators to catalog and verify eyewitness media at scale. Atlos is specialized to the needs of visual investigations: The platform automatically archives source media and implements industry-standard researcher safety measures by default. While other systems are dedicated collaborative tools or databases, Atlos does both. Atlos powers Bellingcat's sprawling investigation into civilian harm in Ukraine: https://github.com/atlosdotorg/atlos
+ATLOS is a non-profit platform used by investigators to catalog and verify eyewitness media at scale. AtLOS is specialized to the needs of visual investigations: The platform automatically archives source media and implements industry-standard researcher safety measures by default. While other systems are dedicated collaborative tools or databases, Atlos does both. Atlos powers Bellingcat's sprawling investigation into civilian harm in Ukraine: https://github.com/atlosdotorg/atlos
 
 ----
 
@@ -20,43 +22,43 @@ Ukrainian Grain Exported Through Tax-Avoiding ‘Shell Firms,’ Robbing Country
 
 ----
 
-Zerodium pays **BIG bounties** to security researchers to acquire their original and previously unreported zero-day research. While the majority of existing bug bounty programs accept almost any type of vulnerabilities and PoCs but pay very little, **at Zerodium we focus on high-risk vulnerabilities with fully functional exploits** and we pay the highest rewards in the market (**up to $2,500,000 per submission**): https://zerodium.com/program.html
+```Zerodium``` pays BIG bounties to security researchers to acquire their original and previously unreported zero-day research. While the majority of existing bug bounty programs accept almost any type of vulnerabilities and PoCs but pay very little, **at Zerodium we focus on high-risk vulnerabilities with fully functional exploits** and we pay the highest rewards in the market (**up to $2,500,000 per submission**): https://zerodium.com/program.html
 
 ----
 
 Best free AI Image Editing Tools from Irina Shamaeva:
 
-LEDITS https://huggingface.co/spaces/editing-images/ledits
+```LEDITS``` https://huggingface.co/spaces/editing-images/ledits
 
-UNCROP https://clipdrop.co/uncrop
+```UNCROP``` https://clipdrop.co/uncrop
 
-Microsoft Designer https://designer.microsoft.com/
+```Microsoft Designer``` https://designer.microsoft.com/
 
-Stable Diffusion Inpainting https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting
+```Stable Diffusion Inpainting``` https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting
 
-Adobe Firefly AI https://firefly.adobe.com/generate/inpaint
+```Adobe Firefly AI``` https://firefly.adobe.com/generate/inpaint
 
-DragGAN  https://huggingface.co/spaces/radames/DragGan
+```DragGAN```  https://huggingface.co/spaces/radames/DragGan
 
 ----
 
-OpenResume is a powerful open-source resume builder and resume parser. The goal of OpenResume is to provide everyone with free access to a modern professional resume design and enable anyone to apply for jobs with confidence: https://github.com/xitanggg/open-resume
+```OpenResume``` is a powerful open-source resume builder and resume parser. The goal of OpenResume is to provide everyone with free access to a modern professional resume design and enable anyone to apply for jobs with confidence: https://github.com/xitanggg/open-resume
 
-Useful OSINT hints and links from [@SEINT_pl](https://twitter.com/seint_pl): https://github.com/seintpl/osint
+```Useful OSINT hints and links``` from [@SEINT_pl](https://twitter.com/seint_pl): https://github.com/seintpl/osint
 
-Uscrapper is an OSINT tool that allows users to extract various personal information from a website. It leverages web scraping techniques and regular expressions to extract email addresses, social media links, author names, geolocations, phone numbers, and usernames from both hyperlinked and non-hyperlinked sources on the webpage: https://github.com/z0m31en7/Uscrapper
+```Uscrapper``` is an OSINT tool that allows users to extract various personal information from a website. It leverages web scraping techniques and regular expressions to extract email addresses, social media links, author names, geolocations, phone numbers, and usernames from both hyperlinked and non-hyperlinked sources on the webpage: https://github.com/z0m31en7/Uscrapper
 
-ytxtractor - a simple javascript tool to extract images from a Youtube video: https://github.com/seintpl/ytxtractor
+```ytxtractor``` - a simple javascript tool to extract images from a Youtube video: https://github.com/seintpl/ytxtractor
 
-HostHunter a recon tool for discovering hostnames using OSINT techniques: https://github.com/SpiderLabs/HostHunter
+```HostHunter``` a recon tool for discovering hostnames using OSINT techniques: https://github.com/SpiderLabs/HostHunter
 
-Numlookup Reverse Image Search - The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture: https://www.numlookup.com/reverse-image-search
+```Numlookup Reverse Image Search``` - The results are very different from Yandex Images and Google Lens search results, as the service only searches for links to exact matches with the original picture: https://www.numlookup.com/reverse-image-search
 
-email-comparision - A quick comparison of private and / or secure email providers: https://github.com/Lissy93/email-comparison
+```email-comparision``` - A quick comparison of private and / or secure email providers: https://github.com/Lissy93/email-comparison
 
-Am I Real? - a tool to check if a photo could have been generated by AI/GAN: https://github.com/seintpl/AmIReal
+```Am I Real?``` - a tool to check if a photo could have been generated by AI/GAN: https://github.com/seintpl/AmIReal
 
-web-check - Get info on a websites SSL certs, domain, headers, cookies, DNS records, technologies used, performance, hostnames, crawl rules, server info and more: https://github.com/Lissy93/web-check
+```web-check``` - Get info on a websites SSL certs, domain, headers, cookies, DNS records, technologies used, performance, hostnames, crawl rules, server info and more: https://github.com/Lissy93/web-check
 
 ----
 

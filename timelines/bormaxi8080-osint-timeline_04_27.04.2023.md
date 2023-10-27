@@ -32,16 +32,16 @@ Wireshark Filters for Security Analyst: https://www.socinvestigation.com/wiresha
 
 ### Tools:
 
-- Katana - A next-generation crawling and spidering framework: https://github.com/projectdiscovery/katana
+- ```Katana``` - A next-generation crawling and spidering framework: https://github.com/projectdiscovery/katana
 
-- eNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with…
+- ```eNgine``` is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with…
    https://github.com/yogeshojha/rengine
 
-- Fast and lightweight, UDPX is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use: https://github.com/nullt3r/udpx
+- Fast and lightweight, ```UDPX``` is a single-packet UDP scanner written in Go that supports the discovery of over 45 services with the ability to add custom ones. It is easy to use and portable, and can be run on Linux, Mac OS, and Windows. Unlike internet-wide scanners like zgrab2 and zmap, UDPX is designed for portability and ease of use: https://github.com/nullt3r/udpx
 
-- PowerMeUp - A small library of powershell scripts for post exploitation that you may need or use! It is also a custom reverse shell that you can use to add modules of your choice and not be stuck to things you do not need or use: https://github.com/ItsCyberAli/PowerMeUp
+- ```PowerMeUp``` - A small library of powershell scripts for post exploitation that you may need or use! It is also a custom reverse shell that you can use to add modules of your choice and not be stuck to things you do not need or use: https://github.com/ItsCyberAli/PowerMeUp
 
--  The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples. The extraction techniques are performed completely independent of the system being investigated but offer visibilty into the runtime state of the system. The framework is intended to introduce people to the techniques and complexities associated with extracting digital artifacts from volatile memory samples and provide a platform for further work into this exciting area of research: https://github.com/volatilityfoundation/volatility
+-  ```The Volatility Framework``` is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples. The extraction techniques are performed completely independent of the system being investigated but offer visibilty into the runtime state of the system. The framework is intended to introduce people to the techniques and complexities associated with extracting digital artifacts from volatile memory samples and provide a platform for further work into this exciting area of research: https://github.com/volatilityfoundation/volatility
 
 ----
 

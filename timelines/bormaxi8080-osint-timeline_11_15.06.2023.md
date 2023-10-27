@@ -4,7 +4,7 @@
 
 ----
 
-OSINT Immersion Bundle. My OSINT Training's OSINT Immersion bundle of courses teaches you the core concepts you will need to be successful in the OSINT world by focusing on easy-to-follow concepts. Taught by Micah Hoffman and Griffin Glynn (650+ minutes): https://www.myosint.training/bundles/osint-immersion
+```OSINT Immersion Bundle```. My OSINT Training's OSINT Immersion bundle of courses teaches you the core concepts you will need to be successful in the OSINT world by focusing on easy-to-follow concepts. Taught by Micah Hoffman and Griffin Glynn (650+ minutes): https://www.myosint.training/bundles/osint-immersion
 
 OSINT Methods To Investigate Suspected AI Generated Content - Guide: https://blog.shadowdragon.io/how-to-tell-if-content-is-created-by-artificial-intelligence
 
@@ -14,15 +14,15 @@ OSINT Methods To Investigate Suspected AI Generated Content - Guide: https://blo
 
 Best Online Tools for Telegram Investigations: https://medium.com/@TheInvestigatorBlog/best-online-tools-for-telegram-investigations-9746b17c90d8
 
-Saporo helps you understand your environment from the perspective of an attacker. Identify and address attack paths, misconfigurations and other vulnerabilities by continuously mapping assets, discovering risks, and prioritizing remediation efforts for IT and security teams: https://www.saporo.io/product
+```Saporo``` helps you understand your environment from the perspective of an attacker. Identify and address attack paths, misconfigurations and other vulnerabilities by continuously mapping assets, discovering risks, and prioritizing remediation efforts for IT and security teams: https://www.saporo.io/product
 
-Logsensor - A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning: https://github.com/Mr-Robert0/Logsensor
+```Logsensor``` - A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning: https://github.com/Mr-Robert0/Logsensor
 
-DNS History - Largest archive of DNS records - Domain History: https://completedns.com/dns-history/
+```DNS History``` - Largest archive of DNS records - Domain History: https://completedns.com/dns-history/
 
-OSINT-SPY - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target: https://github.com/SharadKumar97/OSINT-SPY
+```OSINT-SPY``` - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target: https://github.com/SharadKumar97/OSINT-SPY
 
-Octopus - Open source pre-operation C2 server based on Python and PowerShell: https://github.com/mhaskar/Octopus/
+```Octopus``` - Open source pre-operation C2 server based on Python and PowerShell: https://github.com/mhaskar/Octopus/
 
 ----
 

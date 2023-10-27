@@ -26,7 +26,7 @@ PentestGPT - a GPT-empowered penetration testing tool: https://github.com/GreyDG
 
 ### Platforms:
 
-Ethos - the OT-centric, open-source platform for sharing anonymous early warning threat information: https://www.ethos-org.io/
+```Ethos``` - the OT-centric, open-source platform for sharing anonymous early warning threat information: https://www.ethos-org.io/
 
 ----
 
@@ -40,18 +40,18 @@ Around the globe, industry-leading organizations use IPinfo's geolocation data t
 
 ### Tools:
 
-- Wolfram uniquely unifies algorithms, data, notebooks, linguistics and deployment—enabling powerful workflows across desktop, cloud, server and mobile: https://www.wolfram.com/
+- ```Wolfram``` uniquely unifies algorithms, data, notebooks, linguistics and deployment—enabling powerful workflows across desktop, cloud, server and mobile: https://www.wolfram.com/
 
-- Cyber X-Ray (https://cyber-xray.com/) - A pretty domain list scanner and domain investigation service.
+- ```Cyber X-Ray``` (https://cyber-xray.com/) - A pretty domain list scanner and domain investigation service.
 
-- Visual Site Mapper is a free service that can quickly show a map of a site. The service is available at [http://www.visualsitemapper.com](http://www.visualsitemapper.com/) 
+- ```Visual Site Mapper``` is a free service that can quickly show a map of a site. The service is available at [http://www.visualsitemapper.com](http://www.visualsitemapper.com/) 
    GitHub: https://github.com/alentum/sitemapper-nodejs
 
-- Sourcegraph - Searching millions of public repositories: https://sourcegraph.com/search
+- ```Sourcegraph``` - Searching millions of public repositories: https://sourcegraph.com/search
 
-- Just-Metadata is a tool that gathers and analyzes metadata about IP addresses. It attempts to find relationships between systems within a large dataset: https://github.com/FortyNorthSecurity/Just-Metadata
+- ```Just-Metadata``` is a tool that gathers and analyzes metadata about IP addresses. It attempts to find relationships between systems within a large dataset: https://github.com/FortyNorthSecurity/Just-Metadata
 
-- killport is a command-line utility for killing processes listening on specific ports. It's designed to be simple, fast, and effective. The tool is built with Rust and works on Linux and macOS: https://github.com/jkfran/killport
+- ```killport``` is a command-line utility for killing processes listening on specific ports. It's designed to be simple, fast, and effective. The tool is built with Rust and works on Linux and macOS: https://github.com/jkfran/killport
 
 ----
 

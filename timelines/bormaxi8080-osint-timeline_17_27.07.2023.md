@@ -22,23 +22,23 @@ Like most of us, criminals enjoy the benefits of online activities and social ne
 
 ----
 
-Australian Open Source Intelligence Gathering Resources, Australias Largest Open Source Intelligence Repository for Cyber Professionals and Ethical Hackers: https://github.com/DFW1N/DFW1N-OSINT
+```Australian Open Source Intelligence Gathering Resources```, Australias Largest Open Source Intelligence Repository for Cyber Professionals and Ethical Hackers: https://github.com/DFW1N/DFW1N-OSINT
 
 ----
 
-Build an email spam detector using Amazon SageMaker: https://aws.amazon.com/blogs/machine-learning/build-an-email-spam-detector-using-amazon-sagemaker/
+Build an email spam detector using ```Amazon SageMaker```: https://aws.amazon.com/blogs/machine-learning/build-an-email-spam-detector-using-amazon-sagemaker/
 
 ----
 
 Search, drag and compare size on maps: https://www.thetruesize.com/
 
-Do you want to leverage shadows in geolocation investigations? You can benefit from SunCalc: http://suncalc.org/
+Do you want to leverage shadows in geolocation investigations? You can benefit from ```SunCalc```: http://suncalc.org/
 
-Image investigation tools on Malfrat's OSINT Map: https://map.malfrats.industries/
+```Image investigation tools``` on Malfrat's OSINT Map: https://map.malfrats.industries/
 
 http://leonardo.ai: AI graphic Swiss Army knife: Image generation (dozens of models) Canvas generation Texture generation Partly free, but very powerfull toolkit.
 
-More than Mountaineering: Using PeakVisor for Geolocation: https://www.bellingcat.com/resources/2023/07/13/more-than-mountaineering-using-peakvisor-for-geolocation
+More than Mountaineering: Using ```PeakVisor``` for Geolocation: https://www.bellingcat.com/resources/2023/07/13/more-than-mountaineering-using-peakvisor-for-geolocation
 
 ----
 
@@ -46,21 +46,21 @@ An n-gram is a collection of n successive items in a text document that may incl
 
 20 command line tools for forensic investigation of Windows artifacts: https://github.com/dfir-dd/dfir-toolkit
 
-Elcomsoft iOS Forensic Toolkit Tips & Tricks: https://blog.elcomsoft.com/2023/07/ios-forensic-toolkit-tips-tricks/
+```Elcomsoft iOS Forensic Toolkit``` Tips & Tricks: https://blog.elcomsoft.com/2023/07/ios-forensic-toolkit-tips-tricks/
 
-HackBrowserData is a command-line tool for decrypting and exporting browser data ( passwords, history, cookies, bookmarks, credit cards, download records, localStorage and extension ) from the browser. It supports the most popular browsers on the market and runs on Windows, macOS and Linux.: https://github.com/moonD4rk/HackBrowserData
+```HackBrowserData``` is a command-line tool for decrypting and exporting browser data ( passwords, history, cookies, bookmarks, credit cards, download records, localStorage and extension ) from the browser. It supports the most popular browsers on the market and runs on Windows, macOS and Linux.: https://github.com/moonD4rk/HackBrowserData
 
-WhatsApp spy - logs online/offline events from ANYONE in the world: https://github.com/jasperan/whatsapp-osint
+```WhatsApp Spy``` - logs online/offline events from ANYONE in the world: https://github.com/jasperan/whatsapp-osint
 
-zbox-fs - Zero-details, privacy-focused in-app file system: https://github.com/zboxfs/zbox
+```zbox-fs``` - Zero-details, privacy-focused in-app file system: https://github.com/zboxfs/zbox
 
-Lupo - Malware IOC Extractor. Debugging module for Malware Analysis Automation: https://github.com/malienist/lupo
+```Lupo``` -  Malware IOC Extractor. Debugging module for Malware Analysis Automation: https://github.com/malienist/lupo
 
-ADCSKiller is a Python-based tool designed to automate the process of discovering and exploiting Active Directory Certificate Services (ADCS) vulnerabilities. It leverages features of Certipy and Coercer to simplify the process of attacking ADCS infrastructure: https://github.com/grimlockx/ADCSKiller
+```ADCSKiller``` is a Python-based tool designed to automate the process of discovering and exploiting Active Directory Certificate Services (ADCS) vulnerabilities. It leverages features of Certipy and Coercer to simplify the process of attacking ADCS infrastructure: https://github.com/grimlockx/ADCSKiller
 
-netspionage - Network Forensics CLI utility that performs Network Scanning, OSINT, and Attack Detection: https://github.com/ANG13T/netspionage
+```netspionage``` - Network Forensics CLI utility that performs Network Scanning, OSINT, and Attack Detection: https://github.com/ANG13T/netspionage
 
-BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text: https://github.com/redhuntlabs/BucketLoot
+```BucketLoot``` is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text: https://github.com/redhuntlabs/BucketLoot
 
 ----
 

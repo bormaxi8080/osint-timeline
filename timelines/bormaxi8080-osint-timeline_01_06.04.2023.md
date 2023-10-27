@@ -25,7 +25,7 @@ Link to source code: https://github.com/search?q=repo%3Atwitter%2Fthe-algorithm+
 
 ### Education:
 
-- MOT ([MyOSINT.Training](http://myosint.training/)) will become your trusted source for OSINT (Open Source Intelligence) training. Our industry-leading trainers understand not only how to find data on the internet but teach how and why to use these techniques so everyone can follow along and get the most from these courses. Whether you work at a small, medium, or enterprise-sized company or are just interested in growing your OSINT skills, we have affordable courses to help.
+- ```MOT``` ([MyOSINT.Training](http://myosint.training/)) will become your trusted source for OSINT (Open Source Intelligence) training. Our industry-leading trainers understand not only how to find data on the internet but teach how and why to use these techniques so everyone can follow along and get the most from these courses. Whether you work at a small, medium, or enterprise-sized company or are just interested in growing your OSINT skills, we have affordable courses to help.
 
 ----
 
@@ -49,21 +49,21 @@ Link to source code: https://github.com/search?q=repo%3Atwitter%2Fthe-algorithm+
 
 ### Tools:
 
-- Investigator helps you quickly check and gather information about the target domain name: https://abhijithb200.github.io/investigator/
+- ```Investigator``` helps you quickly check and gather information about the target domain name: https://abhijithb200.github.io/investigator/
 
-- ReconAIzer: a Burp Suite extension to add OpenAI to Burp to help you with your Bug Bounty recon: https://github.com/hisxo/ReconAIzer
+- ```ReconAIzer```: a Burp Suite extension to add OpenAI to Burp to help you with your Bug Bounty recon: https://github.com/hisxo/ReconAIzer
 
-- Take back your privacy. Lose yourself in the haystack. Your ISP is most likely tracking your browsing habits and selling them to marketing agencies (albeit anonymised). Or worse, making your browsing history available to law enforcement at the hint of a Subpoena. Needl will generate random Internet traffic in an attempt to conceal your legitimate traffic, essentially making your data the Needle in the haystack and thus harder to find. The goal is to make it harder for your ISP, government, etc to track your browsing history and habits: https://github.com/eth0izzle/Needl
+- Take back your privacy. Lose yourself in the haystack. Your ISP is most likely tracking your browsing habits and selling them to marketing agencies (albeit anonymised). Or worse, making your browsing history available to law enforcement at the hint of a Subpoena. ```Needl``` will generate random Internet traffic in an attempt to conceal your legitimate traffic, essentially making your data the Needle in the haystack and thus harder to find. The goal is to make it harder for your ISP, government, etc to track your browsing history and habits: https://github.com/eth0izzle/Needl
 
-- An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a Tweets and more while evading most API limitations: https://github.com/achyuthjoism/tweeds
+- ```Tweeds``` - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a Tweets and more while evading most API limitations: https://github.com/achyuthjoism/tweeds
 
-- gitGraber: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe: https://github.com/hisxo/gitGraber
+- ```gitGraber```: monitor GitHub to search and find sensitive data in real time for different online services such as: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe: https://github.com/hisxo/gitGraber
 
-- SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed: https://github.com/hisxo/SecLists
+- ```SecLists``` is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed: https://github.com/hisxo/SecLists
 
-- Pipeline of a keylogging attack using just an audio signal and unsupervised learning: https://github.com/shoyo/acoustic-keylogger
+- ```Acoustic Keylogger``` - Pipeline of a keylogging attack using just an audio signal and unsupervised learning: https://github.com/shoyo/acoustic-keylogger
 
-- Domain_checker application is the trial/demo version for the new EASM (External Attack Surface Management) system called HydrAttack (hydrattack.com), the main idea of which is, based only on the domain name, find almost all of the subdomains and their top 100 open ports: https://github.com/IvanGlinkin/Domain_checker
+- ```Domain_checker``` application is the trial/demo version for the new EASM (External Attack Surface Management) system called HydrAttack (hydrattack.com), the main idea of which is, based only on the domain name, find almost all of the subdomains and their top 100 open ports: https://github.com/IvanGlinkin/Domain_checker
 
 - Have you ever faced with the lack of possibility of using NMap? For instance if you have reverse shell as an unprivileged user and there are no useful tools preinstalled? This is a small script which will help you to scan a network for live hosts and top 24 ports if you have nothing: https://github.com/IvanGlinkin/Host-enumeration
 

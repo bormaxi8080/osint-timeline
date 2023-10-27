@@ -15,36 +15,36 @@ Technology publication CNET removed thousands of old articles - it decided that 
 
 ----
 
-Global Modern Slavery Directory - Connecting victims and survivors to support and services around the world: https://globalmodernslavery.org/
+```Global Modern Slavery Directory``` - Connecting victims and survivors to support and services around the world: https://globalmodernslavery.org/
 
-Audio OSINT - "Duch OSINT Guy" [Nico Dekens](https://www.linkedin.com/in/dutch-osintguy/) blog: https://www.dutchosintguy.com/post/audio-osint
+```Audio OSINT``` - "Duch OSINT Guy" [Nico Dekens](https://www.linkedin.com/in/dutch-osintguy/) blog: https://www.dutchosintguy.com/post/audio-osint
 
-Ceno (short for censorship.no!) is the world’s first mobile browser that side-steps current Internet censorship methods. Its peer-to-peer backbone allows people to access and share web information in and across regions where connectivity has been interrupted or compromised: https://censorship.no/en/index.html
+```Ceno``` (short for censorship.no!) is the world’s first mobile browser that side-steps current Internet censorship methods. Its peer-to-peer backbone allows people to access and share web information in and across regions where connectivity has been interrupted or compromised: https://censorship.no/en/index.html
 
 Facebook still widely used among bad actors. Full of posts, comments, and discussions, adversaries use coded messages with emojis to disseminate information on preparing criminal acts or intention for such. Moreover, building a psychological profile, finding motives behind a crime (or intention for crime), is crucial aspect of crime prevention and allows us to take proactive security measures to mitigate risks related to our physical or cyber safety. Here is one of the still working tools to search for content in Facebook, better through a sock puppet: https://fb-search.com/ 
 
 Need to compare different maps? Check out [https://mc.bbbike.org/mc/](https://mc.bbbike.org/mc/)  
 This tool lets you compare various [#maps](https://www.linkedin.com/feed/hashtag/?keywords=maps&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7094542799798157312) seamlessly, perfect for enhancing your geographic analysis.
 
-Enola - a Sherlock's sister, Modern shiny CLI tool written with Golang to help you. Hunt down social media accounts by username across social networks: https://github.com/TheYahya/enola
+```Enola``` - a Sherlock's sister, Modern shiny CLI tool written with Golang to help you. Hunt down social media accounts by username across social networks: https://github.com/TheYahya/enola
 
-Social Media Analysis Toolkit (SMAT) - Tools developed to analyze social media, particularly hate and disinformation, at scale.: https://github.com/EmmiBevensee/social-media-analysis-toolkit
+```Social Media Analysis Toolkit (SMAT)``` - Tools developed to analyze social media, particularly hate and disinformation, at scale.: https://github.com/EmmiBevensee/social-media-analysis-toolkit
 
-Scalpel is a Python Static Analysis Framework. It provides essential program analysis functions for facilitating the implementation of client applications focusing on statically resolving dedicated problems: https://github.com/SMAT-Lab/Scalpel
+```Scalpel``` is a Python Static Analysis Framework. It provides essential program analysis functions for facilitating the implementation of client applications focusing on statically resolving dedicated problems: https://github.com/SMAT-Lab/Scalpel
 
-TraxOSINT - OSINT tool for track IP adress: https://github.com/N0rz3/TraxOsint
-
-----
-
-Twint - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations: https://github.com/twintproject/twint
-
-TwOSINT - Python tool that automates the process of Twitter OSiNT investigation using twint: https://github.com/falkensmz/tw1tter0s1nt
+```TraxOSINT``` - OSINT tool for track IP adress: https://github.com/N0rz3/TraxOsint
 
 ----
 
-Telegram STUN Interception Tool is now available for download. It hooks into the Telegram process and adds a new menu that allows you to unmask users' identities through a known leak in the protocols that apps such as Telegram are using, this software might also work with other chat apps such as Signal: https://websec.nl/downloads
+```Twint``` - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations: https://github.com/twintproject/twint
 
-stunserver version 1.2 - a source code to STUNTMAN - an open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Compiles on Linux, MacOS, BSD, Solaris, and Win32 with Cygwin. Windows binaries avaialble from [www.stunprotocol.org](http://www.stunprotocol.org/).: https://github.com/jselbie/stunserver
+```TwOSINT``` - Python tool that automates the process of Twitter OSiNT investigation using twint: https://github.com/falkensmz/tw1tter0s1nt
+
+----
+
+```Telegram STUN Interception Tool``` is now available for download. It hooks into the Telegram process and adds a new menu that allows you to unmask users' identities through a known leak in the protocols that apps such as Telegram are using, this software might also work with other chat apps such as Signal: https://websec.nl/downloads
+
+```stunserver``` version 1.2 - a source code to STUNTMAN - an open source STUN server and client code by john selbie. Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Compiles on Linux, MacOS, BSD, Solaris, and Win32 with Cygwin. Windows binaries avaialble from [www.stunprotocol.org](http://www.stunprotocol.org/).: https://github.com/jselbie/stunserver
 
 A Go implementation of STUN: https://github.com/pion/stun
 

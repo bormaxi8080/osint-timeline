@@ -40,35 +40,35 @@ Threat-Informed Defense Ecosystem: https://start.me/p/X25q7l/threat-informed-def
 
 - The easiest way to run WireGuard VPN + Web-based Admin UI: https://github.com/WeeJeWel/wg-easy
 
-- ArchiveBox: Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more: https://github.com/ArchiveBox/ArchiveBox
+- ```ArchiveBox```: Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more: https://github.com/ArchiveBox/ArchiveBox
 
-- Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. genact has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all: https://github.com/svenstaro/genact
+- Pretend to be busy or waiting for your computer when you should actually be doing real work! Impress people with your insane multitasking skills. Just open a few instances of genact and watch the show. ```Genact``` has multiple scenes that pretend to be doing something exciting or useful when in reality nothing is happening at all: https://github.com/svenstaro/genact
 
-- If you need to save time while assessing a bunch of web servers, try Gowitness, a website screenshot tool also captures the HTML responses and HTTP headers: https://github.com/sensepost/gowitness
+- If you need to save time while assessing a bunch of web servers, try ```Gowitness```, a website screenshot tool also captures the HTML responses and HTTP headers: https://github.com/sensepost/gowitness
 
-- mip22 is a advanced phishing tool. ### 83 default websites, clone any site with manual method, add any site with customize method, mask link with subdomains, url shortener, audio notice for view the credentials live, music in background etc.: https://github.com/makdosx/mip22
+- ```mip22``` is a advanced phishing tool. ### 83 default websites, clone any site with manual method, add any site with customize method, mask link with subdomains, url shortener, audio notice for view the credentials live, music in background etc.: https://github.com/makdosx/mip22
 
-- Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts: https://github.com/cisagov/Malcolm
+- ```Malcolm``` is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts: https://github.com/cisagov/Malcolm
 
-- BadSecrets - a library for detecting known secrets across many web frameworks: https://github.com/blacklanternsecurity/badsecrets
+- ```BadSecrets``` - a library for detecting known secrets across many web frameworks: https://github.com/blacklanternsecurity/badsecrets
 
-- GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily: https://github.com/GONZOsint/gvision
+- ```GVision``` is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily: https://github.com/GONZOsint/gvision
 
-- Cyberdoor - Automated Payload Generator Tool: https://github.com/AnonymousAt3/cyberdoor
+- ```Cyberdoor``` - Automated Payload Generator Tool: https://github.com/AnonymousAt3/cyberdoor
 
-- OrbitalDump - A simple multi-threaded distributed SSH brute-forcing tool written in Python: https://github.com/k4yt3x/orbitaldump
+- ```OrbitalDump``` - A simple multi-threaded distributed SSH brute-forcing tool written in Python: https://github.com/k4yt3x/orbitaldump
 
-- LAZYPARIAH - A tool for generating reverse shell payloads on the fly.: https://github.com/octetsplicer/LAZYPARIAH
+- ```LAZYPARIAH``` - A tool for generating reverse shell payloads on the fly.: https://github.com/octetsplicer/LAZYPARIAH
 
-- Quidam allows you to retrieve information thanks to the forgotten password function of some sites: https://github.com/megadose/Quidam
+- ```Quidam``` allows you to retrieve information thanks to the forgotten password function of some sites: https://github.com/megadose/Quidam
 
-- CertWatcher is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL: https://github.com/drfabiocastro/certwatcher
+- ```CertWatcher``` is a tool for capture and tracking certificate transparency logs, using YAML templates based DSL: https://github.com/drfabiocastro/certwatcher
 
-- Community curated list of templates for the Certwatcher: https://github.com/drfabiocastro/certwatcher-templates
+- Community curated list of templates for the ```CertWatcher```: https://github.com/drfabiocastro/certwatcher-templates
 
-- pbgopy acts like [pbcopy/pbpaste](https://www.unix.com/man-page/osx/1/pbcopy/) but for multiple devices. It lets you share data across devices like you copy and paste: https://github.com/nakabonne/pbgopy
+- ```pbgopy``` acts like [pbcopy/pbpaste](https://www.unix.com/man-page/osx/1/pbcopy/) but for multiple devices. It lets you share data across devices like you copy and paste: https://github.com/nakabonne/pbgopy
 
-- pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching: https://github.com/opsdisk/pagodo
+- ```pagodo``` (Passive Google Dork) - Automate Google Hacking Database scraping and searching: https://github.com/opsdisk/pagodo
 
 ----
 
