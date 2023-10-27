@@ -7,6 +7,8 @@ Separating Fact from Fiction on Social Media in Times of Conflict from Bellingca
 
 ----
 
+Collection of OSINT submodules/scripts/tools from ```notdodo```: https://github.com/notdodo/Tools
+
 ```PasteGo``` - Scrape/Parse Pastebin using GO and expression grammar (PEG): https://github.com/notdodo/pastego
 
 ```NMapAutomator``` - A script that you can run in the background: https://github.com/mr-rizwan-syed/nmapAutomator
