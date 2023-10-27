@@ -18,3 +18,5 @@ Collection of OSINT submodules/scripts/tools from ```notdodo```: https://github.
 ```HOMTE.SH``` is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, making it a valuable asset for bug bounty hunters and penetration testers: https://github.com/mr-rizwan-syed/chomtesh
 
 ```Wacker``` - A WPA3 dictionary cracker: https://github.com/blunderbuss-wctf/wacker
+
+```uriDeep``` - Unicode encoding attacks with machine learning. Tool based on machine learning to create amazing fake domains using confusables. Some domains can deceive IDN policies (Chrome & Firefox): https://github.com/mindcrypt/uriDeep
