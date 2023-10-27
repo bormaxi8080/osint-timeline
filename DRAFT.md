@@ -7,6 +7,8 @@ Separating Fact from Fiction on Social Media in Times of Conflict from Bellingca
 
 ----
 
+```PasteGo``` - Scrape/Parse Pastebin using GO and expression grammar (PEG): https://github.com/notdodo/pastego
+
 ```NMapAutomator``` - A script that you can run in the background: https://github.com/mr-rizwan-syed/nmapAutomator
 
 ```NaiveProxy``` uses Chromium's network stack to camouflage traffic with strong censorship resistence and low detectablility. Reusing Chrome's stack also ensures best practices in performance and security.: https://github.com/klzgrad/naiveproxy
