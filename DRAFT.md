@@ -11,7 +11,7 @@ Separating Fact from Fiction on Social Media in Times of Conflict from Bellingca
 
 Collection of OSINT submodules/scripts/tools from ```notdodo```: https://github.com/notdodo/Tools
 
-```SecLists``` is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.: https://github.com/drwetter/SecLists
+```SecLists``` is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed: https://github.com/drwetter/SecLists
 
 ----
 
