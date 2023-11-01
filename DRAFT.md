@@ -55,6 +55,8 @@ In video veritas, if we divert the old Latin saying: In video, there is truth! T
 
 ```HOMTE.SH``` is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, making it a valuable asset for bug bounty hunters and penetration testers: https://github.com/mr-rizwan-syed/chomtesh
 
+PatchaPalooza - A comprehensive tool that provides an insightful analysis of Microsoft's monthly security updates: https://github.com/xaitax/PatchaPalooza
+
 ```Wacker``` - A WPA3 dictionary cracker: https://github.com/blunderbuss-wctf/wacker
 
 ```Kraken``` - A multi-platform distributed brute-force password cracking system: https://github.com/arcaneiceman/kraken
