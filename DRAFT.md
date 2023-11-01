@@ -11,6 +11,8 @@ Separating Fact from Fiction on Social Media in Times of Conflict from Bellingca
 
 Collection of OSINT submodules/scripts/tools from ```notdodo```: https://github.com/notdodo/Tools
 
+```SecLists``` is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.: https://github.com/drwetter/SecLists
+
 ----
 
 ```Amnezia-WG``` VPN protocol - AmneziaWG is a contemporary version of the WireGuard protocol. It's a fork of WireGuard-Go and offers protection against detection by Deep Packet Inspection (DPI) systems. At the same time, it retains the simplified architecture and high performance of the original: https://github.com/amnezia-vpn/amnezia-wg
@@ -39,6 +41,10 @@ In video veritas, if we divert the old Latin saying: In video, there is truth! T
 
 ```NMapAutomator``` - A script that you can run NMap scans in the background: https://github.com/mr-rizwan-syed/nmapAutomator
 
+```testssl.sh``` is a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws: https://github.com/drwetter/testssl.sh
+
+```Firezone``` - WireGuard®-based scalable remote access platform: https://github.com/firezone/firezone
+
 ```SCodeScanner``` stands for Source Code scanner where the user can scans the source code for finding the Critical Vulnerabilities: https://github.com/agrawalsmart7/scodescanner
 
 ```Darkus``` is a Onion websites searcher it uses deep/dark web searcher engines to search a specific word and give you back the link results: https://github.com/Lucksi/Darkus
@@ -54,5 +60,7 @@ In video veritas, if we divert the old Latin saying: In video, there is truth! T
 ```Kraken``` - A multi-platform distributed brute-force password cracking system: https://github.com/arcaneiceman/kraken
 
 ```uriDeep``` - Unicode encoding attacks with machine learning. Tool based on machine learning to create amazing fake domains using confusables. Some domains can deceive IDN policies (Chrome & Firefox): https://github.com/mindcrypt/uriDeep
+
+```autoNTDS``` is an automation script designed to simplify the process of dumping and cracking NTDS hashes using secretsdump.py and hashcat: https://github.com/hmaverickadams/autoNTDS
 
 ```c41n``` provides automated setup of several types of Rogue Access Points, and Evil Twin attacks. **c41n** sets up an access point with user defined characteristics (interface, name and channel for the access point), sets up DHCP server for the access point, and provides user with abilities of HTTP traffic sniffing, or Captive Portal setup with credential sniffing: https://github.com/MS-WEB-BN/c41n
