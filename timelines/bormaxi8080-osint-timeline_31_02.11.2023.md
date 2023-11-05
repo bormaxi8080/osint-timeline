@@ -50,7 +50,7 @@ In video veritas, if we divert the old Latin saying: In video, there is truth! T
 
 ```Darkus``` is a Onion websites searcher it uses deep/dark web searcher engines to search a specific word and give you back the link results: https://github.com/Lucksi/Darkus
 
-```NativeProxy``` uses Chromium's network stack to camouflage traffic with strong censorship resistence and low detectablility. Reusing Chrome's stack also ensures best practices in performance and security.: https://github.com/klzgrad/naiveproxy
+```NaiveProxy``` uses Chromium's network stack to camouflage traffic with strong censorship resistence and low detectablility. Reusing Chrome's stack also ensures best practices in performance and security.: https://github.com/klzgrad/naiveproxy
 
 ```DeadFinder``` - Dead link (broken link) means a link within a web page that cannot be connected. These links can have a negative impact to SEO and Security. This tool makes it easy to identify and modify: https://github.com/hahwul/deadfinder
 
