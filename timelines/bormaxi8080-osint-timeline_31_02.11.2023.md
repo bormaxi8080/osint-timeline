@@ -56,7 +56,7 @@ In video veritas, if we divert the old Latin saying: In video, there is truth! T
 
 ```HOMTE.SH``` is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, making it a valuable asset for bug bounty hunters and penetration testers: https://github.com/mr-rizwan-syed/chomtesh
 
-PatchaPalooza - A comprehensive tool that provides an insightful analysis of Microsoft's monthly security updates: https://github.com/xaitax/PatchaPalooza
+```PatchaPalooza``` - A comprehensive tool that provides an insightful analysis of Microsoft's monthly security updates: https://github.com/xaitax/PatchaPalooza
 
 ```Wacker``` - A WPA3 dictionary cracker: https://github.com/blunderbuss-wctf/wacker
 
@@ -67,7 +67,6 @@ PatchaPalooza - A comprehensive tool that provides an insightful analysis of Mic
 ```autoNTDS``` is an automation script designed to simplify the process of dumping and cracking NTDS hashes using secretsdump.py and hashcat: https://github.com/hmaverickadams/autoNTDS
 
 ```c41n``` provides automated setup of several types of Rogue Access Points, and Evil Twin attacks. **c41n** sets up an access point with user defined characteristics (interface, name and channel for the access point), sets up DHCP server for the access point, and provides user with abilities of HTTP traffic sniffing, or Captive Portal setup with credential sniffing: https://github.com/MS-WEB-BN/c41n
-
 
 ----
 
