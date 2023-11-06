@@ -10,6 +10,8 @@ Don't type texts on the Internet, or Obfuscating the time between keystrokes in 
 
 ----
 
+GSec Web Security Scanner: https://github.com/gotr00t0day/Gsec
+
 Kics - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx: https://github.com/Checkmarx/kics
 
 Erlik - Vulnerable Soap Service: https://github.com/anil-yelken/Vulnerable-Soap-Service
