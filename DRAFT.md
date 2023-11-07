@@ -28,6 +28,8 @@ Kics - Find security vulnerabilities, compliance issues, and infrastructure misc
 
 Erlik - Vulnerable Soap Service: https://github.com/anil-yelken/Vulnerable-Soap-Service
 
+ROP (Return Oriented Programming) Gadgets are small snippets of a few assembly instructions typically ending in a `ret` instruction which already exist as executable code within each binary or library. These gadgets may be used for binary exploitation and to subvert vulnerable executables: https://github.com/Ben-Lichtman/ropr
+
 PwnedPassCheck - Check passwords and hashes against the haveibeenpwned.com Pwned Passwords API using PowerShell: https://github.com/rmbolger/PwnedPassCheck
 
 Shellz - A script for generating common revshells fast and easy: https://github.com/4ndr34z/shells
