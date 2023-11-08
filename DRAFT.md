@@ -36,6 +36,8 @@ GitHub: https://github.com/FerretDB/FerretDB
 
 TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files. It provides insights into various network protocols and can help with network troubleshooting, security analysis, and more: https://github.com/HalilDeniz/TrafficWatch
 
+AICommits - a CLI that writes your git commit messages for you with AI. Never write a commit message again: https://github.com/Nutlope/aicommits
+
 Updatable - Finds packages that require updates on a python environment: https://github.com/nezhar/updatable
 
 Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI: https://github.com/agusmakmun/django-markdown-editor
