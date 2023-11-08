@@ -14,6 +14,12 @@ Mainly YouTube, tools, techniques & tradecraft OSINT resources: https://github.c
 
 ----
 
+FerretDB was founded to become the de-facto open-source substitute to MongoDB. FerretDB is an open-source proxy, converting the MongoDB 6.0+ wire protocol queries to SQL - using PostgreSQL or SQLite as a database engine: https://www.ferretdb.com/
+
+GitHub: https://github.com/FerretDB/FerretDB
+
+----
+
 Nuclei Templates collections from CyberDetective:
 
 8000+ of WordPress related Nuclei templates https://github.com/topscoder/nuclei-wordfence-cve
@@ -28,11 +34,6 @@ Juicy info: https://github.com/cipher387/juicyinfo-nuclei-templates
 
 ----
 
-FerretDB was founded to become the de-facto open-source substitute to MongoDB. FerretDB is an open-source proxy, converting the MongoDB 6.0+ wire protocol queries to SQL - using PostgreSQL or SQLite as a database engine: https://www.ferretdb.com/
-
-GitHub: https://github.com/FerretDB/FerretDB
-
-----
 
 TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files. It provides insights into various network protocols and can help with network troubleshooting, security analysis, and more: https://github.com/HalilDeniz/TrafficWatch
 
