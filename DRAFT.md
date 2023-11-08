@@ -46,6 +46,8 @@ Immich - High performance self-hosted photo and video backup solution: https://g
 
 Norse aims to exploit the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands [PyTorch](https://pytorch.org/) with primitives for bio-inspired neural components, bringing you two advantages: a modern and proven infrastructure based on PyTorch and deep learning-compatible spiking neural network components: https://github.com/norse/norse
 
+Sagemode Jutsu is a straightforward and efficient Open Source Intelligence (OSINT) tool created with simplicity in mind. It allows users to search for specific usernames across various online platforms, aiding digital investigators and cybersecurity enthusiasts in their research: https://github.com/senran101604/sagemode
+
 Mosint is an automated email osint tool written in Go that allows you investigate for target emails in a fast and efficient manner. It consolidates numerous services, enabling security researchers to swiftly access a wealth of information: https://github.com/alpkeskin/mosint
 
 ----
