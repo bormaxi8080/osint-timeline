@@ -14,6 +14,26 @@ Mainly YouTube, tools, techniques & tradecraft OSINT resources: https://github.c
 
 ----
 
+Nuclei Templates collections from CyberDetective:
+
+8000+ of WordPress related Nuclei templates https://github.com/topscoder/nuclei-wordfence-cve
+
+Honey Pot Detection: https://github.com/UnaPibaGeek/honeypots-detection
+
+Fuzzing templates, search unknown vuln: https://github.com/projectdiscovery/fuzzing-templates
+
+Missing CVE: https://github.com/edoardottt/missing-cve-nuclei-templates
+
+Juicy info: https://github.com/cipher387/juicyinfo-nuclei-templates
+
+----
+
+FerretDB was founded to become the de-facto open-source substitute to MongoDB. FerretDB is an open-source proxy, converting the MongoDB 6.0+ wire protocol queries to SQL - using PostgreSQL or SQLite as a database engine: https://www.ferretdb.com/
+
+GitHub: https://github.com/FerretDB/FerretDB
+
+----
+
 TrafficWatch, a packet sniffer tool, allows you to monitor and analyze network traffic from PCAP files. It provides insights into various network protocols and can help with network troubleshooting, security analysis, and more: https://github.com/HalilDeniz/TrafficWatch
 
 Updatable - Finds packages that require updates on a python environment: https://github.com/nezhar/updatable
@@ -21,6 +41,14 @@ Updatable - Finds packages that require updates on a python environment: https:/
 Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI: https://github.com/agusmakmun/django-markdown-editor
 
 Speech-Condenser - A tool for summarizing dialogues from videos or audio: https://github.com/nezhar/speech-condenser
+
+Immich - High performance self-hosted photo and video backup solution: https://github.com/immich-app/immich
+
+Norse aims to exploit the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands [PyTorch](https://pytorch.org/) with primitives for bio-inspired neural components, bringing you two advantages: a modern and proven infrastructure based on PyTorch and deep learning-compatible spiking neural network components: https://github.com/norse/norse
+
+Mosint is an automated email osint tool written in Go that allows you investigate for target emails in a fast and efficient manner. It consolidates numerous services, enabling security researchers to swiftly access a wealth of information: https://github.com/alpkeskin/mosint
+
+----
 
 GSec Web Security Scanner: https://github.com/gotr00t0day/Gsec
 
