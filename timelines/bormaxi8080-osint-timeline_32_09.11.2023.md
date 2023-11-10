@@ -4,9 +4,9 @@ No time. Simplicity is precisely this. There is nothing more. This is the only t
 
 ----
 
-```Disguise for Musk```: how billionaires hide their flights and what comes of it: https://forbes.kz//leader/maskirovka_dlya_maska_kak_milliarderyi_skryivayut_svoi_pereletyi_i_chto_iz_etogo_vyihodit/
+```Disguise for Musk```- how billionaires hide their flights and what comes of it: https://forbes.kz//leader/maskirovka_dlya_maska_kak_milliarderyi_skryivayut_svoi_pereletyi_i_chto_iz_etogo_vyihodit/
 
-```GitHub will betray you```: deanonymization of SSH server users: https://habr.com/ru/articles/771688/
+```GitHub will betray you```- Deanonymization of SSH server users: https://habr.com/ru/articles/771688/
 
 Don't type texts on the Internet, or ```Obfuscating the time between keystrokes in SSH```: https://habr.com/ru/companies/ruvds/articles/770792/
 
