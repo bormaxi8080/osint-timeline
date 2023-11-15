@@ -11,6 +11,8 @@ You have been banned by a neural network. How the new Yandex algorithm is gradua
 
 strace is a diagnostic, debugging and instructional userspace utility for Linux: https://github.com/strace/strace
 
+mitmproxy2swagger - Automagically reverse-engineer REST APIs via capturing traffic: https://github.com/alufers/mitmproxy2swagger
+
 Docker Mailserver - A production-ready fullstack but simple containerized mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade: https://github.com/docker-mailserver/docker-mailserver
 
 Purified DNS: a CDN friendly and anti-pollution DNS forwarder server that does not rely on GeoIP/GeoDomain db: https://github.com/arloan/prdns
