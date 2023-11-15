@@ -9,6 +9,12 @@ You have been banned by a neural network. How the new Yandex algorithm is gradua
 
 ----
 
+Off the Cuff: Freak in the Google Sheets: https://www.bullshithunting.com/p/off-the-cuff-freak-in-the-google?r=39evm
+
+----
+
+keywords-highlight-bookmark - Browser Bookmark that will ask for keyword(s) and then color highlight these words on the webpage you visit: https://github.com/Dutchosintguy/keywords-highlight-bookmark/
+
 strace is a diagnostic, debugging and instructional userspace utility for Linux: https://github.com/strace/strace
 
 mitmproxy2swagger - Automagically reverse-engineer REST APIs via capturing traffic: https://github.com/alufers/mitmproxy2swagger
