@@ -7,6 +7,8 @@ A New Tool Allows Researchers to Track Damage in Gaza from Bellingcat: https://w
 
 Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero: https://www.whid.ninja/blog/denial-of-pleasure-attacking-unusual-ble-targets-with-a-flipper-zero
 
+Study: When we see what others do, our brain sees not what we see, but what we expect: https://medicalxpress.com/news/2023-11-brain.html
+
 ----
 
 
