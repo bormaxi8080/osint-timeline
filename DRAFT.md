@@ -13,4 +13,17 @@ Study: When we see what others do, our brain sees not what we see, but what we e
 
 ----
 
+8 basic methods of automating the collection of information from company websites
+
+search subdomains, mail servers, whois
+
+getting a list of URLs using WayBackUrls
+
+extract contact info with Nuclei twitter.com/pdnuclei 
+
+and more.
+
+https://medium.com/@cyb_detective/8-basic-methods-of-automating-the-collection-of-information-from-company-websites-9757f3cd1e06
+
+---
 
