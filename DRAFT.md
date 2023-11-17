@@ -27,3 +27,5 @@ https://medium.com/@cyb_detective/8-basic-methods-of-automating-the-collection-o
 
 ---
 
+Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS: https://github.com/pluja/awesome-privacy
+
