@@ -29,3 +29,5 @@ https://medium.com/@cyb_detective/8-basic-methods-of-automating-the-collection-o
 
 Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS: https://github.com/pluja/awesome-privacy
 
+subby by n0mi1k is a high-speed subdomain enumeration tool that excels in automatically detecting wildcard DNS records and filtering out invalid subdomains. It provides two enumeration modes-DNS for fast and stealthy queries and Web for detailed insights through HTTP(S) requests: https://github.com/vevv/subby
+
