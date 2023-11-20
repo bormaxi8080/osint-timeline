@@ -49,6 +49,8 @@ IMAPLoginTester - A simple Python script that reads a text file with lots of e-m
 
 Webanalyze - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning: https://github.com/rverton/webanalyze
 
+Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments: https://github.com/Leo4j/Amnesiac
+
 Fuxploider - File upload vulnerability scanner and exploitation tool: https://github.com/almandin/fuxploider
 
 Garud - An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically: https://github.com/R0X4R/Garud
