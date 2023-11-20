@@ -3,6 +3,8 @@ There is such a thing called a countdown. For some it turns on at 50, for others
 
 ----
 
+UkraineFacts - By the International Fact-checking Network Signatories: https://ukrainefacts.org/
+
 Free Media Literacy Resources Hub Launches To Support UK Teachers, As 90% Call For Media Literacy To Be Taught In Schools: https://thestudentview.org/train-the-trainer-free-media-literacy-program-launches-to-support-uk-teachers-as-90-call-for-media-literacy-to-be-taught-in-schools-2/
 
 A New Tool Allows Researchers to Track Damage in Gaza from Bellingcat: https://www.bellingcat.com/resources/2023/11/15/a-new-tool-allows-researchers-to-track-damage-in-gaza/
