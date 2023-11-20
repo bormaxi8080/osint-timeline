@@ -63,3 +63,5 @@ Pretender - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeove
 
 FinDOM-XSS - A fast DOM based XSS vulnerability scanner with simplicity: https://github.com/dwisiswant0/findom-xss
 
+C2concealer is a command line tool that generates randomized C2 malleable profiles for use in Cobalt Strike: https://github.com/RedSiege/C2concealer
+
