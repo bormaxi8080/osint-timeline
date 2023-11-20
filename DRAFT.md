@@ -47,6 +47,8 @@ Mongoaudit is a CLI tool for auditing MongoDB servers, detecting poor security 
 
 Webanalyze - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning: https://github.com/rverton/webanalyze
 
+Fuxploider - File upload vulnerability scanner and exploitation tool: https://github.com/almandin/fuxploider
+
 Garud - An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically: https://github.com/R0X4R/Garud
 
 subby by n0mi1k is a high-speed subdomain enumeration tool that excels in automatically detecting wildcard DNS records and filtering out invalid subdomains. It provides two enumeration modes-DNS for fast and stealthy queries and Web for detailed insights through HTTP(S) requests: https://github.com/vevv/subby
