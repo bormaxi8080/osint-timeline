@@ -15,6 +15,8 @@ From Pixels to Punches: Geolocating a neo-Nazi and White Nationalist Combat Even
 
 VSquare: Russian spies still call Brussels home: https://euromaidanpress.com/2023/11/16/vsquare-russian-spies-still-roam-free-in-brussels/
 
+Russia imports Czech-made parts for Mi-8 helicopters through India and Kazakhstan, journalistic investigation finds: https://www.pravda.com.ua/eng/news/2023/11/20/7429607/
+
 Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero: https://www.whid.ninja/blog/denial-of-pleasure-attacking-unusual-ble-targets-with-a-flipper-zero
 
 Study: When we see what others do, our brain sees not what we see, but what we expect: https://medicalxpress.com/news/2023-11-brain.html
