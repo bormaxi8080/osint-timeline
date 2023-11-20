@@ -55,3 +55,5 @@ subby by n0mi1k is a high-speed subdomain enumeration tool that excels in automa
 
 Pretender - Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and NetBIOS-NS spoofing: https://github.com/RedTeamPentesting/pretender
 
+FinDOM-XSS - A fast DOM based XSS vulnerability scanner with simplicity: https://github.com/dwisiswant0/findom-xss
+
