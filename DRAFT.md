@@ -45,6 +45,8 @@ TypeDB: the polymorphic database powered by types: https://github.com/vaticle/ty
 
 Mongoaudit is a CLI tool for auditing MongoDB servers, detecting poor security settings and performing automated penetration testing: https://github.com/stampery/mongoaudit
 
+IMAPLoginTester - A simple Python script that reads a text file with lots of e-mails and passwords, and tries to check if those credentials are valid by trying to login on IMAP servers: https://github.com/rm1984/IMAPLoginTester
+
 Webanalyze - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning: https://github.com/rverton/webanalyze
 
 Fuxploider - File upload vulnerability scanner and exploitation tool: https://github.com/almandin/fuxploider
