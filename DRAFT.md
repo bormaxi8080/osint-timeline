@@ -5,15 +5,15 @@ There is such a thing called a countdown. For some it turns on at 50, for others
 
 UkraineFacts - By the International Fact-checking Network Signatories: https://ukrainefacts.org/
 
-Free Media Literacy Resources Hub Launches To Support UK Teachers, As 90% Call For Media Literacy To Be Taught In Schools: https://thestudentview.org/train-the-trainer-free-media-literacy-program-launches-to-support-uk-teachers-as-90-call-for-media-literacy-to-be-taught-in-schools-2/
-
 A New Tool Allows Researchers to Track Damage in Gaza from Bellingcat: https://www.bellingcat.com/resources/2023/11/15/a-new-tool-allows-researchers-to-track-damage-in-gaza/
+
+2023 Israel-Hamas war - A GitHub repository corresponds to the dataset used for our research purpose. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework: https://github.com/Gautamshahi/2023-Israel-Hamas-war
+
+Free Media Literacy Resources Hub Launches To Support UK Teachers, As 90% Call For Media Literacy To Be Taught In Schools: https://thestudentview.org/train-the-trainer-free-media-literacy-program-launches-to-support-uk-teachers-as-90-call-for-media-literacy-to-be-taught-in-schools-2/
 
 From Pixels to Punches: Geolocating a neo-Nazi and White Nationalist Combat Event in Los Angeles: https://www.bellingcat.com/news/2023/11/16/from-pixels-to-punches-geolocating-a-neo-nazi-and-white-nationalist-combat-event-in-los-angeles/
 
 VSquare: Russian spies still call Brussels home: https://euromaidanpress.com/2023/11/16/vsquare-russian-spies-still-roam-free-in-brussels/
-
-2023 Israel–Hamas war - A GitHub repository corresponds to the dataset used for our research purpose. The repository contains fact-checked articles and social media posts about the 2023 Israel–Hamas war. The data is extracted through the [AMUSED](https://link.springer.com/chapter/10.1007/978-3-031-10525-8_23) framework: https://github.com/Gautamshahi/2023-Israel-Hamas-war
 
 Denial of Pleasure: Attacking Unusual BLE Targets with a Flipper Zero: https://www.whid.ninja/blog/denial-of-pleasure-attacking-unusual-ble-targets-with-a-flipper-zero
 
