@@ -23,6 +23,9 @@ Study: When we see what others do, our brain sees not what we see, but what we e
 
 Fav-up – IP lookup by favicon using Shodan: https://hakin9.org/fav-up-ip-lookup-by-favicon-using-shodan/
 
+
+Google search bad. What to do: https://medium.com/@cyb_detective/google-search-bad-what-to-do-fc1061d3a1ce
+
 ----
 
 8 basic methods of automating the collection of information from company websites
@@ -48,6 +51,10 @@ TypeDB: the polymorphic database powered by types: https://github.com/vaticle/ty
 Mongoaudit is a CLI tool for auditing MongoDB servers, detecting poor security settings and performing automated penetration testing: https://github.com/stampery/mongoaudit
 
 IMAPLoginTester - A simple Python script that reads a text file with lots of e-mails and passwords, and tries to check if those credentials are valid by trying to login on IMAP servers: https://github.com/rm1984/IMAPLoginTester
+
+PhotoGuard - This repository contains the code for our recent work on safe-guarding images against manipulation by ML-powerd photo-editing models such as [stable diffusion](https://stability.ai/blog/stable-diffusion-public-release): https://github.com/MadryLab/photoguard
+
+Kippo is a medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker: https://github.com/desaster/kippo
 
 Webanalyze - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning: https://github.com/rverton/webanalyze
 
