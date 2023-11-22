@@ -58,11 +58,17 @@ Kippo is a medium interaction SSH honeypot designed to log brute force attacks a
 
 Webanalyze - Port of Wappalyzer (uncovers technologies used on websites) to automate mass scanning: https://github.com/rverton/webanalyze
 
+DORA: Data-agnOstic Representation Analysis paper. DORA allows to find outlier representations in Deep Neural Networks: https://github.com/lapalap/dora
+
 Amnesiac is a post-exploitation framework entirely written in PowerShell and designed to assist Penetration Testers and Red Teams with lateral movement within Active Directory environments: https://github.com/Leo4j/Amnesiac
 
 Fuxploider - File upload vulnerability scanner and exploitation tool: https://github.com/almandin/fuxploider
 
 Squalr Memory Editor - Game Hacking Tool Written in C#: https://github.com/Squalr/Squalr
+
+Uncomment - A Powerful tool to fetch all the comments from the supplied URL's: https://github.com/rohsec/Uncomment
+
+LEAKEY is a bash script which checks and validates for leaked credentials. The idea behind LEAKEY is to make it highly customizable and easy to add checks for new services: https://github.com/rohsec/LEAKEY/
 
 Garud - An automation tool that scans sub-domains, sub-domain takeover, then filters out XSS, SSTI, SSRF, and more injection point parameters and scans for some low hanging vulnerabilities automatically: https://github.com/R0X4R/Garud
 
