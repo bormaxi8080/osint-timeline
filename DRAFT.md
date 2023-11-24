@@ -6,6 +6,8 @@ Do you know what strength is, brother? Not even in truth. And in the absence of 
 
 ----
 
+First Contributions - This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below: https://github.com/firstcontributions/first-contributions
+
 When performing OSINT reconnaissance against a target, it’s often very difficult to accurately define the scope. There are so many sources of information and so many diverse types of data. It quickly becomes overwhelming. While there are many excellent OSINT tools already available to the discerning OSINTer, their focus is usually on breadth of collection. Our experience is that asset traceability and narrowly-focused discovery help us to discover the best results. To that end, we’ve developed a tool: the “Orca”. This approach focuses on comprehensive asset discovery coupled with narrow scoping to avoid false positives: https://github.com/digitalshadows/orca
 
 Browser In The Browser (BITB) Templates: https://github.com/mrd0x/BITB
