@@ -6,7 +6,11 @@ Do you know what strength is, brother? Not even in truth. And in the absence of 
 
 ----
 
+When performing OSINT reconnaissance against a target, it’s often very difficult to accurately define the scope. There are so many sources of information and so many diverse types of data. It quickly becomes overwhelming. While there are many excellent OSINT tools already available to the discerning OSINTer, their focus is usually on breadth of collection. Our experience is that asset traceability and narrowly-focused discovery help us to discover the best results. To that end, we’ve developed a tool: the “Orca”. This approach focuses on comprehensive asset discovery coupled with narrow scoping to avoid false positives: https://github.com/digitalshadows/orca
+
 Browser In The Browser (BITB) Templates: https://github.com/mrd0x/BITB
+
+----
 
 Crawlector is a threat hunting framework designed for scanning websites for malicious objects: https://github.com/MFMokbel/Crawlector
 
