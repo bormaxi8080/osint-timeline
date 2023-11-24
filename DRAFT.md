@@ -22,6 +22,8 @@ https://documentcloud.org
 
 ----
 
+Tool that displays, via [Wayback CDX Server API](https://github.com/internetarchive/wayback/tree/master/wayback-cdx-server), multiple archived tweets on Wayback Machine to avoid opening each link manually. The app is a prototype written in Python with Streamlit and hosted at Streamlit Cloud: https://github.com/claromes/waybacktweets
+
 Crawlector is a threat hunting framework designed for scanning websites for malicious objects: https://github.com/MFMokbel/Crawlector
 
 Universal Radio Hacker - Investigate Wireless Protocols Like A Boss: https://github.com/jopohl/urh
