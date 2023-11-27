@@ -12,6 +12,14 @@ When performing OSINT reconnaissance against a target, it’s often very difficu
 
 Browser In The Browser (BITB) Templates: https://github.com/mrd0x/BITB
 
+Hacker tools on Go (Golang): https://github.com/dreddsa5dies/goHackTools
+
+awesome-soc - A collection of sources of documentation, as well as field best practices, to build/run a SOC: https://github.com/cyb3rxp/awesome-soc
+
+----
+
+2lingual makes it easy to Google Search in 2 languages. Get Google Search Results alongside Google Cross Language Search Results. In addition, a Query Translation Option can be activated or deactivated for Google Cross Language Searches: https://2lingual.com/
+
 ----
 
 5 million + publicly available documents. 
