@@ -36,6 +36,8 @@ Crawlector is a threat hunting framework designed for scanning websites for mali
 
 Universal Radio Hacker - Investigate Wireless Protocols Like A Boss: https://github.com/jopohl/urh
 
+IMDSPOOF is a cyber deception tool that spoofs the AWS IMDS service to return HoneyTokens that can be alerted on: https://github.com/grahamhelton/IMDSpoof
+
 WiFiBroot - A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures & Crack 4-way handshake and PMKID key. Also, supports a deauthentication/jammer mode for stress testing: https://github.com/hash3liZer/WiFiBroot
 
 DNSrr is a tool written in bash, used to enumerate all the juicy stuff from DNS: https://github.com/A3h1nt/Dnsrr
