@@ -2,7 +2,9 @@ Do you know what strength is, brother? Not even in truth. And in the absence of 
 
 ----
 
+Crew Data - Search across 120000+ seafarers CV (with last/first names, vessel's names, salaries and other interesting details): https://crewdata.com/search.php
 
+onion - This will be a collection of useful links on the onion network for osint. You can contribute to this collection by reporting a broken link or recommending your own finds: https://github.com/Scully-D/onion
 
 ----
 
