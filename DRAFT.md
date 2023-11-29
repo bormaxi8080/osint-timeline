@@ -1,5 +1,8 @@
 Do you know what strength is, brother? Not even in truth. And in the absence of fear. I already know that. Argue with the strong. Respect your peers. Take care of the weak. Make friends with the best.
 
+
+“Nationalism is never healthy. Lack of a brain is a disease"
+
 ----
 
 Crew Data - Search across 120000+ seafarers CV (with last/first names, vessel's names, salaries and other interesting details): https://crewdata.com/search.php
