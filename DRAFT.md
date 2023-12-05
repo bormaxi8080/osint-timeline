@@ -7,4 +7,6 @@ How moral injury and vicarious trauma can impact researchers and journalists, an
 
 ----
 
+**Chaya** protects your privacy through steganography, cryptography and compression. It effectively encrypts your payloads using _AES-256-GCM_ cryptography, embeds them using _LSB-LPS_ steganography technique into images and compresses them using _FLIF_ to evade detection by performing lossless compression: https://github.com/xerohackcom/Chaya
+
 GoBuster - Directory/File, DNS and VHost busting tool written in Go: https://github.com/OJ/gobuster
