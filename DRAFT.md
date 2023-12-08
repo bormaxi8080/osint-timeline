@@ -12,5 +12,7 @@ Telegram similar channels search tool (CLI + Maltego): https://github.com/Social
 
 AutoSend Letters HeadHunter is a script for automatically sending responses to HeadHunter: https://github.com/ia-stepanov/autosend-letters-hh
 
+ReconSpider - Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations: https://github.com/bhavsec/reconspider
+
 ppmap - A scanner/exploitation tool written in GO, which leverages client-side Prototype Pollution to XSS by exploiting known gadgets: https://github.com/kleiton0x00/ppmap
 
