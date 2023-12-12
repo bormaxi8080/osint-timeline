@@ -16,7 +16,13 @@ TypeSense is an Open Source alternative to Algolia + Pinecone and an Easier-to-U
 
 Telegram similar channels search tool (CLI + Maltego): https://github.com/SocialLinks-IO/telegram-similar-channels
 
+ScrapedIn - A tool to scrape LinkedIn without API restrictions for data reconnaissance: https://github.com/dchrastil/ScrapedIn
+
+duolingOSINT - Gather information about a Duolingo user: https://github.com/ajuelosemmanuel/duolingOSINT
+
 WrongSecrets - Vulnerable app with examples showing how to not use secrets: https://github.com/OWASP/wrongsecrets
+
+Seekolver is a tool focused on attack-surface mapping. It performs searches for subdomains associated with root domains and root domains associated with organisations using open sources, additionally, it resolves these domains and subdomains in search of HTTP and HTTPS services and then filters the information obtained based on their response: https://github.com/Krypteria/Seekolver
 
 MetaFinder - Search for documents in a domain through Search Engines (Google, Bing and Baidu). The objective is to extract metadata: https://github.com/Josue87/MetaFinder
 
