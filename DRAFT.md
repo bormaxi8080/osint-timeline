@@ -22,6 +22,10 @@ duolingOSINT - Gather information about a Duolingo user: https://github.com/ajue
 
 WrongSecrets - Vulnerable app with examples showing how to not use secrets: https://github.com/OWASP/wrongsecrets
 
+DDosify - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud: https://github.com/ddosify/ddosify
+
+The Roundcube Webmail suite: https://github.com/roundcube/roundcubemail
+
 Seekolver is a tool focused on attack-surface mapping. It performs searches for subdomains associated with root domains and root domains associated with organisations using open sources, additionally, it resolves these domains and subdomains in search of HTTP and HTTPS services and then filters the information obtained based on their response: https://github.com/Krypteria/Seekolver
 
 MetaFinder - Search for documents in a domain through Search Engines (Google, Bing and Baidu). The objective is to extract metadata: https://github.com/Josue87/MetaFinder
