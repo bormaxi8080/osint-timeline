@@ -5,7 +5,8 @@ This is such bullshit.
 
 ---
 
-
+New fellowship opportunities from our Bellingcat's Investigative Tech Team: https://www.bellingcat.com/become-a-2024-bellingcat-tech-fellow/
 
 ----
 
+The best and simplest free open source website change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification: https://github.com/dgtlmoon/changedetection.io
