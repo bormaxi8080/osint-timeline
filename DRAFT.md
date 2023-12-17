@@ -9,4 +9,8 @@ New fellowship opportunities from our Bellingcat's Investigative Tech Team: http
 
 ----
 
+ProtOSINT is a Python script that helps you investigate Protonmail accounts and ProtonVPN IP addresses: https://github.com/pixelbubble/ProtOSINT
+
+A fully-featured OpenStreetMap-based map where markers and lines can be added with live collaboration: https://github.com/FacilMap/facilmap
+
 The best and simplest free open source website change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification: https://github.com/dgtlmoon/changedetection.io
