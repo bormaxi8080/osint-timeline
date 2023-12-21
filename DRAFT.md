@@ -8,3 +8,6 @@ And so you shovel the yard and realize this: everything that comes to us from li
 
 
 ----
+
+HackListGen - Turns any junk text into a usable wordlist for brute-forcing: https://github.com/hakluke/haklistgen
+
