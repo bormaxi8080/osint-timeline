@@ -20,3 +20,5 @@ KnewKarma - Bellingcat's Reddit Data Analysis Toolkit: https://github.com/bellin
 The best and simplest free open source website change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification: https://github.com/dgtlmoon/changedetection.io
 
 OSINT Surveillance - live webcams, live news, public WiFi maps and more: https://github.com/CScorza/OSINTSurveillance
+
+DoSinator is a powerful Denial of Service (DoS) testing tool developed in Python: https://github.com/HalilDeniz/Dosinator
