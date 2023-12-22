@@ -9,5 +9,8 @@ And so you shovel the yard and realize this: everything that comes to us from li
 
 ----
 
+Spidex - continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets: https://github.com/alechilczenko/spidex
+
 HackListGen - Turns any junk text into a usable wordlist for brute-forcing: https://github.com/hakluke/haklistgen
 
+Pwndora - massive IPv4 scanner, find and analyze internet-connected devices in minutes, create your own IoT search engine at home: https://hakin9.org/pwndora-massive-ipv4-scanner-find-and-analyze-internet-connected-devices-in-minutes-create-your-own-iot-search-engine-at-home/
