@@ -9,6 +9,8 @@ And so you shovel the yard and realize this: everything that comes to us from li
 
 ----
 
+The most useful and effective tools are collected here, with the exception of bots with leaks and hyped applications that have long lost most of their functionality (for example, 220vk: VK eventually gave more anonymity to users and cut the API, so now it is effective to use it to fix user sessions): https://github.com/rawrdcore/vk-osint-en
+
 Spidex - continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets: https://github.com/alechilczenko/spidex
 
 HackListGen - Turns any junk text into a usable wordlist for brute-forcing: https://github.com/hakluke/haklistgen
