@@ -13,6 +13,8 @@ The most useful and effective tools are collected here, with the exception of bo
 
 swagger-jacker - Express API documentation generator: https://github.com/cjihrig/swagger-jacker
 
+sn0int - Semi-automatic OSINT framework and package manager: https://github.com/kpcyrd/sn0int
+
 Spidex - continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets: https://github.com/alechilczenko/spidex
 
 HackListGen - Turns any junk text into a usable wordlist for brute-forcing: https://github.com/hakluke/haklistgen
