@@ -17,7 +17,9 @@ sn0int - Semi-automatic OSINT framework and package manager: https://github.com/
 
 Spidex - continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets: https://github.com/alechilczenko/spidex
 
-kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database: https://github.com/volution/kawipiko
+kawipiko - blazingly fast static HTTP server focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database: https://github.com/volution/kawipiko
+
+Netdata collects metrics per second and presents them in beautiful low-latency dashboards. It is designed to run on all of your physical and virtual servers, cloud deployments, Kubernetes clusters, and edge/IoT devices, to monitor your systems, containers, and applications: https://github.com/netdata/netdata
 
 HackListGen - Turns any junk text into a usable wordlist for brute-forcing: https://github.com/hakluke/haklistgen
 
