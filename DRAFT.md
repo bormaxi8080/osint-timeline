@@ -17,6 +17,8 @@ sn0int - Semi-automatic OSINT framework and package manager: https://github.com/
 
 Spidex - continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets: https://github.com/alechilczenko/spidex
 
+kawipiko -- blazingly fast static HTTP server -- focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database: https://github.com/volution/kawipiko
+
 HackListGen - Turns any junk text into a usable wordlist for brute-forcing: https://github.com/hakluke/haklistgen
 
 Pwndora - massive IPv4 scanner, find and analyze internet-connected devices in minutes, create your own IoT search engine at home: https://hakin9.org/pwndora-massive-ipv4-scanner-find-and-analyze-internet-connected-devices-in-minutes-create-your-own-iot-search-engine-at-home/
