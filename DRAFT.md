@@ -5,7 +5,7 @@ And so you shovel the yard and realize this: everything that comes to us from li
 
 ----
 
-
+Event Review - Using Open Source Investigation For Human Rights Violation: https://blog.lawbore.net/2023/11/event-review-using-open-source-investigation-for-human-rights-violation/
 
 ----
 
