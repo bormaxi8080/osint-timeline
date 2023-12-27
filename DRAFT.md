@@ -23,4 +23,6 @@ Netdata collects metrics per second and presents them in beautiful low-latency d
 
 HackListGen - Turns any junk text into a usable wordlist for brute-forcing: https://github.com/hakluke/haklistgen
 
+This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from Twitter: https://github.com/Az0x7/vulnerability-Checklist
+
 Pwndora - massive IPv4 scanner, find and analyze internet-connected devices in minutes, create your own IoT search engine at home: https://hakin9.org/pwndora-massive-ipv4-scanner-find-and-analyze-internet-connected-devices-in-minutes-create-your-own-iot-search-engine-at-home/
