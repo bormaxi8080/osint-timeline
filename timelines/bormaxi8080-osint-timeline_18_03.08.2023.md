@@ -73,6 +73,11 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
-If you like the projects that I do, I will be grateful for donations in ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
+If you like the projects that I do, I will be grateful for donations:
+
+USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
+ETH (ERC-20): 0xd1f0b91cf5430ea6cd5f853dbedb1134f2e1af35
+ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
+BTC: 1P8UgziH27TuGTo9GK3cnKLh9JhECYDeuo
 
 ----

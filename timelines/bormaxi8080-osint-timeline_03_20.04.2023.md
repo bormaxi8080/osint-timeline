@@ -6,7 +6,6 @@ The Verge writes that modern smart vacuum cleaners have "learned" to give a vide
 I suspect that with the proper skill, other agents may use it for other purposes: from abuse to wiretapping. Here he rides on his floor, you even stop noticing him and thinking that he has been crawling around in one corner for the third minute already. And he looks. Looks. And listens...
 
 ----
-
 ### Articles:
 
 Using OSINT to help in mine clearance operations in Ukraine: [https://cybernews.com/security/ukraine-osint-clears-mines/](https://cybernews.com/security/ukraine-osint-clears-mines/)
@@ -14,7 +13,6 @@ Using OSINT to help in mine clearance operations in Ukraine: [https://cybernews
 There are only 2,000 chip designers left in Russia: https://habr.com/ru/articles/722942/
 
 ----
-
 ### Collections:
 
 Awesome Red Team Operations: https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
@@ -22,7 +20,6 @@ Awesome Red Team Operations: https://github.com/CyberSecurityUP/Awesome-Red-Team
 Person OSINT investigation workflow from a privacy perspective: https://www.osintme.com/index.php/2022/08/31/person-osint-investigation-workflow-from-a-privacy-perspective/
 
 ----
-
 ### Tools:
 
 - ```nipe``` - An engine to make Tor network your default gateway: https://github.com/htrgouvea/nipe
@@ -58,6 +55,11 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
-If you like the projects that I do, I will be grateful for donations in ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
+If you like the projects that I do, I will be grateful for donations:
+
+USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
+ETH (ERC-20): 0xd1f0b91cf5430ea6cd5f853dbedb1134f2e1af35
+ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
+BTC: 1P8UgziH27TuGTo9GK3cnKLh9JhECYDeuo
 
 ----
