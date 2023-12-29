@@ -9,11 +9,18 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 [bormaxi8080 OSINT Board](https://start.me/p/X2G0DB/bormaxi8080-osint-board) on start.me
 
-If you like the projects that I do, I will be grateful for donations in ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
+If you like the projects that I do, I will be grateful for donations:
+
+USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
+ETH (ERC-20): 0xd1f0b91cf5430ea6cd5f853dbedb1134f2e1af35
+ETH: 0xE29685D6f0032Bccac08B0E745a1A69ef9803973
+BTC: 1P8UgziH27TuGTo9GK3cnKLh9JhECYDeuo
 
 ----
 
 ### Timelines:
+
+[bormaxi8080 OSINT Timeline (39) - 28.12.2023](./timelines/bormaxi8080-osint-timeline_39_28.12.2023.md)
 
 [bormaxi8080 OSINT Timeline (38) - 21.12.2023](./timelines/bormaxi8080-osint-timeline_38_21.12.2023.md)
 
