@@ -7,6 +7,8 @@ And so you shovel the yard and realize this: everything that comes to us from li
 
 Event Review - Using Open Source Investigation For Human Rights Violation: https://blog.lawbore.net/2023/11/event-review-using-open-source-investigation-for-human-rights-violation/
 
+Can AI Chatbots Be Used for Geolocation: https://www.bellingcat.com/resources/2023/07/14/can-ai-chatbots-be-used-for-geolocation/
+
 ----
 
 Polyphemus - a scraper for researching the alternative video platform Odysee. In 2021, the Global Network on Extremism and Technology dubbed Odysee as the new YouTube for the Far-Right: https://github.com/bellingcat/polyphemus
@@ -16,6 +18,8 @@ The most useful and effective tools are collected here, with the exception of bo
 swagger-jacker - Express API documentation generator: https://github.com/cjihrig/swagger-jacker
 
 sn0int - Semi-automatic OSINT framework and package manager: https://github.com/kpcyrd/sn0int
+
+`Troll-A` is a command line tool for extracting secrets such as passwords, API keys, and tokens from WARC (Web ARChive) files. `Troll-A` is an **easy-to-use**, **comprehensive**, and **fast** solution for finding secrets in web archive: https://github.com/crissyfield/troll-a
 
 Spidex - continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets: https://github.com/alechilczenko/spidex
 
