@@ -9,6 +9,8 @@ Event Review - Using Open Source Investigation For Human Rights Violation: https
 
 ----
 
+Polyphemus - a scraper for researching the alternative video platform Odysee. In 2021, the Global Network on Extremism and Technology dubbed Odysee as the new YouTube for the Far-Right: https://github.com/bellingcat/polyphemus
+
 The most useful and effective tools are collected here, with the exception of bots with leaks and hyped applications that have long lost most of their functionality (for example, 220vk: VK eventually gave more anonymity to users and cut the API, so now it is effective to use it to fix user sessions): https://github.com/rawrdcore/vk-osint-en
 
 swagger-jacker - Express API documentation generator: https://github.com/cjihrig/swagger-jacker
