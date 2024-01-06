@@ -1,4 +1,4 @@
-
+The scars will heal. It's nothing. A much worse scar is that these people can go unpunished and walk the streets next to us.
 
 ----
 
