@@ -2,9 +2,13 @@ The scars will heal. It's nothing. A much worse scar is that these people can go
 
 ----
 
+The most comprehensive people search on the web: https://pipl.com
 
+GitHub: https://github.com/piplcom
 
 ----
+
+danswer-ai - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.: https://github.com/danswer-ai/danswer
 
 Stirling-PDF - locally hosted web application that allows you to perform various operations on PDF files: https://github.com/Stirling-Tools/Stirling-PDF
 
