@@ -12,6 +12,8 @@ danswer-ai - Ask Questions in natural language and get Answers backed by private
 
 Stirling-PDF - locally hosted web application that allows you to perform various operations on PDF files: https://github.com/Stirling-Tools/Stirling-PDF
 
+Ain - A HTTP API client for the terminal: https://github.com/jonaslu/ain
+
 espoofer - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures: https://github.com/chenjj/espoofer
 
 dkimpy - Node.js wrapper around the Python pip package dkimpy exposing DKIM and ARC signing and verification functions: https://github.com/forwardemail/dkimpy
