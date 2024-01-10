@@ -2,6 +2,10 @@ The scars will heal. It's nothing. A much worse scar is that these people can go
 
 ----
 
+ClinicalTrials.gov is a **website** and **online database** of clinical research studies and information about their results. The purpose of ClinicalTrials.gov is to provide information about clinical research studies to the public, researchers, and health care professionals. The U.S. government does not review or approve the safety and science of all studies listed on this website: https://clinicaltrials.gov/
+
+----
+
 The most comprehensive people search on the web: https://pipl.com
 
 GitHub: https://github.com/piplcom
@@ -17,6 +21,8 @@ Ain - A HTTP API client for the terminal: https://github.com/jonaslu/ain
 espoofer - An email spoofing testing tool that aims to bypass SPF/DKIM/DMARC and forge DKIM signatures: https://github.com/chenjj/espoofer
 
 dkimpy - Node.js wrapper around the Python pip package dkimpy exposing DKIM and ARC signing and verification functions: https://github.com/forwardemail/dkimpy
+
+GMailic2 - A Fully Undetectable C2 Server That Communicates Via Google SMTP to evade Antivirus Protections and Network Traffic Restrictions: https://github.com/machine1337/gmailc2
 
 pyDNS - A fully python dns server: https://github.com/Douile/pydns
 
