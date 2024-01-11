@@ -20,6 +20,8 @@ BTC: 1P8UgziH27TuGTo9GK3cnKLh9JhECYDeuo
 
 ### Timelines:
 
+[bormaxi8080 OSINT Timeline (40) - 11.01.2024](./timelines/bormaxi8080-osint-timeline_40_11.01.2024.md)
+
 [bormaxi8080 OSINT Timeline (39) - 28.12.2023](./timelines/bormaxi8080-osint-timeline_39_28.12.2023.md)
 
 [bormaxi8080 OSINT Timeline (38) - 21.12.2023](./timelines/bormaxi8080-osint-timeline_38_21.12.2023.md)
