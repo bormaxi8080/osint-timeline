@@ -1,4 +1,6 @@
-The scars will heal. It's nothing. A much worse scar is that these people can go unpunished and walk the streets next to us.
+
+And time burns a kings while I sit and smoke.
+And I don't regret anything, and it's coming to February.
 
 ----
 
