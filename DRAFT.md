@@ -12,4 +12,10 @@ History is forgotten, and people are again fighting for vineyards and mountains.
 
 Interested in working for Bellingcat? See open positions advertised below: https://www.bellingcat.com/about/careers/
 
+Epieos - The ultimate OSINT tool for email and phone reverse lookup: https://epieos.com/
+
 ----
+
+ZPhisher - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit: https://github.com/htr-tech/zphisher
+
+Pen-Andro - This Script will automate the process of installing all necessary tools & tasks for Android Pentesting i.e Moving Burpsuite Certificate ,Installing Adb frida server, APKs like proxy toggle, proxydroid, adbwifi: https://github.com/raoshaab/Pen-Andro
