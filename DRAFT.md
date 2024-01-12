@@ -16,6 +16,10 @@ Epieos - The ultimate OSINT tool for email and phone reverse lookup: https://e
 
 ----
 
+HTTP-TRACKER is a browser extension which tracks the network on the browser (chrome and firefox). What ever is captured on the network tab in a browser, the same and more can be done by this extension. This provides a centralized window which displays the entire requests - responses from all the tabs and all windows of the browser. This can also track the private/incognito window tabs (if permission is enabled), bringing everything into a central place: https://github.com/venukbh/http-tracker
+
+msoffcrypto-tool (formerly ms-offcrypto-tool) is Python tool and library for decrypting encrypted MS Office files with password, intermediate key, or private key which generated its escrow key: https://github.com/nolze/msoffcrypto-tool
+
 ZPhisher - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit: https://github.com/htr-tech/zphisher
 
 Pen-Andro - This Script will automate the process of installing all necessary tools & tasks for Android Pentesting i.e Moving Burpsuite Certificate ,Installing Adb frida server, APKs like proxy toggle, proxydroid, adbwifi: https://github.com/raoshaab/Pen-Andro
