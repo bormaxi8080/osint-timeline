@@ -16,6 +16,12 @@ Epieos - The ultimate OSINT tool for email and phone reverse lookup: https://e
 
 ----
 
+**Auto-Editor** is a command line application for automatically **editing video and audio** by analyzing a variety of methods, most notably audio loudness: https://github.com/WyattBlue/auto-editor
+
+Xerror is an automated penetration tool , which will help security professionals and non professionals to automate their pentesting tasks. Xerror will perform all tests and, at the end generate two reports for executives and analysts: https://github.com/Chudry/Xerror
+
+Squad303 - Simple app for drawing a random phone number: https://github.com/squad303/squad303app
+
 HTTP-TRACKER is a browser extension which tracks the network on the browser (chrome and firefox). What ever is captured on the network tab in a browser, the same and more can be done by this extension. This provides a centralized window which displays the entire requests - responses from all the tabs and all windows of the browser. This can also track the private/incognito window tabs (if permission is enabled), bringing everything into a central place: https://github.com/venukbh/http-tracker
 
 msoffcrypto-tool (formerly ms-offcrypto-tool) is Python tool and library for decrypting encrypted MS Office files with password, intermediate key, or private key which generated its escrow key: https://github.com/nolze/msoffcrypto-tool
