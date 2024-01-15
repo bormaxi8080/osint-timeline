@@ -28,6 +28,16 @@ Xerror is an automated penetration tool , which will help security professionals
 
 Squad303 - Simple app for drawing a random phone number: https://github.com/squad303/squad303app
 
+Forward Email is the 100% open-source and privacy-focused email service @ [https://forwardemail.net](https://forwardemail.net/).: https://github.com/forwardemail/forwardemail.net
+
+List of 1250+ generic, admin, mailer-daemon, and no-reply usernames reserved for security concerns. Made for [@forwardemail](https://github.com/forwardemail): https://github.com/forwardemail/reserved-email-addresses-list
+
+email-templates - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js. Made for [@forwardemail](https://github.com/forwardemail), [@ladjs](https://github.com/ladjs), [@cabinjs](https://github.com/cabinjs), [@spamscanner](https://github.com/spamscanner), and [@breejs](https://github.com/breejs): https://github.com/forwardemail/email-templates
+
+Authheaders - Node.js wrapper around the Python pip package authheaders exposing a function to generate Authentication-Results headers: https://github.com/forwardemail/authheaders
+
+WildDuck is a scalable no-SPOF IMAP/POP3 mail server: https://github.com/forwardemail/wildduck
+
 HTTP-TRACKER is a browser extension which tracks the network on the browser (chrome and firefox). What ever is captured on the network tab in a browser, the same and more can be done by this extension. This provides a centralized window which displays the entire requests - responses from all the tabs and all windows of the browser. This can also track the private/incognito window tabs (if permission is enabled), bringing everything into a central place: https://github.com/venukbh/http-tracker
 
 msoffcrypto-tool (formerly ms-offcrypto-tool) is Python tool and library for decrypting encrypted MS Office files with password, intermediate key, or private key which generated its escrow key: https://github.com/nolze/msoffcrypto-tool
