@@ -6,3 +6,5 @@ For a long time now, somewhere I came across that there are people who simply li
 
 ----
 
+Titan - VMProtect Devirtualizer: https://github.com/archercreat/titan
+
