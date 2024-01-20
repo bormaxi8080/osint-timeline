@@ -6,5 +6,7 @@ For a long time now, somewhere I came across that there are people who simply li
 
 ----
 
+SSH3 - faster and rich secure shell using HTTP/3, checkout our article here:: https://github.com/francoismichel/ssh3
+
 Titan - VMProtect Devirtualizer: https://github.com/archercreat/titan
 
