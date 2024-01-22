@@ -2,7 +2,7 @@ For a long time now, somewhere I came across that there are people who simply li
 
 ----
 
-
+Telegram shows deleted messages: https://habr.com/ru/articles/787642/
 
 ----
 
