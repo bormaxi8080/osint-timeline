@@ -10,9 +10,12 @@ SSH3 - faster and rich secure shell using HTTP/3, checkout our article here:: ht
 
 Titan - VMProtect Devirtualizer: https://github.com/archercreat/titan
 
+SubCat - Another fast subdomain enumeration tool: https://github.com/duty1g/subcat
+
 RustHound - Active Directory data collector for BloodHound written in Rust: https://github.com/NH-RED-TEAM/RustHound
 
 G3nius Tools Sploit is a penetration testing tool with a lot of plugins for advanced cybersecurity attacks. User-friendly, Easy and modular: https://github.com/witblack/G3nius-Tools-Sploit
 
 DDos-Scripts - This repo consists of various DDoS scripts, collected from internet. Layer-4 and Layer-7 levels can be targeted using these scripts: https://github.com/PraneethKarnena/DDoS-Scripts
 
+tanya.marshak@yahoo.com
