@@ -12,6 +12,8 @@ Titan - VMProtect Devirtualizer: https://github.com/archercreat/titan
 
 SubCat - Another fast subdomain enumeration tool: https://github.com/duty1g/subcat
 
+Google Search Results Scraper: https://chromewebstore.google.com/detail/google-search-results-scr/cmdkhofenchpdlkbpkheddfgfdmmobcc?pli=1
+
 RustHound - Active Directory data collector for BloodHound written in Rust: https://github.com/NH-RED-TEAM/RustHound
 
 POSTDump - Another tool to perform minidump of LSASS process using few technics to avoid detection: https://github.com/YOLOP0wn/POSTDump
