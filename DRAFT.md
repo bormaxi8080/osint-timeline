@@ -16,6 +16,8 @@ SubCat - Another fast subdomain enumeration tool: https://github.com/duty1g/subc
 
 Google Search Results Scraper: https://chromewebstore.google.com/detail/google-search-results-scr/cmdkhofenchpdlkbpkheddfgfdmmobcc?pli=1
 
+WhatsApp Proxy - This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported): https://github.com/WhatsApp/proxy/
+
 OSINTGPT - An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing: https://github.com/estebanpdl/osintgpt
 
 vimGPT - Browse the web with GPT-4V and Vimium: https://github.com/ishan0102/vimGPT
