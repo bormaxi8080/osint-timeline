@@ -24,6 +24,8 @@ Phunter is an osint tool allowing you to find various information via a phone nu
 
 FlyingCarpet - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range: https://github.com/spieglt/FlyingCarpet
 
+CVEMap - Navigate the CVE jungle with ease: https://github.com/projectdiscovery/cvemap
+
 RustHound - Active Directory data collector for BloodHound written in Rust: https://github.com/NH-RED-TEAM/RustHound
 
 POSTDump - Another tool to perform minidump of LSASS process using few technics to avoid detection: https://github.com/YOLOP0wn/POSTDump
