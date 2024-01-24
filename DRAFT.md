@@ -14,6 +14,8 @@ SubCat - Another fast subdomain enumeration tool: https://github.com/duty1g/subc
 
 Google Search Results Scraper: https://chromewebstore.google.com/detail/google-search-results-scr/cmdkhofenchpdlkbpkheddfgfdmmobcc?pli=1
 
+vimGPT - Browse the web with GPT-4V and Vimium: https://github.com/ishan0102/vimGPT
+
 RustHound - Active Directory data collector for BloodHound written in Rust: https://github.com/NH-RED-TEAM/RustHound
 
 POSTDump - Another tool to perform minidump of LSASS process using few technics to avoid detection: https://github.com/YOLOP0wn/POSTDump
