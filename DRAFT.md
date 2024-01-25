@@ -5,3 +5,6 @@ There is Life in every bird, and life that some people cannot even imagine. Admi
 
 
 ----
+
+Powerglot encodes offensive powershell scripts using polyglots . Offensive security tool useful for stego-malware, privilege escalation, lateral movement, reverse shell, etc: https://github.com/mindcrypt/powerglot
+
