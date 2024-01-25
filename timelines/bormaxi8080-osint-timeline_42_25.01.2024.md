@@ -10,7 +10,7 @@ MetaOSINT's author recently published an analysis on trends in the OSINT landsca
 
 ----
 
-```SSH3``` - faster and rich secure shell using HTTP/3, checkout our article here:: https://github.com/francoismichel/ssh3
+```SSH3``` - faster and rich secure shell using HTTP/3, checkout our article here: https://github.com/francoismichel/ssh3
 
 ```Titan``` - VMProtect Devirtualizer: https://github.com/archercreat/titan
 
