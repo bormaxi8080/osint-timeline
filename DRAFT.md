@@ -2,7 +2,7 @@ There is Life in every bird, and life that some people cannot even imagine. Admi
 
 ----
 
-
+Apple to promote third-party default browsers and allow web engines on iPhone, but only in the EU: https://9to5mac.com/2024/01/25/third-party-default-browsers-engines/
 
 ----
 
