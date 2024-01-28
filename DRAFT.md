@@ -10,9 +10,7 @@ Grafana 10.3.1 released: https://grafana.com/blog/2024/01/23/grafana-10.3-releas
 
 What a fascinating tool to geographically search Wikipedia's incredible library of information. It's called NearbyWiki, and allows you to search by location of Wikipedia entries related to that area: http://nearbywiki.org
 
-Bellingcat contributor and software engineer Justin Clark has developed an open-source research tool that you can use to plot out disinformation networks. The tool makes use of Google Analytics codes and the Wayback Machine to locate old tracking codes and identify what sites are held under the same user/entity. Read about and find the tool here: https://www.bellingcat.com/resources/2024/01/09/using-the-wayback-machine-and-google-analytics-to-uncover-disinformation-networks/ 
-
-GitHub: 
+Bellingcat contributor and software engineer Justin Clark has developed an open-source research tool that you can use to plot out disinformation networks. The tool makes use of Google Analytics codes and the Wayback Machine to locate old tracking codes and identify what sites are held under the same user/entity. Read about and find the tool here: https://www.bellingcat.com/resources/2024/01/09/using-the-wayback-machine-and-google-analytics-to-uncover-disinformation-networks/
 
 ----
 
