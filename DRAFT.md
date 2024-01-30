@@ -16,6 +16,8 @@ Bellingcat contributor and software engineer Justin Clark has developed an open-
 
 Powerglot encodes offensive powershell scripts using polyglots . Offensive security tool useful for stego-malware, privilege escalation, lateral movement, reverse shell, etc: https://github.com/mindcrypt/powerglot
 
+Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux: https://github.com/Bin-Huang/chatbox
+
 "Bob the Smuggler": a tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives. The tool would compress your binary (EXE/DLL) into 7z/zip file format, then XOR encrypt the archive and then hides inside PNG/GIF image file format (Image Polyglots).: https://github.com/TheCyb3rAlpha/BobTheSmuggler
 
 LOLSpoof - An interactive shell to spoof some LOLBins command line: https://github.com/itaymigdal/LOLSpoof
