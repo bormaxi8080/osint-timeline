@@ -24,5 +24,7 @@ apiosintDS is a [python client library](https://github.com/davidonzo/apiosintD
 
 "Bob the Smuggler" - a tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives. The tool would compress your binary (EXE/DLL) into 7z/zip file format, then XOR encrypt the archive and then hides inside PNG/GIF image file format (Image Polyglots): https://github.com/TheCyb3rAlpha/BobTheSmuggler
 
+ExecIT - Execute shellcode files with rundll32: https://github.com/florylsk/ExecIT
+
 LOLSpoof - An interactive shell to spoof some LOLBins command line: https://github.com/itaymigdal/LOLSpoof
 
