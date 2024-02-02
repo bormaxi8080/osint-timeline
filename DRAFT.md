@@ -12,3 +12,8 @@ go-dork - The fastest dork scanner written in Go: https://github.com/dwisiswant0
 Hash Buster - Crack hashes in seconds: https://github.com/s0md3v/Hash-Buster
 
 EvilMitter - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access: https://github.com/bitbrute/evillimiter
+
+Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers: https://binary.ninja/
+
+Official x64dbg plugin for Binary Ninja: https://github.com/x64dbg/x64dbgbinja
+
