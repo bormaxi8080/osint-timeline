@@ -21,3 +21,9 @@ Binary Ninja is an interactive decompiler, disassembler, debugger, and binary an
 
 Official x64dbg plugin for Binary Ninja: https://github.com/x64dbg/x64dbgbinja
 
+mqttsa - a tool to assist IoT developers in securing MQTT-based IoT deployments: https://github.com/stfbk/mqttsa
+
+MQTTack - MQTT Security Testing: https://github.com/souravbaghz/MQTTack
+
+MQTT Security Scanner: https://github.com/emqx/mqtt-security-scanner
+
