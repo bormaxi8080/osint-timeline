@@ -3,7 +3,7 @@
 
 ----
 
-
+A software bug in the glibc library allows system privileges to be elevated to root level. The problem affects at least Ubuntu, Fedora and Debian. Most likely, other distributions are also vulnerable: https://safe.cnews.ru/news/top/2024-02-01_kriticheskij_bag_v_fundamentalnoj
 
 ----
 
