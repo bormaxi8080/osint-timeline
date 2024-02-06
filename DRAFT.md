@@ -17,6 +17,8 @@ Subcert is a subdomain enumeration tool, that finds all the subdomains from cert
 
 Supernova - Real fucking shellcode encryption tool: https://github.com/nickvourd/Supernova
 
+Fuzztruction is an academic prototype of a fuzzer that does not directly mutate inputs (as most fuzzers do) but instead uses a so-called generator application to produce an input for our fuzzing target. As programs generating data usually produce the correct representation, our fuzzer _mutates_ the generator program (by injecting faults), such that the data produced is _almost_ valid. Optimally, the produced data passes the parsing stages in our fuzzing target, called _consumer_, but triggers unexpected behavior in deeper program logic. This allows to even fuzz targets that utilize cryptography primitives such as encryption or message integrity codes. The main advantage of our approach is that it generates complex data without requiring heavyweight program analysis techniques, grammar approximations, or human intervention: https://github.com/fuzztruction/fuzztruction
+
 Binary Ninja is an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers: https://binary.ninja/
 
 Official x64dbg plugin for Binary Ninja: https://github.com/x64dbg/x64dbgbinja
