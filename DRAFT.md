@@ -23,6 +23,8 @@ Binary Ninja is an interactive decompiler, disassembler, debugger, and binary an
 
 Official x64dbg plugin for Binary Ninja: https://github.com/x64dbg/x64dbgbinja
 
+dnSpy is a debugger and .NET assembly editor. You can use it to edit and debug assemblies even if you don't have any source code available. Main features: https://github.com/dnSpy/dnSpy
+
 pphack - The Most Advanced Client-Side Prototype Pollution Scanner: https://github.com/edoardottt/pphack
 
 mqttsa - a tool to assist IoT developers in securing MQTT-based IoT deployments: https://github.com/stfbk/mqttsa
