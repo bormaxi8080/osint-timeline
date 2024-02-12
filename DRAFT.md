@@ -14,3 +14,5 @@ sel2pup - The converter from Selenium IDE to Puppeteer: https://github.com/yuzut
 
 H4X-Tools - Open source toolkit for scraping, OSINT and more: https://github.com/vil/H4X-Tools
 
+Web Brutator - Fast Modular Web Interfaces Bruteforcer: https://github.com/koutto/web-brutator
+
