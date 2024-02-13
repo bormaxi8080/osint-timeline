@@ -24,6 +24,8 @@ Gitignore - A collection of useful .gitignore templates: https://github.com/gith
 
 sel2pup - The converter from Selenium IDE to Puppeteer: https://github.com/yuzutas0/sel2pup
 
+Frown provides a user-friendly interface to visualize the status of all open connections for a user at a certain moment: https://github.com/blasrodri/frown
+
 H4X-Tools - Open source toolkit for scraping, OSINT and more: https://github.com/vil/H4X-Tools
 
 Web Brutator - Fast Modular Web Interfaces Bruteforcer: https://github.com/koutto/web-brutator
