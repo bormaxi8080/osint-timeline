@@ -2,6 +2,8 @@ The most dangerous and bad people are people with intelligence, but without empa
 
 ----
 
+OSINT Industries - OSINT over 200 websites: https://osint.industries/
+
 Critical Vulnerability in Shim Bootloader Threatens Linux Systems: https://www.blackhatethicalhacking.com/news/critical-vulnerability-in-shim-bootloader-threatens-linux-systems/
 
 ----
