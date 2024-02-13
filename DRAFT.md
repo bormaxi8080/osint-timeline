@@ -7,6 +7,9 @@ The most dangerous and bad people are people with intelligence, but without empa
 GitHub: https://github.com/mediazona/data-wanted
 
 
+Musk Says Putin Can’t Lose in Ukraine, Opposes Senate Bill: https://www.bloomberg.com/news/articles/2024-02-13/musk-predicts-putin-can-t-lose-in-ukraine-opposes-senate-bill
+
+
 Critical Vulnerability in Shim Bootloader Threatens Linux Systems: https://www.blackhatethicalhacking.com/news/critical-vulnerability-in-shim-bootloader-threatens-linux-systems/
 
 ----
