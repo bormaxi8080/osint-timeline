@@ -8,3 +8,21 @@ And the Almaty birds are screaming and choking in the morning: it’s already sp
 
 ----
 
+A new version of GeoSpy.ai (twitter.com/GrayLark_io) was released today - GeoSpy AI v0.1.4.
+
+In addition to coordinates and a map, a list of similar images is now also displayed to help to pinpoint location more accurately.
+
+Other AI geolocation tools:
+
+http://usersearch.org (paid)
+
+http://huggingface.co/spaces/ydshieh/Kosmos-2 (free)
+
+http://picarta.ai (free trial)
+
+http://labs.tib.eu/geoestimation/ (free)
+
+// by CyberDetective
+
+----
+
