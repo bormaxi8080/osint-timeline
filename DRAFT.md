@@ -26,3 +26,5 @@ http://labs.tib.eu/geoestimation/ (free)
 
 ----
 
+SmuggleFuzz - A customizable and rapid HTTP downgrade smuggling scanner written in Go: https://github.com/Moopinger/smugglefuzz
+
