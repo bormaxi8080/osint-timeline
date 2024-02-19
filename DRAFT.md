@@ -4,7 +4,7 @@ And the Almaty birds are screaming and choking in the morning: it’s already sp
 
 ----
 
-
+Yemen's Houthis were able to intercept control of an Israeli airline El Al plane flying from Phuket to Tel Aviv. This time the pilots realized it in time and saved the situation, but the new method of “hacking” tested by the barmalei may become widespread due to the relative simplicity of such a cyber attack: https://www.frequentflyers.ru/2024/02/19/acars_spoof/
 
 ----
 
