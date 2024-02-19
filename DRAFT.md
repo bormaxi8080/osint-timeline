@@ -26,5 +26,7 @@ http://labs.tib.eu/geoestimation/ (free)
 
 ----
 
+Valid8Proxy - Tool designed for fetching, validating, and storing working proxies: https://github.com/spyboy-productions/Valid8Proxy
+
 SmuggleFuzz - A customizable and rapid HTTP downgrade smuggling scanner written in Go: https://github.com/Moopinger/smugglefuzz
 
