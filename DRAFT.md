@@ -26,6 +26,8 @@ http://labs.tib.eu/geoestimation/ (free)
 
 ----
 
+Armitage - Cyber Attack Management for Metasploit: https://github.com/xxgrunge/armitage
+
 Valid8Proxy - Tool designed for fetching, validating, and storing working proxies: https://github.com/spyboy-productions/Valid8Proxy
 
 YouTube MPV - A dmenu script for quick loading of URL's with mpv: https://github.com/oliverkwebb/ytmpv
