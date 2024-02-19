@@ -30,5 +30,7 @@ Valid8Proxy - Tool designed for fetching, validating, and storing working proxie
 
 YouTube MPV - A dmenu script for quick loading of URL's with mpv: https://github.com/oliverkwebb/ytmpv
 
+SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty: https://github.com/sanjai-AK47/Subdominator
+
 SmuggleFuzz - A customizable and rapid HTTP downgrade smuggling scanner written in Go: https://github.com/Moopinger/smugglefuzz
 
