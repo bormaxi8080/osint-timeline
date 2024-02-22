@@ -15,8 +15,9 @@ And that faith gave birth to reason, wisdom and insight into the essence of thin
 
 ----
 
-
+ICSRank, database of queries to search for internet connected ICS devices in search engines like Google, Shodan, Censys: [icsrank.com](http://icsrank.com/)
 
 ----
 
+Magika - Detect file content types with deep learning: https://github.com/google/magika
 
