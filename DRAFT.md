@@ -33,12 +33,23 @@ Axiom - The dynamic infrastructure framework for everybody! Distribute the workl
 
 Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi: https://github.com/sw33tLie/bbscope
 
-Baunty Targets Data - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports: https://github.com/arkadiyt/bounty-targets-data
+Bounty Targets Data - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports: https://github.com/arkadiyt/bounty-targets-data
 
 Gau - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl: https://github.com/lc/gau
 
-
 // by CyberDetective
+
+----
+
+Apache ActiveMQ is the most popular open source, multi-protocol, Java-based message broker. It supports industry standard protocols so users get the benefits of client choices across a broad range of languages and platforms. Connect from clients written in JavaScript, C, C++, Python, .Net, and more. Integrate your multi-platform applications using the ubiquitous **AMQP** protocol. Exchange messages between your web applications using **STOMP** over websockets. Manage your IoT devices using **MQTT**. Support your existing **JMS** infrastructure and beyond: https://activemq.apache.org/
+
+GitHub (mirror): https://github.com/apache/activemq
+
+Downloads:
+
+https://activemq.apache.org/components/classic/download/
+
+https://activemq.apache.org/components/artemis/download/
 
 ----
 
@@ -47,6 +58,4 @@ Magika - Detect file content types with deep learning: https://github.com/google
 Gligen-GUI - An intuitive GUI for GLIGEN that uses ComfyUI in the backend: https://github.com/mut-ex/gligen-gui
 
 Poppler - a PDF rendering library: https://github.com/mingodad/poppler
-
-
 
