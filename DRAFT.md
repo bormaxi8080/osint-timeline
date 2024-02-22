@@ -21,3 +21,7 @@ ICSRank, database of queries to search for internet connected ICS devices in sea
 
 Magika - Detect file content types with deep learning: https://github.com/google/magika
 
+Gligen-GUI - An intuitive GUI for GLIGEN that uses ComfyUI in the backend: https://github.com/mut-ex/gligen-gui
+
+
+
