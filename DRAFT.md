@@ -19,9 +19,34 @@ ICSRank, database of queries to search for internet connected ICS devices in sea
 
 ----
 
+Mass Hunting for Leaked Sensitive Documents Detailed article from @ott3ly: 
+- Project discovery’s public bug bounty programs 
+- BBSCOPE tool from sw33tLie 
+- Preparing VPS for Mass Hunting PDF Files 
+- Scanning the Targets For Big Bucks.
+
+https://ott3rly.com/mass-hunting-for-leaked-sensitive-documents/
+
+Community curated list of public bug bounty and responsible disclosure programs: https://github.com/projectdiscovery/public-bugbounty-programs
+
+Axiom - The dynamic infrastructure framework for everybody! Distribute the workload of many different scanning tools with ease, including nmap, ffuf, masscan, nuclei, meg and many more: https://github.com/pry0cc/axiom
+
+Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi: https://github.com/sw33tLie/bbscope
+
+Baunty Targets Data - This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports: https://github.com/arkadiyt/bounty-targets-data
+
+Gau - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl: https://github.com/lc/gau
+
+
+// by CyberDetective
+
+----
+
 Magika - Detect file content types with deep learning: https://github.com/google/magika
 
 Gligen-GUI - An intuitive GUI for GLIGEN that uses ComfyUI in the backend: https://github.com/mut-ex/gligen-gui
+
+Poppler - a PDF rendering library: https://github.com/mingodad/poppler
 
 
 
