@@ -53,6 +53,10 @@ https://activemq.apache.org/components/artemis/download/
 
 ----
 
+RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language: https://github.com/joaoviictorti/RustRedOps
+
+----
+
 Magika - Detect file content types with deep learning: https://github.com/google/magika
 
 Gligen-GUI - An intuitive GUI for GLIGEN that uses ComfyUI in the backend: https://github.com/mut-ex/gligen-gui
