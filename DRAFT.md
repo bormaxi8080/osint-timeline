@@ -69,7 +69,7 @@ Gligen-GUI - An intuitive GUI for GLIGEN that uses ComfyUI in the backend: https
 
 Poppler - a PDF rendering library: https://github.com/mingodad/poppler
 
-Ecalibur - A web interface to extract tabular data from PDFs: https://github.com/camelot-dev/excalibur
+Excalibur - A web interface to extract tabular data from PDFs: https://github.com/camelot-dev/excalibur
 
 Anonymie_Excel - A Python script that anonymizes an Excel file and synthesizes new data in its place: https://github.com/Welding-Torch/Anonymize_Excel
 
