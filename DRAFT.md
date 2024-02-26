@@ -75,3 +75,5 @@ Anonymie_Excel - A Python script that anonymizes an Excel file and synthesizes n
 
 Dalfox is a powerful open-source XSS scanner and utility focused on automation: https://github.com/hahwul/dalfox
 
+SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery: https://github.com/MegaManSec/SSH-Snake
+
