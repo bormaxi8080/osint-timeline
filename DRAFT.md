@@ -73,6 +73,8 @@ Excalibur - A web interface to extract tabular data from PDFs: https://github.co
 
 Anonymie_Excel - A Python script that anonymizes an Excel file and synthesizes new data in its place: https://github.com/Welding-Torch/Anonymize_Excel
 
+**Shittier** is a code formatting tool that aims to make your code look as terrible as possible. It is the exact opposite of popular tools like Prettier, which focus on improving code formatting and readability. Shittier embraces chaos, messiness, and confusion, making your code look shittier than ever before: https://github.com/rohitdhas/shittier
+
 Dalfox is a powerful open-source XSS scanner and utility focused on automation: https://github.com/hahwul/dalfox
 
 SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery: https://github.com/MegaManSec/SSH-Snake
