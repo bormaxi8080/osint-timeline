@@ -15,6 +15,12 @@ And that faith gave birth to reason, wisdom and insight into the essence of thin
 
 ----
 
+Dive into the world of open-source investigation with Bellingcat's Global Authentication Project. Our vibrant volunteer community explores, verifies, and sheds light on stories using open source data. From human rights investigations to event authentication, we invite enthusiasts of all backgrounds to join Bellingcat:
+
+https://sites.google.com/bellingcat.com/bellingcat-volunteer-community
+
+----
+
 ICSRank, database of queries to search for internet connected ICS devices in search engines like Google, Shodan, Censys: [icsrank.com](http://icsrank.com/)
 
 ----
@@ -81,3 +87,4 @@ Dalfox is a powerful open-source XSS scanner and utility focused on automation: 
 
 SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery: https://github.com/MegaManSec/SSH-Snake
 
+gimmeSH, is a tool that generates a custom cheatsheet for `Reverse Shell`, `File Transfer` and `Msfvenom` within your terminal, you just need to provide the platform, your Internet protocol address and your port number: https://github.com/A3h1nt/gimmeSH
