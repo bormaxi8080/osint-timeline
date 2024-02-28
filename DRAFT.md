@@ -89,6 +89,8 @@ Caronte is a tool to analyze the network flow during capture the flag events of 
 
 Dalfox is a powerful open-source XSS scanner and utility focused on automation: https://github.com/hahwul/dalfox
 
+jsleak is a tool to find secret , paths or links in the source code during the recon: https://github.com/byt3hx/jsleak
+
 SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery: https://github.com/MegaManSec/SSH-Snake
 
 gimmeSH, is a tool that generates a custom cheatsheet for `Reverse Shell`, `File Transfer` and `Msfvenom` within your terminal, you just need to provide the platform, your Internet protocol address and your port number: https://github.com/A3h1nt/gimmeSH
