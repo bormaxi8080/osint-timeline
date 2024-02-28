@@ -81,6 +81,8 @@ Excalibur - A web interface to extract tabular data from PDFs: https://github.co
 
 Anonymize_Excel - A Python script that anonymizes an Excel file and synthesizes new data in its place: https://github.com/Welding-Torch/Anonymize_Excel
 
+Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.: https://github.com/agalwood/Motrix
+
 Shittier is a code formatting tool that aims to make your code look as terrible as possible. It is the exact opposite of popular tools like Prettier, which focus on improving code formatting and readability. Shittier embraces chaos, messiness, and confusion, making your code look shittier than ever before: https://github.com/rohitdhas/shittier
 
 Caronte is a tool to analyze the network flow during capture the flag events of type attack/defence. It reassembles TCP packets captured in pcap files to rebuild TCP connections, and analyzes each connection to find user-defined patterns. The patterns can be defined as regex or using protocol specific rules. The connection flows are saved into a database and can be visualized with the web application. REST API are also provided: https://github.com/eciavatta/caronte
