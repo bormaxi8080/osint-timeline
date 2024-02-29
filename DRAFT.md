@@ -2,6 +2,9 @@ People in general are simpler if they don’t need so much: bread, peace, work. 
 
 ----
 
+Kali Linux 2024.1 released: https://www.kali.org/blog/kali-linux-2024-1-release/
 
+PNG images - a new way to deliver Trojans: https://www.securitylab.ru/news/546349.php
 
 ----
+
