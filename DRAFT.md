@@ -4,9 +4,13 @@ People in general are simpler if they don’t need so much: bread, peace, work. 
 
 Kali Linux 2024.1 released: https://www.kali.org/blog/kali-linux-2024-1-release/
 
+Tunneling traffic over an RDP connection: https://habr.com/ru/articles/796973/
+
 PNG images - a new way to deliver Trojans: https://www.securitylab.ru/news/546349.php
 
 ----
 
 Age - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability: https://github.com/FiloSottile/age
+
+Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more: https://github.com/moom825/xeno-rat
 
