@@ -14,3 +14,5 @@ Age - A simple, modern and secure encryption tool (and Go library) with small ex
 
 Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more: https://github.com/moom825/xeno-rat
 
+AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and your organisation's details: https://github.com/mrwadams/attackgen
+
