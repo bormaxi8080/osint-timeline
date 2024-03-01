@@ -10,6 +10,10 @@ PNG images - a new way to deliver Trojans: https://www.securitylab.ru/news/54634
 
 ----
 
+Browser Fingerprinting: What It Is and How to Bypass It: https://www.zenrows.com/blog/browser-fingerprinting#browser-fingerprinting-purpose
+
+----
+
 VictoriaMetrics - fast, cost-effective monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
 
 Age - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability: https://github.com/FiloSottile/age
