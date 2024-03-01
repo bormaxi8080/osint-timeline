@@ -10,6 +10,8 @@ PNG images - a new way to deliver Trojans: https://www.securitylab.ru/news/54634
 
 ----
 
+VictoriaMetrics - fast, cost-effective monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
+
 Age - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability: https://github.com/FiloSottile/age
 
 Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more: https://github.com/moom825/xeno-rat
