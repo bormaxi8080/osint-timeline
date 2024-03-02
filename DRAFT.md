@@ -12,11 +12,15 @@ PNG images - a new way to deliver Trojans: https://www.securitylab.ru/news/54634
 
 Browser Fingerprinting: What It Is and How to Bypass It: https://www.zenrows.com/blog/browser-fingerprinting#browser-fingerprinting-purpose
 
+Using Open Source Internet Routing Tools to Monitor a Sanctioned Russian Bank from Bellingcat: https://www.bellingcat.com/resources/2024/03/01/using-open-source-internet-routing-tools-to-monitor-a-sanctioned-russian-bank/
+
 ----
 
 VictoriaMetrics - fast, cost-effective monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
 
 Age - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability: https://github.com/FiloSottile/age
+
+FlashPaper - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required: https://github.com/AndrewPaglusch/FlashPaper
 
 Upload_Bypass - A simple tool for bypassing file upload restrictions: https://github.com/sAjibuu/Upload_Bypass
 
