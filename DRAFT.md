@@ -10,6 +10,10 @@ PNG images - a new way to deliver Trojans: https://www.securitylab.ru/news/54634
 
 ----
 
+Bellingcat has an Instagram. Find reels of our researchers speaking on their investigations, breakdowns of our latest stories, and geolocation challenges on there to test your know-how: https://www.instagram.com/bellingcatofficial/
+
+----
+
 Browser Fingerprinting: What It Is and How to Bypass It: https://www.zenrows.com/blog/browser-fingerprinting#browser-fingerprinting-purpose
 
 Using Open Source Internet Routing Tools to Monitor a Sanctioned Russian Bank from Bellingcat: https://www.bellingcat.com/resources/2024/03/01/using-open-source-internet-routing-tools-to-monitor-a-sanctioned-russian-bank/
@@ -17,6 +21,8 @@ Using Open Source Internet Routing Tools to Monitor a Sanctioned Russian Bank fr
 ----
 
 VictoriaMetrics - fast, cost-effective monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
+
+Templ - A language for writing HTML user interfaces in Go: https://github.com/a-h/templ
 
 Age - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability: https://github.com/FiloSottile/age
 
