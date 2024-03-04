@@ -22,6 +22,8 @@ Using Open Source Internet Routing Tools to Monitor a Sanctioned Russian Bank fr
 
 VictoriaMetrics - fast, cost-effective monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
 
+Dragonfly is an in-memory data store built for modern application workloads. Fully compatible with Redis and Memcached APIs, Dragonfly requires no code changes to adopt. Compared to legacy in-memory datastores, Dragonfly delivers 25X more throughput, higher cache hit rates with lower tail latency, and can run on up to 80% less resources for the same sized workload: https://github.com/dragonflydb/dragonfly
+
 Templ - A language for writing HTML user interfaces in Go: https://github.com/a-h/templ
 
 Age - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability: https://github.com/FiloSottile/age
