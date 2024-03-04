@@ -36,3 +36,5 @@ Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a
 
 AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and your organisation's details: https://github.com/mrwadams/attackgen
 
+SubBrute - A DNS meta-query spider that enumerates DNS records, and subdomains: https://github.com/TheRook/subbrute
+
