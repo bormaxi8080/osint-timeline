@@ -22,15 +22,23 @@ How to fix "fatal: early EOF fatal: index-pack failed" error for download large.
 
 ----
 
+NATS is a connective technology built for the ever increasingly hyper-connected world. It is a single technology that enables applications to securely communicate across any combination of cloud vendors, on-premise, edge, web and mobile, and devices. NATS consists of a family of open source products that are tightly integrated but can be deployed easily and independently. NATS is being used globally by thousands of companies, spanning use-cases including microservices, edge computing, mobile, IoT and can be used to augment or replace traditional messaging: https://nats.io/about/
+
+GitHub: https://github.com/nats-io
+
+----
+
 VictoriaMetrics - fast, cost-effective monitoring solution and time series database: https://github.com/VictoriaMetrics/VictoriaMetrics
 
 Dragonfly is an in-memory data store built for modern application workloads. Fully compatible with Redis and Memcached APIs, Dragonfly requires no code changes to adopt. Compared to legacy in-memory datastores, Dragonfly delivers 25X more throughput, higher cache hit rates with lower tail latency, and can run on up to 80% less resources for the same sized workload: https://github.com/dragonflydb/dragonfly
 
+Templ - A language for writing HTML user interfaces in Go: https://github.com/a-h/templ
+
 MeTube - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp): https://github.com/alexta69/metube
 
-Plain-Sight - A browser extension that allows you to use steganography based password images to log into accounts: https://github.com/bufferhead-code/plain-sight
+CmdF is a terminal app that allows you to search and seek through YouTube videos using the power of whisper.cpp and fuzzy string matching: https://github.com/dotvignesh/CmdF
 
-Templ - A language for writing HTML user interfaces in Go: https://github.com/a-h/templ
+Plain-Sight - A browser extension that allows you to use steganography based password images to log into accounts: https://github.com/bufferhead-code/plain-sight
 
 Age - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability: https://github.com/FiloSottile/age
 
