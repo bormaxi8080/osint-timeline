@@ -16,6 +16,8 @@ PNG images - a new way to deliver Trojans: https://www.securitylab.ru/news/54634
 
 ----
 
+Instructions - how to buy an anonymous virtual number +888 and register in Telegram without a SIM card: https://habr.com/ru/news/703950/
+
 Browser Fingerprinting: What It Is and How to Bypass It: https://www.zenrows.com/blog/browser-fingerprinting#browser-fingerprinting-purpose
 
 How to fix "fatal: early EOF fatal: index-pack failed" error for download large. GitHub repositories: https://stackoverflow.com/questions/21277806/fatal-early-eof-fatal-index-pack-failed
