@@ -43,6 +43,10 @@ CmdF is a terminal app that allows you to search and seek through YouTube videos
 Plain-Sight - A browser extension that allows you to use steganography based password images to log into accounts: https://github.com/bufferhead-code/plain-sight
 
 Age - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability: https://github.com/FiloSottile/age
+ 
+ChillTranslator - utomatically detoxify spicy comments while preserving key points: https://github.com/lukestanley/ChillTranslator
+
+ente - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos: https://github.com/ente-io/ente
 
 FlashPaper - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required: https://github.com/AndrewPaglusch/FlashPaper
 
