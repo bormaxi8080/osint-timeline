@@ -6,7 +6,7 @@ People in general are simpler if they don’t need so much: bread, peace, work. 
 
 Using Open Source Internet Routing Tools to Monitor a Sanctioned Russian Bank from Bellingcat: https://www.bellingcat.com/resources/2024/03/01/using-open-source-internet-routing-tools-to-monitor-a-sanctioned-russian-bank/
 
-```Bellingcat has an Instagram```. Find reels of our researchers speaking on their investigations, breakdowns of our latest stories, and geolocation challenges on there to test your know-how: https://www.instagram.com/bellingcatofficial/
+```Bellingcat has an Instagram``` - Find reels of our researchers speaking on their investigations, breakdowns of our latest stories, and geolocation challenges on there to test your know-how: https://www.instagram.com/bellingcatofficial/
 
 ----
 
@@ -22,7 +22,7 @@ PNG images - a new way to deliver Trojans: https://www.securitylab.ru/news/54634
 
 Browser Fingerprinting - What It Is and How to Bypass It: https://www.zenrows.com/blog/browser-fingerprinting#browser-fingerprinting-purpose
 
-How to fix ```"fatal: early EOF fatal: index-pack failed"``` error for download large. GitHub repositories: https://stackoverflow.com/questions/21277806/fatal-early-eof-fatal-index-pack-failed
+How to fix ```"fatal: early EOF fatal: index-pack failed"``` error for download large GitHub repositories: https://stackoverflow.com/questions/21277806/fatal-early-eof-fatal-index-pack-failed
 
 ```An Automated Hardening Framework for Ubuntu``` - The following bash framework stands up and installs several bespoke security toolkits, developed to provide seamless automatic security controls for Ubuntu servers: https://github.com/error-try-again/UbuntuHardeningFramework
 
