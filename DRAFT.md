@@ -7,3 +7,5 @@
 
 ----
 
+under-new-management - Detect when your installed Chrome extensions have changed owners: https://github.com/classvsoftware/under-new-management
+
