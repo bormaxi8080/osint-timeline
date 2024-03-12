@@ -11,6 +11,8 @@ OSINT Techniques for Sensitive Documents That Have Escaped Into The Clear Web: h
 
 ----
 
+Python for OSINT Tooling PDF: https://hakin9.org/download/python-for-osint-tooling-preview/
+
 awesome-appsec - A curated list of resources for learning about application security: https://github.com/paragonie/awesome-appsec
 
 ----
