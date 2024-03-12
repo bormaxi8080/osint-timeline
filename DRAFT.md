@@ -23,6 +23,8 @@ Gmeek is a Blog All in Github: https://github.com/Meekdai/Gmeek
 
 MinIO is a high-performance, S3 compatible object store. It is built forlarge scale AI/ML, data lake and database workloads. It is software-definedand runs on any cloud or on-premises infrastructure: https://min.io/
 
+img2pdf - Losslessly convert raster images to PDF. The file size will not unnecessarily increase. It can for example be used to create a PDF document from a number of scans that are only available in JPEG format. Existing solutions would either re-encode the input JPEG files (leading to quality loss) or store them in the zip/flate format which results into the PDF becoming unnecessarily large in terms of its file size: https://github.com/myollie/img2pdf
+
 Web2pdf is a command line tool that converts webpages to Beautifully formatted pdfs: https://github.com/dvcoolarun/web2pdf
 
 under-new-management - Detect when your installed Chrome extensions have changed owners: https://github.com/classvsoftware/under-new-management
