@@ -27,6 +27,8 @@ Web2pdf is a command line tool that converts webpages to Beautifully formatted p
 
 under-new-management - Detect when your installed Chrome extensions have changed owners: https://github.com/classvsoftware/under-new-management
 
+DetectDee: Hunt down social media accounts by username, email or phone across social networks: https://github.com/piaolin/DetectDee
+
 Briefbox email-archiver - **This project is currently still in early development and lacks proper authentication.** It is **NOT** recommended to expose this application to the public as you will be providing the world your emails. Use at your own discretion and only in a controlled environment for now: https://github.com/bandundu/email-archiver
 
 EyeSpy: Real-time Human Detection and Surveillance with Flutter and TensorFlow Lite: https://github.com/Major-Project-Human-Surveillance/Eye-Spy
