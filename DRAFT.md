@@ -3,7 +3,7 @@
 
 ----
 
-GIJN Launches First E-Book — Reporter’s Guide to Investigating War Crimes: https://gijn.org/resource/gijn-launches-first-ebook-reporters-guide-investigating-war-crimes/
+GIJN Launches First E-Book - Reporter’s Guide to Investigating War Crimes: https://gijn.org/resource/gijn-launches-first-ebook-reporters-guide-investigating-war-crimes/
 
 How To Use Bellingcat's Telegram Phone Number Checker from Bellingcat: https://www.youtube.com/watch?v=TLJgnlilEBs
 
@@ -24,6 +24,8 @@ Lexido is an innovative assistant for the Linux command line, designed to boost 
 Gmeek is a Blog All in Github: https://github.com/Meekdai/Gmeek
 
 MinIO is a high-performance, S3 compatible object store. It is built forlarge scale AI/ML, data lake and database workloads. It is software-definedand runs on any cloud or on-premises infrastructure: https://min.io/
+
+Planka - The realtime kanban board for workgroups built with React and Redux: https://github.com/plankanban/planka
 
 img2pdf - Losslessly convert raster images to PDF. The file size will not unnecessarily increase. It can for example be used to create a PDF document from a number of scans that are only available in JPEG format. Existing solutions would either re-encode the input JPEG files (leading to quality loss) or store them in the zip/flate format which results into the PDF becoming unnecessarily large in terms of its file size: https://github.com/myollie/img2pdf
 
