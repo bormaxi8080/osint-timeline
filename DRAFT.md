@@ -39,6 +39,18 @@ DetectDee: Hunt down social media accounts by username, email or phone across so
 
 Briefbox email-archiver - **This project is currently still in early development and lacks proper authentication.** It is **NOT** recommended to expose this application to the public as you will be providing the world your emails. Use at your own discretion and only in a controlled environment for now: https://github.com/bandundu/email-archiver
 
+PrivatePing is a secure messaging application built on Python's Django framework, providing end-to-end encryption for messages exchanged between users: https://github.com/princekhunt/privateping
+
+CryptoFrame is a command-line tool engineered for the secure practice of steganography within video files: https://github.com/x011/CryptoFrame
+
+OpenTelemetry is a collection of APIs, SDKs, and tools. Use it to instrument, generate, collect, and export telemetry data ([metrics](https://opentelemetry.io/docs/concepts/signals/metrics/), [logs](https://opentelemetry.io/docs/concepts/signals/logs/) and [traces](https://opentelemetry.io/docs/concepts/signals/traces/)) to help you analyze your software's performance and behavior: https://github.com/open-telemetry
+
+Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data: https://github.com/protocolbuffers/protobuf
+
+nvtop - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm: https://github.com/Syllo/nvtop
+
 EyeSpy: Real-time Human Detection and Surveillance with Flutter and TensorFlow Lite: https://github.com/Major-Project-Human-Surveillance/Eye-Spy
+
+SiCat - The useful exploit finder: https://github.com/justakazh/sicat
 
 
