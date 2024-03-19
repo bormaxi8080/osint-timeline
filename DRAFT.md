@@ -14,3 +14,5 @@ Skyvern - Automate browser-based workflows with LLMs and Computer Vision: https:
 
 Wyvern is a real-time machine learning platform for marketplaces: https://github.com/Skyvern-AI/wyvern
 
+PrivTracker allows to share torrent files just with your friends, nobody else. Unlike public trackers, it shares peers only within a group which is using the same Announce URL. It really works like a private tracker, but can be generated with one click of a button: https://github.com/meehow/privtracker
+
