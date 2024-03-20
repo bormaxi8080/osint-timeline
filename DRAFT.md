@@ -6,9 +6,13 @@ Find social media insights for any location, helping you track or analyze develo
 
 Researchers uncover three ways to identify OpenVPN sessions in transit traffic: https://habr.com/ru/news/800823/
 
+Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data: https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html
+
 ----
 
 Vortimo OSINT - An online tool for quickly searching hundreds of different sources and then processing the information found: https://find.osint-tool.com/
+
+If you need to collect URL from your Google search, with Google Search Results Scraper, you can automatically extract and export the search results to Excel: https://chromewebstore.google.com/detail/google-search-results-scr/cmdkhofenchpdlkbpkheddfgfdmmobcc
 
 ----
 
