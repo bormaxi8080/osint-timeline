@@ -10,6 +10,20 @@ Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data: http
 
 ----
 
+Betaface is a face recognition software vendor, offers ready components, such as face recognition SDKs, as well as custom software development services and hosted web services with a focus on image and video analysis, faces and objects recognition: https://www.betaface.com/wpa/
+
+Demo page: https://www.betafaceapi.com/demo.html
+
+Betaface API for Go: https://github.com/enriquebris/gobetafaceapi
+
+Betaface API for Java: https://github.com/MrNeuronix/BetaFace
+
+The unofficial ruby Gem of the Betaface API: https://github.com/jrm2194/betaface
+
+Betaface API client in PHP: https://github.com/waltergammarota/betaFace
+
+----
+
 Vortimo OSINT - An online tool for quickly searching hundreds of different sources and then processing the information found: https://find.osint-tool.com/
 
 If you need to collect URL from your Google search, with Google Search Results Scraper, you can automatically extract and export the search results to Excel: https://chromewebstore.google.com/detail/google-search-results-scr/cmdkhofenchpdlkbpkheddfgfdmmobcc
