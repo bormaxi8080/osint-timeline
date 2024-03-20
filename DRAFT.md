@@ -8,6 +8,10 @@ Researchers uncover three ways to identify OpenVPN sessions in transit traffic: 
 
 ----
 
+Vortimo OSINT - An online tool for quickly searching hundreds of different sources and then processing the information found: https://find.osint-tool.com/
+
+----
+
 OpenCanary is a multi-protocol network honeypot. It's primary use-case is to catch hackers after they've breached non-public networks. It has extremely low resource requirements and can be tweaked, modified, and extended: https://github.com/thinkst/opencanary
 
 Longhorn is a distributed block storage system for Kubernetes. Longhorn is cloud-native storage built using Kubernetes and container primitives: https://github.com/longhorn/longhorn
