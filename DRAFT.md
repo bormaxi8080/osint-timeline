@@ -6,4 +6,6 @@ Facebook has alternative ID numbers for Pages. If your searches have been wonky 
 
 ----
 
+mCaptcha - A no-nonsense CAPTCHA system with seamless UX | Backend component: https://github.com/mCaptcha/mCaptcha
+
 Tauri - Build smaller, faster, and more secure desktop applications with a web frontend: https://github.com/tauri-apps/tauri

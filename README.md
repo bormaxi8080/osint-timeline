@@ -1,7 +1,7 @@
 # bormaxi8080 osint-timeline
 
 
-Welcome to bormaxi8080 OSINT timeline weekly newseletter with collection of tools, services and investigations!
+Welcome to bormaxi8080 OSINT timeline weekly newsletter with collection of tools, services and investigations!
 
 You can see Systematized [List](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md) of my GitHub starred OSINT and Development Tools repositories, same [group by GitHub topics list](https://github.com/bormaxi8080/starred)
 
