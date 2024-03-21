@@ -36,7 +36,7 @@ If you need to collect URL from your Google search, with Google Search Results S
 
 ```Longhorn``` is a distributed block storage system for Kubernetes. Longhorn is cloud-native storage built using Kubernetes and container primitives: https://github.com/longhorn/longhorn
 
-Fish is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family. fish includes features like syntax highlighting, autosuggest-as-you-type, and fancy tab completions that just work, with no configuration required: https://github.com/fish-shell/fish-shell
+```Fish``` is a smart and user-friendly command line shell for macOS, Linux, and the rest of the family. fish includes features like syntax highlighting, autosuggest-as-you-type, and fancy tab completions that just work, with no configuration required: https://github.com/fish-shell/fish-shell
 
 ```Skyvern``` - Automate browser-based workflows with LLMs and Computer Vision: https://github.com/Skyvern-AI/skyvern
 
