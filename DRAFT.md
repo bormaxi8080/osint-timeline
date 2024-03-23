@@ -2,6 +2,8 @@ Trust your intuition. Always, no matter what. Logic will certainly justify it la
 
 ----
 
+Flightradar24 presented a global updated GPS interference map: https://habr.com/ru/news/801889/
+
 Facebook has alternative ID numbers for Pages. If your searches have been wonky lately, this should solve it: https://plessas.net/blog/2024/3/19/new-facebook-id-numbers-for-pages
 
 ----
