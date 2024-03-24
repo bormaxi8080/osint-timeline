@@ -14,6 +14,8 @@ Facebook has alternative ID numbers for Pages. If your searches have been wonky 
 
 Deep Dive OSINT, about ships related to OSINT: https://www.youtube.com/watch?v=dxiNByvkvU8
 
+Classification of secure messengers. New projects: https://habr.com/ru/companies/globalsign/articles/719330/
+
 ----
 
 HiddenVM - Use any desktop OS without leaving a trace: https://github.com/aforensics/HiddenVM
