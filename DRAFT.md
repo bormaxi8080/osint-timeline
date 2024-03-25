@@ -32,7 +32,11 @@ mCaptcha - A no-nonsense CAPTCHA system with seamless UX | Backend component: ht
 
 PiSegment - A light weight python software for semi-supervised segmentation on images: https://github.com/aGIToz/PiSegment
 
+----
+
 Tauri - Build smaller, faster, and more secure desktop applications with a web frontend: https://github.com/tauri-apps/tauri
+
+**tenv**, a versatile version manager for [OpenTofu](https://opentofu.org/), [Terraform](https://www.terraform.io/) and [Terragrunt](https://terragrunt.gruntwork.io/), written in Go. Our tool simplifies the complexity of handling different versions of these powerful tools, ensuring developers and DevOps professionals can focus on what matters most - building and deploying efficiently : https://github.com/tofuutils/tenv
 
 Rawdog (Recursive Augmentation With Deterministic Output Generations) is a novel alternative to RAG (Retrieval Augmented Generation). Rawdog can self-select context by running scripts to print things, adding the output to the conversation, and then calling itself again: https://github.com/AbanteAI/rawdog
 
