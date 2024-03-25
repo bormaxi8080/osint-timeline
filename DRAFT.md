@@ -18,7 +18,13 @@ Classification of secure messengers. New projects: https://habr.com/ru/companies
 
 ----
 
+Seamless PDF conversations with citations you can trust. Transform the way you work with PDFs. Enhance productivity, foster collaboration, and unlock unprecedented efficiency through interactive PDF chat with PDFGPT: https://www.pdfgpt.io/
+
+----
+
 HiddenVM - Use any desktop OS without leaving a trace: https://github.com/aforensics/HiddenVM
+
+Lumentis - AI powered one-click comprehensive docs from transcripts and text: https://github.com/hrishioa/lumentis
 
 Unisteg (from unicode steganography) lets you hide one string in another string by using [invisible unicode characters](https://invisible-characters.com): https://github.com/sixhobbits/unisteg
 
