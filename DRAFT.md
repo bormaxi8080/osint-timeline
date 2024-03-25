@@ -38,5 +38,9 @@ Tauri - Build smaller, faster, and more secure desktop applications with a web f
 
 **tenv**, a versatile version manager for [OpenTofu](https://opentofu.org/), [Terraform](https://www.terraform.io/) and [Terragrunt](https://terragrunt.gruntwork.io/), written in Go. Our tool simplifies the complexity of handling different versions of these powerful tools, ensuring developers and DevOps professionals can focus on what matters most - building and deploying efficiently : https://github.com/tofuutils/tenv
 
+Gradio is an open-source Python package that allows you to quickly **build** a demo or web application for your machine learning model, API, or any arbitrary Python function. You can then **share** a link to your demo or web application in just a few seconds using Gradio's built-in sharing features. No JavaScript, CSS, or web hosting experience needed: https://github.com/gradio-app/gradio
+
 Rawdog (Recursive Augmentation With Deterministic Output Generations) is a novel alternative to RAG (Retrieval Augmented Generation). Rawdog can self-select context by running scripts to print things, adding the output to the conversation, and then calling itself again: https://github.com/AbanteAI/rawdog
+
+----
 
