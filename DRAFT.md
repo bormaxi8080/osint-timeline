@@ -32,6 +32,8 @@ mCaptcha - A no-nonsense CAPTCHA system with seamless UX | Backend component: ht
 
 PiSegment - A light weight python software for semi-supervised segmentation on images: https://github.com/aGIToz/PiSegment
 
+Hyperbacked - it stores secrets securely using printable PDFs that contain encrypted QR-Codes. The encrypted backup can optionally be sharded, so that it can be distributed across many trusted people, with only a configurable subset of shards being required to decrypt the secret: https://github.com/Twometer/hyperbacked
+
 ----
 
 Tauri - Build smaller, faster, and more secure desktop applications with a web frontend: https://github.com/tauri-apps/tauri
