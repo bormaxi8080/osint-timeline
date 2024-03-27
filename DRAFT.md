@@ -18,6 +18,8 @@ Classification of secure messengers. New projects: https://habr.com/ru/companies
 
 ----
 
+Snyk - Find and fix vulnerabilities in 5 minutes: https://snyk.io/
+
 Seamless PDF conversations with citations you can trust. Transform the way you work with PDFs. Enhance productivity, foster collaboration, and unlock unprecedented efficiency through interactive PDF chat with PDFGPT: https://www.pdfgpt.io/
 
 ----
@@ -34,6 +36,12 @@ PiSegment - A light weight python software for semi-supervised segmentation on i
 
 Hyperbacked - it stores secrets securely using printable PDFs that contain encrypted QR-Codes. The encrypted backup can optionally be sharded, so that it can be distributed across many trusted people, with only a configurable subset of shards being required to decrypt the secret: https://github.com/Twometer/hyperbacked
 
+Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs , ASNs , and subdomains, the tool also allows users to search Google Play application ID: https://github.com/chiasmod0n/chiasmodon
+
+`onionpipe` forwards ports on the local host to remote Onion addresses as Tor hidden services and vice-versa: https://github.com/cmars/onionpipe
+
+Airclap - Send any file to any device - cross platform, ultra fast and easy to use. We aim to help you enjoy life rather than waste time on file transfers: https://github.com/Gentleflow/Airclap
+
 ----
 
 Tauri - Build smaller, faster, and more secure desktop applications with a web frontend: https://github.com/tauri-apps/tauri
@@ -43,6 +51,8 @@ Tauri - Build smaller, faster, and more secure desktop applications with a web f
 Gradio is an open-source Python package that allows you to quickly **build** a demo or web application for your machine learning model, API, or any arbitrary Python function. You can then **share** a link to your demo or web application in just a few seconds using Gradio's built-in sharing features. No JavaScript, CSS, or web hosting experience needed: https://github.com/gradio-app/gradio
 
 Rawdog (Recursive Augmentation With Deterministic Output Generations) is a novel alternative to RAG (Retrieval Augmented Generation). Rawdog can self-select context by running scripts to print things, adding the output to the conversation, and then calling itself again: https://github.com/AbanteAI/rawdog
+
+Snyk Security Plugin - Test and monitor your projects for vulnerabilities with Jenkins. This plugin is officially maintained by Snyk: https://github.com/cmars/snyk-security-scanner-plugin
 
 ----
 
