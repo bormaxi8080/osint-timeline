@@ -32,7 +32,7 @@ Gourlex is a simple tool that can be used to extract URLs and paths from web pag
 
 TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses: https://github.com/mehmetkahya0/temp-mail
 
-Wildfire - Record browser actions then replay immediately. Craft your own custom automation workflows. The Wildfire extension allows you to record your actions on the pages you visit, then replay those actions using a simulator. When actions are recorded or simulated, it produces a log which can be reviewed. You can then use the Workflow Editor to manipulate the behavior of the simulation. The extension is appropriate for those using similar automation extensions such as iMacros or for software testers using tools such as Selenium.: https://chromewebstore.google.com/detail/wildfire/djhgeeodemlfdpmcccdekfalbhllcoim?hl=en
+Wildfire - Record browser actions then replay immediately. Craft your own custom automation workflows. The Wildfire extension allows you to record your actions on the pages you visit, then replay those actions using a simulator. When actions are recorded or simulated, it produces a log which can be reviewed. You can then use the Workflow Editor to manipulate the behavior of the simulation. The extension is appropriate for those using similar automation extensions such as iMacros or for software testers using tools such as Selenium: https://chromewebstore.google.com/detail/wildfire/djhgeeodemlfdpmcccdekfalbhllcoim?hl=en
 
 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is: https://github.com/bee-san/pyWhat
 
@@ -45,6 +45,8 @@ CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras
 Bash-video - bash cli video editing "suite" which ... just wraps ffmpeg: https://github.com/allen-munsch/bash-video
 
 One-Liner-Collections - This Repositories contains list of One Liners with Descriptions and Installation requirements: https://github.com/thecybertix/One-Liner-Collections
+
+Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linux-minimalism
 
 ----
 
