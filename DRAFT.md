@@ -20,6 +20,14 @@ Quick archive.org viewer: https://cybdetective.com/webarchiveviewer/
 
 ----
 
+RegExr is an online tool to **learn**, **build**, & **test** Regular Expressions: https://regexr.com/
+
+RegexLearn - Learn Regex step by step, from zero to advanced: https://regexlearn.com/
+
+Chrome Regex Search - An extension for Regex Search in lieu of Chrome's CTRL+F: https://chromewebstore.google.com/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn
+
+----
+
 Gourlex is a simple tool that can be used to extract URLs and paths from web pages: https://github.com/trap-bytes/gourlex
 
 TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses: https://github.com/mehmetkahya0/temp-mail
@@ -28,9 +36,15 @@ Wildfire - Record browser actions then replay immediately. Craft your own custom
 
 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is: https://github.com/bee-san/pyWhat
 
+Facebook Group Members Extractor. Download Facebook group members in CSV: https://github.com/floriandiud/facebook-group-members-scraper
+
 AnyBT - A tool for searching magnet link of all kinds of BitTorrent contents: https://github.com/j2qk3b/AnyBT
 
+CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials: https://github.com/EntySec/CamRaptor
+
 Bash-video - bash cli video editing "suite" which ... just wraps ffmpeg: https://github.com/allen-munsch/bash-video
+
+One-Liner-Collections - This Repositories contains list of One Liners with Descriptions and Installation requirements: https://github.com/thecybertix/One-Liner-Collections
 
 ----
 
