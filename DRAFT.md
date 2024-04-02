@@ -10,6 +10,8 @@ The solution to the "Havana syndrome". How the GRU cripples American diplomats w
 
 Finding people with their faces. The story of Daniela Klette went around the world as an example where new facial recognition databanks can unearth identities even for those, who hide for 30 years. A short OSINT review for online investigators: https://techjournalism.medium.com/finding-people-with-their-faces-07dc4b31d271
 
+A DDoS attack has been invented that can easily disable any pair of servers. The attack is aimed at application-level protocols operating on the basis of the commonly used network protocol UDP (User Datagram Protocol). A potential attacker could force pairs of UDP servers to establish connections with each other ad infinitum until all resources are exhausted: https://safe.cnews.ru/news/top/2024-03-21_tsiklicheskaya_dos-ataka_mozhet
+
 ----
 
 The Gemini ecosystem represents Google's most capable AI. Our Gemini models are built from the ground up for multimodality - reasoning seamlessly across text, images, audio, video, and code: https://deepmind.google/technologies/gemini/#introduction
@@ -57,6 +59,8 @@ AnyBT - A tool for searching magnet link of all kinds of BitTorrent contents: ht
 CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials: https://github.com/EntySec/CamRaptor
 
 Bash-video - bash cli video editing "suite" which ... just wraps ffmpeg: https://github.com/allen-munsch/bash-video
+
+Sparrow-WiFi - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux: https://github.com/ghostop14/sparrow-wifi
 
 One-Liner-Collections - This Repositories contains list of One Liners with Descriptions and Installation requirements: https://github.com/thecybertix/One-Liner-Collections
 
