@@ -14,7 +14,7 @@ Finding people with their faces. The story of Daniela Klette went around the wor
 
 The Gemini ecosystem represents Google's most capable AI. Our Gemini models are built from the ground up for multimodality - reasoning seamlessly across text, images, audio, video, and code: https://deepmind.google/technologies/gemini/#introduction
 
-Flipper Zero - detailed review: https://habr.com/ru/articles/775706/
+Flipper Zero detailed review: https://habr.com/ru/articles/775706/
 
 ----
 
@@ -67,6 +67,8 @@ Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linu
 OpenUI let's you describe UI using your imagination, then see it rendered live: https://github.com/wandb/openui
 
 Lan-mouse - mouse & keyboard sharing via LAN: https://github.com/feschber/lan-mouse
+
+Bun - SQL-first Golang ORM for PostgreSQL, MySQL, MSSQL, and SQLite: https://github.com/uptrace/bun
 
 UniLaunch - Advanced universal autostart tool for use on Linux, MacOS and Windows: https://github.com/timo-reymann/UniLaunch
 
