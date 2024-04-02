@@ -66,6 +66,8 @@ Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linu
 
 OpenUI let's you describe UI using your imagination, then see it rendered live: https://github.com/wandb/openui
 
+Screenshot-to-Code - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue): https://github.com/abi/screenshot-to-code
+
 Lan-mouse - mouse & keyboard sharing via LAN: https://github.com/feschber/lan-mouse
 
 Bun - SQL-first Golang ORM for PostgreSQL, MySQL, MSSQL, and SQLite: https://github.com/uptrace/bun
