@@ -8,6 +8,8 @@ The future smells of degradation.
 
 The solution to the "Havana syndrome". How the GRU cripples American diplomats with secret weapons: https://theins.ru/politika/270420
 
+Finding people with their faces. The story of Daniela Klette went around the world as an example where new facial recognition databanks can unearth identities even for those, who hide for 30 years. A short OSINT review for online investigators: https://techjournalism.medium.com/finding-people-with-their-faces-07dc4b31d271
+
 ----
 
 The Gemini ecosystem represents Google's most capable AI. Our Gemini models are built from the ground up for multimodality - reasoning seamlessly across text, images, audio, video, and code: https://deepmind.google/technologies/gemini/#introduction
@@ -48,6 +50,8 @@ Wildfire - Record browser actions then replay immediately. Craft your own custom
 
 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is: https://github.com/bee-san/pyWhat
 
+The Telegram Snowball Sampling Tool is a Python-based utility designed for conducting snowball sampling to collect Telegram channels through forwards: https://github.com/thomasjjj/Telegram-Snowball-Sampling
+
 AnyBT - A tool for searching magnet link of all kinds of BitTorrent contents: https://github.com/j2qk3b/AnyBT
 
 CamRaptor is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials: https://github.com/EntySec/CamRaptor
@@ -59,6 +63,8 @@ One-Liner-Collections - This Repositories contains list of One Liners with Descr
 Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linux-minimalism
 
 ----
+
+OpenUI let's you describe UI using your imagination, then see it rendered live: https://github.com/wandb/openui
 
 Lan-mouse - mouse & keyboard sharing via LAN: https://github.com/feschber/lan-mouse
 
