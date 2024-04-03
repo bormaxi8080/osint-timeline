@@ -8,6 +8,8 @@ The future smells of degradation.
 
 The solution to the "Havana syndrome". How the GRU cripples American diplomats with secret weapons: https://theins.ru/politika/270420
 
+Facebook sold personal messages of Messenger users to Netflix for $100 million. A document about the deal was discovered by an ex-Google employee. Source: https://twitter.com/deedydas/status/1774995180980166978/photo/1
+
 Finding people with their faces. The story of Daniela Klette went around the world as an example where new facial recognition databanks can unearth identities even for those, who hide for 30 years. A short OSINT review for online investigators: https://techjournalism.medium.com/finding-people-with-their-faces-07dc4b31d271
 
 A DDoS attack has been invented that can easily disable any pair of servers. The attack is aimed at application-level protocols operating on the basis of the commonly used network protocol UDP (User Datagram Protocol). A potential attacker could force pairs of UDP servers to establish connections with each other ad infinitum until all resources are exhausted: https://safe.cnews.ru/news/top/2024-03-21_tsiklicheskaya_dos-ataka_mozhet
@@ -31,6 +33,8 @@ How to use [Google Maps Scraper](https://github.com/gosom/google-maps-scraper) f
 Quick archive.org viewer: https://cybdetective.com/webarchiveviewer/
 
 5 Katana tricks for OSINT: https://osintteam.blog/5-katana-tricks-for-osint-3a3137a040c8
+
+Google Factcheck Explorer - Upload the picture (or paste the link) to check which articles it was used in and how factually accurate those articles are: https://toolbox.google.com/factcheck/explorer/search/
 
 (c) by CyberDetective
 
@@ -69,6 +73,8 @@ Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linu
 ----
 
 OpenUI let's you describe UI using your imagination, then see it rendered live: https://github.com/wandb/openui
+
+SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models: https://github.com/princeton-nlp/SWE-agent
 
 Screenshot-to-Code - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue): https://github.com/abi/screenshot-to-code
 
