@@ -36,7 +36,7 @@ Identify anything. ```pyWhat``` easily lets you identify emails, IP addresses, a
 
 ```The Telegram Snowball Sampling Tool``` is a Python-based utility designed for conducting snowball sampling to collect Telegram channels through forwards: https://github.com/thomasjjj/Telegram-Snowball-Sampling
 
-```Tweet Machine``` - this tool can retrieve : 1.Deleted tweets and replies ,Even if The account is suspended; 2 .Old bios and Timestamp of The tweets: https://github.com/0xcyberpj/tweet-machine
+```Tweet Machine``` - this tool can retrieve : 1. Deleted tweets and replies, even if the account is suspended; 2. Old bios and Timestamp of The tweets: https://github.com/0xcyberpj/tweet-machine
 
 ```AnyBT``` - A tool for searching magnet link of all kinds of BitTorrent contents: https://github.com/j2qk3b/AnyBT
 
