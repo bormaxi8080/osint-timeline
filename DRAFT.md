@@ -34,6 +34,8 @@ One-Liner-Collections - This Repositories contains list of One Liners with Descr
 
 Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linux-minimalism
 
+browsr is a pleasant **file explorer** in your terminal. It's a command line **TUI** (text-based user interface) application that empowers you to browse the contents of local and remote filesystems with your keyboard or mouse.: https://github.com/juftin/browsr
+
 ----
 
 Lazytainer - Lazy Load Containers. Monitors network traffic to containers. If there is traffic, the container runs, otherwise the container is stopped/paused: https://github.com/vmorganp/Lazytainer
