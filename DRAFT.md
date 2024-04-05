@@ -28,21 +28,27 @@ Chrome Regex Search - An extension for Regex Search in lieu of Chrome's CTRL+F: 
 
 ----
 
-
-
 One-Liner-Collections - This Repositories contains list of One Liners with Descriptions and Installation requirements: https://github.com/thecybertix/One-Liner-Collections
 
 Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linux-minimalism
 
 browsr is a pleasant **file explorer** in your terminal. It's a command line **TUI** (text-based user interface) application that empowers you to browse the contents of local and remote filesystems with your keyboard or mouse.: https://github.com/juftin/browsr
 
+PersistenceSniper - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines: https://github.com/last-byte/PersistenceSniper
+
 ----
+
+**New from GitHub Community:**
 
 Lazytainer - Lazy Load Containers. Monitors network traffic to containers. If there is traffic, the container runs, otherwise the container is stopped/paused: https://github.com/vmorganp/Lazytainer
 
 Gerb - Graphical font editor (GTK + Rust): https://github.com/epilys/gerb
 
 GTrash - A Featureful Trash CLI manager: alternative to rm and trash-cli: https://github.com/umlx5h/gtrash
+
+Trystero - Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase: https://github.com/dmotz/trystero
+
+FastForward - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners: https://github.com/FastForwardTeam/FastForward
 
 ----
 
