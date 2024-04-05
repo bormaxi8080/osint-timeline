@@ -118,8 +118,7 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 [bormaxi8080 OSINT Timeline (01) - 06.04.2023](./timelines/bormaxi8080-osint-timeline_01_06.04.2023.md)
 
 ----
-
-If you like the projects that I do, I will be grateful for donations:
+### If you like the projects that I do, I will be grateful for donations:
 
 USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
 
