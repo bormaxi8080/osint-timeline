@@ -52,6 +52,10 @@ Multi-modal starter kit for AI video understanding and narration. Works with Oll
 
 **New from GitHub Community:**
 
+Homepage - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations: https://github.com/gethomepage/homepage
+
+Simulai is a Notion-inspired open-source conversational survey builder: https://github.com/simulaiofficial/simulai
+
 Lazytainer - Lazy Load Containers. Monitors network traffic to containers. If there is traffic, the container runs, otherwise the container is stopped/paused: https://github.com/vmorganp/Lazytainer
 
 Gerb - Graphical font editor (GTK + Rust): https://github.com/epilys/gerb
