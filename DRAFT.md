@@ -34,6 +34,8 @@ Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linu
 
 browsr is a pleasant **file explorer** in your terminal. It's a command line **TUI** (text-based user interface) application that empowers you to browse the contents of local and remote filesystems with your keyboard or mouse: https://github.com/juftin/browsr
 
+EyeGestures is open source eyetracking software/library using native webcams and phone camers for achieving its goal. The aim of library is to bring accessibility of eyetracking and eyedriven interfaces without requirement of obtaining expensive hardware: https://github.com/NativeSensors/EyeGestures
+
 GPT-Author - This project utilizes a chain of GPT-4, Stable Diffusion, and Anthropic API calls to generate an original fantasy novel. Users can provide an initial prompt and enter how many chapters they'd like it to be, and the AI then generates an entire novel, outputting an EPUB file compatible with e-book readers: https://github.com/mshumer/gpt-author/
 
 From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations - Code and dataset for photorealistic Codec Avatars driven from audio: https://github.com/facebookresearch/audio2photoreal
