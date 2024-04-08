@@ -40,6 +40,8 @@ EyeGestures is open source eyetracking software/library using native webcams and
 
 Rope - GUI-focused roop: https://github.com/Hillobar/Rope
 
+Friendica is a platform for decentralised social communication linking to other independent social and corporate services. Friendica connects you to a federated communications network of thousands of servers called the Fediverse. Through various protocols you can interact with anyone on [Friendica](https://friendi.ca/), [Mastodon](https://joinmastodon.org/), [Lemmy](https://join-lemmy.org/), [Diaspora](https://diasporafoundation.org/), [Misskey](https://join.misskey.page/), [Peertube](https://joinpeertube.org/), [Pixelfed](https://pixelfed.org/), [Pleroma](https://pleroma.social/) and many more. Receiving content from Tumblr, WordPress and RSS is also possible. Friendica allows to import and mirror your content via add-ons such as ITTT and Buffer. You can control the privacy scope of your content: https://github.com/friendica/friendica
+
 GPT-Author - This project utilizes a chain of GPT-4, Stable Diffusion, and Anthropic API calls to generate an original fantasy novel. Users can provide an initial prompt and enter how many chapters they'd like it to be, and the AI then generates an entire novel, outputting an EPUB file compatible with e-book readers: https://github.com/mshumer/gpt-author/
 
 From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations - Code and dataset for photorealistic Codec Avatars driven from audio: https://github.com/facebookresearch/audio2photoreal
