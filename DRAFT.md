@@ -30,6 +30,8 @@ Chrome Regex Search - An extension for Regex Search in lieu of Chrome's CTRL+F: 
 
 IntRec-Pack is a Bash script designed to download, install and deploy several quality OSINT, Recon and Threat Intelligence tools. Due to the fact it manages the installation of the various dependencies related to these programs as well it aims to be a comprehensive assistant in setting up your intelligence gathering environment. Below is an overview of the tools and utilities it will help you set up: https://github.com/NullArray/IntRec-Pack
 
+Awesome-Fuzzing - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis: https://github.com/secfigo/Awesome-Fuzzing
+
 One-Liner-Collections - This Repositories contains list of One Liners with Descriptions and Installation requirements: https://github.com/thecybertix/One-Liner-Collections
 
 Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linux-minimalism
