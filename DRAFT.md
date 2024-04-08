@@ -34,6 +34,8 @@ One-Liner-Collections - This Repositories contains list of One Liners with Descr
 
 Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linux-minimalism
 
+notWG - obfuscated secure tunnel for Linux 3.10 - 5.14, based on WireGuard (mirror): https://github.com/el3xyz/wireguard-linux-compat
+
 browsr is a pleasant **file explorer** in your terminal. It's a command line **TUI** (text-based user interface) application that empowers you to browse the contents of local and remote filesystems with your keyboard or mouse: https://github.com/juftin/browsr
 
 EyeGestures is open source eyetracking software/library using native webcams and phone camers for achieving its goal. The aim of library is to bring accessibility of eyetracking and eyedriven interfaces without requirement of obtaining expensive hardware: https://github.com/NativeSensors/EyeGestures
