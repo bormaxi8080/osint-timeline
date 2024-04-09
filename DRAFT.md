@@ -6,6 +6,10 @@ Why do we have a dreams?
 
 ----
 
+Use OSINT to Investigate a Phishing Scam: https://www.secjuice.com/use-osint-to-investigate-a-phishing-scam/
+
+----
+
 Google has introduced the V8 Sandbox, a mechanism designed to protect its widely-used V8 JavaScript engine from memory corruption attacks: https://www.securityweek.com/google-adds-v8-sandbox-to-chrome/
 
 V8 Blog: https://v8.dev/blog/sandbox
