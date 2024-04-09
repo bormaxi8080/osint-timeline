@@ -32,6 +32,8 @@ IntRec-Pack is a Bash script designed to download, install and deploy several qu
 
 Awesome-Fuzzing - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis: https://github.com/secfigo/Awesome-Fuzzing
 
+++101 Linux commands Open-source eBook - This is an open-source eBook with 101 Linux commands that everyone should know. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you will most likely have to use the terminal at some point in your career: https://github.com/bobbyiliev/101-linux-commands-ebook
+
 One-Liner-Collections - This Repositories contains list of One Liners with Descriptions and Installation requirements: https://github.com/thecybertix/One-Liner-Collections
 
 Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linux-minimalism
