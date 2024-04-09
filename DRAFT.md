@@ -6,6 +6,12 @@ Why do we have a dreams?
 
 ----
 
+Google has introduced the V8 Sandbox, a mechanism designed to protect its widely-used V8 JavaScript engine from memory corruption attacks: https://www.securityweek.com/google-adds-v8-sandbox-to-chrome/
+
+V8 Blog: https://v8.dev/blog/sandbox
+
+----
+
 How to use [Google Maps Scraper](https://github.com/gosom/google-maps-scraper) for OSINT: https://medium.com/@cyb_detective/how-to-use-google-maps-scraper-for-osint-9e243ea756b1
 
 Quick archive.org viewer: https://cybdetective.com/webarchiveviewer/
