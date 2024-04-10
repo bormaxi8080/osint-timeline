@@ -12,6 +12,10 @@ Celery Execution Pools: What is it all about: https://celery.school/celery-worke
 
 90+ dashboards for OSINT and global monitoring: https://habr.com/ru/companies/bastion/articles/806195/
 
+ShadowServer - Sinkholing is a technique whereby a resource used by malicious actors to control malware is taken over and redirected to a benign listener that can (to a varying degree) understand network connections coming from infected devices. This provides visibility of the distribution of infected devices worldwide, as well as protecting victims by preventing botnet command and control (C2) from cybercriminals: https://dashboard.shadowserver.org/
+
+Secjuice is a volunteer led collective of 100+ writers focused on cybersecurity, information security, network security and open source intelligence: https://www.secjuice.com/
+
 ----
 
 Google has introduced the V8 Sandbox, a mechanism designed to protect its widely-used V8 JavaScript engine from memory corruption attacks: https://www.securityweek.com/google-adds-v8-sandbox-to-chrome/
