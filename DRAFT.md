@@ -8,6 +8,10 @@ Why do we have a dreams?
 
 Use OSINT to Investigate a Phishing Scam: https://www.secjuice.com/use-osint-to-investigate-a-phishing-scam/
 
+Celery Execution Pools: What is it all about: https://celery.school/celery-worker-pools
+
+90+ dashboards for OSINT and global monitoring: https://habr.com/ru/companies/bastion/articles/806195/
+
 ----
 
 Google has introduced the V8 Sandbox, a mechanism designed to protect its widely-used V8 JavaScript engine from memory corruption attacks: https://www.securityweek.com/google-adds-v8-sandbox-to-chrome/
@@ -79,6 +83,8 @@ Homepage - A highly customizable homepage (or startpage / application dashboard)
 Simulai is a Notion-inspired open-source conversational survey builder: https://github.com/simulaiofficial/simulai
 
 Lazytainer - Lazy Load Containers. Monitors network traffic to containers. If there is traffic, the container runs, otherwise the container is stopped/paused: https://github.com/vmorganp/Lazytainer
+
+asciinema is a free and open source solution for recording terminal sessions and sharing them on the web: https://github.com/gvcgo/asciinema
 
 Gerb - Graphical font editor (GTK + Rust): https://github.com/epilys/gerb
 
