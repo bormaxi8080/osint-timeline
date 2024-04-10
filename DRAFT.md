@@ -5,15 +5,6 @@ Why do we have a dreams?
 
 ----
 
-
-
-
-
-
-
-
-Celery Execution Pools. What is it all about: https://celery.school/celery-worker-pools
-
 ShadowServer - Sinkholing is a technique whereby a resource used by malicious actors to control malware is taken over and redirected to a benign listener that can (to a varying degree) understand network connections coming from infected devices. This provides visibility of the distribution of infected devices worldwide, as well as protecting victims by preventing botnet command and control (C2) from cybercriminals: https://dashboard.shadowserver.org/
 
 ----
@@ -23,6 +14,34 @@ RegExr is an online tool to **learn**, **build**, & **test** Regular Express
 RegexLearn - Learn Regex step by step, from zero to advanced: https://regexlearn.com/
 
 Chrome Regex Search - An extension for Regex Search in lieu of Chrome's CTRL+F: https://chromewebstore.google.com/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn
+
+----
+
+**OSINT Tools, Services and Investigations:**
+
+
+
+----
+
+**AI:**
+
+
+
+---
+
+**Software Development:**
+
+Celery Execution Pools. What is it all about: https://celery.school/celery-worker-pools
+
+Trystero - Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase: https://github.com/dmotz/trystero
+
+----
+
+**Linux:**
+
+Gerb - Graphical font editor (GTK + Rust): https://github.com/epilys/gerb
+
+GTrash - A Featureful Trash CLI manager alternative to rm and trash-cli: https://github.com/umlx5h/gtrash
 
 ----
 
@@ -37,15 +56,13 @@ PersistenceSniper - Powershell module that can be used by Blue Teams, Incident R
 
 ----
 
+**New from CyberDetective:**
+
+----
+
 **New from GitHub Community:**
 
 asciinema is a free and open source solution for recording terminal sessions and sharing them on the web: https://github.com/gvcgo/asciinema
-
-Gerb - Graphical font editor (GTK + Rust): https://github.com/epilys/gerb
-
-GTrash - A Featureful Trash CLI manager: alternative to rm and trash-cli: https://github.com/umlx5h/gtrash
-
-Trystero - Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase: https://github.com/dmotz/trystero
 
 XHideCursor - Minimal X-application which hides the cursor on key-press and unhides it on mouse-movement efficiently: https://github.com/astier/xhidecursor
 
