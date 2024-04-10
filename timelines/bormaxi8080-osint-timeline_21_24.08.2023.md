@@ -30,7 +30,7 @@ GitHub: https://github.com/3nock/OTE
 
 ----
 
-bormaxi8080 OSINT timeline:
+**bormaxi8080 OSINT timeline:**
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 
@@ -38,7 +38,9 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 
 [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
-If you like the projects that I do, I will be grateful for donations:
+You can contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
+
+**If you like the projects that I do, I will be grateful for donations:**
 
 USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
 
