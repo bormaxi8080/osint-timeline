@@ -52,6 +52,8 @@ One-Liner-Collections - This Repositories contains list of One Liners with Descr
 
 Awesome Linux minimalism suggestions: https://github.com/knassar702/awesome-linux-minimalism
 
+Giving you the ability to generate invisible text that you can then use to communicate with or use for Canary traps. Inzerosight browser extension + npm package for encoding zero width + encryption: https://github.com/planetrenox/inzerosight
+
 notWG - obfuscated secure tunnel for Linux 3.10 - 5.14, based on WireGuard (mirror): https://github.com/el3xyz/wireguard-linux-compat
 
 browsr is a pleasant **file explorer** in your terminal. It's a command line **TUI** (text-based user interface) application that empowers you to browse the contents of local and remote filesystems with your keyboard or mouse: https://github.com/juftin/browsr
