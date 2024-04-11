@@ -1,6 +1,6 @@
-# bormaxi8080 osint-timeline
+# bormaxi8080 OSINT Timeline
 
-Welcome to bormaxi8080 OSINT timeline weekly newsletter with collection of tools, services and investigations!
+Welcome to bormaxi8080 OSINT Timeline weekly newsletter with collection of tools, services and investigations!
 
 ![alt text](logo.png)
 
@@ -120,6 +120,19 @@ and You can contact me on Twitter: [https://twitter.com/OSINTech_](https://twitt
 [bormaxi8080 OSINT Timeline (02) - 13.04.2023](./timelines/bormaxi8080-osint-timeline_02_13.04.2023.md)
 
 [bormaxi8080 OSINT Timeline (01) - 06.04.2023](./timelines/bormaxi8080-osint-timeline_01_06.04.2023.md)
+
+----
+### All article covers in [LinkedIn](https://www.linkedin.com/in/osintech/details/featured/):
+
+![alt text](./img/48-53.png)
+![alt text](./img/42-47.png)
+![alt text](./img/36-41.png)
+![alt text](./img/30-35.png)
+![alt text](./img/24-29.png)
+![alt text](./img/18-23.png)
+![alt text](./img/12-17.png)
+![alt text](./img/06-11.png)
+![alt text](./img/01-05.png)
 
 ----
 ### If you like the projects that I do, I will be grateful for donations:
