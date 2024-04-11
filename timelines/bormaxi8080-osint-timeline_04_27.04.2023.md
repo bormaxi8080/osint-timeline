@@ -44,8 +44,7 @@ Wireshark Filters for Security Analyst: https://www.socinvestigation.com/wiresha
 -  ```The Volatility Framework``` is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples. The extraction techniques are performed completely independent of the system being investigated but offer visibilty into the runtime state of the system. The framework is intended to introduce people to the techniques and complexities associated with extracting digital artifacts from volatile memory samples and provide a platform for further work into this exciting area of research: https://github.com/volatilityfoundation/volatility
 
 ----
-
-**bormaxi8080 OSINT timeline:**
+### bormaxi8080 OSINT timeline:
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 
@@ -54,8 +53,7 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
 You can contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
-
-**If you like the projects that I do, I will be grateful for donations:**
+### If you like the projects that I do, I will be grateful for donations:
 
 USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
 

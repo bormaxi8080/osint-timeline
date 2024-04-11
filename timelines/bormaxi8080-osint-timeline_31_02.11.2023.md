@@ -69,8 +69,7 @@ In video veritas, if we divert the old Latin saying: In video, there is truth! T
 ```c41n``` provides automated setup of several types of Rogue Access Points, and Evil Twin attacks. **c41n** sets up an access point with user defined characteristics (interface, name and channel for the access point), sets up DHCP server for the access point, and provides user with abilities of HTTP traffic sniffing, or Captive Portal setup with credential sniffing: https://github.com/MS-WEB-BN/c41n
 
 ----
-
-**bormaxi8080 OSINT timeline:**
+### bormaxi8080 OSINT timeline:
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 
@@ -79,8 +78,7 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
 You can contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
-
-**If you like the projects that I do, I will be grateful for donations:**
+### If you like the projects that I do, I will be grateful for donations:
 
 USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
 

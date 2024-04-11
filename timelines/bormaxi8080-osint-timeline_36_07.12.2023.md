@@ -25,8 +25,7 @@ Kali Linux 2023.4 Released (Cloud ARM64, Vagrant Hyper-V & Raspberry Pi 5): http
 ```GoBuster``` - Directory/File, DNS and VHost busting tool written in Go: https://github.com/OJ/gobuster
 
 ----
-
-**bormaxi8080 OSINT timeline:**
+### bormaxi8080 OSINT timeline:
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 
@@ -35,8 +34,7 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
 You can contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
-
-**If you like the projects that I do, I will be grateful for donations:**
+### If you like the projects that I do, I will be grateful for donations:
 
 USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
 

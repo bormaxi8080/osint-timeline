@@ -30,8 +30,7 @@ All the repositories from ```CyberDetective``` at https://github.com/cipher387 a
 ```Sysmon``` for Linux is a tool that monitors and logs system activity including process lifetime, network connections, file system writes, and more. Sysmon works across reboots and uses advanced filtering to help identify malicious activity as well as how intruders and malware operate on your network. Sysmon for Linux is part of Sysinternals: https://github.com/Sysinternals/SysmonForLinux
 
 ----
-
-**bormaxi8080 OSINT timeline:**
+### bormaxi8080 OSINT timeline:
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 
@@ -40,8 +39,7 @@ You can see Systematized [List](https://github.com/bormaxi8080/github-starred-re
 [bormaxi8080 OSINT Featured Timeline on LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
 You can contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
-
-**If you like the projects that I do, I will be grateful for donations:**
+### If you like the projects that I do, I will be grateful for donations:
 
 USDT (TRC-20): TBq4LYHbRGVEZ2BvDq88rmadvsHvfwRzyf
 
