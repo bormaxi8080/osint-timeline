@@ -49,14 +49,9 @@ GTrash - A Featureful Trash CLI manager alternative to rm and trash-cli: https:/
 
 ----
 
-
-
 Giving you the ability to generate invisible text that you can then use to communicate with or use for Canary traps. Inzerosight browser extension + npm package for encoding zero width + encryption: https://github.com/planetrenox/inzerosight
 
-
-
 PersistenceSniper - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines: https://github.com/last-byte/PersistenceSniper
-
 
 ----
 
