@@ -2,9 +2,9 @@
 
 Artificial intelligence jokes.
 
+----
 ### bormaxi8080 OSINT Timeline (53) -11.04.2024:
 
---
 
 Use OSINT to Investigate a Phishing Scam: https://www.secjuice.com/use-osint-to-investigate-a-phishing-scam/
 
