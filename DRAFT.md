@@ -58,6 +58,8 @@ PersistenceSniper - Powershell module that can be used by Blue Teams, Incident R
 
 **New from CyberDetective:**
 
+OSINT for Investigations - List of tools and data sources for gathering information about Wars, Terrorism, Cyber Crime, Organized Crime and more.: https://github.com/CScorza/OSINTInvestigation
+
 ----
 
 **New from GitHub Community:**

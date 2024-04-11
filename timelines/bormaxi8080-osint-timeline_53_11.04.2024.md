@@ -74,13 +74,13 @@ Source: https://github.com/compiler-explorer/compiler-explorer
 
 How to use [Google Maps Scraper](https://github.com/gosom/google-maps-scraper) for OSINT: https://medium.com/@cyb_detective/how-to-use-google-maps-scraper-for-osint-9e243ea756b1
 
-Quick archive.org viewer: https://cybdetective.com/webarchiveviewer/
+Quick ```archive.org``` viewer: https://cybdetective.com/webarchiveviewer/
 
-5 Katana tricks for OSINT: https://osintteam.blog/5-katana-tricks-for-osint-3a3137a040c8
+```5 Katana tricks for OSINT```: https://osintteam.blog/5-katana-tricks-for-osint-3a3137a040c8
 
-Google Factcheck Explorer - Upload the picture (or paste the link) to check which articles it was used in and how factually accurate those articles are: https://toolbox.google.com/factcheck/explorer/search/
+```Google Factcheck Explorer``` - Upload the picture (or paste the link) to check which articles it was used in and how factually accurate those articles are: https://toolbox.google.com/factcheck/explorer/search/
 
-Hurricane Electric BGP Toolkit - Search IPs, domains and ASNs associated with specific companies (search by company name): https://bgp.he.net/
+```Hurricane Electric BGP Toolkit``` - Search IPs, domains and ASNs associated with specific companies (search by company name): https://bgp.he.net/
 
 ----
 
