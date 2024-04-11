@@ -25,7 +25,9 @@ Chrome Regex Search - An extension for Regex Search in lieu of Chrome's CTRL+F: 
 
 **AI:**
 
+FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT 3.5 LLM and generate the answer based on search results: https://github.com/nashsu/FreeAskInternet
 
+MQL tool is designed to generate SQL queries directly from natural language inputs: https://github.com/shurutech/mql
 
 ---
 
@@ -33,11 +35,13 @@ Chrome Regex Search - An extension for Regex Search in lieu of Chrome's CTRL+F: 
 
 Celery Execution Pools. What is it all about: https://celery.school/celery-worker-pools
 
-Trystero - Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase: https://github.com/dmotz/trystero
+Trystero - Build instant multiplayer webapps, no server required. Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, and Firebase: https://github.com/dmotz/trystero
 
 ----
 
-**Linux:**
+**Linux & DevOps:**
+
+The tool for creating, delivering and rotating backups for GNU/Linux distributions: https://github.com/nixys/nxs-backup
 
 Gerb - Graphical font editor (GTK + Rust): https://github.com/epilys/gerb
 
@@ -45,11 +49,11 @@ GTrash - A Featureful Trash CLI manager alternative to rm and trash-cli: https:/
 
 ----
 
-FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results: https://github.com/nashsu/FreeAskInternet
+
 
 Giving you the ability to generate invisible text that you can then use to communicate with or use for Canary traps. Inzerosight browser extension + npm package for encoding zero width + encryption: https://github.com/planetrenox/inzerosight
 
-Rope - GUI-focused roop: https://github.com/Hillobar/Rope
+
 
 PersistenceSniper - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines: https://github.com/last-byte/PersistenceSniper
 
@@ -60,6 +64,8 @@ PersistenceSniper - Powershell module that can be used by Blue Teams, Incident R
 
 OSINT for Investigations - List of tools and data sources for gathering information about Wars, Terrorism, Cyber Crime, Organized Crime and more.: https://github.com/CScorza/OSINTInvestigation
 
+FEAT (Factcheck Explorer Analysis Tool) - Analyses information on a wide variety of queries (most of what is written about lemons on the Internet is a lie): tag/source volume, timeline of claims, fact check details, statistics: https://feat.onrender.com/
+
 ----
 
 **New from GitHub Community:**
@@ -67,6 +73,8 @@ OSINT for Investigations - List of tools and data sources for gathering informat
 asciinema is a free and open source solution for recording terminal sessions and sharing them on the web: https://github.com/gvcgo/asciinema
 
 XHideCursor - Minimal X-application which hides the cursor on key-press and unhides it on mouse-movement efficiently: https://github.com/astier/xhidecursor
+
+Rope - GUI-focused roop: https://github.com/Hillobar/Rope
 
 ----
 
