@@ -3,6 +3,9 @@
 People in general are simpler if they don’t need so much: bread, peace, work. Sometimes against this background you seem too complicated to yourself: you know too much, too many factors, here or there. But in fact, good, non-evil people are always and everywhere the same: "The house is standing, the lights are on".
 
 ----
+### bormaxi8080 OSINT Timeline (48) - 07.03.2024:
+
+--
 
 Using Open Source Internet Routing Tools to Monitor a Sanctioned Russian Bank from Bellingcat: https://www.bellingcat.com/resources/2024/03/01/using-open-source-internet-routing-tools-to-monitor-a-sanctioned-russian-bank/
 

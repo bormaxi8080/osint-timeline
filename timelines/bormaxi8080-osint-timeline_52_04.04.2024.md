@@ -4,6 +4,10 @@ The future smells of degradation.
 
 ----
 
+### bormaxi8080 OSINT Timeline (48) - 04.04.2024:
+
+--
+
 The solution to the "Havana syndrome". How the GRU cripples American diplomats with secret weapons: https://theins.ru/politika/270420
 
 ```Facebook sold personal messages of Messenger users to Netflix for $100 million```. A document about the deal was discovered by an ex-Google employee. Source: https://twitter.com/deedydas/status/1774995180980166978/photo/1

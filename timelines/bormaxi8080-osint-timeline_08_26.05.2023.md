@@ -9,6 +9,9 @@ And now she's gone. There is no my homeland. Part of her cries and suffers. The 
 Petr Sokolov
 
 ----
+### bormaxi8080 OSINT Timeline (08) - 26.05.2023:
+
+--
 
 BiZness as usual: 25 European companies still supplying the Russian army: https://theins.ru/en/economics/261792
 

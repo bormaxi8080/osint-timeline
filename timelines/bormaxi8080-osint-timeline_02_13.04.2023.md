@@ -6,6 +6,9 @@ The people of the world are pebbles in a box. Everything must be connected. The 
 Yura, I'm sorry, but you probably didn't know about this...
 
 ----
+### bormaxi8080 OSINT Timeline (02) - 13.04.2023:
+
+--
 
 WAR IN UKRAINE: THE NEW GEOGRAPHY OF CYBER WARFARE BY THALES GROUP: https://www.thalesgroup.com/en/group/news/war-ukraine-new-geography-cyber-warfare
 

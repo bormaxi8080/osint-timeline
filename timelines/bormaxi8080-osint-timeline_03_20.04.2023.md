@@ -6,6 +6,10 @@ The Verge writes that modern smart vacuum cleaners have "learned" to give a vide
 I suspect that with the proper skill, other agents may use it for other purposes: from abuse to wiretapping. Here he rides on his floor, you even stop noticing him and thinking that he has been crawling around in one corner for the third minute already. And he looks. Looks. And listens...
 
 ----
+
+### bormaxi8080 OSINT Timeline (03) - 20.04.2023:
+
+--
 ### Articles:
 
 Using OSINT to help in mine clearance operations in Ukraine: [https://cybernews.com/security/ukraine-osint-clears-mines/](https://cybernews.com/security/ukraine-osint-clears-mines/)

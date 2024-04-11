@@ -5,6 +5,9 @@
 Ray Bradbury
 
 ----
+### bormaxi8080 OSINT Timeline (22) - 31.08.2023:
+
+--
 
 Binance exchange "removed" Sberbank and Tinkoff from the list of payment systems. Instead of two banking options, "Rosbank" and "Tinkoff", new names "local card (green)" and "local card (yellow)" appeared. A few days later, the exchange banned Russians from transactions through a p2p service with any currency other than the ruble. Even later, the exchange allowed a complete withdrawal from Russia.
 

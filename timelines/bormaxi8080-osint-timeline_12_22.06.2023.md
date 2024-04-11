@@ -10,6 +10,9 @@ Black hail spilled
 And they went underground.
 
 ----
+### bormaxi8080 OSINT Timeline (12) - 22.06.2023:
+
+--
 
 Leaked Emails Reveal How Putin’s Friends Dodged Sanctions With Help of Western Enablers: https://www.occrp.org/en/rotenberg-files/leaked-emails-reveal-how-putins-friends-dodged-sanctions-with-help-of-western-enablers
 

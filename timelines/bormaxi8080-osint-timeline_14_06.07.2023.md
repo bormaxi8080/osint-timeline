@@ -3,6 +3,9 @@
 I just love colors: colored tattoos, rings and bracelets with enamel, moments indelible from life, freedom, warmth, wind, salt, tequila and lemon - as the last joy, sleep in the morning, silver, films about the future, birds with their fanning on all my life with a wave of wings - feathers on the cheeks, butterflies - admiring their essence and photography, words, balcony cigarettes, meaninglessness, wastelessness and hopelessness. May those be merciful, wonderful and beautiful, to whom you are merciful, wonderful and beautiful yourself. That's all.
 
 ----
+### bormaxi8080 OSINT Timeline (14) - 06.07.2023:
+
+--
 
 History in the making – the International Centre for the Prosecution of the Crime of Aggression Against Ukraine starts operations at Eurojust: https://www.eurojust.europa.eu/news/history-making-international-centre-prosecution-crime-aggression-against-ukraine-starts-operations-at-eurojust
 

@@ -5,6 +5,9 @@ It is good to be a little boy when you are only 7-8 years old: the first snow, a
 Right now in 1988 winter.
 
 ----
+### bormaxi8080 OSINT Timeline (33) - 16.11.2023:
+
+--
 
 A reporter for Israel's Channel 12 complained to X about a user who added a Nazi symbol to the Israeli flag. AI X responded that the image did not violate Twitter rules: https://twitter.com/Elad_Si/status/1721542985496612897/photo/1
 

@@ -3,6 +3,9 @@
 One day, sitting on a plane that takes you to a distant country, you will think: is everything right? Is this how you arranged your life? That or not that? The answer is simple: what you do is always "that". Everyone is saved only in the way that he knows how and can. But in the morning you wake up: and there is the sea, seagulls...
 
 ----
+### bormaxi8080 OSINT Timeline (16) - 20.07.2023:
+
+--
 
 Belarus abducts thousands of Ukrainian children. Alexander Lukashenko implicated in alleged war crime as boys and girls as young as six are taken to camps in "forced deportation": https://www.telegraph.co.uk/world-news/2023/07/17/russia-abducting-ukrainian-children-via-belarus/
 

@@ -5,6 +5,9 @@
 In the same way, I am now, probably, observing the world, only by myself, from above: people, events, memories, facts... And even the birds remained.
 
 ----
+### bormaxi8080 OSINT Timeline (15) - 13.07.2023:
+
+--
 
 It has been 500 days of horror since Russia’s full-scale invasion of Ukraine. Team at [Centre for Information Resilience](https://www.linkedin.com/company/centre-for-information-resilience/) has watched and mapped 10,000+ videos and photos showing this horror at [eyesonrussia.org](http://eyesonrussia.org/) which we hope will support some level of accountability one day.
 

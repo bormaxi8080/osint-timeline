@@ -1,9 +1,12 @@
 ![alt text](img/10.jpg)
 
 
-...The streets are being washed. Everything is flowering. Spring. Pigeons flock. Ahead is a Muslim woman, with a stroller, all in black, black scarf, black hijab. A girl in a pink stroller. And behind me, in front of me, a boy of about four, lagged behind, runs to his mother and screams: - Mother! Mommy!..
+...The streets are being washed. Everything is flowering. Spring. Pigeons flock. Ahead is a Muslim woman, with a stroller, all in black, black scarf, black hijab. A girl in a pink stroller. And behind me, in front of me, a boy of about four, lagged behind, runs to his mother and screams: Mother! Mommy!..
 
 ----
+### bormaxi8080 OSINT Timeline (10) - 09.06.2023:
+
+--
 
 Over 1,000 Companies Have Curtailed Operations in Russia - But Some Remain (by Yale school of Management Chief Executive Leadership Institute): https://som.yale.edu/story/2022/over-1000-companies-have-curtailed-operations-russia-some-remain
 

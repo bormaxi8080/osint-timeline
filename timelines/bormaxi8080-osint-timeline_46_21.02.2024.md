@@ -5,6 +5,9 @@ Siberian birds chirp in February: there will be enough warmth for the next chirp
 And the Almaty birds are screaming and choking in the morning: it’s already spring, and there will definitely be enough for the next Kazakh chiryk! And then the snow will fall again, and you will have to shut up and be silent for another moment. So that later you can tweet again, with a new Miau Mai May pressure! Live with new strength. How else?..
 
 ----
+### bormaxi8080 OSINT Timeline (46) - 21.02.2024:
+
+--
 
 Yemen's Houthis were able to intercept control of an Israeli airline El Al plane flying from Phuket to Tel Aviv. This time the pilots realized it in time and saved the situation, but the new method of “hacking” tested by the barmalei may become widespread due to the relative simplicity of such a cyber attack: https://www.frequentflyers.ru/2024/02/19/acars_spoof/
 

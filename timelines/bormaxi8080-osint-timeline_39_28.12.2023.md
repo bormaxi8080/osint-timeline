@@ -5,6 +5,9 @@ There is a lot of snow in Almaty. I shoveled the yard for a whole hour today, an
 And so you shovel the yard and realize this: everything that comes to us from life is falling from the sky. Sometimes it’s free, like this snow, sometimes it’s not. And it goes into the ground.
 
 ----
+### bormaxi8080 OSINT Timeline (39) - 28.12.2023:
+
+--
 
 ```Event Review``` - Using Open Source Investigation For Human Rights Violation: https://blog.lawbore.net/2023/11/event-review-using-open-source-investigation-for-human-rights-violation/
 

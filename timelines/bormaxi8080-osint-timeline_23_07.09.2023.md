@@ -3,6 +3,9 @@
 A positive balance on mobile often solves more than we imagine. This is Reality to be understood.
 
 ----
+### bormaxi8080 OSINT Timeline (23) - 07.09.2023:
+
+--
 
 "Damn birds should be gone." How Elon Musk took over Twitter: an excerpt from the new biography of the billionaire: https://thebellmirror.com/chertovy-ptitsy-dolzhny-ischeznut-kak-ilon-mask-zakhvatyval-twitter-otryvok-iz-novoy-biografii-milliardera
 

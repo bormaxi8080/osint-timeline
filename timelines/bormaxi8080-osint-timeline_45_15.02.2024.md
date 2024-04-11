@@ -3,6 +3,9 @@
 The most dangerous and bad people are people with intelligence, but without empathy. It happens.
 
 ----
+### bormaxi8080 OSINT Timeline (45) - 15.02.2024:
+
+--
 
 "Mediazona" downloaded and studied the entire search database of the Russian Ministry of Internal Affairs and made a convenient search for it: https://zona.media/article/2024/02/13/wanted#find-mia
 

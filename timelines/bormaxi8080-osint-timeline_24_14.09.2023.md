@@ -3,6 +3,9 @@
 "Chthon" is a view of the world, a substance that transforms depression into a state where you can squeeze something good out of it. My recent definition. I don't know if it is possible to define more precisely.
 
 ----
+### bormaxi8080 OSINT Timeline (24) - 14.09.2023:
+
+--
 
 When you need search by nickname in public IP addresses search engines (Shodan, Netlas, Fofa etc): https://publication.osintambition.org/when-you-need-search-by-nickname-in-public-ip-addresses-search-engines-shodan-netlas-fofa-etc-59d92af047cc
 

@@ -3,6 +3,9 @@
 There are pillow people: soft and warm when you are with them, but... without shape. Without bright thoughts, aspirations and ideas. And there are blade people, sharp and light: those who move and move forward. The difference is always noticeable. Both of them depend: the first - on those whom they managed to tie to themselves, the second - on the light that is around. From the buzz mixed with pain that life constantly gives.
 
 ----
+### bormaxi8080 OSINT Timeline (27) - 05.10.2023:
+
+--
 
 How to Get Into OSINT by Ritu Gill: https://www.sans.org/blog/how-to-get-into-osint
 

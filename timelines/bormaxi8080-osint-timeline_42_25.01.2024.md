@@ -3,6 +3,9 @@
 For a long time now, somewhere I came across that there are people who simply live as they are and consume what is given to them, and there are people... who paint everything around them that they touch. Sometimes it feels especially acute.
 
 ----
+### bormaxi8080 OSINT Timeline (42) - 25.01.2024:
+
+--
 
 Telegram shows deleted messages: https://habr.com/ru/articles/787642/
 

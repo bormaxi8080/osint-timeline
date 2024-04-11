@@ -13,6 +13,9 @@ The doctor was Kazakh, by the way.
 I believe in such things. Not by chance and in general.
 
 ----
+### bormaxi8080 OSINT Timeline (29) - 19.10.2023:
+
+--
 
 The ```ACLED``` Early Warning Dashboard offers an array of interactive and interconnected tools for tracking political violence and demonstrations around the world. As an extensively customizable hub, the Dashboard streamlines analysis of emerging trends in a way that can be tailored to the needs of each user, from global researchers monitoring violent hotspots across regions to country analysts looking for granular detail on unrest in a specific subnational area. Identify important changes in political violence and demonstrations across and within countries, situate this activity within historical contexts, and spot early warning signs like the emergence of new conflict actors - all in one place: https://acleddata.com/early-warning/
 

@@ -4,6 +4,9 @@ I loved this city. For greenery and warmth. And for human diversity: only in hum
 And walk more, look around, walk until your legs hurt: it really heals. Only on the go, physically something worthwhile and good is said and written.
 
 ----
+### bormaxi8080 OSINT Timeline (20) - 17.08.2023:
+
+--
 
 The stablecoin from PAYPAL, the PYUSD token (guess with reference to which currency), the company released just the other day on August 7th. And oh shock, the contract has an option to freeze the wallet address.
 

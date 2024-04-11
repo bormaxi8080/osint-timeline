@@ -3,6 +3,9 @@
 The children of the void act without thought. Only a tear in the eye flashes.
 
 ---
+### bormaxi8080 OSINT Timeline (18) - 03.08.2023:
+
+--
 
 Elon Musk's actions are a brazen attempt to silence honest criticism and independent research: https://doxa.team/news/2023-07-31-musk-infantile
 

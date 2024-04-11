@@ -3,6 +3,9 @@
 Live as you would not be ashamed if you lived to old age, do not shine to anyone if you cannot, but shine to your own, shine and sanctify to those and those whom you really love.
 
 ----
+### bormaxi8080 OSINT Timeline (17) - 27.07.2023:
+
+--
 
 A new investigation by The Insider: how the GRU and SVR monitor the Moldovan authorities through antennas at the Russian embassy: https://theins.ru/politika/263644
 

@@ -3,6 +3,9 @@
 The cover photo was taken by me a year ago in Novosibirsk, Russia. "During the 52 days of the war, about 200 children were killed in Ukraine". The author of the action is unknown.
 
 ----
+### bormaxi8080 OSINT Timeline (04) - 04.05.2023:
+
+--
 
 The death and revival of Russian occupation telegram channels: https://www.linkedin.com/pulse/death-revival-russian-occupation-telegram-channels-maxim-marshak, souce: https://texty.org.ua/articles/109498/smert-i-vidrodzhennya-rosijskyh-okupacijnyh-telehram-kanaliv/
 

@@ -4,6 +4,9 @@
 I became different. Now I’m not scared, even when I’m scared.
 
 ----
+### bormaxi8080 OSINT Timeline (26) - 28.09.2023:
+
+--
 
 ```Uncovering Data From Phone Numbers``` by Gergo Varga: https://hakin9.org/uncovering-data-from-phone-numbers/
 

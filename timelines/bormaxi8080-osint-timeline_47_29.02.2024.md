@@ -16,6 +16,9 @@ And as was said here, so everything was done. Faith and the law of the fathers f
 And that faith gave birth to reason, wisdom and insight into the essence of things.
 
 ----
+### bormaxi8080 OSINT Timeline (47) - 29.02.2024:
+
+--
 
 Dive into the world of open-source investigation with Bellingcat's Global Authentication Project. Our vibrant volunteer community explores, verifies, and sheds light on stories using open source data. From human rights investigations to event authentication, we invite enthusiasts of all backgrounds to join ```Bellingcat```:
 

@@ -3,6 +3,9 @@
 I never believe when someone says about another that everything is always good and easy for him. I don't believe myself when the same thing seems about someone. I just know it's not. The most positive and bright people always have more scars in their souls and on their hands than on the same hands of fingers. That is why they shine so brightly for others. They are good and easy.
 
 ----
+### bormaxi8080 OSINT Timeline (21) - 24.08.2023:
+
+--
 
 Elon Musk’s Shadow Rule - How the U.S. government came to rely on the tech billionaire - and is now struggling to rein him in: https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule
 

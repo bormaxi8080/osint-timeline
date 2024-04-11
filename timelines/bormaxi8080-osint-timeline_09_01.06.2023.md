@@ -5,6 +5,9 @@
 Photo: Presidential Palace, Almaty, Kazakhstan, May 2022
 
 ----
+### bormaxi8080 OSINT Timeline (09) - 01.06.2023:
+
+--
 
 Be sure to look. The patriotic faces of these juveniles, not obscured by morality, are still motherfc..ers, under the leadership of motherfc..ers already adults, are creating state fascism and censorship. All young, promising, all smiling. Something is being discussed. They have mugs on OSINT, f..ck.
 

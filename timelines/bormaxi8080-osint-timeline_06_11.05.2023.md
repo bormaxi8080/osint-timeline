@@ -3,6 +3,9 @@
 ...On one of the mausoleums, built by order of Timur, the saying was inscribed: "The Sultan is the shadow of God on earth." Over time, the inscription partially crumbled and remained: "The Sultan is a shadow". Why do they always forget it?..
 
 ----
+### bormaxi8080 OSINT Timeline (06) - 11.05.2023:
+
+--
 
 Tracing the Odnoklassniki Profile of the Texas Mall Shooter: https://www.bellingcat.com/news/2023/05/09/tracing-the-odnoklassniki-profile-of-the-texas-mall-shooter/
 

@@ -6,6 +6,9 @@ Bashlachevâ€™s verse gets on the nerves; many people need it, even if they donâ€
 This is such bullshit.
 
 ---
+### bormaxi8080 OSINT Timeline (38) - 21.12.2023:
+
+--
 
 New fellowship opportunities from our Bellingcat's Investigative Tech Team: https://www.bellingcat.com/become-a-2024-bellingcat-tech-fellow/
 

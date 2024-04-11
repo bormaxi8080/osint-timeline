@@ -4,6 +4,10 @@
 
 ----
 
+### bormaxi8080 OSINT Timeline (07) - 17.05.2023:
+
+--
+
 Ethnic and regional inequalities in the Russian military fatalities in Ukraine: Preliminary findings from crowdsourced data: https://osf.io/preprints/socarxiv/s43yf
 
 ----

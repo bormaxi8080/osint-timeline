@@ -3,6 +3,9 @@
 There is no neutrality in the face of evil.
 
 ----
+### bormaxi8080 OSINT Timeline (37) - 14.12.2023:
+
+--
 
 How to use Python Sitemap Generator for OSINT by CyberDetective: https://publication.osintambition.org/how-to-use-python-sitemap-generator-for-osint-77bc69fa165d
 

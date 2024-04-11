@@ -3,6 +3,9 @@
 No time. Simplicity is precisely this. There is nothing more. This is the only truth. No time.
 
 ----
+### bormaxi8080 OSINT Timeline (32) - 09.11.2023:
+
+--
 
 ```Disguise for Musk```- how billionaires hide their flights and what comes of it: https://forbes.kz//leader/maskirovka_dlya_maska_kak_milliarderyi_skryivayut_svoi_pereletyi_i_chto_iz_etogo_vyihodit/
 

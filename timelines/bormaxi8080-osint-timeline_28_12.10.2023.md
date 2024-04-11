@@ -4,6 +4,9 @@
 We are worth what we can give.
 
 ----
+### bormaxi8080 OSINT Timeline (28) - 12.10.2023:
+
+--
 
 Hiring Managers, are you in search of outstanding Intelligence and OSINT Professionals? Explore the OSINT Jobs Board today: https://www.osint-jobs.com/careers/post-a-job
 

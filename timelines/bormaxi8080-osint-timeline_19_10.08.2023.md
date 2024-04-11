@@ -7,6 +7,9 @@ Before the meeting, local independent MP Svetlana Kaverzina asked if there were 
 https://www.linkedin.com/feed/update/urn:li:activity:7093141931093897217/
 
 ----
+### bormaxi8080 OSINT Timeline (19) - 10.08.2023:
+
+--
 
 ```A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards``` by Joshua Harrison, Ehsan Toreini and Maryam Mehrnezhad. Link: https://arxiv.org/pdf/2308.01074.pdf
 

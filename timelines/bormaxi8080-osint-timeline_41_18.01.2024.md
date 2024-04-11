@@ -11,6 +11,9 @@ The sage thought for two minutes, took a deep breath - and gave forests, fields 
 History is forgotten, and people are again fighting for vineyards and mountains. Cats now stay close and even live in houses where it’s warm, but now it’s as if they remember everything - and on their own...
 
 ----
+### bormaxi8080 OSINT Timeline (41) - 18.01.2024:
+
+--
 
 Interested in working for Bellingcat? See open positions advertised below: https://www.bellingcat.com/about/careers/
 

@@ -9,6 +9,9 @@ That's when God is very close.
 And in the meantime, we are all about war, money and braces...
 
 ----
+### bormaxi8080 OSINT Timeline (04) - 27.04.2023:
+
+--
 
 The GRU leadership oversees the Silk Road International Automobile Rally project, which it uses as an infrastructure for its residents and to establish political contacts. Documents obtained by The Insider testify to this. As can be seen from the telephone connections, the official director of the rally was in constant contact with the officers from military unit 29155, who were involved in the explosions of military warehouses and poisoning with chemical weapons.
 

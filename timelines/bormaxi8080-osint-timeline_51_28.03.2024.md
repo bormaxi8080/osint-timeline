@@ -3,6 +3,9 @@
 Trust your intuition. Always, no matter what. Logic will certainly justify it later.
 
 ----
+### bormaxi8080 OSINT Timeline (51) - 28.03.2024:
+
+--
 
 ```Flightradar24``` presented a global updated GPS interference map: https://habr.com/ru/news/801889/
 

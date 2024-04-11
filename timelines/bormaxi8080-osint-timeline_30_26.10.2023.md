@@ -4,6 +4,9 @@
 In order to truly love people, you first need to hate them very much.
 
 ----
+### bormaxi8080 OSINT Timeline (30) - 26.10.2023:
+
+--
 
 Finding Phones With Google Maps Part 1 (Android): https://thebinaryhick.blog/2023/10/17/finding-phones-with-google-maps-part-1-android/
 

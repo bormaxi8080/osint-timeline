@@ -3,6 +3,9 @@
 Those who don’t want to see will never see, even if the whole world is covered with spotlights. Useless.
 
 ----
+### bormaxi8080 OSINT Timeline (25) - 21.09.2023:
+
+--
 
 ```Ubuntu 23.10``` released: https://cdimage.ubuntu.com/daily-live/current/
 

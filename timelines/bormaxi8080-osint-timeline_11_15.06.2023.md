@@ -3,6 +3,9 @@
 ...Sitting in a small train station, you can only see the lights: orange, red and blue. And more cars from the highway shine with searchlights headlights on the turn. By impoverishing our language on purpose, we enrich it. Because there are no words to express this simplicity and complexity at the same time. And I wouldn't complicate things if it were really simple. Now the commodity will rumble past, pass by - and everything will end. So life will fly by like a freight train. You are either a cargo, or a driver, or at a stop. But it's more fun with flashlights. In a certain sense.
 
 ----
+### bormaxi8080 OSINT Timeline (11) - 15.06.2023:
+
+--
 
 ```OSINT Immersion Bundle```. My OSINT Training's OSINT Immersion bundle of courses teaches you the core concepts you will need to be successful in the OSINT world by focusing on easy-to-follow concepts. Taught by Micah Hoffman and Griffin Glynn (650+ minutes): https://www.myosint.training/bundles/osint-immersion
 
