@@ -39,6 +39,8 @@ FreeAskInternet is a completely free, private and locally running search aggrega
 
 MQL tool is designed to generate SQL queries directly from natural language inputs: https://github.com/shurutech/mql
 
+SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild: https://github.com/Fanghua-Yu/SUPIR
+
 ---
 
 **Software Development:**
