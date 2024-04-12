@@ -7,6 +7,8 @@ Why do we have a dreams?
 
 ShadowServer - Sinkholing is a technique whereby a resource used by malicious actors to control malware is taken over and redirected to a benign listener that can (to a varying degree) understand network connections coming from infected devices. This provides visibility of the distribution of infected devices worldwide, as well as protecting victims by preventing botnet command and control (C2) from cybercriminals: https://dashboard.shadowserver.org/
 
+Dig Web Interface - online interface to dig: https://www.digwebinterface.com/
+
 ----
 
 RegExr is an online tool to **learn**, **build**, & **test** Regular Expressions: https://regexr.com/
@@ -19,7 +21,13 @@ Chrome Regex Search - An extension for Regex Search in lieu of Chrome's CTRL+F: 
 
 **OSINT Tools, Services and Investigations:**
 
+Search for leaked credentials in your target's scope using Burp Suite: https://github.com/h4x0r-dz/Leaked-Credentials/
 
+Route53 CLI - Get info about your records from the terminal - quickly: https://github.com/Isan-Rivkin/route53-cli
+
+Globalping-CLI - a simple CLI tool to run networking commands remotely from hundreds of globally distributed servers: https://github.com/jsdelivr/globalping-cli
+
+pydig - a DNS query tool written in Python: https://github.com/shuque/pydig
 
 ----
 
