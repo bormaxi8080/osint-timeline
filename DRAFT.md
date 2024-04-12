@@ -27,6 +27,8 @@ Route53 CLI - Get info about your records from the terminal quickly: https://git
 
 Globalping-CLI - a simple CLI tool to run networking commands remotely from hundreds of globally distributed servers: https://github.com/jsdelivr/globalping-cli
 
+SecretPixel is a cutting-edge steganography tool designed to securely conceal sensitive information within images. It stands out in the realm of digital steganography by combining advanced encryption, compression, and a seeded Least Significant Bit (LSB) technique to provide a robust solution for embedding data undetectably: https://github.com/x011/SecretPixel
+
 gocert is a command-line tool written in Go for retrieving SSL certificate information for a given domain. It allows you to find detailed information about SSL certificates, similar to the functionality provided by [crt.sh](https://crt.sh/): https://github.com/eyewanai/tinyscope-gocert
 
 pydig - a DNS query tool written in Python: https://github.com/shuque/pydig
@@ -72,6 +74,20 @@ PersistenceSniper - Powershell module that can be used by Blue Teams, Incident R
 OSINT for Investigations - List of tools and data sources for gathering information about Wars, Terrorism, Cyber Crime, Organized Crime and more.: https://github.com/CScorza/OSINTInvestigation
 
 FEAT (Factcheck Explorer Analysis Tool) - Analyses information on a wide variety of queries (most of what is written about lemons on the Internet is a lie): tag/source volume, timeline of claims, fact check details, statistics: https://feat.onrender.com/
+
+Online tools to identify a location from an uploaded photo using AI:  
+
+- Geospy: http://geospy.web.app
+
+- UserSearch ((GeoSpy integration) ): http://usersearch.org
+
+- Kosmos-2: http://huggingface.co/spaces/ydshieh/Kosmos-2
+
+- Picarta: http://picarta.ai 
+
+- GeoEstimation: http://labs.tib.eu/geoestimation/ 
+
+- GeoGuessr GPT: https://fireintel.medium.com/advanced-geolocation-with-chatgpt-df1d4c11c9a6
 
 ----
 
