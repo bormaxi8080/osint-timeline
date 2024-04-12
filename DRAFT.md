@@ -27,6 +27,8 @@ Route53 CLI - Get info about your records from the terminal quickly: https://git
 
 Globalping-CLI - a simple CLI tool to run networking commands remotely from hundreds of globally distributed servers: https://github.com/jsdelivr/globalping-cli
 
+gocert is a command-line tool written in Go for retrieving SSL certificate information for a given domain. It allows you to find detailed information about SSL certificates, similar to the functionality provided by [crt.sh](https://crt.sh/): https://github.com/eyewanai/tinyscope-gocert
+
 pydig - a DNS query tool written in Python: https://github.com/shuque/pydig
 
 ----
