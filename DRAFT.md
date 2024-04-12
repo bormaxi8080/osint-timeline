@@ -23,7 +23,7 @@ Chrome Regex Search - An extension for Regex Search in lieu of Chrome's CTRL+F: 
 
 Search for leaked credentials in your target's scope using Burp Suite: https://github.com/h4x0r-dz/Leaked-Credentials/
 
-Route53 CLI - Get info about your records from the terminal - quickly: https://github.com/Isan-Rivkin/route53-cli
+Route53 CLI - Get info about your records from the terminal quickly: https://github.com/Isan-Rivkin/route53-cli
 
 Globalping-CLI - a simple CLI tool to run networking commands remotely from hundreds of globally distributed servers: https://github.com/jsdelivr/globalping-cli
 
@@ -49,7 +49,7 @@ Trystero - Build instant multiplayer webapps, no server required. Magic WebRTC m
 
 **Linux & DevOps:**
 
-The tool for creating, delivering and rotating backups for GNU/Linux distributions: https://github.com/nixys/nxs-backup
+Nxc-Backup - the tool for creating, delivering and rotating backups for GNU/Linux distributions: https://github.com/nixys/nxs-backup
 
 Gerb - Graphical font editor (GTK + Rust): https://github.com/epilys/gerb
 
