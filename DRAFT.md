@@ -33,7 +33,7 @@ Extractify - A tool for extract Endpoints, URLs, Parameters and Secrets from con
 
 gocert is a command-line tool written in Go for retrieving SSL certificate information for a given domain. It allows you to find detailed information about SSL certificates, similar to the functionality provided by [crt.sh](https://crt.sh/): https://github.com/eyewanai/tinyscope-gocert
 
-Twikit - Twitter API Scraper without an API key twitter Internal API: https://github.com/d60/twikit
+Twikit - Twitter API Scraper without an API key Twitter Internal API: https://github.com/d60/twikit
 
 pydig - a DNS query tool written in Python: https://github.com/shuque/pydig
 
@@ -47,7 +47,7 @@ MQL tool is designed to generate SQL queries directly from natural language inpu
 
 SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild: https://github.com/Fanghua-Yu/SUPIR
 
-Supervised ML: Mushroom classification. This project aims to accurately classify mushrooms as either poisonous or non-poisonous using supervised machine learning techniques. I have leveraged decision tree and random forest classifiers on our specialized mushroom dataset to achieve this. The dataset used in this project contains 6,498 entries across 8 different columns, providing a comprehensive set of features for model training and testing: https://github.com/LinaYorda/mushroom-classification
+Supervised ML: Mushroom classification. This project aims to accurately classify mushrooms as either poisonous or non-poisonous using supervised machine learning techniques. Leveraged decision tree and random forest classifiers on our specialized mushroom dataset to achieve this. The dataset used in this project contains 6,498 entries across 8 different columns, providing a comprehensive set of features for model training and testing: https://github.com/LinaYorda/mushroom-classification
 
 ---
 
