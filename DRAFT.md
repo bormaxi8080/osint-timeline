@@ -41,13 +41,15 @@ pydig - a DNS query tool written in Python: https://github.com/shuque/pydig
 
 **AI:**
 
+Supervised ML: Mushroom classification. This project aims to accurately classify mushrooms as either poisonous or non-poisonous using supervised machine learning techniques. Leveraged decision tree and random forest classifiers on our specialized mushroom dataset to achieve this. The dataset used in this project contains 6,498 entries across 8 different columns, providing a comprehensive set of features for model training and testing: https://github.com/LinaYorda/mushroom-classification
+
 FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT 3.5 LLM and generate the answer based on search results: https://github.com/nashsu/FreeAskInternet
 
 MQL tool is designed to generate SQL queries directly from natural language inputs: https://github.com/shurutech/mql
 
-SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild: https://github.com/Fanghua-Yu/SUPIR
+MakeReal -a tool that allows users to draw a layout of the user interface of their future program and schematically display its basic logic: https://github.com/tldraw/make-real
 
-Supervised ML: Mushroom classification. This project aims to accurately classify mushrooms as either poisonous or non-poisonous using supervised machine learning techniques. Leveraged decision tree and random forest classifiers on our specialized mushroom dataset to achieve this. The dataset used in this project contains 6,498 entries across 8 different columns, providing a comprehensive set of features for model training and testing: https://github.com/LinaYorda/mushroom-classification
+SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild: https://github.com/Fanghua-Yu/SUPIR
 
 ---
 
