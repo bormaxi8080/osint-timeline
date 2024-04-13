@@ -29,7 +29,11 @@ Globalping-CLI - a simple CLI tool to run networking commands remotely from hund
 
 SecretPixel is a cutting-edge steganography tool designed to securely conceal sensitive information within images. It stands out in the realm of digital steganography by combining advanced encryption, compression, and a seeded Least Significant Bit (LSB) technique to provide a robust solution for embedding data undetectably: https://github.com/x011/SecretPixel
 
+Extractify - A tool for extract Endpoints, URLs, Parameters and Secrets from contents: https://github.com/SharokhAtaie/extractify
+
 gocert is a command-line tool written in Go for retrieving SSL certificate information for a given domain. It allows you to find detailed information about SSL certificates, similar to the functionality provided by [crt.sh](https://crt.sh/): https://github.com/eyewanai/tinyscope-gocert
+
+Twikit - Twitter API Scraper without an API key twitter Internal API: https://github.com/d60/twikit
 
 pydig - a DNS query tool written in Python: https://github.com/shuque/pydig
 
@@ -42,6 +46,8 @@ FreeAskInternet is a completely free, private and locally running search aggrega
 MQL tool is designed to generate SQL queries directly from natural language inputs: https://github.com/shurutech/mql
 
 SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild: https://github.com/Fanghua-Yu/SUPIR
+
+Supervised ML: Mushroom classification. This project aims to accurately classify mushrooms as either poisonous or non-poisonous using supervised machine learning techniques. I have leveraged decision tree and random forest classifiers on our specialized mushroom dataset to achieve this. The dataset used in this project contains 6,498 entries across 8 different columns, providing a comprehensive set of features for model training and testing: https://github.com/LinaYorda/mushroom-classification
 
 ---
 
@@ -88,6 +94,8 @@ Online tools to identify a location from an uploaded photo using AI:  
 - GeoEstimation: http://labs.tib.eu/geoestimation/ 
 
 - GeoGuessr GPT: https://fireintel.medium.com/advanced-geolocation-with-chatgpt-df1d4c11c9a6
+
+Nuclei template finds back up files: https://github.com/valaDevs/nuclei-backupfile-finder
 
 ----
 
