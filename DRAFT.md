@@ -51,7 +51,7 @@ FreeAskInternet is a completely free, private and locally running search aggrega
 
 MQL tool is designed to generate SQL queries directly from natural language inputs: https://github.com/shurutech/mql
 
-MakeReal -a tool that allows users to draw a layout of the user interface of their future program and schematically display its basic logic: https://github.com/tldraw/make-real
+MakeReal - a tool that allows users to draw a layout of the user interface of their future program and schematically display its basic logic: https://github.com/tldraw/make-real
 
 SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild: https://github.com/Fanghua-Yu/SUPIR
 
