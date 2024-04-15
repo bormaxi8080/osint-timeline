@@ -25,6 +25,10 @@ Search for leaked credentials in your target's scope using Burp Suite: https://g
 
 Route53 CLI - Get info about your records from the terminal quickly: https://github.com/Isan-Rivkin/route53-cli
 
+Awesome Bluesky - A list of all known tools available for the Bluesky platform: https://github.com/fishttp/awesome-bluesky
+
+GGMorse - Morse code decoding library: https://github.com/ggerganov/ggmorse
+
 Globalping-CLI - a simple CLI tool to run networking commands remotely from hundreds of globally distributed servers: https://github.com/jsdelivr/globalping-cli
 
 SecretPixel is a cutting-edge steganography tool designed to securely conceal sensitive information within images. It stands out in the realm of digital steganography by combining advanced encryption, compression, and a seeded Least Significant Bit (LSB) technique to provide a robust solution for embedding data undetectably: https://github.com/x011/SecretPixel
@@ -104,6 +108,8 @@ Nuclei template finds back up files: https://github.com/valaDevs/nuclei-backupfi
 **New from GitHub Community:**
 
 asciinema is a free and open source solution for recording terminal sessions and sharing them on the web: https://github.com/gvcgo/asciinema
+
+The YouTube Skipper Chrome Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your videos, and enjoy uninterrupted content seamlessly: https://github.com/dikshantrajput/skip-yt-ad
 
 XHideCursor - Minimal X-application which hides the cursor on key-press and unhides it on mouse-movement efficiently: https://github.com/astier/xhidecursor
 
