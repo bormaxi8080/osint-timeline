@@ -25,6 +25,8 @@ Search for leaked credentials in your target's scope using Burp Suite: https://g
 
 Route53 CLI - Get info about your records from the terminal quickly: https://github.com/Isan-Rivkin/route53-cli
 
+Resources for reverse engineering web and mobile apps for the specific purpose of discovering and using “unofficial APIs”: https://github.com/m31r2701/reversing-unofficial-APIs
+
 Awesome Bluesky - A list of all known tools available for the Bluesky platform: https://github.com/fishttp/awesome-bluesky
 
 GGMorse - Morse code decoding library: https://github.com/ggerganov/ggmorse
@@ -40,6 +42,10 @@ gocert is a command-line tool written in Go for retrieving SSL certificate infor
 Twikit - Twitter API Scraper without an API key Twitter Internal API: https://github.com/d60/twikit
 
 pydig - a DNS query tool written in Python: https://github.com/shuque/pydig
+
+Giving you the ability to generate invisible text that you can then use to communicate with or use for Canary traps. Inzerosight browser extension + npm package for encoding zero width + encryption: https://github.com/planetrenox/inzerosight
+
+PersistenceSniper - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines: https://github.com/last-byte/PersistenceSniper
 
 ----
 
@@ -72,12 +78,6 @@ Nxc-Backup - the tool for creating, delivering and rotating backups for GNU/Linu
 Gerb - Graphical font editor (GTK + Rust): https://github.com/epilys/gerb
 
 GTrash - A Featureful Trash CLI manager alternative to rm and trash-cli: https://github.com/umlx5h/gtrash
-
-----
-
-Giving you the ability to generate invisible text that you can then use to communicate with or use for Canary traps. Inzerosight browser extension + npm package for encoding zero width + encryption: https://github.com/planetrenox/inzerosight
-
-PersistenceSniper - Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines: https://github.com/last-byte/PersistenceSniper
 
 ----
 
