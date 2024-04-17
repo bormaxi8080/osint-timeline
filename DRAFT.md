@@ -31,6 +31,8 @@ Awesome Bluesky - A list of all known tools available for the Bluesky platform: 
 
 GGMorse - Morse code decoding library: https://github.com/ggerganov/ggmorse
 
+Faker - A library for generating fake data such as names, addresses, and phone numbers: https://github.com/faker-ruby/faker
+
 Globalping-CLI - a simple CLI tool to run networking commands remotely from hundreds of globally distributed servers: https://github.com/jsdelivr/globalping-cli
 
 SecretPixel is a cutting-edge steganography tool designed to securely conceal sensitive information within images. It stands out in the realm of digital steganography by combining advanced encryption, compression, and a seeded Least Significant Bit (LSB) technique to provide a robust solution for embedding data undetectably: https://github.com/x011/SecretPixel
