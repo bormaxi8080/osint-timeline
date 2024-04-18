@@ -10,8 +10,6 @@ Sky is the best TV.
 
 ```ShadowServer``` - Sinkholing is a technique whereby a resource used by malicious actors to control malware is taken over and redirected to a benign listener that can (to a varying degree) understand network connections coming from infected devices. This provides visibility of the distribution of infected devices worldwide, as well as protecting victims by preventing botnet command and control (C2) from cybercriminals: https://dashboard.shadowserver.org/
 
-```Dig``` Web Interface - online interface to dig: https://www.digwebinterface.com/
-
 ----
 
 ```RegExr``` is an online tool to **learn**, **build**, & **test** Regular Expressions: https://regexr.com/
@@ -28,7 +26,7 @@ Search for leaked credentials in your target's scope using ```Burp Suite```: htt
 
 ```Route53 CLI``` - Get info about your records from the terminal quickly: https://github.com/Isan-Rivkin/route53-cli
 
-```Resources for reverse engineering web and mobile apps for the specific purpose of discovering and using “unofficial APIs”```: https://github.com/m31r2701/reversing-unofficial-APIs
+```Resources for reverse engineering web and mobile apps for the specific purpose of discovering and using "unofficial APIs"```: https://github.com/m31r2701/reversing-unofficial-APIs
 
 ```Awesome Bluesky``` - A list of all known tools available for the Bluesky platform: https://github.com/fishttp/awesome-bluesky
 
@@ -45,6 +43,8 @@ Search for leaked credentials in your target's scope using ```Burp Suite```: htt
 ```gocert``` is a command-line tool written in Go for retrieving SSL certificate information for a given domain. It allows you to find detailed information about SSL certificates, similar to the functionality provided by [crt.sh](https://crt.sh/): https://github.com/eyewanai/tinyscope-gocert
 
 ```Twikit``` - Twitter API Scraper without an API key Twitter Internal API: https://github.com/d60/twikit
+
+```Dig``` Web Interface - online interface to dig: https://www.digwebinterface.com/
 
 ```pydig``` - a DNS query tool written in Python: https://github.com/shuque/pydig
 
