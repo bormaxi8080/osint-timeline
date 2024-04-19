@@ -13,9 +13,9 @@ Cybersecurity Career Path Datasheets: https://github.com/rezaduty/cybersecurity-
 
 **OSINT Tools, Services and Investigations:**
 
-Anytype - Obsidian alternative. Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information. You can use Anytype to create books, tasks, notes, ideas, documents, tools and organize them any way you want: https://github.com/anyproto/anytype-ts
-
 awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data: https://github.com/jhaddix/awsScrape
+
+403JUMP is a tool designed for penetration testers and bug bounty hunters to audit the security of web applications. It aims to bypass HTTP 403 (Forbidden) pages using various techniques: https://github.com/trap-bytes/403jump
 
 ----
 
@@ -52,7 +52,7 @@ YouTubeTranscript - Extremely fast free online service for converting YouTube vi
 
 **New from GitHub Community:**
 
-
+Anytype - Obsidian alternative. Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information. You can use Anytype to create books, tasks, notes, ideas, documents, tools and organize them any way you want: https://github.com/anyproto/anytype-ts
 
 ----
 
