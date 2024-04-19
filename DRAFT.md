@@ -13,7 +13,7 @@ Cybersecurity Career Path Datasheets: https://github.com/rezaduty/cybersecurity-
 
 **OSINT Tools, Services and Investigations:**
 
-ANytype - Obsidian alternative. Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information. You can use Anytype to create books, tasks, notes, ideas, documents, tools and organize them any way you want.: https://github.com/anyproto/anytype-ts
+Anytype - Obsidian alternative. Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information. You can use Anytype to create books, tasks, notes, ideas, documents, tools and organize them any way you want: https://github.com/anyproto/anytype-ts
 
 awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data: https://github.com/jhaddix/awsScrape
 
