@@ -35,7 +35,11 @@ awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certifi
 
 Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis: https://github.com/facebookexperimental/hermit
 
-Glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq): https://github.com/nadoo/glider
+IntelliShell acts like a bookmark store for commands, so you don't have to keep your history clean in order to be able to find something useful with Ctrl+R: https://github.com/lasantosr/intelli-shell
+
+Glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features (like dnsmasq): https://github.com/nadoo/glider
+
+SpiderSuite is an advance cross-platform and multi-feature GUI web spider/crawler for cyber security proffesionals. Spider Suite can be used for attack surface mapping and analysis. For more information visit SpiderSuite's [website](https://spidersuite.github.io/): https://github.com/3nock/SpiderSuite
 
 sslh - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port): https://github.com/yrutschle/sslh
 
