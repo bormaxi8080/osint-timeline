@@ -33,11 +33,13 @@ awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certifi
 
 **Linux & DevOps:**
 
-Dashy - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more: https://github.com/Lissy93/dashy
+Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis: https://github.com/facebookexperimental/hermit
 
 Glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq): https://github.com/nadoo/glider
 
 sslh - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port): https://github.com/yrutschle/sslh
+
+Dashy - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more: https://github.com/Lissy93/dashy
 
 RegataOS is a GNU/Linux distribution based on openSUSE and focused on the needs of desktop computers and games, one of the best alternatives to Windows and macOS. It includes the Regata OS store for installing apps and games, out-of-the-box Google Drive integration, game mode support via the Vulkan graphics API, an extensive library of games on the Regata OS Game Access portal, support for setting up hybrid graphics in laptops, and easy file transfer between your computer and smartphone.
 Link: https://sourceforge.net/projects/regataos/files/
