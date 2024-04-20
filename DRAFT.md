@@ -5,7 +5,9 @@ Why do we have a dreams?
 
 NASA's Earthdata Search provides user-friendly access to EOSDIS services, facilitating the discovery, filtering, visualization, and retrieval of Earth science data: https://worldview.earthdata.nasa.gov/
 
-OSINT Resources - Email Addresses: https://osintnewsletter.com/p/osint-resources-for-email-addresses
+42 possible steps (with links to instructions) you can take to try to deanonymise a social media account: https://sowel.soxoj.com/Instructions/How+to+deanonymize+an+account (part of SOWEL - Socmint Weaknesses Enumeration List) by [Soxoj](https://t.me/soxoj_insides)
+
+OSINT Resources - Email Addresses (by CyberDetective): https://osintnewsletter.com/p/osint-resources-for-email-addresses
 
 Cybersecurity Career Path Datasheets: https://github.com/rezaduty/cybersecurity-career-path
 
