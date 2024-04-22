@@ -23,7 +23,7 @@ Naabu - A fast port scanner written in go with a focus on reliability and simpli
 
 This UserScript, Chrome extension is change handle name to username in YouTube: https://github.com/yakisova41/return-youtube-comment-username
 
-Browser tool designed to block access to pornographic websites. It automatically bans such websites without the need for user intervention. It provides a simple and effective solution for those seeking to limit their exposure to explicit conntent: https://github.com/dikshantrajput/noFap
+noFap - Browser tool designed to block access to pornographic websites. It automatically bans such websites without the need for user intervention. It provides a simple and effective solution for those seeking to limit their exposure to explicit conntent: https://github.com/dikshantrajput/noFap
 
 ----
 
