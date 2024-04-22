@@ -23,7 +23,7 @@ awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certifi
 
 **AI:**
 
-
+Embed-Photos - Super simple MLX (apple silicon) CLIP based photo similarity web app: https://github.com/harperreed/photo-similarity-search
 
 ---
 
@@ -50,6 +50,8 @@ Dashy - A self-hostable personal dashboard built for you. Includes status-checki
 RegataOS is a GNU/Linux distribution based on openSUSE and focused on the needs of desktop computers and games, one of the best alternatives to Windows and macOS. It includes the Regata OS store for installing apps and games, out-of-the-box Google Drive integration, game mode support via the Vulkan graphics API, an extensive library of games on the Regata OS Game Access portal, support for setting up hybrid graphics in laptops, and easy file transfer between your computer and smartphone.
 Link: https://sourceforge.net/projects/regataos/files/
 
+Remoter - GUI over PAExec and robocopy to remote a bunch of PCs at once: https://github.com/vvvv/Remoter
+
 ----
 
 **New from CyberDetective:**
@@ -61,6 +63,8 @@ YouTubeTranscript - Extremely fast free online service for converting YouTube vi
 **New from GitHub Community:**
 
 Anytype - Obsidian alternative. Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information. You can use Anytype to create books, tasks, notes, ideas, documents, tools and organize them any way you want: https://github.com/anyproto/anytype-ts
+
+qryptr - airgapped ecc text messenger: https://github.com/gappuser/qryptr
 
 ----
 
