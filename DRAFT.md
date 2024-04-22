@@ -19,6 +19,10 @@ awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certifi
 
 403JUMP is a tool designed for penetration testers and bug bounty hunters to audit the security of web applications. It aims to bypass HTTP 403 (Forbidden) pages using various techniques: https://github.com/trap-bytes/403jump
 
+This UserScript, Chrome extension is change handle name to username in YouTube: https://github.com/yakisova41/return-youtube-comment-username
+
+Browser tool designed to block access to pornographic websites. It automatically bans such websites without the need for user intervention. It provides a simple and effective solution for those seeking to limit their exposure to explicit conntent: https://github.com/dikshantrajput/noFap
+
 ----
 
 **AI:**
