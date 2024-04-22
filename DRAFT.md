@@ -17,6 +17,8 @@ Cybersecurity Career Path Datasheets: https://github.com/rezaduty/cybersecurity-
 
 awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data: https://github.com/jhaddix/awsScrape
 
+Naabu - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests: https://github.com/projectdiscovery/naabu
+
 403JUMP is a tool designed for penetration testers and bug bounty hunters to audit the security of web applications. It aims to bypass HTTP 403 (Forbidden) pages using various techniques: https://github.com/trap-bytes/403jump
 
 This UserScript, Chrome extension is change handle name to username in YouTube: https://github.com/yakisova41/return-youtube-comment-username
