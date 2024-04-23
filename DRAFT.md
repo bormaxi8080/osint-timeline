@@ -15,15 +15,15 @@ Cybersecurity Career Path Datasheets: https://github.com/rezaduty/cybersecurity-
 
 **OSINT Tools, Services and Investigations:**
 
-awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data: https://github.com/jhaddix/awsScrape
+noFap - Browser tool designed to block access to pornographic websites. It automatically bans such websites without the need for user intervention. It provides a simple and effective solution for those seeking to limit their exposure to explicit conntent: https://github.com/dikshantrajput/noFap
 
 Naabu - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests: https://github.com/projectdiscovery/naabu
 
 403JUMP is a tool designed for penetration testers and bug bounty hunters to audit the security of web applications. It aims to bypass HTTP 403 (Forbidden) pages using various techniques: https://github.com/trap-bytes/403jump
 
-This UserScript, Chrome extension is change handle name to username in YouTube: https://github.com/yakisova41/return-youtube-comment-username
+awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data: https://github.com/jhaddix/awsScrape
 
-noFap - Browser tool designed to block access to pornographic websites. It automatically bans such websites without the need for user intervention. It provides a simple and effective solution for those seeking to limit their exposure to explicit conntent: https://github.com/dikshantrajput/noFap
+This UserScript, Chrome extension is change handle name to username in YouTube: https://github.com/yakisova41/return-youtube-comment-username
 
 ----
 
@@ -32,6 +32,8 @@ noFap - Browser tool designed to block access to pornographic websites. It autom
 OSINT - I.A. - AI tools they are excellent support for the OSINT Analyst's activity. They allow us to reduce the time of a collection activity or to schedule various data. In general, they can provide support for drafting reports, transcription of audio files, video analysis and programming support: https://github.com/CScorza/OSINT-IA
 
 LLM Scraper is a TypeScript library that allows you to convert **any** webpages into structured data using LLMs: https://github.com/mishushakov/llm-scraper
+
+yt-chat is a tool designed to help you summarize any Youtube video: https://github.com/Fonction-Labs/yt-chat
 
 Embed-Photos - Super simple MLX (apple silicon) CLIP based photo similarity web app: https://github.com/harperreed/photo-similarity-search
 
@@ -75,6 +77,8 @@ YouTubeTranscript - Extremely fast free online service for converting YouTube vi
 Anytype - Obsidian alternative. Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information. You can use Anytype to create books, tasks, notes, ideas, documents, tools and organize them any way you want: https://github.com/anyproto/anytype-ts
 
 qryptr - airgapped ecc text messenger: https://github.com/gappuser/qryptr
+
+SpamBlocker - An Android Call/SMS blocker: https://github.com/aj3423/SpamBlocker
 
 ----
 
