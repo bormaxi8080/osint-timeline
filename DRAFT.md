@@ -31,6 +31,8 @@ noFap - Browser tool designed to block access to pornographic websites. It autom
 
 OSINT - I.A. - AI tools they are excellent support for the OSINT Analyst's activity. They allow us to reduce the time of a collection activity or to schedule various data. In general, they can provide support for drafting reports, transcription of audio files, video analysis and programming support: https://github.com/CScorza/OSINT-IA
 
+LLM Scraper is a TypeScript library that allows you to convert **any** webpages into structured data using LLMs: https://github.com/mishushakov/llm-scraper
+
 Embed-Photos - Super simple MLX (apple silicon) CLIP based photo similarity web app: https://github.com/harperreed/photo-similarity-search
 
 ---
