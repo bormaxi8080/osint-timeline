@@ -41,7 +41,7 @@ Embed-Photos - Super simple MLX (apple silicon) CLIP based photo similarity web 
 
 **Software Development:**
 
-
+textbee.dev is an opensource and free sms-gatway for sending SMS messages through API or dashboard web interface: https://github.com/vernu/textbee
 
 ----
 
@@ -69,6 +69,8 @@ Remoter - GUI over PAExec and robocopy to remote a bunch of PCs at once: https:/
 **New from CyberDetective:**
 
 YouTubeTranscript - Extremely fast free online service for converting YouTube videos to text. Not perfect quality, but quite acceptable and very fast: https://youtubetranscript.com
+
+Leaked passwords database search tool. Search by 3,2 billions leaked credentials by email, nickname, password (you can also try searching by mobile number, as some people use it as a password): https://www.proxynova.com/tools/comb/
 
 ----
 
