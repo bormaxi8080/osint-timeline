@@ -1,6 +1,6 @@
 ![alt text](img/54.jpg)
 
-### bormaxi8080 OSINT Timeline (54) -18.04.2024:
+### bormaxi8080 OSINT Timeline (54) - 18.04.2024:
 
 --
 
