@@ -21,17 +21,43 @@ Naabu - A fast port scanner written in go with a focus on reliability and simpli
 
 403JUMP is a tool designed for penetration testers and bug bounty hunters to audit the security of web applications. It aims to bypass HTTP 403 (Forbidden) pages using various techniques: https://github.com/trap-bytes/403jump
 
+Streaming Overseer: A Telegram Monitoring Tool. This tool monitors specified Telegram channels for messages that contain certain keywords and forwards them to a private channel. It's built using Python and Telethon, a Telegram client library: https://github.com/afolivieri/streaming_overseer
+
+Horus is an all-in-one encompassing tool for investigations assistance, from API leveraging to compiling data too: https://github.com/6abd/horus
+
+Yesitsme - Simple OSINT script to find Instagram profiles by name and e-mail/phone: https://github.com/0x0be/yesitsme
+
 awsScrape - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data: https://github.com/jhaddix/awsScrape
 
-This UserScript, Chrome extension is change handle name to username in YouTube: https://github.com/yakisova41/return-youtube-comment-username
+YouTube Comment Username - This UserScript, Chrome extension is change handle name to username in YouTube: https://github.com/yakisova41/return-youtube-comment-username
+
+Pantheon is a GUI application that allows users to display information regarding network cameras in various countries as well as an integrated live-feed for non-protected cameras: https://github.com/josh0xA/Pantheon
+
+hauditor is a tool designed to analyze the security headers returned by a web page: https://github.com/trap-bytes/hauditor
+
+Docker Exploit - Docker Remote API Scanner and Exploit: https://github.com/justakazh/DockerExploit
+
+IOCs and detection script for COATHANGER malware: https://github.com/JSCU-NL/COATHANGER
+
+A robust, multiprocessing-capable, multi-family RAT config parser/config extractor for AsyncRAT, DcRAT, VenomRAT, QuasarRAT, and cloned/derivative RAT families: https://github.com/jeFF0Falltrades/rat_king_parser
+
+A series of methods used to detect kernel shellcode for tencent game safe race 2024: https://github.com/rogxo/search
 
 ----
 
 **AI:**
 
+Perplexity AI is the fastest way to get information. It's a tool that empowers everyone in the world to learn anything in their own way, using their own language or at their own level. When you ask a question, we take all the information available, compress it, and build a bridge between you and the information. If you want to learn about nuclear fission and you have a PhD in math, it can be explained. If you want to learn about nuclear fission and you are in middle school, it can be explained. Perplexity is a tool that you use, not an AI you talk to. We don't anthropomorphize the technology but instead give it to you to wield. Imagine having instant access to the world's knowledge in your pocket. Something that everyone should be able to use and the discerning should appreciate: https://www.perplexity.ai/
+
+Relevance AI - The fastest platform to build and deploy AI apps & agents. Home of the AI Workforce: https://relevanceai.com/
+
+Crew AI - Most AI Agents frameworks are complex, AI Agents for  real use cases: https://www.crewai.com/
+
 OSINT - I.A. - AI tools they are excellent support for the OSINT Analyst's activity. They allow us to reduce the time of a collection activity or to schedule various data. In general, they can provide support for drafting reports, transcription of audio files, video analysis and programming support: https://github.com/CScorza/OSINT-IA
 
 LLM Scraper is a TypeScript library that allows you to convert **any** webpages into structured data using LLMs: https://github.com/mishushakov/llm-scraper
+
+DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes: https://github.com/luijait/DarkGPT
 
 yt-chat is a tool designed to help you summarize any Youtube video: https://github.com/Fonction-Labs/yt-chat
 
