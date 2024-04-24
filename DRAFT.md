@@ -1,5 +1,5 @@
 
-
+The carousel is, in general, a children's thing. Or vice versa - an adult. Throw your head back and you can see the sky through the branches and wires. Until it gets completely dizzy.
 
 ----
 
