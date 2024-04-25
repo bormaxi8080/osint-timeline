@@ -27,7 +27,7 @@ The carousel is, in general, a children's thing. Or vice versa - an adult. Throw
 
 **Linux & DevOps:**
 
-
+AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps: https://github.com/mnotgod96/AppAgent
 
 ----
 
