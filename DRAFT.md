@@ -11,9 +11,11 @@ The carousel is, in general, a children's thing. Or vice versa - an adult. Throw
 
 Skytrack is a planespotting and aircraft OSINT tool made using Python: https://github.com/ANG13T/skytrack
 
+Ominis-OSINT - This Python script is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Secure Web-History Search." It performs online information gathering by querying Google for search results related to a user-inputted query. The tool extracts relevant information such as titles, URLs, and potential mentions of the query in the results: https://github.com/AnonCatalyst/Ominis-Osint
+
 Lsassy - Python tool to remotely extract credentials on a set of hosts: https://github.com/login-securite/lsassy
 
-Ominis-OSINT - This Python script is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Secure Web-History Search." It performs online information gathering by querying Google for search results related to a user-inputted query. The tool extracts relevant information such as titles, URLs, and potential mentions of the query in the results: https://github.com/AnonCatalyst/Ominis-Osint
+Certina is an OSINT tool for red teamers and bug hunters to discover subdomains from web certificate data: https://github.com/n0mi1k/certina
 
 ----
 
