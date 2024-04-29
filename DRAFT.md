@@ -25,13 +25,13 @@ Certina is an OSINT tool for red teamers and bug hunters to discover subdomains 
 
 **AI:**
 
-
+ChatGPT API Free Reverse Proxy, offering free self-hosted API access to ChatGPT (`gpt-3.5-turbo`) with OpenAI's familiar structure, so no code changes are needed: https://github.com/PawanOsman/ChatGPT
 
 ---
 
 **Software Development:**
 
-
+Bruno - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia: https://github.com/usebruno/bruno
 
 ----
 
