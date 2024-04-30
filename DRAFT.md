@@ -7,7 +7,7 @@ This is a mental dialogue. In reality, it ends in the spring.
 
 ----
 
-
+Threat Hunting - Suspicious User Agents: https://detect.fyi/threat-hunting-suspicious-user-agents-3dd764470bd0
 
 ----
 
@@ -43,7 +43,15 @@ AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent f
 
 **New from CyberDetective:**
 
+OSINT: Persistent Threat Monitoring with Google Programmable Search Engines (by twitter.com/ervin_zubic )
 
+- Using PSE for Persistent Threat Monitoring
+
+- Monitoring APT Actor Communication Channels
+
+- Simple #Python Script for Programmable Search Engines API
+
+https://publication.osintambition.org/osint-persistent-threat-monitoring-with-google-programmable-search-engines-959a141831c8
 
 ----
 
