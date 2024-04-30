@@ -11,6 +11,8 @@ OSHIT: Seven Deadly Sins of Bad Open Source Research: https://www.bellingcat.com
 
 Threat Hunting - Suspicious User Agents: https://detect.fyi/threat-hunting-suspicious-user-agents-3dd764470bd0
 
+The Ultimate Guide / CheatSheet to Flipper Zero: https://infosecwriteups.com/the-ultimate-guide-cheatsheet-to-flipper-zero-d4c42d79d32c
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -22,6 +24,8 @@ Ominis-OSINT - This Python script is an OSINT (Open Source Intelligence) tool ca
 Google Recaptcha Solver - Solve Google reCAPTCHA in less than 5 seconds: https://github.com/sarperavci/GoogleRecaptchaBypass
 
 Mailcat - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job: https://github.com/sharsil/mailcat
+
+Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings: https://github.com/IvanGlinkin/CCTV
 
 Lsassy - Python tool to remotely extract credentials on a set of hosts: https://github.com/login-securite/lsassy
 
@@ -66,6 +70,10 @@ OSINT: Persistent Threat Monitoring with Google Programmable Search Engines (by 
 - Simple #Python Script for Programmable Search Engines API
 
 https://publication.osintambition.org/osint-persistent-threat-monitoring-with-google-programmable-search-engines-959a141831c8
+
+MISSING PERSONS MAPS:
+
+A map marking the places where people have gone missing. For each marker there is a detailed description of the incident. Can be used for voluntary practice of your OSINT skills: https://www.google.com/maps/d/viewer?mid=1rCur3KaoWv-jKAJBkZBwgtDRtfL6MVPz&femb=1&ll=35.94210621673715%2C-91.79899001147237&z=5
 
 ----
 
