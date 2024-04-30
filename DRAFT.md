@@ -7,6 +7,8 @@ This is a mental dialogue. In reality, it ends in the spring.
 
 ----
 
+OSHIT: Seven Deadly Sins of Bad Open Source Research: https://www.bellingcat.com/resources/2024/04/25/oshit-seven-deadly-sins-of-bad-open-source-research/
+
 Threat Hunting - Suspicious User Agents: https://detect.fyi/threat-hunting-suspicious-user-agents-3dd764470bd0
 
 ----
@@ -19,6 +21,8 @@ Ominis-OSINT - This Python script is an OSINT (Open Source Intelligence) tool ca
 
 Google Recaptcha Solver - Solve Google reCAPTCHA in less than 5 seconds: https://github.com/sarperavci/GoogleRecaptchaBypass
 
+Mailcat - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job: https://github.com/sharsil/mailcat
+
 Lsassy - Python tool to remotely extract credentials on a set of hosts: https://github.com/login-securite/lsassy
 
 Certina is an OSINT tool for red teamers and bug hunters to discover subdomains from web certificate data: https://github.com/n0mi1k/certina
@@ -30,6 +34,12 @@ NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilitie
 **AI:**
 
 ChatGPT API Free Reverse Proxy, offering free self-hosted API access to ChatGPT (`gpt-3.5-turbo`) with OpenAI's familiar structure, so no code changes are needed: https://github.com/PawanOsman/ChatGPT
+
+OpenVoice - Instant voice cloning by MyShell: https://github.com/myshell-ai/OpenVoice
+
+MeloTTS - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean: https://github.com/myshell-ai/MeloTTS
+
+AIlice is a fully **autonomous, general-purpose AI agent**. This project aims to create a standalone artificial intelligence assistant, similar to JARVIS, based on the open-source LLM. AIlice achieves this goal by building a "text computer" that uses a Large Language Model (LLM) as its core processor. Currently, AIlice demonstrates proficiency in a range of tasks, including **thematic research, coding, system management, literature reviews, and complex hybrid tasks** that go beyond these basic capabilities: https://github.com/myshell-ai/AIlice
 
 ---
 
