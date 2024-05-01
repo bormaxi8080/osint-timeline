@@ -81,7 +81,7 @@ A map marking the places where people have gone missing. For each marker there i
 
 **New from GitHub Community:**
 
-
+DataQA Extractor - App to extract structured fields into a spreadsheet from unstructured text: https://github.com/dataqa/extractor
 
 ----
 
