@@ -37,6 +37,8 @@ NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilitie
 
 **AI:**
 
+Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI: https://github.com/ItzCrazyKns/Perplexica
+
 ChatGPT API Free Reverse Proxy, offering free self-hosted API access to ChatGPT (`gpt-3.5-turbo`) with OpenAI's familiar structure, so no code changes are needed: https://github.com/PawanOsman/ChatGPT
 
 OpenVoice - Instant voice cloning by MyShell: https://github.com/myshell-ai/OpenVoice
