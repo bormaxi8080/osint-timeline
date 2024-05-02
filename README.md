@@ -153,3 +153,4 @@ BTC: 1P8UgziH27TuGTo9GK3cnKLh9JhECYDeuo
 
 ----
 
+WARNING! All tools, programs and techniques published in this repository are used for informational, educational purposes or for information security purposes. The authors are not responsible for the activities that users of these tools and techniques may carry out, and urge them not to use them to carry out harmful or destructive activities directed against other users or groups on the Internet.
