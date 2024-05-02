@@ -5,7 +5,9 @@ This is a mental dialogue. In reality, it ends in the spring.
 
 ----
 
-
+Want to supercharge your Open-Source Intelligence investigations and analysis? The brand new Horizon by [ShadowDragon](https://www.linkedin.com/company/shadowdragon/) will give you graphing, mapping, time line and monitoring capabilities in over 250+ publicly available data sources.  
+  
+Learn more here : [https://shadowdragon.io/](https://shadowdragon.io/)
 
 ----
 
@@ -41,10 +43,7 @@ This is a mental dialogue. In reality, it ends in the spring.
 
 **New from GitHub Community:**
 
-
-
-----
-
+Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics: https://github.com/yuka-friends/Windrecorder
 
 ----
 ### bormaxi8080 OSINT timeline:
