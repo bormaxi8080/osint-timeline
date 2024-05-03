@@ -5,15 +5,15 @@ This is a mental dialogue. In reality, it ends in the spring.
 
 ----
 
-Want to supercharge your Open-Source Intelligence investigations and analysis? The brand new Horizon by [ShadowDragon](https://www.linkedin.com/company/shadowdragon/) will give you graphing, mapping, time line and monitoring capabilities in over 250+ publicly available data sources.  
-  
-Learn more here : [https://shadowdragon.io/](https://shadowdragon.io/)
+Want to supercharge your Open-Source Intelligence investigations and analysis? The brand new Horizon by [ShadowDragon](https://www.linkedin.com/company/shadowdragon/) will give you graphing, mapping, time line and monitoring capabilities in over 250+ publicly available data sources. Learn more here: [https://shadowdragon.io/](https://shadowdragon.io/)
+
+FindeMail - Search emails by company domain (tree types of search: standard, leaks and logs): https://findemail.io/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+Smishing is a python script that send SMS using Phishing Frenzy framework: https://github.com/stirtcanada/smishing
 
 ----
 
@@ -31,7 +31,7 @@ Learn more here : [https://shadowdragon.io/](https://shadowdragon.io/)
 
 **Linux & DevOps:**
 
-
+Fastfetch is a [neofetch](https://github.com/dylanaraps/neofetch)-like tool for fetching system information and displaying them in a pretty way. It is written mainly in C, with performance and customizability in mind. Currently, Linux, Android, FreeBSD, MacOS and Windows 7+ are supported: https://github.com/fastfetch-cli/fastfetch
 
 ----
 
