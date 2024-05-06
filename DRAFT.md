@@ -15,6 +15,8 @@ FindeMail - Search emails by company domain (tree types of search: standard, lea
 
 Smishing is a python script that send SMS using Phishing Frenzy framework: https://github.com/stirtcanada/smishing
 
+Tartufo - searches through git repositories for high entropy strings and secrets, digging deep into commit history: https://github.com/godaddy/tartufo
+
 Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing: https://github.com/r3curs1v3-pr0xy/vajra
 
 TorrentHunt - the ultimate torrent bot on Telegram: https://github.com/hemantapkh/TorrentHunt
