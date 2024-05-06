@@ -17,6 +17,10 @@ Smishing is a python script that send SMS using Phishing Frenzy framework: https
 
 Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing: https://github.com/r3curs1v3-pr0xy/vajra
 
+TorrentHunt - the ultimate torrent bot on Telegram: https://github.com/hemantapkh/TorrentHunt
+
+Red Team Attack Lab for TTP testing & research: https://github.com/Marshall-Hallenbeck/red_team_attack_lab
+
 ----
 
 **AI:**
@@ -27,7 +31,7 @@ Vajra is a highly customizable target and scope based automated web hacking fram
 
 **Software Development:**
 
-
+The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte: https://github.com/gitbutlerapp/gitbutler
 
 ----
 
