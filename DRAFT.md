@@ -13,6 +13,8 @@ FindeMail - Search emails by company domain (tree types of search: standard, lea
 
 **OSINT Tools, Services and Investigations:**
 
+ Containerise - Firefox extension to automatically open websites in a container: https://github.com/kintesh/containerise
+
 Smishing is a python script that send SMS using Phishing Frenzy framework: https://github.com/stirtcanada/smishing
 
 Tartufo - searches through git repositories for high entropy strings and secrets, digging deep into commit history: https://github.com/godaddy/tartufo
@@ -34,6 +36,8 @@ Red Team Attack Lab for TTP testing & research: https://github.com/Marshall-Hall
 **Software Development:**
 
 The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte: https://github.com/gitbutlerapp/gitbutler
+
+The goal of parsnip is to provide a tidy, unified interface to models that can be used to try a range of models without getting bogged down in the syntactical minutiae of the underlying packages: https://github.com/tidymodels/parsnip
 
 ----
 
