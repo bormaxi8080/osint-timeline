@@ -7,6 +7,8 @@ This is a mental dialogue. In reality, it ends in the spring.
 
 Want to supercharge your Open-Source Intelligence investigations and analysis? The brand new Horizon by [ShadowDragon](https://www.linkedin.com/company/shadowdragon/) will give you graphing, mapping, time line and monitoring capabilities in over 250+ publicly available data sources. Learn more here: [https://shadowdragon.io/](https://shadowdragon.io/)
 
+MarineVesselTraffic is a good resource for live tracking of marine vessels and getting detailed information: https://www.marinevesseltraffic.com/2013/04/marine-traffic.html
+
 FindeMail - Search emails by company domain (tree types of search: standard, leaks and logs): https://findemail.io/
 
 ----
@@ -32,6 +34,10 @@ Vajra is a highly customizable target and scope based automated web hacking fram
 TorrentHunt - the ultimate torrent bot on Telegram: https://github.com/hemantapkh/TorrentHunt
 
 Red Team Attack Lab for TTP testing & research: https://github.com/Marshall-Hallenbeck/red_team_attack_lab
+
+Lisa - Sandbox for automated Linux malware analysis: https://github.com/danielpoliakov/lisa
+
+A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive: https://github.com/viperadnan-git/google-drive-telegram-bot
 
 ----
 
