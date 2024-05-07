@@ -13,9 +13,17 @@ FindeMail - Search emails by company domain (tree types of search: standard, lea
 
 **OSINT Tools, Services and Investigations:**
 
- Containerise - Firefox extension to automatically open websites in a container: https://github.com/kintesh/containerise
+Containerise - Firefox extension to automatically open websites in a container: https://github.com/kintesh/containerise
+
+Undetected Chromedriver - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM): https://github.com/ultrafunkamsterdam/undetected-chromedriver
+
+Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha: https://github.com/ultrafunkamsterdam/nodriver
+
+Change your IP address instantly - easy small GUI tool for Windows (linux soon): https://github.com/ultrafunkamsterdam/AnonSurf
 
 Smishing is a python script that send SMS using Phishing Frenzy framework: https://github.com/stirtcanada/smishing
+
+Python Google Translate (using reverse-engineered public API, so free): https://github.com/ultrafunkamsterdam/googletranslate
 
 Tartufo - searches through git repositories for high entropy strings and secrets, digging deep into commit history: https://github.com/godaddy/tartufo
 
@@ -29,7 +37,7 @@ Red Team Attack Lab for TTP testing & research: https://github.com/Marshall-Hall
 
 **AI:**
 
-
+AIOnion - a pool of proxies, shifting on each request. compatible with Requests, Aiohttp or plain open_connection: https://github.com/ultrafunkamsterdam/aionion
 
 ---
 
