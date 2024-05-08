@@ -38,7 +38,7 @@ AIOnion - a pool of proxies, shifting on each request. compatible with Requests,
 
 **New from GitHub Community:**
 
-
+[Swetrix](https://swetrix.com/) is a fully open source, privacy focused and cookieless alternative to Google Analytics. Swetrix aims to be a lightweight tool (tracking script is < 5 KB), yet powerful enough to give you all the insights you need. With Swetrix you can track your site's traffic, monitor your site's speed, analyse user sessions and pageflows, see the user flows and much more! All of it without invading your user's privacy: https://github.com/swetrix/swetrix-api
 
 ----
 ### bormaxi8080 OSINT timeline:
