@@ -11,6 +11,10 @@ MarineVesselTraffic is a good resource for live tracking of marine vessels and g
 
 FindeMail - Search emails by company domain (tree types of search: standard, leaks and logs): https://findemail.io/
 
+Sherlockeye - Dive into investigations across over 9000 websites: https://sherlockeye.io/
+
+FRAVIA: The Art of Searching. A book with selected writings of [Francesco Vianello aka Fravia](https://en.wikipedia.org/wiki/Fravia). Original website: [searchlores.com](https://web.archive.org/web/20191022173743/http://search.lores.eu/indexo.htm) (some mirrors and archives available only): https://github.com/soxoj/FRAVIA
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -37,7 +41,9 @@ Red Team Attack Lab for TTP testing & research: https://github.com/Marshall-Hall
 
 Lisa - Sandbox for automated Linux malware analysis: https://github.com/danielpoliakov/lisa
 
-A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive: https://github.com/viperadnan-git/google-drive-telegram-bot
+Ntdissector is a tool for parsing records of an NTDS database. Records are dumped in JSON format and can be filtered by object class: https://github.com/synacktiv/ntdissector
+
+Okta Verify and Okta FastPass Abuse Tool: https://github.com/CCob/okta-terrify
 
 ----
 
@@ -63,13 +69,15 @@ Fastfetch is a [neofetch](https://github.com/dylanaraps/neofetch)-like tool for
 
 **New from CyberDetective:**
 
-
+Wayback Keyword Search - This tool downloads each page from the Wayback Machine for a specific domain and enables further keyword search on each saved page: https://github.com/lorenzoromani1983/wayback-keyword-search
 
 ----
 
 **New from GitHub Community:**
 
 Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics: https://github.com/yuka-friends/Windrecorder
+
+A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive: https://github.com/viperadnan-git/google-drive-telegram-bot
 
 ----
 ### bormaxi8080 OSINT timeline:
