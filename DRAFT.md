@@ -14,7 +14,7 @@ This is a mental dialogue. In reality, it ends in the spring.
 
 **AI:**
 
-AIOnion - a pool of proxies, shifting on each request. compatible with Requests, Aiohttp or plain open_connection: https://github.com/ultrafunkamsterdam/aionion
+
 
 ---
 
