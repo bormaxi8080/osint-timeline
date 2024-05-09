@@ -40,7 +40,7 @@ Many headphones can send commands to its device, such as Airpods, with a single 
 
 **New from CyberDetective:**
 
-
+A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware, data harvestors, etc: https://github.com/dmdhrumilmistry/pyhtools
 
 ----
 
