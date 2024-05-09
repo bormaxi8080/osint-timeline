@@ -14,6 +14,8 @@ nextnet is a pivot point discovery tool written in Go: https://github.com/hdm/ne
 
 Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network: https://github.com/m0rtem/CloudFail
 
+Creep Detector - the Jupyter Notebook script identifies MAC addresses following you between different locations using wardriving data: https://github.com/skickar/CreepDetector
+
 Many headphones can send commands to its device, such as Airpods, with a single press to pause or resume, double press to play the next track, and triple press to play the previous track. Using this feature, we can use the headphones as a morse transmitter.: https://github.com/EtherDream/headphone-morse-transmitter
 
 ----
