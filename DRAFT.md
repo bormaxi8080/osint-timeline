@@ -8,7 +8,13 @@ This is a mental dialogue. In reality, it ends in the spring.
 
 **OSINT Tools, Services and Investigations:**
 
+Orochi is an open source framework for collaborative forensic memory dump analysis. Using Orochi you and your collaborators can easily organize your memory dumps and analyze them all at the same time: https://github.com/LDO-CERT/orochi
 
+nextnet is a pivot point discovery tool written in Go: https://github.com/hdm/nextnet
+
+Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network: https://github.com/m0rtem/CloudFail
+
+Many headphones can send commands to its device, such as Airpods, with a single press to pause or resume, double press to play the next track, and triple press to play the previous track. Using this feature, we can use the headphones as a morse transmitter.: https://github.com/EtherDream/headphone-morse-transmitter
 
 ----
 
