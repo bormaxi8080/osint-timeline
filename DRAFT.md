@@ -2,7 +2,7 @@ This is a mental dialogue. In reality, it ends in the end of spring.
 
 ----
 
-
+EMailHippo - mass email verification solution: https://www.emailhippo.com/ (try for free: https://tools.emailhippo.com/)
 
 ----
 
