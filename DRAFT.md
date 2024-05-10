@@ -1,3 +1,5 @@
+...and everything around leaves shadows.
+
 This is a mental dialogue. In reality, it ends in the end of spring.
 
 ----
