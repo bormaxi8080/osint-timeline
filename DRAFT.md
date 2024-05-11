@@ -44,13 +44,41 @@ Reaper of screencast videos for OSINT purposes: https://github.com/soxoj/castrea
 
 **Software Development:**
 
+Awesome Celery - a curated list of awesome things related to Celery: https://github.com/svfat/awesome-celery
+
+Celery Director - Simple and rapid framework to build workflows with Celery: https://github.com/ovh/celery-director
+
+GoCelery - Celery Distributed Task Queue in Go: https://github.com/gocelery/gocelery
+
+django-webhook - Django webhooks triggered on model changes: https://github.com/danihodovic/django-webhook
+
 Omniscient.js - A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js: https://github.com/omniscientjs/omniscient
 
 ----
 
 **Linux & DevOps:**
 
+Django Health Check - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc: https://github.com/revsys/django-health-check
 
+Celery Exporter - A Prometheus exporter for Celery metrics: https://github.com/danihodovic/celery-exporter
+
+----
+
+**Flipper Zero:**
+
+Flipper Zero firmware source code: https://github.com/flipperdevices/flipperzero-firmware
+
+Flipper Application Catalog - a public repository for community developed applications for Flipper Zero: https://github.com/flipperdevices/flipper-application-catalog
+
+Awesome Flipper Zeo - a collection of awesome resources for the Flipper Zero device: https://github.com/djsime1/awesome-flipperzero
+
+A Collection of Flipper Zero Scripts / Applications / etc: https://github.com/FroggMaster/FlipperZero
+
+A collective of different IRs for the Flipper: https://github.com/Lucaslhm/Flipper-IRDB
+
+Brute force subghz fixed codes using Flipper Zero: https://github.com/tobiabocchi/flipperzero-bruteforce
+
+Flipper Zero badusb payload library: https://github.com/FalsePhilosopher/badusb
 
 ----
 
