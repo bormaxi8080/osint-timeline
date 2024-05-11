@@ -20,6 +20,8 @@ Creep Detector - the Jupyter Notebook script identifies MAC addresses following 
 
 Many headphones can send commands to its device, such as Airpods, with a single press to pause or resume, double press to play the next track, and triple press to play the previous track. Using this feature, we can use the headphones as a morse transmitter.: https://github.com/EtherDream/headphone-morse-transmitter
 
+Omnisci3nt equips users with a comprehensive toolkit for conducting web reconnaissance with precision and efficiency: https://github.com/spyboy-productions/omnisci3nt
+
 ----
 
 **AI:**
@@ -30,7 +32,7 @@ Many headphones can send commands to its device, such as Airpods, with a single 
 
 **Software Development:**
 
-
+Omniscient.js - A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js: https://github.com/omniscientjs/omniscient
 
 ----
 
