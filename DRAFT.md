@@ -6,6 +6,14 @@ Survivor's mistake: becoming stronger one spring every year.
 
 ----
 
+Adana: Analytical DAshboard (for NArratives): https://github.com/soxoj/bellingcat-hackathon-watchcats
+
+Analytical tool to extract insights (shown on a simple dashboard) from social media posts about narratives, sentiments, initiators, influencers and clusters of accounts. It should be applicable for studying disinformation campaigns, analysing public opinion, and assessing risks related to some topics.
+
+It's a project created by team Watch Cats during participation in [Bellingcat's First In-person Hackathon](https://www.bellingcat.com/bellingcats-first-in-person-hackathon/).
+
+----
+
 EMailHippo - mass email verification solution: https://www.emailhippo.com/ (try for free: https://tools.emailhippo.com/)
 
 ----
@@ -23,6 +31,8 @@ Creep Detector - the Jupyter Notebook script identifies MAC addresses following 
 Many headphones can send commands to its device, such as Airpods, with a single press to pause or resume, double press to play the next track, and triple press to play the previous track. Using this feature, we can use the headphones as a morse transmitter.: https://github.com/EtherDream/headphone-morse-transmitter
 
 Omnisci3nt equips users with a comprehensive toolkit for conducting web reconnaissance with precision and efficiency: https://github.com/spyboy-productions/omnisci3nt
+
+Reaper of screencast videos for OSINT purposes: https://github.com/soxoj/castreaper
 
 ----
 
