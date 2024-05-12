@@ -38,7 +38,7 @@ Reaper of screencast videos for OSINT purposes: https://github.com/soxoj/castrea
 
 **AI:**
 
-
+Crawl4AI - Open-source LLM Friendly Web Crawler & Scrapper: https://github.com/unclecode/crawl4ai
 
 ---
 
@@ -52,7 +52,9 @@ GoCelery - Celery Distributed Task Queue in Go: https://github.com/gocelery/goce
 
 django-webhook - Django webhooks triggered on model changes: https://github.com/danihodovic/django-webhook
 
-Omniscient.js - A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js: https://github.com/omniscientjs/omniscient
+Cerberus is a lightweight and extensible data validation library for Python: https://github.com/pyeve/cerberus
+
+Omniscient.js - a library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js: https://github.com/omniscientjs/omniscient
 
 ----
 
@@ -60,7 +62,7 @@ Omniscient.js - A library providing an abstraction for React components that all
 
 Django Health Check - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc: https://github.com/revsys/django-health-check
 
-Celery Exporter - A Prometheus exporter for Celery metrics: https://github.com/danihodovic/celery-exporter
+Celery Exporter - a Prometheus exporter for Celery metrics: https://github.com/danihodovic/celery-exporter
 
 ----
 
@@ -85,6 +87,8 @@ Flipper Zero badusb payload library: https://github.com/FalsePhilosopher/badusb
 **New from CyberDetective:**
 
 A Python Hacking Library consisting of network scanner, arp spoofer and detector, dns spoofer, code injector, packet sniffer, network jammer, email sender, downloader, wireless password harvester credential harvester, keylogger, download&execute, ransomware, data harvestors, etc: https://github.com/dmdhrumilmistry/pyhtools
+
+Open-source Aviation - ADS-D data, Airport data, Tools and libraries: https://github.com/lucianosrp/open-source-aviation
 
 ----
 
