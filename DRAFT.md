@@ -40,6 +40,8 @@ Omnisci3nt equips users with a comprehensive toolkit for conducting web reconnai
 
 Reaper of screencast videos for OSINT purposes: https://github.com/soxoj/castreaper
 
+PhatCrack - Modern web-based distributed hashcracking solution, built on [hashcat](https://hashcat.net/hashcat/) (https://github.com/hashcat/hashcat). Source: https://github.com/lachlan2k/phatcrack
+
 ----
 
 **AI:**
