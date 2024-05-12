@@ -6,6 +6,12 @@ Survivor's mistake: becoming stronger one spring every year.
 
 ----
 
+**Collections** are data distributions provided by OpenSanctions that combine entities from many sources based on a topic: https://www.opensanctions.org/datasets/
+
+How Yandex is sinking under the Combine of bots: https://habr.com/ru/articles/813545/
+
+----
+
 Adana: Analytical DAshboard (for NArratives): https://github.com/soxoj/bellingcat-hackathon-watchcats
 
 Analytical tool to extract insights (shown on a simple dashboard) from social media posts about narratives, sentiments, initiators, influencers and clusters of accounts. It should be applicable for studying disinformation campaigns, analysing public opinion, and assessing risks related to some topics.
