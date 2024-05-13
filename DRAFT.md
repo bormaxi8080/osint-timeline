@@ -46,6 +46,8 @@ Omnisci3nt equips users with a comprehensive toolkit for conducting web reconnai
 
 Reaper of screencast videos for OSINT purposes: https://github.com/soxoj/castreaper
 
+**LeakSearch** is a simple tool to search and parse plain text passwords using ProxyNova COMB (Combination Of Many Breaches) over the Internet. You can define a custom proxy and you can also use your own password file, to search using different keywords: such as user, domain or password: https://github.com/JoelGMSec/LeakSearch
+
 Gram is Klarna's own threat model diagramming tool: https://github.com/klarna-incubator/gram
 
 PhatCrack - Modern web-based distributed hashcracking solution, built on [hashcat](https://hashcat.net/hashcat/) (https://github.com/hashcat/hashcat). Source: https://github.com/lachlan2k/phatcrack
