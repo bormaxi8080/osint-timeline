@@ -34,6 +34,12 @@ Utilize misconfigured DNS and old database records to find hidden IP's behind th
 
 Creep Detector - the Jupyter Notebook script identifies MAC addresses following you between different locations using wardriving data: https://github.com/skickar/CreepDetector
 
+Colly - Elegant Scraper and Crawler Framework for Golang: https://github.com/gocolly/colly
+
+ZMap Proxy Scanner - a Thread Safe fast way to find proxies. Find 2000-5000 working http,socks4, socks5 proxies in one scan: https://github.com/bormaxi8080/Zmap-ProxyScanner
+
+Headless Recorder - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script: https://github.com/checkly/headless-recorder
+
 Many headphones can send commands to its device, such as Airpods, with a single press to pause or resume, double press to play the next track, and triple press to play the previous track. Using this feature, we can use the headphones as a morse transmitter.: https://github.com/EtherDream/headphone-morse-transmitter
 
 Omnisci3nt equips users with a comprehensive toolkit for conducting web reconnaissance with precision and efficiency: https://github.com/spyboy-productions/omnisci3nt
@@ -61,6 +67,8 @@ GoCelery - Celery Distributed Task Queue in Go: https://github.com/gocelery/goce
 django-webhook - Django webhooks triggered on model changes: https://github.com/danihodovic/django-webhook
 
 Cerberus is a lightweight and extensible data validation library for Python: https://github.com/pyeve/cerberus
+
+Otto - a JavaScript interpreter in Go: https://github.com/robertkrimen/otto
 
 Omniscient.js - a library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js: https://github.com/omniscientjs/omniscient
 
