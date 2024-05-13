@@ -46,6 +46,8 @@ Omnisci3nt equips users with a comprehensive toolkit for conducting web reconnai
 
 Reaper of screencast videos for OSINT purposes: https://github.com/soxoj/castreaper
 
+Gram is Klarna's own threat model diagramming tool: https://github.com/klarna-incubator/gram
+
 PhatCrack - Modern web-based distributed hashcracking solution, built on [hashcat](https://hashcat.net/hashcat/) (https://github.com/hashcat/hashcat). Source: https://github.com/lachlan2k/phatcrack
 
 ----
@@ -70,6 +72,8 @@ Cerberus is a lightweight and extensible data validation library for Python: htt
 
 Otto - a JavaScript interpreter in Go: https://github.com/robertkrimen/otto
 
+The Web Traversal Library (WTL) is a Python library for abstracting web interactions on top of a base execution layer such as Selenium: https://github.com/klarna-incubator/webtraversallibrary
+
 Omniscient.js - a library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js: https://github.com/omniscientjs/omniscient
 
 ----
@@ -79,6 +83,8 @@ Omniscient.js - a library providing an abstraction for React components that all
 Django Health Check - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc: https://github.com/revsys/django-health-check
 
 Celery Exporter - a Prometheus exporter for Celery metrics: https://github.com/danihodovic/celery-exporter
+
+RRFuzz - Fuzz anything with Program Environment Fuzzing: https://github.com/GJDuck/RRFuzz
 
 ----
 
