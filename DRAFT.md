@@ -58,7 +58,7 @@ Creep Detector - the Jupyter Notebook script identifies MAC addresses following 
 
 Colly - Elegant Scraper and Crawler Framework for Golang: https://github.com/gocolly/colly
 
-ZMap Proxy Scanner - a Thread Safe fast way to find proxies. Find 2000-5000 working http,socks4, socks5 proxies in one scan: https://github.com/bormaxi8080/Zmap-ProxyScanner
+ZMap Proxy Scanner - a Thread Safe fast way to find proxies. Find 2000-5000 working http,socks4, socks5 proxies in one scan: https://github.com/Yariya/Zmap-ProxyScanner
 
 Headless Recorder - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script: https://github.com/checkly/headless-recorder
 
