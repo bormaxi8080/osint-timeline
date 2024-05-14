@@ -6,9 +6,15 @@ Survivor's mistake: becoming stronger one spring every year.
 
 ----
 
+Who in Russian science supported the war? Publications and interviews of Russian scientists in support of the war (MGIMO, HSE, Moscow State University and other leading Russian universities): https://www.facebook.com/groups/437027421553577
+
 **Collections** are data distributions provided by OpenSanctions that combine entities from many sources based on a topic: https://www.opensanctions.org/datasets/
 
 How Yandex is sinking under the Combine of bots: https://habr.com/ru/articles/813545/
+
+Following the Money: A Beginner’s Guide to Using the OpenCorporates API from Bellingcat: https://www.bellingcat.com/resources/2023/08/24/following-the-money-a-beginners-guide-to-using-the-opencorporates-api/
+
+Browse Awesome Maps + Data, where vast amounts of information are beautifully mapped and visualized: https://github.com/thedoubler/awesome-maps-data
 
 ----
 
@@ -26,11 +32,27 @@ EMailHippo - mass email verification solution: https://www.emailhippo.com/ (try 
 
 **OSINT Tools, Services and Investigations:**
 
+TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily: https://github.com/tsale/TeleTracker
+
+Favicons are small icons in modern web applications that could be very useful for us in our day-to-day hunting activities, especially when we combine these icons with modern search engines to find assets on the internet. FaviHunter project aims to help a security professional find assets on the internet using favicon hashes on search engines such as [FOFA](https://en.fofa.info/), [Shodan](https://www.shodan.io/), [Censys](https://search.censys.io/), [Zoomeye](https://www.zoomeye.org/), [Criminal IP](https://www.criminalip.io/), and [ODIN](https://getodin.com/). The program returns a table with the custom queries of each search engine and their shortened URL with the query applied: https://github.com/eremit4/favihunter
+
 Orochi is an open source framework for collaborative forensic memory dump analysis. Using Orochi you and your collaborators can easily organize your memory dumps and analyze them all at the same time: https://github.com/LDO-CERT/orochi
 
 nextnet is a pivot point discovery tool written in Go: https://github.com/hdm/nextnet
 
 Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network: https://github.com/m0rtem/CloudFail
+
+mksub - Generate tens of thousands of subdomain combinations in a matter of seconds: https://github.com/trickest/mksub
+
+mkpath - Make URL path combinations using a wordlist: https://github.com/trickest/mkpath
+
+Ladder - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL: https://github.com/everywall/ladder
+
+OSINTMachineGuide - Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy configuration, and advanced attack prevention measures: https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide
+
+Internet OSINT - Cast your OSINT net further a field and see what else you can discover on the Internet: https://github.com/cqcore/Internet-OSINT
+
+LemmeKnow - a Tool for "identifying mysterious text or analyze hard-coded strings". Identifies API keys, cryptocurrency wallet numbers, encrypted strings, YouTube channel IDs, IPs, credit card numbers and much more: https://github.com/swanandx/lemmeknow
 
 Creep Detector - the Jupyter Notebook script identifies MAC addresses following you between different locations using wardriving data: https://github.com/skickar/CreepDetector
 
@@ -57,6 +79,8 @@ PhatCrack - Modern web-based distributed hashcracking solution, built on [hashca
 **AI:**
 
 Crawl4AI - Open-source LLM Friendly Web Crawler & Scrapper: https://github.com/unclecode/crawl4ai
+
+Apps that utilize the astounding power of ChatGPT or enhance its UX: https://github.com/adamlui/chatgpt-apps
 
 ---
 
