@@ -46,6 +46,10 @@ mksub - Generate tens of thousands of subdomain combinations in a matter of seco
 
 mkpath - Make URL path combinations using a wordlist: https://github.com/trickest/mkpath
 
+xnldorker - Gather results of dorks across a number of search engines: https://github.com/xnl-h4ck3r/xnldorker
+
+xnlLinkFinder - a python tool used to discover endpoints, potential parameters, and a target specific wordlist for a given target: https://github.com/xnl-h4ck3r/xnLinkFinder
+
 Ladder - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL: https://github.com/everywall/ladder
 
 OSINTMachineGuide - Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy configuration, and advanced attack prevention measures: https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide
