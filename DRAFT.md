@@ -80,6 +80,8 @@ Gram is Klarna's own threat model diagramming tool: https://github.com/klarna-in
 
 PhatCrack - Modern web-based distributed hashcracking solution, built on [hashcat](https://hashcat.net/hashcat/) (https://github.com/hashcat/hashcat). Source: https://github.com/lachlan2k/phatcrack
 
+BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way: https://github.com/sgxgsx/BlueToolkit
+
 ----
 
 **AI:**
