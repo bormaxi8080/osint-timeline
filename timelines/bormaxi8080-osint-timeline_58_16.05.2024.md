@@ -20,7 +20,7 @@ How Yandex is sinking under the Combine of bots: https://habr.com/ru/articles/81
 
 ----
 
-```Adana```: Analytical DAshboard (for NArratives): https://github.com/soxoj/bellingcat-hackathon-watchcats
+```Adana```: Analytical DAshboard (for NArratives) by Soxoj: https://github.com/soxoj/bellingcat-hackathon-watchcats
 
 Analytical tool to extract insights (shown on a simple dashboard) from social media posts about narratives, sentiments, initiators, influencers and clusters of accounts. It should be applicable for studying disinformation campaigns, analysing public opinion, and assessing risks related to some topics.
 
