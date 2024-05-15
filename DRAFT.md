@@ -2,8 +2,6 @@
 
 This is a mental dialogue. In reality, it ends in the end of spring.
 
-Survivor's mistake: becoming stronger one spring every year.
-
 ----
 
 Who in Russian science supported the war? Publications and interviews of Russian scientists in support of the war (MGIMO, HSE, Moscow State University and other leading Russian universities): https://www.facebook.com/groups/437027421553577
@@ -39,6 +37,8 @@ Favicons are small icons in modern web applications that could be very useful fo
 Orochi is an open source framework for collaborative forensic memory dump analysis. Using Orochi you and your collaborators can easily organize your memory dumps and analyze them all at the same time: https://github.com/LDO-CERT/orochi
 
 nextnet is a pivot point discovery tool written in Go: https://github.com/hdm/nextnet
+
+mails.so - Simple email validation for everyone: https://mails.so/
 
 Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network: https://github.com/m0rtem/CloudFail
 
@@ -84,6 +84,8 @@ PhatCrack - Modern web-based distributed hashcracking solution, built on [hashca
 
 Crawl4AI - Open-source LLM Friendly Web Crawler & Scrapper: https://github.com/unclecode/crawl4ai
 
+Lumina-T2X is a unified framework for Text to Any Modality Generation: https://github.com/Alpha-VLLM/Lumina-T2X
+
 Apps that utilize the astounding power of ChatGPT or enhance its UX: https://github.com/adamlui/chatgpt-apps
 
 ---
@@ -97,6 +99,8 @@ Celery Director - Simple and rapid framework to build workflows with Celery: htt
 GoCelery - Celery Distributed Task Queue in Go: https://github.com/gocelery/gocelery
 
 django-webhook - Django webhooks triggered on model changes: https://github.com/danihodovic/django-webhook
+
+proxy.py - a lightweight single file HTTP proxy server on Python: https://github.com/abhinavsingh/proxy.py
 
 Cerberus is a lightweight and extensible data validation library for Python: https://github.com/pyeve/cerberus
 
@@ -113,6 +117,8 @@ Omniscient.js - a library providing an abstraction for React components that all
 Django Health Check - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc: https://github.com/revsys/django-health-check
 
 Celery Exporter - a Prometheus exporter for Celery metrics: https://github.com/danihodovic/celery-exporter
+
+krr - Prometheus-based Kubernetes Resource Recommendations: https://github.com/robusta-dev/krr
 
 RRFuzz - Fuzz anything with Program Environment Fuzzing: https://github.com/GJDuck/RRFuzz
 
