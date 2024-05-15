@@ -14,6 +14,8 @@ Following the Money: A Beginner’s Guide to Using the OpenCorporates API from B
 
 Browse Awesome Maps + Data, where vast amounts of information are beautifully mapped and visualized: https://github.com/thedoubler/awesome-maps-data
 
+Discover the connections between companies by exploring their Legal Entity Identifier. With just a click, unveil the network they're part of: https://search.gleif.org/#/search/
+
 ----
 
 Adana: Analytical DAshboard (for NArratives): https://github.com/soxoj/bellingcat-hackathon-watchcats
