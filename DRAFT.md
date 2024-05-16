@@ -4,9 +4,11 @@ This is a mental dialogue. In reality, it ends in the end of spring.
 
 ----
 
-Browse Awesome Maps + Data, where vast amounts of information are beautifully mapped and visualized: https://github.com/thedoubler/awesome-maps-data
+Russian intelligence recruits foreign students and scientists through the National Research Institute for the Development of Communications (NIIRK), which is run by people from the secret services. In Europe and the near abroad, the institute holds numerous conferences and internships, where security officers and pro-Kremlin propagandists, while talking about good neighborliness, instill in listeners the idea that the West is the enemy, and the path to prosperity lies through friendship with Russia: https://theins.ru/obshestvo/271530
 
 ----
+
+Browse Awesome Maps + Data, where vast amounts of information are beautifully mapped and visualized: https://github.com/thedoubler/awesome-maps-data
 
 EMailHippo - mass email verification solution: https://www.emailhippo.com/ (try for free: https://tools.emailhippo.com/)
 
@@ -15,6 +17,8 @@ mails.so - Simple email validation for everyone: https://mails.so/
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+pico - an open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes): https://github.com/andydunstall/piko
 
 mksub - Generate tens of thousands of subdomain combinations in a matter of seconds: https://github.com/trickest/mksub
 
@@ -40,7 +44,7 @@ BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework t
 
 **AI:**
 
-
+pipecat - Open Source framework for voice and multimodal conversational AI: https://github.com/pipecat-ai/pipecat
 
 ---
 
@@ -70,7 +74,7 @@ BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework t
 
 **New from GitHub Community:**
 
-
+Free Browser - a privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker: https://github.com/woheller69/browser
 
 ----
 ### bormaxi8080 OSINT timeline:
