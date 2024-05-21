@@ -30,6 +30,8 @@ xnlLinkFinder - a python tool used to discover endpoints, potential parameters, 
 
 LemmeKnow - a Tool for "identifying mysterious text or analyze hard-coded strings". Identifies API keys, cryptocurrency wallet numbers, encrypted strings, YouTube channel IDs, IPs, credit card numbers and much more: https://github.com/swanandx/lemmeknow
 
+Monolith is a CLI tool for saving complete web pages as a single HTML file: https://github.com/Y2Z/monolith
+
 Many headphones can send commands to its device, such as Airpods, with a single press to pause or resume, double press to play the next track, and triple press to play the previous track. Using this feature, we can use the headphones as a morse transmitter.: https://github.com/EtherDream/headphone-morse-transmitter
 
 Omnisci3nt equips users with a comprehensive toolkit for conducting web reconnaissance with precision and efficiency: https://github.com/spyboy-productions/omnisci3nt
@@ -56,7 +58,7 @@ pipecat - Open Source framework for voice and multimodal conversational AI: http
 
 **Linux & DevOps:**
 
-
+graftcp - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy: https://github.com/hmgle/graftcp
 
 ----
 
@@ -68,7 +70,13 @@ pipecat - Open Source framework for voice and multimodal conversational AI: http
 
 **New from CyberDetective:**
 
+OriON is a virtual machine in Spanish that incorporates several tools for Open Source Intelligence on people: https://github.com/Cl4r4-5/OriON
 
+Website OSINT - You will find a wealth of resources to help with your Website investigations: https://github.com/cqcore/Website-OSINT
+
+A curated list of awesome malware analysis tools and resources: https://github.com/rshipp/awesome-malware-analysis
+
+hashtray is an OSINT tool designed to find a Gravatar account associated with an email address and to locate an email address using a Gravatar account username or hash: https://github.com/balestek/hashtray
 
 ----
 
