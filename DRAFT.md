@@ -20,6 +20,8 @@ mails.so - Simple email validation for everyone: https://mails.so/
 
 pico - an open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes): https://github.com/andydunstall/piko
 
+ExifCleaner - a Cross-platform desktop GUI app to clean image metadata: https://github.com/szTheory/exifcleaner/
+
 mksub - Generate tens of thousands of subdomain combinations in a matter of seconds: https://github.com/trickest/mksub
 
 mkpath - Make URL path combinations using a wordlist: https://github.com/trickest/mkpath
@@ -41,6 +43,8 @@ Gram is Klarna's own threat model diagramming tool: https://github.com/klarna-in
 PhatCrack - Modern web-based distributed hashcracking solution, built on [hashcat](https://hashcat.net/hashcat/) (https://github.com/hashcat/hashcat). Source: https://github.com/lachlan2k/phatcrack
 
 BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way: https://github.com/sgxgsx/BlueToolkit
+
+Whatsapp Exploit to spoofing impersonate of reply message: https://github.com/lichti/whats-spoofing
 
 ----
 
