@@ -56,13 +56,15 @@ pipecat - Open Source framework for voice and multimodal conversational AI: http
 
 **Software Development:**
 
-
+httpbin - HTTP Request & Response Service, written in Python + Flask: https://github.com/postmanlabs/httpbin
 
 ----
 
 **Linux & DevOps:**
 
 graftcp - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy: https://github.com/hmgle/graftcp
+
+A 2FA CLI tool for generating 2FA codes using TOTP secrets, with an optional SECURE remote api, and an optional web ui enabling 2FA code generation from any device: https://github.com/cc-d/open2fa
 
 ----
 
