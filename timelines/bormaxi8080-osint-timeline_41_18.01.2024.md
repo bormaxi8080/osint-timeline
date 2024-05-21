@@ -47,7 +47,7 @@ List of 1250+ generic, admin, mailer-daemon, and no-reply usernames reserved for
 
 ```msoffcrypto-tool``` (formerly ms-offcrypto-tool) is Python tool and library for decrypting encrypted MS Office files with password, intermediate key, or private key which generated its escrow key: https://github.com/nolze/msoffcrypto-tool
 
-```ZPhisher``` - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit: https://github.com/htr-tech/zphisher
+```ZPhisher``` - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only! Author will not be responsible for any misuse of this toolkit: https://github.com/htr-tech/zphisher
 
 ```Pen-Andro``` - This Script will automate the process of installing all necessary tools & tasks for Android Pentesting i.e Moving Burpsuite Certificate ,Installing Adb frida server, APKs like proxy toggle, proxydroid, adbwifi: https://github.com/raoshaab/Pen-Andro
 
