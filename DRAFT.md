@@ -6,9 +6,11 @@ This is a mental dialogue. In reality, it ends in the end of spring.
 
 Russian intelligence recruits foreign students and scientists through the National Research Institute for the Development of Communications (NIIRK), which is run by people from the secret services. In Europe and the near abroad, the institute holds numerous conferences and internships, where security officers and pro-Kremlin propagandists, while talking about good neighborliness, instill in listeners the idea that the West is the enemy, and the path to prosperity lies through friendship with Russia: https://theins.ru/obshestvo/271530
 
-hackyx - The Search Engine for Cybersecurity: https://hackyx.io/ (GitHub: https://github.com/aituglo/hackyx)
+How open source journalism transformed investigations: https://www.youtube.com/watch?v=cxwgFFel_xw
 
 ----
+
+hackyx - The Search Engine for Cybersecurity: https://hackyx.io/ (GitHub: https://github.com/aituglo/hackyx)
 
 Browse Awesome Maps + Data, where vast amounts of information are beautifully mapped and visualized: https://github.com/thedoubler/awesome-maps-data
 
@@ -19,8 +21,6 @@ mails.so - Simple email validation for everyone: https://mails.so/
 ----
 
 **OSINT Tools, Services and Investigations:**
-
-pico - an open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes): https://github.com/andydunstall/piko
 
 ExifCleaner - a Cross-platform desktop GUI app to clean image metadata: https://github.com/szTheory/exifcleaner/
 
@@ -63,6 +63,8 @@ httpbin - HTTP Request & Response Service, written in Python + Flask: https://gi
 ----
 
 **Linux & DevOps:**
+
+pico - an open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes): https://github.com/andydunstall/piko
 
 graftcp - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy: https://github.com/hmgle/graftcp
 
