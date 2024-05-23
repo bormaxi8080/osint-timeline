@@ -39,7 +39,7 @@ This is a mental dialogue. In reality, it ends in the end of spring.
 
 **New from CyberDetective:**
 
-
+This repository holds the Python scripts discussed in the Infosec Institute's Python for Cybersecurity learning Path: https://github.com/hposton/python-for-cybersecurity
 
 ----
 
