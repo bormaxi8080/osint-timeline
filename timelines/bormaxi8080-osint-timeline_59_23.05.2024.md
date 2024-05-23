@@ -20,7 +20,7 @@ How open source journalism transformed investigations: https://www.youtube.com/w
 
 ```EMailHippo``` - mass email verification solution: https://www.emailhippo.com/ (try for free: https://tools.emailhippo.com/)
 
-```mails.so``` - Simple email validation for everyone: https://mails.so/
+mails.so - Simple email validation for everyone: https://mails.so/
 
 ----
 
@@ -90,7 +90,7 @@ A curated list of awesome malware analysis tools and resources: https://github.c
 
 **New from GitHub Community:**
 
-Free Browser - a privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker: https://github.com/woheller69/browser
+```Free Browser``` - a privacy oriented web browser with Greasemonkey style script support and Cookie Banner Blocker: https://github.com/woheller69/browser
 
 ----
 ### bormaxi8080 OSINT timeline:
