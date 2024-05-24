@@ -3,7 +3,7 @@ This is a mental dialogue. In reality, it ends in the end of spring.
 
 ----
 
-
+Dissecting Scattered Spider with Maltego. Profiling requires conducting in-depth research on a threat actor ranging from the strategic, tactical, and operational levels. And multiple angles need to be covered. In this article, we delve into the intricate process of profiling the threat actor known as "Scattered Spider" illustrating various techniques for data collection and analysis using Maltego: https://www.maltego.com/blog/dissecting-scattered-spider-with-maltego
 
 ----
 
@@ -40,6 +40,10 @@ This is a mental dialogue. In reality, it ends in the end of spring.
 **New from CyberDetective:**
 
 This repository holds the Python scripts discussed in the Infosec Institute's Python for Cybersecurity learning Path: https://github.com/hposton/python-for-cybersecurity
+
+A List of Hacker News's Undocumented Features and Behaviors: https://github.com/minimaxir/hacker-news-undocumented
+
+apkurlgrep - extract endpoints from APK files: https://github.com/ndelphit/apkurlgrep
 
 ----
 
