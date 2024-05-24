@@ -9,7 +9,7 @@ Dissecting Scattered Spider with Maltego. Profiling requires conducting in-depth
 
 **OSINT Tools, Services and Investigations:**
 
-
+Text Watermark - allows invisible watermarking of text and invisible encrypted messages. Uses 17 different invisible characters as HEX + delimiter. Includes encoder, decoder, spammer and other tools‬⁨⁠⁪⁢⁠⁪⁩⁠​⁪⁠⁪⁩⁠​‎⁠‎­⁠‎⁬⁠⁩‍⁠⁪⁮⁠​⁩⁠‎⁬⁠​⁨⁠​⁬⁠⁪⁮⁠​‬⁠​‬⁠⁪⁩⁠⁪‬⁠‎⁬⁠⁪‍⁠​‬⁠‎⁬⁠⁨⁯⁠‎‍⁠: https://github.com/jaceddd/text_watermark
 
 ----
 
