@@ -35,7 +35,11 @@ Vanna.AI -  Chat with your SQL database. Accurate Text-to-SQL Generation via LL
 
 **Software Development:**
 
+PySpider - A Powerful Spider (Web Crawler) System in Python: https://github.com/binux/pyspider
 
+Ebot, an Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb. Ebot is written in Erlang and it is a very scalable, distribuited and highly configurable web crawler: https://github.com/matteoredaelli/ebot
+
+Perl web scraping toolkit: https://github.com/miyagawa/web-scraper
 
 ----
 
