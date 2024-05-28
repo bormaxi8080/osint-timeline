@@ -23,6 +23,8 @@ Meme Search Engine - Local CLIP search over meme libraries: https://github.com/o
 
 EDRaser is a powerful tool for remotely deleting access logs, Windows event logs, databases, and other files on remote machines. It offers two modes of operation: automated and manual: https://github.com/SafeBreach-Labs/EDRaser
 
+0up is a zero-knowledge, open-source, encrypted file sharing service: https://github.com/0sumcode/0up
+
 ----
 
 **AI:**
@@ -44,6 +46,8 @@ Perl web scraping toolkit: https://github.com/miyagawa/web-scraper
 ----
 
 **Linux & DevOps:**
+
+Updo - Uptime monitoring CLI tool with alerting and advanced settings: https://github.com/Owloops/updo
 
 Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts: https://github.com/cisagov/Malcolm
 
