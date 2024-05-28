@@ -25,6 +25,18 @@ EDRaser is a powerful tool for remotely deleting access logs, Windows event logs
 
 0up is a zero-knowledge, open-source, encrypted file sharing service: https://github.com/0sumcode/0up
 
+PySpider - A Powerful Spider (Web Crawler) System in Python: https://github.com/binux/pyspider
+
+Ebot, an Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb. Ebot is written in Erlang and it is a very scalable, distribuited and highly configurable web crawler: https://github.com/matteoredaelli/ebot
+
+Perl web scraping toolkit: https://github.com/miyagawa/web-scraper
+
+Portia is a tool that allows you to visually scrape websites without any programming knowledge required. With Portia you can annotate a web page to identify the data you wish to extract, and Portia will understand based on these annotations how to scrape data from similar pages: https://github.com/scrapinghub/portia
+
+Crawley - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations: https://github.com/jmg/crawley
+
+Demiurge - PyQuery-based scraping micro-framework: https://github.com/matiasb/demiurge
+
 ----
 
 **AI:**
@@ -37,11 +49,7 @@ Vanna.AI -  Chat with your SQL database. Accurate Text-to-SQL Generation via LL
 
 **Software Development:**
 
-PySpider - A Powerful Spider (Web Crawler) System in Python: https://github.com/binux/pyspider
 
-Ebot, an Opensource Web Crawler built on top of a nosql database (apache couchdb, riak), AMQP database (rabbitmq), webmachine and mochiweb. Ebot is written in Erlang and it is a very scalable, distribuited and highly configurable web crawler: https://github.com/matteoredaelli/ebot
-
-Perl web scraping toolkit: https://github.com/miyagawa/web-scraper
 
 ----
 
