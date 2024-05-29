@@ -13,6 +13,14 @@ Learn OSINT for Free: Best Courses Available Online: https://sankalppatil1211200
 
 ----
 
+Collection of resources for getting started with Satellite hacking and CTFs Satellite Hacking Demystified: [https://redteamrecipe.com/satellite-hacking-demystified…](https://t.co/hGDo9jKO7W) 
+
+Hack-a-sat writeups: [https://github.com/solar-wine/writeups…](https://t.co/PIkGXuAKSN) 
+
+Hack-a-sat players corner: [https://hackasat.com/players-corner/](https://t.co/aQwVw117nU)
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Text Watermark - allows invisible watermarking of text and invisible encrypted messages. Uses 17 different invisible characters as HEX + delimiter. Includes encoder, decoder, spammer and other tools‬⁨⁠⁪⁢⁠⁪⁩⁠​⁪⁠⁪⁩⁠​‎⁠‎­⁠‎⁬⁠⁩‍⁠⁪⁮⁠​⁩⁠‎⁬⁠​⁨⁠​⁬⁠⁪⁮⁠​‬⁠​‬⁠⁪⁩⁠⁪‬⁠‎⁬⁠⁪‍⁠​‬⁠‎⁬⁠⁨⁯⁠‎‍⁠: https://github.com/jaceddd/text_watermark
@@ -20,6 +28,8 @@ Text Watermark - allows invisible watermarking of text and invisible encrypted m
 File Hider is a sophisticated tool that allows you to securely hide and encrypt a file within another file using multiple layers of AES-256 encryption, with the AES key itself being encrypted using RSA: https://github.com/x011/File_Hider
 
 Meme Search Engine - Local CLIP search over meme libraries: https://github.com/osmarks/meme-search-engine
+
+XnlReveal- A Chrome/Firefox browser extension to show alerts for reflected query params, show Wayback archive links for the current path, show hidden elements and enable disabled elements: https://github.com/xnl-h4ck3r/XnlReveal
 
 EDRaser is a powerful tool for remotely deleting access logs, Windows event logs, databases, and other files on remote machines. It offers two modes of operation: automated and manual: https://github.com/SafeBreach-Labs/EDRaser
 
@@ -56,6 +66,8 @@ Vanna.AI -  Chat with your SQL database. Accurate Text-to-SQL Generation via LL
 **Linux & DevOps:**
 
 Updo - Uptime monitoring CLI tool with alerting and advanced settings: https://github.com/Owloops/updo
+
+frp - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet: https://github.com/fatedier/frp
 
 Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts: https://github.com/cisagov/Malcolm
 
