@@ -20,7 +20,11 @@ Phone Number Business Registers List: https://start.me/p/2p1x6J/15-phone-number-
 
 **OSINT Tools, Services and Investigations:**
 
+Wombat - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages: https://github.com/felipecsl/wombat
 
+newspaper3k is a news, full-text, and article metadata extraction in Python 3: https://github.com/codelucas/newspaper
+
+RoboBrowser - friendly neighborhood web scraper: https://github.com/jmcarp/robobrowser
 
 ----
 
@@ -38,7 +42,7 @@ Phone Number Business Registers List: https://start.me/p/2p1x6J/15-phone-number-
 
 **Linux & DevOps:**
 
-
+An evolving how-to guide for securing a Linux server: https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 
 ----
 
@@ -56,7 +60,7 @@ Phone Number Business Registers List: https://start.me/p/2p1x6J/15-phone-number-
 
 **New from GitHub Community:**
 
-
+Restic - Fast, secure, efficient backup program: https://github.com/restic/restic
 
 ----
 ### bormaxi8080 OSINT timeline:
