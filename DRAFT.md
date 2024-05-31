@@ -26,6 +26,12 @@ newspaper3k is a news, full-text, and article metadata extraction in Python 3: h
 
 RoboBrowser - friendly neighborhood web scraper: https://github.com/jmcarp/robobrowser
 
+rvest helps you scrape (or harvest) data from web pages. It is designed to work with [magrittr](https://github.com/tidyverse/magrittr) to make it easy to express common web scraping tasks, inspired by libraries like [beautiful soup](https://www.crummy.com/software/BeautifulSoup/) and [RoboBrowser](http://robobrowser.readthedocs.io/en/latest/readme.html): https://github.com/tidyverse/rvest
+
+Upton is a framework for easy web-scraping with a useful debug mode that doesn't hammer your target's servers. It does the repetitive parts of writing scrapers, so you only have to write the unique parts for each site: https://github.com/propublica/upton
+
+MechanicalSoup - A Python library for automating interaction with websites: https://github.com/MechanicalSoup/MechanicalSoup
+
 ----
 
 **AI:**
