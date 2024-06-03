@@ -14,11 +14,15 @@ But if I raise the note just half a tone, I’ll become like a notebook covered 
 
 ----
 
-Phone Number Business Registers List: https://start.me/p/2p1x6J/15-phone-number-business-register
+Phone Number Business Registries 48 links to phone business directories for different countries (mainly Europe), where you can find a variety of information about companies (and sometimes their owners): https://start.me/p/2p1x6J/15-phone-number-business-register
+
+A4-UFO-Sightings - Explore over 80K reports of UFO sightings around the world, collected from 1906 - 2014 by the National UFO Reporting Center: https://github.com/wlouie1/UFO-Sightings
 
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+Genzai - The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities: https://github.com/umair9747/Genzai
 
 Wombat - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages: https://github.com/felipecsl/wombat
 
@@ -42,7 +46,7 @@ MechanicalSoup - A Python library for automating interaction with websites: http
 
 **Software Development:**
 
-
+pam-authramp - The AuthRamp PAM module provides an account lockout mechanism based on the number of authentication failures: https://github.com/34N0/pam-authramp
 
 ----
 
@@ -67,6 +71,10 @@ An evolving how-to guide for securing a Linux server: https://github.com/imthena
 **New from GitHub Community:**
 
 Restic - Fast, secure, efficient backup program: https://github.com/restic/restic
+
+Goosle - A Meta Search engine with privacy and ease of use in mind: https://github.com/adegans/Goosle
+
+Tinfoil Chat - Onion-routed, endpoint secure messaging system: https://github.com/maqp/tfc
 
 ----
 ### bormaxi8080 OSINT timeline:
