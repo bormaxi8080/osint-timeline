@@ -36,6 +36,8 @@ Wombat - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts
 
 newspaper3k is a news, full-text, and article metadata extraction in Python 3: https://github.com/codelucas/newspaper
 
+Apache **Nutch** is a highly extensible, highly scalable, matured, production-ready web crawler which enables fine grained configuration and accomodates a wide variety of data acquisition tasks: https://nutch.apache.org/
+
 RoboBrowser - friendly neighborhood web scraper: https://github.com/jmcarp/robobrowser
 
 X-Ray - The next web scraper. See through the html noise: https://github.com/matthewmueller/x-ray
