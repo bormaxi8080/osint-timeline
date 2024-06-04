@@ -18,9 +18,17 @@ Phone Number Business Registries 48 links to phone business directories for diff
 
 A4-UFO-Sightings - Explore over 80K reports of UFO sightings around the world, collected from 1906 - 2014 by the National UFO Reporting Center: https://github.com/wlouie1/UFO-Sightings
 
+https://github.com/cristianzsh/forensictools
+
+Business Registries around the world. Click on a country on the interactive map to get a link to the official government website where you can find out information about business entities in that country: https://ebra.be/worldwide-registers/
+
+forensictools is a toolkit designed for digital forensics, offering a wide array of tools. Its primary goal is to simplify the creation of a virtual environment for conducting forensic examinations: https://github.com/cristianzsh/forensictools
+
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+ChromeKatz - Dump cookies directly from Chrome process memory: https://github.com/Meckazin/ChromeKatz
 
 Genzai - The IoT security toolkit to help identify IoT related dashboards and scan them for default passwords and vulnerabilities: https://github.com/umair9747/Genzai
 
@@ -29,6 +37,8 @@ Wombat - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts
 newspaper3k is a news, full-text, and article metadata extraction in Python 3: https://github.com/codelucas/newspaper
 
 RoboBrowser - friendly neighborhood web scraper: https://github.com/jmcarp/robobrowser
+
+X-Ray - The next web scraper. See through the html noise: https://github.com/matthewmueller/x-ray
 
 rvest helps you scrape (or harvest) data from web pages. It is designed to work with [magrittr](https://github.com/tidyverse/magrittr) to make it easy to express common web scraping tasks, inspired by libraries like [beautiful soup](https://www.crummy.com/software/BeautifulSoup/) and [RoboBrowser](http://robobrowser.readthedocs.io/en/latest/readme.html): https://github.com/tidyverse/rvest
 
@@ -64,7 +74,11 @@ An evolving how-to guide for securing a Linux server: https://github.com/imthena
 
 **New from CyberDetective:**
 
+[Botnadzor](https://botnadzor.org/) - a platform to detect bots in VK.com by account, post, or group. API and browser extensions are available. The project is designed to disclose the scale of hidden propaganda, misinformation publicly, and lies coming from seemingly real profiles of existing people. The photos on these profiles are stolen from dating sites or other social networks.
 
+HASHMOB - Multifunctional online tool to search password hashes. Search for hashes (copy the text or load the list from a file, 500 hashes per hour for free), verify hashes against a certain algorithm, check password strength, download hashes lists: [hashmob.net](https://hashmob.net)
+
+Cloudflare Resolver - Free online tool. Enter the name of the domain protected by CloudFlare and the service will find subdomains that are not protected by CloudFlare: http://www.skypeipresolver.net/cloudflare.php
 
 ----
 
