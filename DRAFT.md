@@ -10,6 +10,8 @@ I think. 12. And one more, with a pause.
 
 ----
 
+Shadow Finder from Bellingcat - Find possible locations of shadows around the world: https://github.com/bellingcat/ShadowFinder
+
 FRAVIA - The Art of Searching from Soxoj: https://soxoj.substack.com/p/book-fravia-the-art-of-searching
 
 ----
