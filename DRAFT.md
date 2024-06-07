@@ -14,6 +14,8 @@ But if I raise the note just half a tone, I’ll become like a notebook covered 
 
 ----
 
+Kali Linux 2024.2 released: https://www.kali.org/blog/kali-linux-2024-2-release/
+
 The Open Source Munitions Portal is a tool for researchers, journalists and practitioners trying to learn more about munitions and their use and impact in conflicts: https://osmp.ngo/
 
 Phone Number Business Registries 48 links to phone business directories for different countries (mainly Europe), where you can find a variety of information about companies (and sometimes their owners): https://start.me/p/2p1x6J/15-phone-number-business-register
@@ -36,7 +38,7 @@ Wombat - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts
 
 newspaper3k is a news, full-text, and article metadata extraction in Python 3: https://github.com/codelucas/newspaper
 
-Apache **Nutch** is a highly extensible, highly scalable, matured, production-ready web crawler which enables fine grained configuration and accomodates a wide variety of data acquisition tasks: https://nutch.apache.org/
+Apache Nutch is a highly extensible, highly scalable, matured, production-ready web crawler which enables fine grained configuration and accomodates a wide variety of data acquisition tasks: https://nutch.apache.org/
 
 RoboBrowser - friendly neighborhood web scraper: https://github.com/jmcarp/robobrowser
 
@@ -81,6 +83,10 @@ An evolving how-to guide for securing a Linux server: https://github.com/imthena
 HASHMOB - Multifunctional online tool to search password hashes. Search for hashes (copy the text or load the list from a file, 500 hashes per hour for free), verify hashes against a certain algorithm, check password strength, download hashes lists: [hashmob.net](https://hashmob.net)
 
 Cloudflare Resolver - Free online tool. Enter the name of the domain protected by CloudFlare and the service will find subdomains that are not protected by CloudFlare: http://www.skypeipresolver.net/cloudflare.php
+
+Partly free online tool for Instagram profile analyze profile growth, posts interactions, hashtags and more: https://app.notjustanalytics.com
+
+The Man in Seat 61. Mark Smith's (twitter.com/seatsixtyone) train seat maps collection. A website with a huge variety of information about European trains. Its creator has been working on the project for over 17 years: https://seat61.com
 
 ----
 
