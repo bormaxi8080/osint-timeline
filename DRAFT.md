@@ -32,24 +32,29 @@ Subscout - All-in-one subdomains scout tool Docker image: https://github.com/cos
 
 hfinder - Help recon of hostnames from specific ASN or CIDR, thanks to Robtex and BGP.HE: https://github.com/cosad3s/hfinder
 
+Freeway - WiFi Penetration Testing & Auditing Tool: https://github.com/FLOCK4H/Freeway
+
+Conpass will get all domain users and try a list of password provided in a password file. When a user can be locked out, the tool will wait for the lockout reset period before trying another password: https://github.com/login-securite/conpass
+
 PingRAT - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads: https://github.com/umutcamliyurt/PingRAT
 
 ----
 
 **AI:**
 
-
+bin2ml - A command line tool for extracting machine learning ready data from software binaries powered by Radare2: https://github.com/br0kej/bin2ml
 
 ---
 
 **Software Development:**
 
+Offensive GoLang - A collection of offensive Go packages inspired by different Go repositories: https://github.com/MrTuxx/OffensiveGolang
 
 ----
 
 **Linux & DevOps:**
 
-
+HexVPN is a Python script that sets up a VPN connection using Riseup's VPN service. It fetches the necessary client certificates and VPN gateway configurations, measures latency to select the fastest gateway, and updates the configuration file accordingly: https://github.com/HexBuddy/HexVPN
 
 ----
 
