@@ -35,11 +35,17 @@ njsdump - Dump paths & pages from Next.js Manifest: https://github.com/cosad3s/n
 
 Subscout - All-in-one subdomains scout tool Docker image: https://github.com/cosad3s/subscout
 
+ACHE is a web crawler for domain-specific search: https://github.com/ViDA-NYU/ache
+
+WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes: https://github.com/CrawlScript/WebCollector
+
 hfinder - Help recon of hostnames from specific ASN or CIDR, thanks to Robtex and BGP.HE: https://github.com/cosad3s/hfinder
 
 Freeway - WiFi Penetration Testing & Auditing Tool: https://github.com/FLOCK4H/Freeway
 
 Conpass will get all domain users and try a list of password provided in a password file. When a user can be locked out, the tool will wait for the lockout reset period before trying another password: https://github.com/login-securite/conpass
+
+Phantom - A multi-platform HTTP(S) Reverse Shell Server and Client in Python 3: https://github.com/EONRaider/BCA-Phantom
 
 PingRAT - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads: https://github.com/umutcamliyurt/PingRAT
 
