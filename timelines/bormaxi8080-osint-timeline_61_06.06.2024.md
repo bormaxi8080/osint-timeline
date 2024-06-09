@@ -87,7 +87,8 @@ GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/borma
 
 LinkedIn: [bormaxi8080 OSINT Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub starred OSINT and Development Tools repositories](https://github.com/bormaxi8080/github-starred-repos-builder/blob/main/starred_repos.md)
+You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
+
 and contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
 
 ----
