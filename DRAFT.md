@@ -65,6 +65,8 @@ Offensive GoLang - A collection of offensive Go packages inspired by different G
 
 **Linux & DevOps:**
 
+Dufs - A file server that supports static serving, uploading, searching, accessing control, webdav: https://github.com/sigoden/dufs
+
 HexVPN is a Python script that sets up a VPN connection using Riseup's VPN service. It fetches the necessary client certificates and VPN gateway configurations, measures latency to select the fastest gateway, and updates the configuration file accordingly: https://github.com/HexBuddy/HexVPN
 
 ----
