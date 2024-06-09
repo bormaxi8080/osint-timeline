@@ -15,6 +15,10 @@ Slavyansk, Artem Street.
 
 ----
 
+The Kremlin chain of bots ten times increased the coverage of users of social networks. Now this messages see more than 1.6 million users per day: https://theins.ru/news/272248
+
+----
+
 Shadow Finder from Bellingcat - Find possible locations of shadows around the world: https://github.com/bellingcat/ShadowFinder
 
 FRAVIA - The Art of Searching from Soxoj: https://soxoj.substack.com/p/book-fravia-the-art-of-searching
