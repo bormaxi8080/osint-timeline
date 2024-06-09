@@ -85,6 +85,8 @@ HexVPN is a Python script that sets up a VPN connection using Riseup's VPN servi
 
 A collection of Awesome Google Dorks: https://github.com/Tobee1406/Awesome-Google-Dorks
 
+One Million Dorks - A repository with text files containing a million dorks for finding potentially vulnerable web pages and sensitive data (in Google and other search engines). Can be used with various automation tools: https://github.com/HackShiv/OneDorkForAll
+
 ----
 
 **New from GitHub Community:**
