@@ -17,6 +17,8 @@ Slavyansk, Artem Street.
 
 The Kremlin chain of bots ten times increased the coverage of users of social networks. Now this messages see more than 1.6 million users per day: https://theins.ru/news/272248
 
+Warofwords website is available for key TV channels, RUTUBE, YouTube channels, telegram channels. Video poses - with a complete decoding, which can greatly facilitate, in particular, the work of facts. Search for keywords, speakers, sources, resource types, specific programs is available: https://warofwords.info/
+
 ----
 
 Shadow Finder from Bellingcat - Find possible locations of shadows around the world: https://github.com/bellingcat/ShadowFinder
@@ -33,7 +35,11 @@ PostLeaks - Search for sensitive data in Postman public library: https://github.
 
 Prying Deep - An OSINT tool to collect intelligence on the dark web: https://github.com/iudicium/pryingdeep
 
+PackageSpy is a versatile command-line tool designed to simplify the process of searching for packages on two popular package managers: https://github.com/aydinnyunus/PackageSpy
+
 Apache Tomcat Scanner - A python script to scan for Apache Tomcat server vulnerabilities: https://github.com/cosad3s/ApacheTomcatScanner
+
+Reflector - Burp plugin able to find reflected XSS on page in real-time while browsing on site: https://github.com/elkokc/reflector
 
 njsdump - Dump paths & pages from Next.js Manifest: https://github.com/cosad3s/njsdump
 
