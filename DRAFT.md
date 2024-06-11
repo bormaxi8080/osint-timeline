@@ -55,6 +55,8 @@ Freeway - WiFi Penetration Testing & Auditing Tool: https://github.com/FLOCK4H/F
 
 Conpass will get all domain users and try a list of password provided in a password file. When a user can be locked out, the tool will wait for the lockout reset period before trying another password: https://github.com/login-securite/conpass
 
+Malice's mission is to be a free open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company: https://github.com/maliceio/malice
+
 Phantom - A multi-platform HTTP(S) Reverse Shell Server and Client in Python 3: https://github.com/EONRaider/BCA-Phantom
 
 PingRAT - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads: https://github.com/umutcamliyurt/PingRAT
