@@ -49,6 +49,10 @@ ACHE is a web crawler for domain-specific search: https://github.com/ViDA-NYU/ac
 
 WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes: https://github.com/CrawlScript/WebCollector
 
+Basic website cloner written in Python: https://github.com/ZKAW/website-cloner
+
+Python SSH Cracker: https://github.com/networkdavit/Python-SSH-Cracker
+
 hfinder - Help recon of hostnames from specific ASN or CIDR, thanks to Robtex and BGP.HE: https://github.com/cosad3s/hfinder
 
 Freeway - WiFi Penetration Testing & Auditing Tool: https://github.com/FLOCK4H/Freeway
