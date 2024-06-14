@@ -13,6 +13,15 @@ The courtyards of Slavyansk. Three yards, a gypsy baron lives, all in gold and w
 
 Slavyansk, Artem Street.
 
+
+Sometimes he sobbed. And then he laughed. And then he sobbed again.
+
+
+The air can withstand only those ...
+
+
+Children's dream is sparrow happiness.
+
 ----
 
 The Kremlin chain of bots ten times increased the coverage of users of social networks. Now this messages see more than 1.6 million users per day: https://theins.ru/news/272248
@@ -69,6 +78,8 @@ PingRAT - PingRAT secretly passes C2 traffic through firewalls using ICMP payloa
 
 **AI:**
 
+ChatGPT for OSINT Analysts. Your AI-Powered Assistant for Organizing Collected Intelligence: https://publication.osintambition.org/chatgpt-for-osint-analysts-your-ai-powered-assistant-for-organizing-collected-intelligence-33bbe4b1fac5
+
 bin2ml - A command line tool for extracting machine learning ready data from software binaries powered by Radare2: https://github.com/br0kej/bin2ml
 
 ---
@@ -89,7 +100,7 @@ HexVPN is a Python script that sets up a VPN connection using Riseup's VPN servi
 
 **Flipper Zero:**
 
-
+Flipper Zero - Pentestor's opinion after two years of "field" operation: https://habr.com/ru/companies/bastion/articles/820279/
 
 ----
 
@@ -99,11 +110,13 @@ A collection of Awesome Google Dorks: https://github.com/Tobee1406/Awesome-Googl
 
 One Million Dorks - A repository with text files containing a million dorks for finding potentially vulnerable web pages and sensitive data (in Google and other search engines). Can be used with various automation tools: https://github.com/HackShiv/OneDorkForAll
 
+VATINT (Vehicle and Transportation Intelligence) Tools. Online services for search by VIN or License Plates numbers in different countries, Stolen car database (Europe), Container and ships tracking, Flights, trains, drones tracking: https://github.com/CScorza/Tool-VATINT
+
 ----
 
 **New from GitHub Community:**
 
-
+GramAddict - Completely free and open-source human-like Instagram bot. Powered by UIAutomator2 and compatible with basically any Android device 5.0+ that can run Instagram - real or emulated: https://github.com/GramAddict/bot
 
 ----
 ### bormaxi8080 OSINT timeline:
