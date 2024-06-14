@@ -63,7 +63,7 @@ gpslogger - Lightweight GPS Logging Application For Android: https://github.com/
 
 **New from GitHub Community:**
 
-
+Glance - A self-hosted dashboard that puts all your feeds in one place: https://github.com/glanceapp/glance
 
 ----
 ### bormaxi8080 OSINT timeline:
