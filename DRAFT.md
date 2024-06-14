@@ -33,6 +33,7 @@ The air can withstand only those ...
 
 **AI:**
 
+ScrapeGraphAI is a _web scraping_ python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.): https://github.com/VinciGit00/Scrapegraph-ai
 
 ---
 
