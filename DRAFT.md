@@ -39,13 +39,13 @@ ScrapeGraphAI is a _web scraping_ python library that uses LLM and direct grap
 
 **Software Development:**
 
-
+Frida - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. Learn more at [frida.re](https://frida.re/): https://github.com/frida/frida
 
 ----
 
 **Linux & DevOps:**
 
-
+gpslogger - Lightweight GPS Logging Application For Android: https://github.com/mendhak/gpslogger
 
 ----
 
