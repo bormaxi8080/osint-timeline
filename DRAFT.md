@@ -27,7 +27,7 @@ The air can withstand only those who believe in themselves
 
 ----
 
-
+Research: Troyans and backdors in the button mobile phones of Russian retail: https://habr.com/ru/articles/575626/
 
 ----
 
