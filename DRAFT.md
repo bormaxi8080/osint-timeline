@@ -17,6 +17,12 @@ Slavyansk, Artem Street.
 Sometimes he sobbed. And then he laughed. And then he sobbed again.
 
 
+And we will go with you walk along the tram rails
+We sit on pipes at the beginning of the ring road
+Our warm wind will be black smoke from the pipe of the plant
+The waybill will be a yellow platform of the traffic light
+
+
 The air can withstand only those ...
 
 ----
