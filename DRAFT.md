@@ -23,7 +23,7 @@ Our warm wind will be black smoke from the pipe of the plant
 The waybill will be a yellow platform of the traffic light
 
 
-The air can withstand only those ...
+The air can withstand only those who believe in themselves
 
 ----
 
