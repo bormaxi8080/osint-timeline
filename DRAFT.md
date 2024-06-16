@@ -27,7 +27,15 @@ The air can withstand only those ...
 
 **OSINT Tools, Services and Investigations:**
 
+Mechanize is a ruby library that makes automated web interaction easy: https://github.com/sparklemotion/mechanize
 
+Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby: https://github.com/sparklemotion/nokogiri
+
+Cobweb is a web crawler with very flexible crawling options. Can either use standalone or can be used with resque to perform clustered crawls: https://github.com/stewartmckee/cobweb
+
+RubyRetriever is a Web Crawler, Scraper & File Harvester. Available as a command-line executable and as a crawling framework: https://github.com/joenorton/rubyretriever
+
+Subprober is a powerful and efficient subdomain scanning tool written in Python. With the ability to handle large lists of subdomains. The tool offers concurrent scanning, allowing users to define their preferred concurrency level for faster results. Whether you are on Linux, Windows, or MacOS: https://github.com/RevoltSecurities/SubProber
 
 ----
 
