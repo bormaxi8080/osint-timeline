@@ -27,11 +27,15 @@ The air can withstand only those who believe in themselves
 
 ----
 
-Research: Troyans and backdors in the button mobile phones of Russian retail: https://habr.com/ru/articles/575626/
+A friend of Putin’s daughter Natalya Popova is involved in the creation of the Hamster Combat project, which forced millions of users to poke a hamster: https://t.me/zhabaigaduka/2115
+
+Research Troyans and Backdors in the button mobile phones of Russian retail: https://habr.com/ru/articles/575626/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox, Waterfox, Thunderbird, SeaMonkey) profiles: https://github.com/unode/firefox_decrypt
 
 Mechanize is a ruby library that makes automated web interaction easy: https://github.com/sparklemotion/mechanize
 
@@ -42,6 +46,12 @@ Cobweb is a web crawler with very flexible crawling options. Can either use stan
 RubyRetriever is a Web Crawler, Scraper & File Harvester. Available as a command-line executable and as a crawling framework: https://github.com/joenorton/rubyretriever
 
 Subprober is a powerful and efficient subdomain scanning tool written in Python. With the ability to handle large lists of subdomains. The tool offers concurrent scanning, allowing users to define their preferred concurrency level for faster results. Whether you are on Linux, Windows, or MacOS: https://github.com/RevoltSecurities/SubProber
+
+Gocrawl is a polite, slim and concurrent web crawler written in Go: https://github.com/PuerkitoBio/gocrawl
+
+Pholcus is a distributed high-concurrency crawler software written in pure golang: https://github.com/andeya/pholcus
+
+BadJPG is a Python script allows you to hide a payload within a JPG image using steganography techniques. It uses the `stegano` library to encode and decode messages within the least significant bit (LSB) of the image pixels: https://github.com/basicW/badjpg
 
 ----
 
@@ -59,7 +69,11 @@ Frida - Dynamic instrumentation toolkit for developers, reverse-engineers, and s
 
 **Linux & DevOps:**
 
+Project Calico is an open-source project with an active development and user community. Calico Open Source has grown to be the most widely adopted solution for container networking and security, powering 8M+ nodes daily across 166 countries: https://github.com/projectcalico/calico
+
 gpslogger - Lightweight GPS Logging Application For Android: https://github.com/mendhak/gpslogger
+
+GoTo is a simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers. Binaries included: https://github.com/grafviktor/goto
 
 ----
 
