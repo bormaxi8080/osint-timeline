@@ -53,11 +53,17 @@ Pholcus is a distributed high-concurrency crawler software written in pure golan
 
 BadJPG is a Python script allows you to hide a payload within a JPG image using steganography techniques. It uses the `stegano` library to encode and decode messages within the least significant bit (LSB) of the image pixels: https://github.com/basicW/badjpg
 
+sqlmc - Official Kali Linux tool to check all urls of a domain for SQL injections: https://github.com/malvads/sqlmc
+
+Matano - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS: https://github.com/matanolabs/matano
+
 ----
 
 **AI:**
 
-ScrapeGraphAI is a _web scraping_ python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.): https://github.com/VinciGit00/Scrapegraph-ai
+Verba: The Golden RAGtriever, an open-source application designed to offer an end-to-end, streamlined, and user-friendly interface for Retrieval-Augmented Generation (RAG) out of the box. In just a few easy steps, explore your datasets and extract insights with ease, either locally with HuggingFace and Ollama or through LLM providers such as OpenAI, Cohere, and Google: https://github.com/weaviate/Verba
+
+ScrapeGraphAI is a web scraping Python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.): https://github.com/VinciGit00/Scrapegraph-ai
 
 ---
 
@@ -73,19 +79,27 @@ Project Calico is an open-source project with an active development and user com
 
 gpslogger - Lightweight GPS Logging Application For Android: https://github.com/mendhak/gpslogger
 
+Maltrail - Malicious traffic detection system: https://github.com/stamparm/maltrail
+
 GoTo is a simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers. Binaries included: https://github.com/grafviktor/goto
 
 ----
 
 **Flipper Zero:**
 
+A collection of awesome resources & modules for the Flipper Zero device. Best used with Rogue Master Flipper Zero Custom Firmware: https://github.com/RogueMaster/awesome-flipperzero-withModules
 
+Collection of Flipper Zero scripts dumps and tools: https://github.com/jkctech/Flipper-Zero-Scripts
 
 ----
 
 **New from CyberDetective:**
 
+Building a Versatile Threat Intelligence Program for Any Environment. A very detailed and in-depth article by twitter.com/ervin_zubic on how to put the Threat Intelligence Cycle to work with examples of tools for each stage: https://publication.osintambition.org/building-a-versatile-threat-intelligence-program-for-any-environment-fe2d6935baa2
 
+Advanced Search Tools: regional search engines, privacy search engines, search engines dorking, fact checking tools, database search tools and more: https://start.me/p/nRADzL/advanced-search-tools
+
+Google & Shodan Dorks for web cameras search. Large list of  search queries to find internet-connected webcams. Can be used in Google as well as various IP search engines (Shodan, Netlas, Censys etc): https://github.com/ExploitXpErtz/WebCam-Google-Shodan-Dorks
 
 ----
 
