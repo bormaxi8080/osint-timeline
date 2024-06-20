@@ -39,13 +39,13 @@ The air can withstand only those who believe in themselves
 
 **Software Development:**
 
-
+Simplify RabbitMQ operations in Go with Gorabbit, a high-level wrapper for the official Go RabbitMQ plugin. Enhance your messaging workflow with a more straightforward interface and robust mechanisms, including an automatic "Always-On" mechanism for continuous connectivity: https://github.com/KardinalAI/gorabbit
 
 ----
 
 **Linux & DevOps:**
 
-
+Portr - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections: https://github.com/amalshaji/portr
 
 ----
 
