@@ -41,6 +41,8 @@ How corporations make slaves out of you (by @platoff): https://x.com/platoff/sta
 
 **OSINT Tools, Services and Investigations:**
 
+Information LaundromatA new tool to uncover website ownership and investigate information campaigns using various technical indicators and searching for similar content: [https://informationlaundromat.com](https://t.co/4B3Ws1POqa) Read more about the need for detecting copied content in OSINT in SOWEL: https://sowel.soxoj.com/copying-content
+
 SatDump - A generic satellite data processing software: https://www.satdump.org/
 GitHub: https://github.com/SatDump/SatDump
 
