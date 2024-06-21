@@ -47,6 +47,10 @@ Read more about the need for detecting copied content in OSINT in SOWEL: https:/
 SatDump - A generic satellite data processing software: https://www.satdump.org/
 GitHub: https://github.com/SatDump/SatDump
 
+nmap-did-what is a Grafana docker container and a Python script to parse Nmap XML output to an SQLite database. The SQLite database is used as a datasource within Grafana to view the Nmap scan details in a dashboard: https://github.com/hackertarget/nmap-did-what
+
+WiFiSpy - The best WiFi spy avalaible for hire! Made for hackers, for hackers: https://github.com/DeaDHackS/WiFiSpy
+
 BlueDucky is a powerful tool for exploiting a vulnerability in Bluetooth devices: https://github.com/krazystar55/BlueDucky
 
 ----
