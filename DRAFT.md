@@ -41,7 +41,8 @@ How corporations make slaves out of you (by @platoff): https://x.com/platoff/sta
 
 **OSINT Tools, Services and Investigations:**
 
-Information LaundromatA new tool to uncover website ownership and investigate information campaigns using various technical indicators and searching for similar content: [https://informationlaundromat.com](https://t.co/4B3Ws1POqa) Read more about the need for detecting copied content in OSINT in SOWEL: https://sowel.soxoj.com/copying-content
+Information LaundromatA new tool to uncover website ownership and investigate information campaigns using various technical indicators and searching for similar content: https://informationlaundromat.com 
+Read more about the need for detecting copied content in OSINT in SOWEL: https://sowel.soxoj.com/copying-content
 
 SatDump - A generic satellite data processing software: https://www.satdump.org/
 GitHub: https://github.com/SatDump/SatDump
@@ -74,7 +75,9 @@ Portr - Open source ngrok alternative designed for teams. Tunnel http, tcp or we
 
 **Flipper Zero:**
 
+FlipperStuff - All Things You Can Actively Use On Your Flipper Zero: https://github.com/Sorted1/FlipperStuff
 
+Protoview - Flipper Zero app to display known and unknown signals: https://github.com/antirez/protoview
 
 ----
 
