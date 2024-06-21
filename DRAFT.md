@@ -25,11 +25,24 @@ I am glad to imagine this repository with gathered from GitHub utilities for OSI
 
 ----
 
+The Israeli ALMA research center analyzed the liquidation by Israel of the Hezbollah commanders and concludes that this is not just the elimination of key figures, but the destruction of entire command chains. For example, here is the top of the Nasr unit (this is a maneuverable unit of the brigade/several level brigades) - the commander of the plus of his whole retinue, which was responsible for reconnaissance, coordination, missiles, headquarters, sectors, etc., is liquidated. Hezbollah formations, depriving them of not only senior commanders, but also people with experience, which they sometimes gained since the late 80s and during conflicts in Syria, Yemen, Lebanon and trained in Iran. However, the fact that the blows and liquidation of Israel is structural in nature was already so obvious, but now there is visual visualization.
+
+Link: https://israel-alma.org/2024/06/20/senior-operatives-of-the-radwan-unit-eliminated-by-hierarchy/
+
+----
+
+From September 29, the United States will be banned from applying and selling Antivirus Kaspersky in the country. The US Treasury Department also added to the sanctions list 12 Russians who hold senior positions in the manufacturer of the Kaspersky Laboratory antiviruses: https://verstka.media/kaspersky-antivirus
+
 Inside the outdoor. How in modern Russia they monitor people - the former opera opera operates: https://zona.media/article/2024/06/20/surveillance
+
+How corporations make slaves out of you (by @platoff): https://x.com/platoff/status/1803096504049062371
 
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+SatDump - A generic satellite data processing software: https://www.satdump.org/
+GitHub: https://github.com/SatDump/SatDump
 
 BlueDucky is a powerful tool for exploiting a vulnerability in Bluetooth devices: https://github.com/krazystar55/BlueDucky
 
@@ -48,6 +61,10 @@ Simplify RabbitMQ operations in Go with Gorabbit, a high-level wrapper for the o
 ----
 
 **Linux & DevOps:**
+
+Chimera is a web app for remotely installing non-Steam software to your Linux based couch gaming system. It was primarily developed for ChimeraOS: https://github.com/ChimeraOS/chimera
+
+ChimeraOS is a Steam Big Picture based couch gaming OS: https://github.com/ChimeraOS/chimeraos
 
 Portr - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections: https://github.com/amalshaji/portr
 
