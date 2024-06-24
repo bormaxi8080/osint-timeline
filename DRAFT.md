@@ -69,6 +69,8 @@ DorkHunter - A bash script for performing advanced Google dork searches to find 
 
 PIP-INTEL is an OSINT tool designed using various open-source tools and pip packages: https://github.com/emrekybs/Pip-Intel
 
+Deleted Tweet Finder. Search for deleted tweets across multiple archival services: http://cache.digitaldigging.org
+
 AES Encryption and Decryption Tool - This is a Python program that provides an easy-to-use CLI for encrypting and decrypting text files using AES encryption. The program can be run from the command line and accepts the following arguments: https://github.com/OSINT-TECHNOLOGIES/aestool
 
 DPULSE - Tool for complex approach to domain OSINT: https://github.com/OSINT-TECHNOLOGIES/dpulse
