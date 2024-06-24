@@ -57,9 +57,11 @@ GitHub: https://github.com/SatDump/SatDump
 
 GAIA - Geospatial & Aerial Images Analyser: https://github.com/OSINT-TECHNOLOGIES/gaia
 
+Social monitor tools with real-time tracking of Instagram, Spotify, Last.fm, Instagram, Github users activities and profile changes, also monitors Steam, Xbox, LoL (League of Legends), Sony (PSN) players activities: https://github.com/misiektoja?tab=repositories
+
 NetSOC OSINT - Tool focused on extracting information from an account in different Social Networks: https://github.com/XDeadHackerX/NetSoc_OSINT
 
-Keyfinder is a tool that let you find keys while surfing the web: https://github.com/momenbasel/keyFinder
+KeyFinder is a tool that let you find keys while surfing the web: https://github.com/momenbasel/keyFinder
 
 FormCrawler - This script Crawl the website and find the urls that contains html forms: https://github.com/dirtycoder0124/formcrawler
 
