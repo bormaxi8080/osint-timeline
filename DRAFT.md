@@ -31,6 +31,12 @@ Link: https://israel-alma.org/2024/06/20/senior-operatives-of-the-radwan-unit-el
 
 ----
 
+Meanwhile, OSINT Industries for almost a year already gives reporters free access to the search platform by e-mail and telephone numbers. You need to register on the working mail and contact the manager Nathaniel (everything will be in the letter with the instructions). A very good tool, understandable visualization, in some ways more fully, in something at the same level. At the same time, it is possible to get an API and integrate this tool in your working environment: https://www.osint.industries/industries/journalism
+
+Military OSINT course by Molfar: https://www.udemy.com/course/military-osint-course-by-molfar/
+
+----
+
 From September 29, the United States will be banned from applying and selling Antivirus Kaspersky in the country. The US Treasury Department also added to the sanctions list 12 Russians who hold senior positions in the manufacturer of the Kaspersky Laboratory antiviruses: https://verstka.media/kaspersky-antivirus
 
 Inside the outdoor. How in modern Russia they monitor people - the former opera opera operates: https://zona.media/article/2024/06/20/surveillance
@@ -41,13 +47,29 @@ How corporations make slaves out of you (by @platoff): https://x.com/platoff/sta
 
 **OSINT Tools, Services and Investigations:**
 
-Information LaundromatA new tool to uncover website ownership and investigate information campaigns using various technical indicators and searching for similar content: https://informationlaundromat.com 
+Information Laundromat. A new tool to uncover website ownership and investigate information campaigns using various technical indicators and searching for similar content: https://informationlaundromat.com 
 Read more about the need for detecting copied content in OSINT in SOWEL: https://sowel.soxoj.com/copying-content
+
+https://osm-search.bellingcat.com - A tool for locating photos and satellite images: Specify the objects you see and the distance between them (ex: a 10-story building 80 meters from a park). Select a search area (ex: a district of a city) Get a list of places that fit the description.
 
 SatDump - A generic satellite data processing software: https://www.satdump.org/
 GitHub: https://github.com/SatDump/SatDump
 
-nmap-did-what is a Grafana docker container and a Python script to parse Nmap XML output to an SQLite database. The SQLite database is used as a datasource within Grafana to view the Nmap scan details in a dashboard: https://github.com/hackertarget/nmap-did-what
+GAIA - Geospatial & Aerial Images Analyser: https://github.com/OSINT-TECHNOLOGIES/gaia
+
+NetSOC OSINT - Tool focused on extracting information from an account in different Social Networks: https://github.com/XDeadHackerX/NetSoc_OSINT
+
+Keyfinder is a tool that let you find keys while surfing the web: https://github.com/momenbasel/keyFinder
+
+FormCrawler - This script Crawl the website and find the urls that contains html forms: https://github.com/dirtycoder0124/formcrawler
+
+DorkHunter - A bash script for performing advanced Google dork searches to find files, names, usernames, emails, phone numbers, and images: https://github.com/therealcybergod/DorkHunter
+
+PIP-INTEL is an OSINT tool designed using various open-source tools and pip packages: https://github.com/emrekybs/Pip-Intel
+
+AES Encryption and Decryption Tool - This is a Python program that provides an easy-to-use CLI for encrypting and decrypting text files using AES encryption. The program can be run from the command line and accepts the following arguments: https://github.com/OSINT-TECHNOLOGIES/aestool
+
+DPULSE - Tool for complex approach to domain OSINT: https://github.com/OSINT-TECHNOLOGIES/dpulse
 
 WiFiSpy - The best WiFi spy avalaible for hire! Made for hackers, for hackers: https://github.com/DeaDHackS/WiFiSpy
 
@@ -57,7 +79,11 @@ BlueDucky is a powerful tool for exploiting a vulnerability in Bluetooth devices
 
 **AI:**
 
+Ficia.ai - Get hands-on experience with the world's fastest liveness detection platform: https://demo.facia.ai/services
 
+Picarta.ai- Image Geolocalization using Artificial Intelligence. The AI model predicts the precise location of where the photo was taken in the world: http://Picarta.ai
+
+Stride-GPT - An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology: https://github.com/mrwadams/stride-gpt
 
 ---
 
@@ -73,6 +99,10 @@ Chimera is a web app for remotely installing non-Steam software to your Linux ba
 
 ChimeraOS is a Steam Big Picture based couch gaming OS: https://github.com/ChimeraOS/chimeraos
 
+skopeo is a command line utility that performs various operations on container images and image repositories: https://github.com/containers/skopeo
+
+nmap-did-what is a Grafana docker container and a Python script to parse Nmap XML output to an SQLite database. The SQLite database is used as a datasource within Grafana to view the Nmap scan details in a dashboard: https://github.com/hackertarget/nmap-did-what
+
 Portr - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections: https://github.com/amalshaji/portr
 
 ----
@@ -87,9 +117,11 @@ Protoview - Flipper Zero app to display known and unknown signals: https://githu
 
 **New from CyberDetective:**
 
-https://osm-search.bellingcat.com - A tool for locating photos and satellite images: Specify the objects you see and the distance between them (ex: a 10-story building 80 meters from a park). Select a search area (ex: a district of a city) Get a list of places that fit the description.
+Florence-2. A very good free online tool for recognising handwritten text (select the "More detailed caption" option for recognition): https://huggingface.co/spaces/gokaygokay/Florence-2
 
 OpenStreetMap (OverPass Turbo) TagInfo database - 694 tags for different objects (buildings, trees, streams etc) - 5684 keys - 45 relations (routes, streets etc): https://taginfo.openstreetmap.org/tags
+
+ATLAS A free online tool for visualising geodata - add datasets (from downloaded files or Atlas Data Hub) to the map add drawings, photos, diagrams analyse data on the map (count the number of objects of a certain type, etc.): http://app.atlas.co
 
 ----
 
