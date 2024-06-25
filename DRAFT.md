@@ -52,12 +52,14 @@ Read more about the need for detecting copied content in OSINT in SOWEL: https:/
 
 https://osm-search.bellingcat.com - A tool for locating photos and satellite images: Specify the objects you see and the distance between them (ex: a 10-story building 80 meters from a park). Select a search area (ex: a district of a city) Get a list of places that fit the description.
 
+Easily exports all comments from your social media posts to Excel file: https://exportcomments.com/
+
+Social monitor tools with real-time tracking of Instagram, Spotify, Last.fm, Instagram, Github users activities and profile changes, also monitors Steam, Xbox, LoL (League of Legends), Sony (PSN) players activities: https://github.com/misiektoja?tab=repositories
+
 SatDump - A generic satellite data processing software: https://www.satdump.org/
 GitHub: https://github.com/SatDump/SatDump
 
 GAIA - Geospatial & Aerial Images Analyser: https://github.com/OSINT-TECHNOLOGIES/gaia
-
-Social monitor tools with real-time tracking of Instagram, Spotify, Last.fm, Instagram, Github users activities and profile changes, also monitors Steam, Xbox, LoL (League of Legends), Sony (PSN) players activities: https://github.com/misiektoja?tab=repositories
 
 NetSOC OSINT - Tool focused on extracting information from an account in different Social Networks: https://github.com/XDeadHackerX/NetSoc_OSINT
 
@@ -104,6 +106,14 @@ Chimera is a web app for remotely installing non-Steam software to your Linux ba
 ChimeraOS is a Steam Big Picture based couch gaming OS: https://github.com/ChimeraOS/chimeraos
 
 skopeo is a command line utility that performs various operations on container images and image repositories: https://github.com/containers/skopeo
+
+Mubeng - An incredibly fast proxy checker & IP rotator with ease: https://github.com/kitabisa/mubeng
+
+TREVORproxy - A SOCKS proxy written in Python that randomizes your source IP address. Round-robin your evil packets through SSH tunnels or give them billions of unique source addresses: https://github.com/blacklanternsecurity/TREVORproxy
+
+Smap is a port scanner built with shodan.io's free API. It takes same command line arguments as Nmap and produces the same output which makes it a drop-in replacament for Nmap: https://github.com/s0md3v/Smap
+
+Goph - The native golang ssh client to execute your commands over ssh connection: https://github.com/melbahja/goph
 
 nmap-did-what is a Grafana docker container and a Python script to parse Nmap XML output to an SQLite database. The SQLite database is used as a datasource within Grafana to view the Nmap scan details in a dashboard: https://github.com/hackertarget/nmap-did-what
 
