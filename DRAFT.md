@@ -18,7 +18,7 @@ The air can withstand only those who believe in themselves
 
 ----
 
-OSINT Repos List. Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2000: https://github.com/bormaxi8080/osint-repos-list
+OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2000: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
