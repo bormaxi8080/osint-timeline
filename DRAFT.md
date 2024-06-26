@@ -73,6 +73,8 @@ PIP-INTEL is an OSINT tool designed using various open-source tools and pip pack
 
 Deleted Tweet Finder. Search for deleted tweets across multiple archival services: http://cache.digitaldigging.org
 
+Security Research Note - various security approaches to attack techniques and share new discoveries about security breaches. Through the new discoveries and learnings shared in this repository, I hope to provide helpful insights for those involved in security operations, hunting, incident response, and more: https://github.com/LearningKijo/SecurityResearcher-Note
+
 AES Encryption and Decryption Tool - This is a Python program that provides an easy-to-use CLI for encrypting and decrypting text files using AES encryption. The program can be run from the command line and accepts the following arguments: https://github.com/OSINT-TECHNOLOGIES/aestool
 
 DPULSE - Tool for complex approach to domain OSINT: https://github.com/OSINT-TECHNOLOGIES/dpulse
@@ -85,7 +87,7 @@ BlueDucky is a powerful tool for exploiting a vulnerability in Bluetooth devices
 
 **AI:**
 
-Ficia.ai - Get hands-on experience with the world's fastest liveness detection platform: https://demo.facia.ai/services
+Facia.ai - Get hands-on experience with the world's fastest liveness detection platform: https://demo.facia.ai/services
 
 Picarta.ai- Image Geolocalization using Artificial Intelligence. The AI model predicts the precise location of where the photo was taken in the world: http://Picarta.ai
 
@@ -94,6 +96,8 @@ Stride-GPT - An AI-powered threat modeling tool that leverages OpenAI's GPT mode
 ---
 
 **Software Development:**
+
+APIClarity - An API security tool to capture and analyze API traffic, test API endpoints, reconstruct Open API specification, and identify API security risks: https://github.com/openclarity/apiclarity
 
 Simplify RabbitMQ operations in Go with Gorabbit, a high-level wrapper for the official Go RabbitMQ plugin. Enhance your messaging workflow with a more straightforward interface and robust mechanisms, including an automatic "Always-On" mechanism for continuous connectivity: https://github.com/KardinalAI/gorabbit
 
