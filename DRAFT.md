@@ -50,6 +50,8 @@ Mozilla DeepSpeech is an open source embedded (offline, on-device) speech-to-tex
 
 ImHex - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM: https://github.com/WerWolv/ImHex
 
+Semaphore - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi: https://github.com/semaphoreui/semaphore
+
 ----
 
 **Flipper Zero:**
@@ -62,11 +64,19 @@ Flipper Zero application for reading temperature, humidity and pressure sensors 
 
 [urldna.io](https://urldna.io) - Free online tool for gathering info about URL: screenshot, SSL certificates, IP addresses, title/body text, cookies, technologies, http requests, headers, console messages, metatags and more.
 
+Online tools to identify a location from an uploaded photo using AI:
+[geospy.web.app](https://geospy.web.app)
+[earthkit.app](https://earthkit.app)
+[usersearch.org](https://usersearch.org) (GeoSpy integration) 
+[picarta.ai](https://picarta.ai)
+labs.tib.eu/geoestimation/  
+GeoGuessr GPT  https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt
+
 ----
 
 **New from GitHub Community:**
 
-
+tsuru - Open source and extensible Platform as a Service (PaaS): https://github.com/tsuru/tsuru
 
 ----
 ### bormaxi8080 OSINT timeline:
