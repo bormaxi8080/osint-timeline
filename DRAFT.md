@@ -28,6 +28,8 @@ Sberbank GigaIDE contains a stolen code from Intellij Idea Ultimate: https://hab
 
 **OSINT Tools, Services and Investigations:**
 
+Hound is a simple and light tool for information gathering and capture exact GPS coordinates: https://github.com/techchipnet/hound
+
 httpstat - Imitation is the sincerest form of flattery: https://github.com/davecheney/httpstat
 
 ----
@@ -46,7 +48,7 @@ Mozilla DeepSpeech is an open source embedded (offline, on-device) speech-to-tex
 
 **Linux & DevOps:**
 
-
+ImHex - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM: https://github.com/WerWolv/ImHex
 
 ----
 
