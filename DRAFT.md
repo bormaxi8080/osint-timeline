@@ -22,13 +22,13 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 ----
 
-
+Sberbank GigaIDE contains a stolen code from Intellij Idea Ultimate: https://habr.com/ru/news/825052/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+httpstat - Imitation is the sincerest form of flattery: https://github.com/davecheney/httpstat
 
 ----
 
@@ -58,7 +58,7 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 **New from CyberDetective:**
 
-
+[urldna.io](https://urldna.io) - Free online tool for gathering info about URL: screenshot, SSL certificates, IP addresses, title/body text, cookies, technologies, http requests, headers, console messages, metatags and more.
 
 ----
 
