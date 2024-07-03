@@ -34,7 +34,7 @@ httpstat - Imitation is the sincerest form of flattery: https://github.com/davec
 
 **AI:**
 
-
+Mozilla DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers: https://github.com/mozilla/DeepSpeech
 
 ---
 
@@ -52,7 +52,7 @@ httpstat - Imitation is the sincerest form of flattery: https://github.com/davec
 
 **Flipper Zero:**
 
-
+Flipper Zero application for reading temperature, humidity and pressure sensors like a DHT11/22, DS18B20, BMP280, HTU21 and more: https://github.com/quen0n/unitemp-flipperzero
 
 ----
 
