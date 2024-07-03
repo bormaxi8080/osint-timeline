@@ -14,6 +14,8 @@ The courtyards of Slavyansk. Three yards, a gypsy baron lives, all in gold and w
 Slavyansk, Artem Street.
 
 
+Sitting at a small railway station, only lights are visible: orange, red and blue. And also cars with the highway shine headlights at a bend. Now he rumbles past the commodity, pass by - and everything will end. So life will fly - a commodity. You are either a load, or a driver, or on a half -land. But with lanterns more funny. In a certain sense.
+
 ----
 
 OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2000: https://github.com/bormaxi8080/osint-repos-list
