@@ -15,6 +15,28 @@ Sberbank GigaIDE ```contains a stolen code``` from Intellij Idea Ultimate: https
 
 ----
 
+```Mirror:``` A Universal Framework for Various Information Extraction Tasks.
+
+- Named Entity Recognition- Entity Relationship Extraction (Triplet Extraction)
+
+- Event Extraction
+
+- Aspect-based Sentiment AnalysisMulti
+
+-span Extraction (e.g. Discontinuous NER)
+
+- N-ary Extraction (e.g. Hyper Relation Extraction)
+
+- Extractive Machine Reading
+
+- Comprehension (MRC) and Question Answering
+
+- Classification & Multi-choice MRC.
+
+GitHub: https://github.com/Spico197/Mirror
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 ```Hound``` is a simple and light tool for information gathering and capture exact GPS coordinates: https://github.com/techchipnet/hound
