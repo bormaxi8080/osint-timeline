@@ -22,7 +22,7 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 ----
 
-
+Car OSINT by @Doxbin: https://medium.com/@Net_Scout/car-osint-doxbin-759a0b4c907f
 
 ----
 
@@ -58,7 +58,7 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 **New from CyberDetective:**
 
-
+View username, display name and bio history of any Twitter user: http://twitter.lolarchiver.com
 
 ----
 
