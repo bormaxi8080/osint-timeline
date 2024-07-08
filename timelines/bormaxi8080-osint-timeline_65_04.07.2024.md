@@ -75,7 +75,7 @@ Online tools to identify a location from an uploaded photo using AI:
 [usersearch.org](https://usersearch.org) (GeoSpy integration) 
 [picarta.ai](https://picarta.ai)
 labs.tib.eu/geoestimation/  
-GeoGuessr GPT  https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt
+GeoGuessr GPT https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt
 
 ----
 
