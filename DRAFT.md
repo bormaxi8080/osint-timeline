@@ -40,13 +40,15 @@ bash-dungeon - An educational dungeon crawler in the shell: https://github.com/w
 
 asori is a dynamic web crawler powered by Puppeteer, designed for lightning-fast endpoint discovery: https://github.com/karthikuj/sasori
 
+FWT is a security analysis and file monitoring tool that utilizes Sysmon events: https://github.com/iomoath/FileWatchTower
+
 MalStatWare automates malware analysis with Python. Extract key details like file size, type, hash, path, and digital signature. It analyzes headers, APIs, and strings, giving quick insights for threat detection: https://github.com/OSTEsayed/OSTE-MalStatWare
 
 ----
 
 **AI:**
 
-
+SPPO: Self-Play Preference Optimization for Language Model Alignment: https://github.com/uclaml/SPPO
 
 ---
 
@@ -76,7 +78,7 @@ Apache HertzBeat(incubating) is a real-time monitoring system with agentless, pe
 
 **Flipper Zero:**
 
-
+UART Terminal for Flipper Zero: https://github.com/cool4uma/UART_Terminal
 
 ----
 
@@ -90,7 +92,7 @@ Kali Linux OSINT VM. Build your own OSINT virtual machine with these shell scrip
 
 **New from GitHub Community:**
 
-
+Bearer - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks: https://github.com/Bearer/bearer#golang
 
 ----
 ### bormaxi8080 OSINT timeline:
