@@ -23,7 +23,7 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 ----
 
-
+Digital archive of newspapers of the Russian Empire: from sea monsters to the highest manifestos: https://sysblok.ru/digital-heritage/cifrovoj-arhiv-gazet-rossijskoj-imperii-ot-morskih-chudishh-do-vysochajshih-manifestov/
 
 ----
 
