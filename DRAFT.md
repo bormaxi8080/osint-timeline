@@ -29,7 +29,7 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 **OSINT Tools, Services and Investigations:**
 
-
+SQL injection is, describe some common examples, explain how to find and exploit various kinds of SQL injection vulnerabilities, and summarize how to prevent SQL injection: https://github.com/payloadbox/sql-injection-payload-list
 
 ----
 
