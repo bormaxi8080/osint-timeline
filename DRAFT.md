@@ -14,6 +14,9 @@ The courtyards of Slavyansk. Three yards, a gypsy baron lives, all in gold and w
 Slavyansk, Artem Street.
 
 
+For work, the factor is the most accurate definition is “productive depression”. In principle, you can’t be depressed, the methodology is such that there is no chance of not encountering the cast-iron ass of reality at least three to five times a day. The cast -iron ass of reality, as we all know, breaks any crystal dreams. You see what people are idiots (and you are a little better), and this increases the production of cortisol. On the other hand, a fact is also OSINT. And then a little other receptors are triggered: your work can help at least part of the assholes to attract to the answer. It saves.
+
+
 ----
 
 OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2000: https://github.com/bormaxi8080/osint-repos-list
