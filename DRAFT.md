@@ -53,7 +53,7 @@ Tau is a framework for building low maintenance & highly scalable cloud computin
 
 **Flipper Zero:**
 
-
+Collection of scripts, guides and resources for your FlipperZero: https://github.com/HaxHeadroom/HaxHeadroom-FlipperZero-Goodies
 
 ----
 
