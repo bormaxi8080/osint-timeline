@@ -64,6 +64,8 @@ Tau is a framework for building low maintenance & highly scalable cloud computin
 
 Bearer - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks: https://github.com/Bearer/bearer#golang
 
+Listmonk - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard: https://github.com/knadh/listmonk
+
 ----
 ### bormaxi8080 OSINT timeline:
 
