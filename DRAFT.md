@@ -31,6 +31,8 @@ Digital archive of newspapers of the Russian Empire: from sea monsters to the hi
 
 **OSINT Tools, Services and Investigations:**
 
+Netlas Complete Guide on Attack Surface Discovery: https://netlas.io/blog/attack_surface_discovery_guide/
+
 SQL injection is, describe some common examples, explain how to find and exploit various kinds of SQL injection vulnerabilities, and summarize how to prevent SQL injection: https://github.com/payloadbox/sql-injection-payload-list
 
 ----
