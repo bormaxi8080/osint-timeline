@@ -23,6 +23,8 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 ----
 
+The island of non-navigation. The scandals did not prevent Taivan from continuing supplies for the Armed Forces of the Russian Federation, they were stopped only by vigilant cans: https://theins.ru/politika/272937
+
 Digital archive of newspapers of the Russian Empire: from sea monsters to the highest manifestos: https://sysblok.ru/digital-heritage/cifrovoj-arhiv-gazet-rossijskoj-imperii-ot-morskih-chudishh-do-vysochajshih-manifestov/
 
 ----
@@ -47,7 +49,7 @@ Tau is a framework for building low maintenance & highly scalable cloud computin
 
 **Linux & DevOps:**
 
-
+lakeFS is an open-source tool that transforms your object storage into a Git-like repository. It enables you to manage your data lake the way you manage your code: https://github.com/treeverse/lakeFS
 
 ----
 
@@ -59,7 +61,7 @@ Collection of scripts, guides and resources for your FlipperZero: https://github
 
 **New from CyberDetective:**
 
-
+A detailed guide to searching for sensitive information using Google Dorks (with real examples of documents found): https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/
 
 ----
 
