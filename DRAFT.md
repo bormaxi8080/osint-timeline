@@ -33,6 +33,10 @@ Digital archive of newspapers of the Russian Empire: from sea monsters to the hi
 
 Netlas Complete Guide on Attack Surface Discovery: https://netlas.io/blog/attack_surface_discovery_guide/
 
+Cola is a high-level distributed crawling framework, used to crawl pages and extract structured data from websites. It provides simple and fast yet flexible way to achieve your data acquisition objective. Users only need to write one piece of code which can run under both local and distributed mode: https://github.com/qinxuye/cola
+
+Universal feed parser: https://pythonhosted.org/feedparser/
+
 Spidy - The simple, easy to use command line web crawler: https://github.com/rivermont/spidy
 
 SQL injection is, describe some common examples, explain how to find and exploit various kinds of SQL injection vulnerabilities, and summarize how to prevent SQL injection: https://github.com/payloadbox/sql-injection-payload-list
