@@ -33,13 +33,19 @@ Digital archive of newspapers of the Russian Empire: from sea monsters to the hi
 
 Netlas Complete Guide on Attack Surface Discovery: https://netlas.io/blog/attack_surface_discovery_guide/
 
+Spidy - The simple, easy to use command line web crawler: https://github.com/rivermont/spidy
+
 SQL injection is, describe some common examples, explain how to find and exploit various kinds of SQL injection vulnerabilities, and summarize how to prevent SQL injection: https://github.com/payloadbox/sql-injection-payload-list
+
+Spy-Pixel - A spy pixel which can be emedded into web pages or emails: https://github.com/collinsmc23/spy-pixel
+
+Mailgoose - A web application that allows the users to check whether their SPF, DMARC and DKIM configuration is set up correctly: https://github.com/CERT-Polska/mailgoose
 
 ----
 
 **AI:**
 
-
+Noi - an AI-enhanced, customizable browser designed to streamline your digital experience: https://github.com/lencx/Noi
 
 ---
 
@@ -47,11 +53,15 @@ SQL injection is, describe some common examples, explain how to find and exploit
 
 Tau is a framework for building low maintenance & highly scalable cloud computing platforms that software developers will love: https://github.com/taubyte/tau
 
+Tiny Tracer - A Pin Tool for tracing API calls etc: https://github.com/hasherezade/tiny_tracer
+
 ----
 
 **Linux & DevOps:**
 
 lakeFS is an open-source tool that transforms your object storage into a Git-like repository. It enables you to manage your data lake the way you manage your code: https://github.com/treeverse/lakeFS
+
+Fragtunnel is a proof-of-concept (PoC) TCP tunnel tool that you can use to tunnel your application's traffic and bypass next-generation firewalls en route to the target: https://github.com/efeali/fragtunnel
 
 ----
 
@@ -64,6 +74,8 @@ Collection of scripts, guides and resources for your FlipperZero: https://github
 **New from CyberDetective:**
 
 A detailed guide to searching for sensitive information using Google Dorks (with real examples of documents found): https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/
+
+The OSINT Toolbox. Few days ago twitter.com/cqcore created a query builder to search his Github repositories with collections of tools: Telegram-OSINT, Social-Media-OSINT, Website-OSINT, Geolocation-OSINT, OSINT-Browser-Extensions and many others: https://the-osint-toolbox.com/
 
 ----
 
