@@ -51,6 +51,8 @@ Mailgoose - A web application that allows the users to check whether their SPF, 
 
 Noi - an AI-enhanced, customizable browser designed to streamline your digital experience: https://github.com/lencx/Noi
 
+Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image: https://github.com/AiuniAI/Unique3D
+
 ---
 
 **Software Development:**
