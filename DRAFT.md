@@ -26,6 +26,9 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 **OSINT Tools, Services and Investigations:**
 
+Open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition: https://openai.com/index/whisper/ (GitHub: https://github.com/openai/whisper)
+
+Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. Whether you're recording a meeting, lecture, or other important audio, MacWhisper quickly and accurately transcribes your audio files into text: https://goodsnooze.gumroad.com/l/macwhisper
 
 
 ----
