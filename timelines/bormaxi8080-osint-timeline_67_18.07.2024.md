@@ -16,7 +16,7 @@ Copies of American drones for Russia. As a member of the “Marathons of desires
 
 ```The island of non-navigation```. The scandals did not prevent Taivan from continuing supplies for the Armed Forces of the Russian Federation, they were stopped only by vigilant cans: https://theins.ru/politika/272937
 
-D```igital archive of newspapers of the Russian Empire```: from sea monsters to the highest manifestos: https://sysblok.ru/digital-heritage/cifrovoj-arhiv-gazet-rossijskoj-imperii-ot-morskih-chudishh-do-vysochajshih-manifestov/
+```Digital archive of newspapers of the Russian Empire```: from sea monsters to the highest manifestos: https://sysblok.ru/digital-heritage/cifrovoj-arhiv-gazet-rossijskoj-imperii-ot-morskih-chudishh-do-vysochajshih-manifestov/
 
 ----
 
@@ -78,9 +78,9 @@ A detailed guide to searching for sensitive information using Google Dorks (with
 
 **New from GitHub Community:**
 
-Bearer - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks: https://github.com/Bearer/bearer#golang
+```Bearer``` - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks: https://github.com/Bearer/bearer#golang
 
-Listmonk - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard: https://github.com/knadh/listmonk
+```Listmonk``` - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard: https://github.com/knadh/listmonk
 
 ----
 ### bormaxi8080 OSINT timeline:
