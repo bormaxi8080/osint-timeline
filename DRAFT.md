@@ -41,7 +41,9 @@ Quickly and easily transcribe audio files into text with OpenAI's state-of-the-a
 
 **Software Development:**
 
+CesiumJS is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization: https://github.com/CesiumGS/cesium
 
+JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind): https://github.com/json-editor/json-editor
 
 ----
 
@@ -53,7 +55,7 @@ Quickly and easily transcribe audio files into text with OpenAI's state-of-the-a
 
 **Flipper Zero:**
 
-
+TPMS application for Flipper Zero: https://github.com/wosk/flipperzero-tpms
 
 ----
 
