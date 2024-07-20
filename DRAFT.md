@@ -26,16 +26,19 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 **OSINT Tools, Services and Investigations:**
 
-Open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition: https://openai.com/index/whisper/ (GitHub: https://github.com/openai/whisper)
-
-Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. Whether you're recording a meeting, lecture, or other important audio, MacWhisper quickly and accurately transcribes your audio files into text: https://goodsnooze.gumroad.com/l/macwhisper
 
 
 ----
 
 **AI:**
 
+Open-sourcing a neural net called Whisper that approaches human level robustness and accuracy on English speech recognition: https://openai.com/index/whisper/ (GitHub: https://github.com/openai/whisper)
 
+Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. Whether you're recording a meeting, lecture, or other important audio, MacWhisper quickly and accurately transcribes your audio files into text: https://goodsnooze.gumroad.com/l/macwhisper
+
+Skewy tries to prevent eavesdropping and access of your phone with ultrasonic signals (see references at bottom). Eavesdropping prevention is done by masking your conversation with sound. Ultrasonic signals are jammed with the built-in detection method which can emit its own distortion ultrasonic signal: https://github.com/skewyapp/skewyapp
+
+Semantic-SAM: Segment and Recognize Anything at Any Granularity: https://github.com/UX-Decoder/Semantic-SAM
 
 ---
 
