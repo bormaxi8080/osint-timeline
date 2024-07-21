@@ -20,7 +20,7 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 ----
 
-
+OSINT Methodology: How to Investigate Illegal Content in Telegram Chats: https://soxoj.substack.com/p/osint-methodology-how-to-investigate
 
 ----
 
@@ -52,7 +52,7 @@ JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has ful
 
 **Linux & DevOps:**
 
-
+[Zipkin](https://zipkin.io/) is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data: https://github.com/openzipkin/zipkin
 
 ----
 
@@ -64,7 +64,7 @@ TPMS application for Flipper Zero: https://github.com/wosk/flipperzero-tpms
 
 **New from CyberDetective:**
 
-
+Deep Tech Finder. Europe tech startups search engines. Search by startup name, investor name, growth stage, industry, patent technical field and more: https://datavisualisation.apps.epo.org/datav/public/dashboard-frontend/host_epoorg.html#/explore?dataSet=1
 
 ----
 
