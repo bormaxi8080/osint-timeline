@@ -26,7 +26,7 @@ OSINT Methodology: How to Investigate Illegal Content in Telegram Chats: https:/
 
 **OSINT Tools, Services and Investigations:**
 
-
+Gideon - Simple tool for searching and collection information: https://github.com/YouVBeenHacked/gideon
 
 ----
 
