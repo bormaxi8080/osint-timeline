@@ -52,6 +52,8 @@ JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has ful
 
 **Linux & DevOps:**
 
+Containerd is an industry-standard container runtime with an emphasis on simplicity, robustness, and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc: https://github.com/containerd/containerd
+
 [Zipkin](https://zipkin.io/) is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data: https://github.com/openzipkin/zipkin
 
 ----
@@ -70,7 +72,7 @@ Deep Tech Finder. Europe tech startups search engines. Search by startup name, i
 
 **New from GitHub Community:**
 
-
+**X**treme **D**ownload **M**anager (XDM) is a powerful tool to increase download speeds up to 500%, save videos from popular video streaming websites, resume broken/dead downloads, schedule and convert downloads. XDM seamlessly integrates with Google Chrome, Mozilla Firefox Quantum, Opera, Vivaldi and other Chroumium and Firefox based browsers, to take over downloads and saving streaming videos from web. XDM has a built in video converter which lets you convert your downloaded videos to different formats so that you can watch them on your mobile or TV (100+ devices are supported): https://github.com/subhra74/xdm
 
 ----
 ### bormaxi8080 OSINT timeline:
