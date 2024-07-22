@@ -30,6 +30,12 @@ A 26 years old International Directory of Search Engines, you can check specific
 
 Gideon - Simple tool for searching and collection information: https://github.com/YouVBeenHacked/gideon
 
+PSpider - A simple web spider frame written by Python, which needs Python3.8+: https://github.com/xianhu/PSpider
+
+Brownant is a lightweight web data extracting framework: https://github.com/douban/brownant
+
+CoCrawler is a versatile web crawler built using modern tools and concurrency: https://github.com/cocrawler/cocrawler
+
 ----
 
 **AI:**
