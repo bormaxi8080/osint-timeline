@@ -39,9 +39,15 @@ Gain - Web crawling framework for everyone: https://github.com/elliotgao2/gain
 
 PSpider - A simple web spider frame written by Python, which needs Python3.8+: https://github.com/xianhu/PSpider
 
+Ruia - Async Python 3.6+ web scraping micro-framework based on asyncio: https://github.com/howie6879/ruia
+
 Brownant is a lightweight web data extracting framework: https://github.com/douban/brownant
 
 CoCrawler is a versatile web crawler built using modern tools and concurrency: https://github.com/cocrawler/cocrawler
+
+Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head: https://github.com/n0tan3rd/squidwarc
+
+Headless Chrome Crawler - Distributed crawler powered by Headless Chrome: https://github.com/yujiosaka/headless-chrome-crawler
 
 ----
 
