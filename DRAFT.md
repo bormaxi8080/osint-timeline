@@ -14,6 +14,9 @@ The courtyards of Slavyansk. Three yards, a gypsy baron lives, all in gold and w
 Slavyansk, Artem Street.
 
 
+If everyone is lying around and sell, instead of doing things, this means that the point of no return has already been passed. The world goes crazy and beasts - and marketing, respectively, too. Modern marketing breeds wildness and hatred. Society accumulates bitterness, and sooner or later it pours into something. Can't help but pour out. In Russia - in universal quilted jacket and "greatness", in America - in a psychopath with a torn ear.
+
+
 ----
 
 OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2000: https://github.com/bormaxi8080/osint-repos-list
@@ -29,6 +32,8 @@ OSINT Methodology: How to Investigate Illegal Content in Telegram Chats: https:/
 A 26 years old International Directory of Search Engines, you can check specific country's search engines and web directories: https://searchenginecolossus.com
 
 Gideon - Simple tool for searching and collection information: https://github.com/YouVBeenHacked/gideon
+
+Gain - Web crawling framework for everyone: https://github.com/elliotgao2/gain
 
 PSpider - A simple web spider frame written by Python, which needs Python3.8+: https://github.com/xianhu/PSpider
 
