@@ -33,6 +33,8 @@ A 26 years old International Directory of Search Engines, you can check specific
 
 Gideon - Simple tool for searching and collection information: https://github.com/YouVBeenHacked/gideon
 
+number-parser is a simple library that allows you to convert numbers written in the natural language to it's equivalent numeric forms. It currently supports cardinal numbers in the following languages - English, Hindi, Spanish, Ukrainian and Russian and ordinal numbers in English: https://github.com/scrapinghub/number-parser
+
 Gain - Web crawling framework for everyone: https://github.com/elliotgao2/gain
 
 PSpider - A simple web spider frame written by Python, which needs Python3.8+: https://github.com/xianhu/PSpider
