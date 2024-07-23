@@ -25,11 +25,13 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 OSINT Methodology: How to Investigate Illegal Content in Telegram Chats: https://soxoj.substack.com/p/osint-methodology-how-to-investigate
 
+BigDomainData - collection of WHOIS databases and domain name investigation tools: http://bigdomaindata.com
+
+A 26 years old International Directory of Search Engines, you can check specific country's search engines and web directories: https://searchenginecolossus.com
+
 ----
 
 **OSINT Tools, Services and Investigations:**
-
-A 26 years old International Directory of Search Engines, you can check specific country's search engines and web directories: https://searchenginecolossus.com
 
 Gideon - Simple tool for searching and collection information: https://github.com/YouVBeenHacked/gideon
 
@@ -48,6 +50,8 @@ CoCrawler is a versatile web crawler built using modern tools and concurrency: h
 Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head: https://github.com/n0tan3rd/squidwarc
 
 Headless Chrome Crawler - Distributed crawler powered by Headless Chrome: https://github.com/yujiosaka/headless-chrome-crawler
+
+Respotter is a Responder honeypot! Catch attackers and red teams as soon as they spin up Responder in your environment: https://github.com/lawndoc/Respotter
 
 ----
 
