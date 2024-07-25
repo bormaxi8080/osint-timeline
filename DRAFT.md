@@ -29,13 +29,25 @@ BigDomainData - collection of WHOIS databases and domain name investigation tool
 
 A 26 years old International Directory of Search Engines, you can check specific country's search engines and web directories: https://searchenginecolossus.com
 
+OSINT4All start.me Dashboard: https://start.me/p/L1rEYQ/osint4all
+
+BEST SQLI METHODLOGY BY COFFIN: https://github.com/coffinxp/BSQLi
+
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+Name Variant Search from Bellingcat - A tool for searching common variations of a human name: https://github.com/bellingcat/name-variant-search
+
+Instagram story viewer - Watch profiles, stories, followers, tags anonymously: https://greatfon.com/
+
 Gideon - Simple tool for searching and collection information: https://github.com/YouVBeenHacked/gideon
 
-number-parser is a simple library that allows you to convert numbers written in the natural language to it's equivalent numeric forms. It currently supports cardinal numbers in the following languages - English, Hindi, Spanish, Ukrainian and Russian and ordinal numbers in English: https://github.com/scrapinghub/number-parser
+Respotter is a Responder honeypot! Catch attackers and red teams as soon as they spin up Responder in your environment: https://github.com/lawndoc/Respotter
+
+Horus - An OSINT / digital forensics tool built in Python: https://github.com/6abd/horus
+
+Number Parser is a simple library that allows you to convert numbers written in the natural language to it's equivalent numeric forms. It currently supports cardinal numbers in the following languages - English, Hindi, Spanish, Ukrainian and Russian and ordinal numbers in English: https://github.com/scrapinghub/number-parser
 
 Gain - Web crawling framework for everyone: https://github.com/elliotgao2/gain
 
@@ -50,8 +62,6 @@ CoCrawler is a versatile web crawler built using modern tools and concurrency: h
 Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head: https://github.com/n0tan3rd/squidwarc
 
 Headless Chrome Crawler - Distributed crawler powered by Headless Chrome: https://github.com/yujiosaka/headless-chrome-crawler
-
-Respotter is a Responder honeypot! Catch attackers and red teams as soon as they spin up Responder in your environment: https://github.com/lawndoc/Respotter
 
 ----
 
@@ -77,7 +87,13 @@ JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has ful
 
 **Linux & DevOps:**
 
+Nacos (official site: [nacos.io](https://nacos.io/)) is an easy-to-use platform designed for dynamic service discovery and configuration and service management. It helps you to build cloud native applications and microservices platform easily: https://github.com/alibaba/nacos#
+
 Containerd is an industry-standard container runtime with an emphasis on simplicity, robustness, and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc: https://github.com/containerd/containerd
+
+http4k - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services: https://github.com/http4k/http4k
+
+ZFoo - Extremely fast enterprise server framework, can be used in RPC, game server, web server: https://github.com/zfoo-project/zfoo#
 
 [Zipkin](https://zipkin.io/) is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data: https://github.com/openzipkin/zipkin
 
@@ -92,6 +108,10 @@ TPMS application for Flipper Zero: https://github.com/wosk/flipperzero-tpms
 **New from CyberDetective:**
 
 Deep Tech Finder. Europe tech startups search engines. Search by startup name, investor name, growth stage, industry, patent technical field and more: https://datavisualisation.apps.epo.org/datav/public/dashboard-frontend/host_epoorg.html#/explore?dataSet=1
+
+BigDomainData Reverse Whois Database Over 265 Million actual domains data and over 561 Million historical domain data. Search by 50+ WHOIS data fields (creation date, registrant name etc): http://bigdomaindata.com/reverse-whois/
+
+SOCIAL MEDIA MAP 2023 When gathering information about a person or event on social networks, don't forget that besides market leaders, there are also many lesser known social networks. In this PDF from [@ovrdrv](https://x.com/ovrdrv) you can find the actual ones in 2024: https://t.co/b57Kp2HvN4
 
 ----
 
