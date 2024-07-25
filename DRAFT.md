@@ -55,11 +55,13 @@ The draft UN Cybercrime Agreement Agreement opens the way to total surveillance.
 
 **Flipper Zero:**
 
-
+A collection of awesome resources for the Flipper Zero device with repository stars and forks: https://github.com/Correia-jpv/fucking-awesome-flipperzero
 
 ----
 
 **New from CyberDetective:**
+
+Canadian OSINT: business and corporate info, archives and genealogy, legal and court info, people search and more (dozens of resources): https://github.com/S3V3N11S/Canadian-OSINT-
 
 
 
