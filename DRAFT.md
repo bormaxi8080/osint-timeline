@@ -25,7 +25,7 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 ----
 
-
+The draft UN Cybercrime Agreement Agreement opens the way to total surveillance. International human rights organizations expressed serious concerns about the current version of the UN Cybercrime draft draft version. At the upcoming negotiations, it is planned to approve a document that, according to activists, will strengthen the surveillance and criminalization of journalists, human rights activists, children and representatives of civil society around the world: https://roskomsvoboda.org/ru/post/dogovor-oon-o-kiberprestup-vvodit-slezhku/
 
 ----
 
