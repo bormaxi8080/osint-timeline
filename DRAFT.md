@@ -25,13 +25,25 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 ----
 
+Obsidian OSINT Templates
+
+by SystemSculpt: https://github.com/SystemSculpt/obsidian_templates
+
+by WebBreacher: https://github.com/WebBreacher/obsidian-osint-templates
+
+by oryon-osint: https://github.com/oryon-osint/investigation-templates
+
+----
+
 The draft UN Cybercrime Agreement Agreement opens the way to total surveillance. International human rights organizations expressed serious concerns about the current version of the UN Cybercrime draft draft version. At the upcoming negotiations, it is planned to approve a document that, according to activists, will strengthen the surveillance and criminalization of journalists, human rights activists, children and representatives of civil society around the world: https://roskomsvoboda.org/ru/post/dogovor-oon-o-kiberprestup-vvodit-slezhku/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+Overture Maps Explorer (Beta). Large database of building information: category, name, website, social media, phone, etc. You can view on the map or download data of objects in a certain area in GeoJSON format: https://explore.overturemaps.org
 
+Apple Maps Online. Now it's not just the app, but the website as well. In general, far behind Google Maps, but can be used to gather additional information about a place (clicking on an object displays images from Getty Images and data from Wikipedia): http://beta.maps.apple.com
 
 ----
 
@@ -43,7 +55,7 @@ The draft UN Cybercrime Agreement Agreement opens the way to total surveillance.
 
 **Software Development:**
 
-
+**Apache Fury (incubating)** is a blazingly-fast multi-language serialization framework powered by **JIT** (just-in-time compilation) and **zero-copy**, providing up to 170x performance and ultimate ease of use: https://github.com/apache/fury
 
 ----
 
@@ -61,9 +73,11 @@ A collection of awesome resources for the Flipper Zero device with repository st
 
 **New from CyberDetective:**
 
+Bitcoin Tracking for Law Enforcement - A Guide to Crypto Investigations by twitter.com/ervin_zubic: Bitcoin Addresses Explained, How Bitcoin Transactions Work, Following Bitcoin on the Blockchain, Identifying Change Addresses, Visualization Tools and more: https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement
+
 Canadian OSINT: business and corporate info, archives and genealogy, legal and court info, people search and more (dozens of resources): https://github.com/S3V3N11S/Canadian-OSINT-
 
-
+Awesome Dutch OSINT. Companies, People, Laws, Geo-information, Airspace, Cars and more: https://github.com/wvanderp/awesome-dutch-osint
 
 ----
 
