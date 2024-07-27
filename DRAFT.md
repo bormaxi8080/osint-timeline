@@ -60,6 +60,8 @@ Apple Maps Online. Now it's not just the app, but the website as well. In genera
 
 **Apache Fury (incubating)** is a blazingly-fast multi-language serialization framework powered by **JIT** (just-in-time compilation) and **zero-copy**, providing up to 170x performance and ultimate ease of use: https://github.com/apache/fury
 
+Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery: https://github.com/harness/gitness#
+
 ----
 
 **Linux & DevOps:**
