@@ -44,6 +44,8 @@ The draft UN Cybercrime Agreement Agreement opens the way to total surveillance.
 
 Awesome Crawler - A collection of awesome web crawlers, spiders in different languages: https://github.com/BruceDone/awesome-crawler
 
+Meta OSINT. A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis: https://metaosint.github.io/table
+
 ----
 
 **OSINT Tools, Services and Investigations:**
