@@ -60,6 +60,10 @@ Apple Maps Online. Now it's not just the app, but the website as well. In genera
 
 **Apache Fury (incubating)** is a blazingly-fast multi-language serialization framework powered by **JIT** (just-in-time compilation) and **zero-copy**, providing up to 170x performance and ultimate ease of use: https://github.com/apache/fury
 
+Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms: https://github.com/howdyai/botkit#
+
+Onefetch is a command-line Git information tool written in `Rust` that displays project information and code statistics for a local Git repository directly to your terminal. The tool is completely offline - no network access is required: https://github.com/o2sh/onefetch/
+
 Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery: https://github.com/harness/gitness#
 
 ----
@@ -78,6 +82,8 @@ A collection of awesome resources for the Flipper Zero device with repository st
 
 **New from CyberDetective:**
 
+How to use robots.txt for OSINT: What is a robots.txt File, Importance of robots.txt for OSINT & Cybersecurity Professionals, How to find a Robot.txt file on a website, How to Find Hidden Information in robots.txt: https://osintteam.blog/robots-txt-a-file-we-all-better-know-a-bit-about-218794b6c1c7
+
 Bitcoin Tracking for Law Enforcement - A Guide to Crypto Investigations by twitter.com/ervin_zubic: Bitcoin Addresses Explained, How Bitcoin Transactions Work, Following Bitcoin on the Blockchain, Identifying Change Addresses, Visualization Tools and more: https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement
 
 Canadian OSINT: business and corporate info, archives and genealogy, legal and court info, people search and more (dozens of resources): https://github.com/S3V3N11S/Canadian-OSINT-
@@ -88,7 +94,7 @@ Awesome Dutch OSINT. Companies, People, Laws, Geo-information, Airspace, Cars an
 
 **New from GitHub Community:**
 
-
+Saladict - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching: https://github.com/crimx/ext-saladict#?tab=readme-ov-file
 
 ----
 ### bormaxi8080 OSINT timeline:
