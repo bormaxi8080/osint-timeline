@@ -56,6 +56,8 @@ Overture Maps Explorer (Beta). Large database of building information: category,
 
 Apple Maps Online. Now it's not just the app, but the website as well. In general, far behind Google Maps, but can be used to gather additional information about a place (clicking on an object displays images from Getty Images and data from Wikipedia): http://beta.maps.apple.com
 
+SwaggerSpy is a tool designed for automated Open Source Intelligence (OSINT) on SwaggerHub. This project aims to streamline the process of gathering intelligence from APIs documented on SwaggerHub, providing valuable insights for security researchers, developers, and IT professionals: https://github.com/UndeadSec/SwaggerSpy
+
 ----
 
 **AI:**
