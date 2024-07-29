@@ -56,17 +56,27 @@ Overture Maps Explorer (Beta). Large database of building information: category,
 
 Apple Maps Online. Now it's not just the app, but the website as well. In general, far behind Google Maps, but can be used to gather additional information about a place (clicking on an object displays images from Getty Images and data from Wikipedia): http://beta.maps.apple.com
 
+Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python 3 using Twisted and QT5: https://github.com/scrapinghub/splash
+
+Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in: https://github.com/spotify/luigi
+
 SwaggerSpy is a tool designed for automated Open Source Intelligence (OSINT) on SwaggerHub. This project aims to streamline the process of gathering intelligence from APIs documented on SwaggerHub, providing valuable insights for security researchers, developers, and IT professionals: https://github.com/UndeadSec/SwaggerSpy
+
+Varanus. A command line spider monitoring tool. This tool wraps an API POST request to scrapinghub's job and other data storage API: https://github.com/scrapinghub/varanus
 
 ----
 
 **AI:**
 
-
+Formasaurus tells you the type of an HTML form and its fields using machine learning: https://github.com/scrapinghub/Formasaurus
 
 ---
 
 **Software Development:**
+
+Autologin is a library that makes it easier for web spiders to **crawl websites that require login**. Provide it with credentials and a URL or the html source of a page (normally the homepage), and it will attempt to login for you. Cookies are returned to be used by your spider: https://github.com/scrapinghub/autologin
+
+Woodpecker is a simple yet powerful CI/CD engine with great extensibility: https://github.com/woodpecker-ci/woodpecker
 
 **Apache Fury (incubating)** is a blazingly-fast multi-language serialization framework powered by **JIT** (just-in-time compilation) and zero-copy, providing up to 170x performance and ultimate ease of use: https://github.com/apache/fury
 
