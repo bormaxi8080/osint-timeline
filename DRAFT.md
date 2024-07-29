@@ -42,7 +42,13 @@ The draft UN Cybercrime Agreement Agreement opens the way to total surveillance.
 
 ----
 
+Awesome Crawler - A collection of awesome web crawlers, spiders in different languages: https://github.com/BruceDone/awesome-crawler
+
+----
+
 **OSINT Tools, Services and Investigations:**
+
+Discover the latest posts from Instagram, Facebook, or TikTok using hashtags, including author details. Geolocate photo with help of AI or run face recognition to collect even more information and get complete situational awareness. Try on https://os-surveillance.io
 
 Overture Maps Explorer (Beta). Large database of building information: category, name, website, social media, phone, etc. You can view on the map or download data of objects in a certain area in GeoJSON format: https://explore.overturemaps.org
 
@@ -58,11 +64,11 @@ Apple Maps Online. Now it's not just the app, but the website as well. In genera
 
 **Software Development:**
 
-**Apache Fury (incubating)** is a blazingly-fast multi-language serialization framework powered by **JIT** (just-in-time compilation) and **zero-copy**, providing up to 170x performance and ultimate ease of use: https://github.com/apache/fury
+**Apache Fury (incubating)** is a blazingly-fast multi-language serialization framework powered by **JIT** (just-in-time compilation) and zero-copy, providing up to 170x performance and ultimate ease of use: https://github.com/apache/fury
 
 Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms: https://github.com/howdyai/botkit#
 
-Onefetch is a command-line Git information tool written in `Rust` that displays project information and code statistics for a local Git repository directly to your terminal. The tool is completely offline - no network access is required: https://github.com/o2sh/onefetch/
+Onefetch is a command-line Git information tool written in Rust that displays project information and code statistics for a local Git repository directly to your terminal. The tool is completely offline - no network access is required: https://github.com/o2sh/onefetch/
 
 Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery: https://github.com/harness/gitness#
 
