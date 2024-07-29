@@ -28,7 +28,7 @@ Aggregated wordlist pulled from commonly used tools for discovery, enumeration, 
 
 ```bash-dungeon``` - An educational dungeon crawler in the shell: https://github.com/wolandark/bash-dungeon
 
-```asori``` is a dynamic web crawler powered by Puppeteer, designed for lightning-fast endpoint discovery: https://github.com/karthikuj/sasori
+```Sasori``` is a dynamic web crawler powered by Puppeteer, designed for lightning-fast endpoint discovery: https://github.com/karthikuj/sasori
 
 ```FWT``` is a security analysis and file monitoring tool that utilizes Sysmon events: https://github.com/iomoath/FileWatchTower
 
