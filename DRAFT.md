@@ -68,7 +68,7 @@ Skinfer is a tool for inferring and merging JSON schemas: https://github.com/scr
 
 SquatSquasher - A tool to find domains (by primary domain name) that can be used for type squatting and other phishing attacks: https://github.com/Stuub/SquatSquasher
 
-Pi.Alert - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a "always connected" device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated: https://github.com/leiweibau/Pi.Alert#
+Pi.Alert - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a "always connected" device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated: https://github.com/leiweibau/Pi.Alert
 
 Discover more subdomains during your recon by extracting subdomains from TLS certificates. Integrate Cero into your recon automation for better results: https://github.com/glebarez/cero
 
