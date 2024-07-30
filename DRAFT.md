@@ -64,6 +64,12 @@ SwaggerSpy is a tool designed for automated Open Source Intelligence (OSINT) on 
 
 Varanus. A command line spider monitoring tool. This tool wraps an API POST request to scrapinghub's job and other data storage API: https://github.com/scrapinghub/varanus
 
+Skinfer is a tool for inferring and merging JSON schemas: https://github.com/scrapinghub/skinfer
+
+SquatSquasher - A tool to find domains (by primary domain name) that can be used for type squatting and other phishing attacks: https://github.com/Stuub/SquatSquasher
+
+Discover more subdomains during your recon by extracting subdomains from TLS certificates. Integrate Cero into your recon automation for better results: https://github.com/glebarez/cero
+
 ----
 
 **AI:**
@@ -75,6 +81,8 @@ Formasaurus tells you the type of an HTML form and its fields using machine lear
 **Software Development:**
 
 Autologin is a library that makes it easier for web spiders to **crawl websites that require login**. Provide it with credentials and a URL or the html source of a page (normally the homepage), and it will attempt to login for you. Cookies are returned to be used by your spider: https://github.com/scrapinghub/autologin
+
+Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap: https://github.com/sshwsfc/xadmin
 
 Woodpecker is a simple yet powerful CI/CD engine with great extensibility: https://github.com/woodpecker-ci/woodpecker
 
@@ -109,6 +117,8 @@ Bitcoin Tracking for Law Enforcement - A Guide to Crypto Investigations by twitt
 Canadian OSINT: business and corporate info, archives and genealogy, legal and court info, people search and more (dozens of resources): https://github.com/S3V3N11S/Canadian-OSINT-
 
 Awesome Dutch OSINT. Companies, People, Laws, Geo-information, Airspace, Cars and more: https://github.com/wvanderp/awesome-dutch-osint
+
+Browser Autofill Phishing. A very, very old trick, but still relevant. Live demo https://anttiviljami.github.io/browser-autofill-phishing/ - see the data you can pass to sites during form autocompletion via the developer console). Github repo https://github.com/anttiviljami/browser-autofill-phishing
 
 ----
 
