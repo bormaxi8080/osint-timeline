@@ -28,6 +28,10 @@ OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Deve
 
 ----
 
+A Beginner’s Guide to Identifying Explosive Ordnance in Social Media Imagery from Bellingcat: https://www.bellingcat.com/resources/how-tos/2024/07/31/a-beginners-guide-to-identifying-explosive-ordnance-in-social-media-imagery/
+
+----
+
 Obsidian OSINT Templates
 
 by SystemSculpt: https://github.com/SystemSculpt/obsidian_templates
