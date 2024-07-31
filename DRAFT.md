@@ -104,7 +104,7 @@ Gitness is an Open Source developer platform with Source Control management, Con
 
 **Linux & DevOps:**
 
-
+Kapitan aims to be your _one-stop tool_ to help you manage the ever growing complexity of your configurations.: https://github.com/kapicorp/kapitan
 
 ----
 
