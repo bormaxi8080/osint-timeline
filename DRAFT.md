@@ -57,6 +57,8 @@ DockerSpy searches for images on Docker Hub and extracts sensitive information s
 
 **Linux & DevOps:**
 
+Buffet - Web-based virtual machine manager: https://github.com/kgdn/buffet
+
 Gigaproxy (Fireprox) is great but has one major downside. You can only target a single host at a time: https://github.com/Sprocket-Security/gigaproxy
 
 ----
