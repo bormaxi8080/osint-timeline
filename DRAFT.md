@@ -33,6 +33,8 @@ OSINT Template Engine is a research-grade tool for OSINT Information gathering &
 
 Buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox: https://github.com/dessant/buster
 
+Check for the existence of an email on Google platforms: https://github.com/ranlo/check-google-user
+
 Tor Onion Site Scraper - repository contains a Python-based scraper designed to collect HTML files from URLs accessible through the Tor network: https://github.com/joelhagvall/tor-onion-site-scraper
 
 TorCrawl - Crawl and extract (regular or onion) webpages through TOR network: https://github.com/MikeMeliz/TorCrawl.py
