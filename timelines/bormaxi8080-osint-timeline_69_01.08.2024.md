@@ -108,7 +108,7 @@ A collection of awesome resources for the Flipper Zero device with repository st
 
 ```Awesome Dutch OSINT```. Companies, People, Laws, Geo-information, Airspace, Cars and more: https://github.com/wvanderp/awesome-dutch-osint
 
-B```rowser Autofill Phishing```. A very, very old trick, but still relevant. Live demo https://anttiviljami.github.io/browser-autofill-phishing/ - see the data you can pass to sites during form autocompletion via the developer console). Github repo https://github.com/anttiviljami/browser-autofill-phishing
+```Browser Autofill Phishing```. A very, very old trick, but still relevant. Live demo https://anttiviljami.github.io/browser-autofill-phishing/ - see the data you can pass to sites during form autocompletion via the developer console). Github repo https://github.com/anttiviljami/browser-autofill-phishing
 
 ----
 
