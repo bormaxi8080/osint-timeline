@@ -29,11 +29,19 @@ OSINT Template Engine is a research-grade tool for OSINT Information gathering &
 
 ----
 
+Useful resources to conduct research and OSINT investigations on Discord accounts ,servers and bots: https://github.com/husseinmuhaisen/DiscordOSINT
+
+Unofficial Discord Lookup: https://discord.id/
+
+Darvester - Powerful Discord OSINT toolkit written in Python and Dart/Flutter: https://github.com/darvester/darvester
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox: https://github.com/dessant/buster
 
-Check for the existence of an email on Google platforms: https://github.com/ranlo/check-google-user
+Check Google User - Check for the existence of an email on Google platforms: https://github.com/ranlo/check-google-user
 
 Tor Onion Site Scraper - repository contains a Python-based scraper designed to collect HTML files from URLs accessible through the Tor network: https://github.com/joelhagvall/tor-onion-site-scraper
 
