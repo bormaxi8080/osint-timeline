@@ -25,6 +25,8 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 ----
 
+Methodology for Measuring Individual Affective Polarization Using Sentiment Analysis in Social Networks: https://ieeexplore.ieee.org/document/10605784
+
 OSINT Template Engine is a research-grade tool for OSINT Information gathering & Attack Surface Mapping which uses customizable templates to collect data from sources. It allows for new template creation and modification of existing ones which gives it a competitive advantage over other tools of the same category: https://github.com/3nock/OTE
 
 ----
@@ -59,7 +61,7 @@ DockerSpy searches for images on Docker Hub and extracts sensitive information s
 
 **Software Development:**
 
-
+Django Unfold - Modern Django admin theme for seamless interface development: https://github.com/unfoldadmin/django-unfold
 
 ----
 
@@ -68,6 +70,8 @@ DockerSpy searches for images on Docker Hub and extracts sensitive information s
 Buffet - Web-based virtual machine manager: https://github.com/kgdn/buffet
 
 Gigaproxy (Fireprox) is great but has one major downside. You can only target a single host at a time: https://github.com/Sprocket-Security/gigaproxy
+
+Kernel Hardening Checker - A tool for checking the security hardening options of the Linux kernel: https://github.com/a13xp0p0v/kernel-hardening-checker
 
 ----
 
