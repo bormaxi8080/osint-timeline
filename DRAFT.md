@@ -22,9 +22,27 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 The ceiling of the lower world is almost always the bottom of the upper.
 
+
+
 ----
 
-OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2000: https://github.com/bormaxi8080/osint-repos-list
+OpenRefine is a free, open source power tool for working with messy data and improving it: https://github.com/OpenRefine/OpenRefine
+
+Buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox: https://github.com/dessant/buster
+
+OSINT Template Engine is a research-grade tool for OSINT Information gathering & Attack Surface Mapping which uses customizable templates to collect data from sources. It allows for new template creation and modification of existing ones which gives it a competitive advantage over other tools of the same category: https://github.com/3nock/OTE
+
+Tor Onion Site Scraper - repository contains a Python-based scraper designed to collect HTML files from URLs accessible through the Tor network: https://github.com/joelhagvall/tor-onion-site-scraper
+
+TorCrawl - Crawl and extract (regular or onion) webpages through TOR network: https://github.com/MikeMeliz/TorCrawl.py
+
+Gigaproxy (Fireprox) is great but has one major downside. You can only target a single host at a time: https://github.com/Sprocket-Security/gigaproxy
+
+DockerSpy searches for images on Docker Hub and extracts sensitive information such as authentication secrets, private keys, and more: https://github.com/UndeadSec/DockerSpy
+
+----
+
+OSINT Repos List, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2100: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
@@ -92,7 +110,7 @@ Drop-in replacement of Django admin comes with lots of goodies, fully extensible
 
 Woodpecker is a simple yet powerful CI/CD engine with great extensibility: https://github.com/woodpecker-ci/woodpecker
 
-**Apache Fury (incubating)** is a blazingly-fast multi-language serialization framework powered by **JIT** (just-in-time compilation) and zero-copy, providing up to 170x performance and ultimate ease of use: https://github.com/apache/fury
+Apache Fury (incubating) is a blazingly-fast multi-language serialization framework powered by **JIT** (just-in-time compilation) and zero-copy, providing up to 170x performance and ultimate ease of use: https://github.com/apache/fury
 
 Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms: https://github.com/howdyai/botkit#
 
