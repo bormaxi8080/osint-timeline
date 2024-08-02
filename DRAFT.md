@@ -91,6 +91,8 @@ FININT tools by twitter.com/ohshint_ - cryptocurrency and blockchain, investment
 
 **New from GitHub Community:**
 
+Sync.io - A simple and easy to use HTTP based file sharing server to aid platform independent wireless file sharing between multiple devices: https://github.com/KhushalJangid/sync.io
+
 OpenRefine is a free, open source power tool for working with messy data and improving it: https://github.com/OpenRefine/OpenRefine
 
 ----
