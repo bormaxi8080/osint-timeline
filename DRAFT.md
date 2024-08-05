@@ -74,6 +74,12 @@ GitHub: https://github.com/YassKhazzan/openperplex_backend_os
 
 Django Unfold - Modern Django admin theme for seamless interface development: https://github.com/unfoldadmin/django-unfold
 
+Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API: https://github.com/swagger-api/swagger-ui
+
+Dev-Setup - macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults: https://github.com/donnemartin/dev-setup#
+
+PlatformIO-Core - Your Gateway to Embedded Software Development Excellence: https://github.com/platformio/platformio-core#
+
 ----
 
 **Linux & DevOps:**
@@ -83,6 +89,8 @@ Buffet - Web-based virtual machine manager: https://github.com/kgdn/buffet
 Gigaproxy (Fireprox) is great but has one major downside. You can only target a single host at a time: https://github.com/Sprocket-Security/gigaproxy
 
 Kernel Hardening Checker - A tool for checking the security hardening options of the Linux kernel: https://github.com/a13xp0p0v/kernel-hardening-checker
+
+Zentrox helps you with the administration of your home server. It will provide you with the most important tools for managing your device: https://github.com/Wervice/zentrox#
 
 ----
 
