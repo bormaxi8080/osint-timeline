@@ -31,6 +31,12 @@ OSINT Template Engine is a research-grade tool for OSINT Information gathering &
 
 ----
 
+OSINT Services and Bots Collection: https://osintbot.gitbook.io/podborka-ssylok-dlya-probiva/boty-telegram-dlya-probiva
+
+Social media Tools Collection: https://fmhy.net/social-media-tools
+
+----
+
 Useful resources to conduct research and OSINT investigations on Discord accounts ,servers and bots: https://github.com/husseinmuhaisen/DiscordOSINT
 
 Unofficial Discord Lookup: https://discord.id/
@@ -41,9 +47,13 @@ Darvester - Powerful Discord OSINT toolkit written in Python and Dart/Flutter: h
 
 **OSINT Tools, Services and Investigations:**
 
+RevEye: Reverse image search extension for Google Chrome to search visually similar images across multiple search engines simultaneously: https://github.com/steven2358/reveye
+
 Buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox: https://github.com/dessant/buster
 
 Check Google User - Check for the existence of an email on Google platforms: https://github.com/ranlo/check-google-user
+
+Fake where your phone is located (Mock location for Android). Sometimes you need to fake the location of your device (for privacy or to test an app). Fake Traveler provides you a map to select the location where you want your phone to be: https://github.com/mcastillof/FakeTraveler
 
 Tor Onion Site Scraper - repository contains a Python-based scraper designed to collect HTML files from URLs accessible through the Tor network: https://github.com/joelhagvall/tor-onion-site-scraper
 
@@ -55,7 +65,8 @@ DockerSpy searches for images on Docker Hub and extracts sensitive information s
 
 **AI:**
 
-
+Open Perplex - New free AI search engine and chat assistant. Based on Meta LLama 3 70B. Can be used as an alternative to ChatGPT, Perplexity, You etc: https://openperplex.com
+GitHub: https://github.com/YassKhazzan/openperplex_backend_os
 
 ---
 
@@ -86,6 +97,11 @@ Rust on the Flipper Zero: https://github.com/flipperzero-rs/flipperzero
 Company registries by country. A list of links to resources (mostly governmental) for collecting information on legal business entities in over 60 different countries: https://www.disputesregister.org/advice/company-registries-by-country
 
 FININT tools by twitter.com/ohshint_ - cryptocurrency and blockchain, investments and stocks, banking, BINs and card information and more: https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/financial-intelligence-finint
+
+Whisper TIMESTAMPED:
+1. Transcript video text (in 100+ languages).
+2. When you click on each word, it switches to the corresponding timestamp of the video.
+https://huggingface.co/spaces/Xenova/whisper-word-level-timestamps
 
 ----
 
