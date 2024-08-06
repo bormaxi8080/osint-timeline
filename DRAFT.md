@@ -68,6 +68,8 @@ DockerSpy searches for images on Docker Hub and extracts sensitive information s
 Open Perplex - New free AI search engine and chat assistant. Based on Meta LLama 3 70B. Can be used as an alternative to ChatGPT, Perplexity, You etc: https://openperplex.com
 GitHub: https://github.com/YassKhazzan/openperplex_backend_os
 
+Twitter Insight LLM - Twitter AI data scraping, embedding based image search and more: https://github.com/AlexZhangji/Twitter-Insight-LLM
+
 ---
 
 **Software Development:**
@@ -110,6 +112,8 @@ Whisper TIMESTAMPED:
 1. Transcript video text (in 100+ languages).
 2. When you click on each word, it switches to the corresponding timestamp of the video.
 https://huggingface.co/spaces/Xenova/whisper-word-level-timestamps
+
+Open Source Web Scanners - general purpose scanners, infrastructure scanners, fuzzers/brute forcers, CMS scanners, API scanners: https://github.com/psiinon/open-source-web-scanners
 
 ----
 
