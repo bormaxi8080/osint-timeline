@@ -22,7 +22,7 @@ Buryat break.
 
 ----
 
-
+OSINT: VK Profile Analysis: https://habr.com/ru/articles/834280/
 
 ----
 
