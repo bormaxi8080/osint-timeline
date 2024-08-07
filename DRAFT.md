@@ -22,7 +22,11 @@ Buryat break.
 
 ----
 
-OSINT: VK Profile Analysis: https://habr.com/ru/articles/834280/
+MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant: https://github.com/MagicMirrorOrg/MagicMirror
+
+----
+
+OSINT VK Profile Analysis: https://habr.com/ru/articles/834280/
 
 ----
 
