@@ -16,9 +16,6 @@ Slavyansk, Artem Street.
 
 Buryat break.
 
-
-A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
-
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2100: https://github.com/bormaxi8080/osint-repos-list
@@ -47,11 +44,13 @@ Darvester - Powerful Discord OSINT toolkit written in Python and Dart/Flutter: h
 
 **OSINT Tools, Services and Investigations:**
 
-RevEye: Reverse image search extension for Google Chrome to search visually similar images across multiple search engines simultaneously: https://github.com/steven2358/reveye
+RevEye - Reverse image search extension for Google Chrome to search visually similar images across multiple search engines simultaneously: https://github.com/steven2358/reveye
 
 Buster - Captcha solver extension for humans, available for Chrome, Edge and Firefox: https://github.com/dessant/buster
 
 Check Google User - Check for the existence of an email on Google platforms: https://github.com/ranlo/check-google-user
+
+w2vgrep is a command-line tool that performs semantic searches on text input using word embeddings. It's designed to find semantically similar matches to the query, going beyond simple string matching. Supports multiple languages. The experience is designed to be similar to grep: https://github.com/arunsupe/semantic-grep
 
 Fake where your phone is located (Mock location for Android). Sometimes you need to fake the location of your device (for privacy or to test an app). Fake Traveler provides you a map to select the location where you want your phone to be: https://github.com/mcastillof/FakeTraveler
 
