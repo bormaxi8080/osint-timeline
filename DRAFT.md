@@ -50,6 +50,8 @@ Poetry - Python packaging and dependency management made easy: https://github.co
 
 XMake - A cross-platform build utility based on Lua: https://github.com/xmake-io/xmake
 
+Open source API development ecosystem - [https://hoppscotch.io](https://hoppscotch.io/) (open-source alternative to Postman, Insomnia): https://github.com/hoppscotch/hoppscotch#
+
 ----
 
 **Linux & DevOps:**
