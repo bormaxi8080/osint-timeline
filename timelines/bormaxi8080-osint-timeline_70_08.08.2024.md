@@ -24,7 +24,7 @@ A human being should be able to change a diaper, plan an invasion, butcher a hog
 
 ----
 
-```Useful resources to conduct research and OSINT investigations on Discord``` accounts ,servers and bots: https://github.com/husseinmuhaisen/DiscordOSINT
+```Useful resources to conduct research and OSINT investigations on Discord``` accounts, servers and bots: https://github.com/husseinmuhaisen/DiscordOSINT
 
 Unofficial Discord ```Lookup```: https://discord.id/
 
@@ -79,7 +79,7 @@ GitHub: https://github.com/YassKhazzan/openperplex_backend_os
 
 ```Gigaproxy``` (Fireprox) is great but has one major downside. You can only target a single host at a time: https://github.com/Sprocket-Security/gigaproxy
 
-K```ernel Hardening Checker``` - A tool for checking the security hardening options of the Linux kernel: https://github.com/a13xp0p0v/kernel-hardening-checker
+```Kernel Hardening Checker``` - A tool for checking the security hardening options of the Linux kernel: https://github.com/a13xp0p0v/kernel-hardening-checker
 
 ```Zentrox``` helps you with the administration of your home server. It will provide you with the most important tools for managing your device: https://github.com/Wervice/zentrox#
 
