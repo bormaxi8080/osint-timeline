@@ -32,25 +32,29 @@ OSINT VK Profile Analysis: https://habr.com/ru/articles/834280/
 
 **OSINT Tools, Services and Investigations:**
 
+TeleParser - Simple parser for Telegram chats and channels with lemmatizer. Writes data in JSON, CSV and MongoDB: https://github.com/artmih24/TeleParser
 
+W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering: https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 
 ----
 
 **AI:**
 
-
+Frigate - NVR with realtime local object detection for IP cameras: https://github.com/blakeblackshear/frigate
 
 ---
 
 **Software Development:**
 
+Poetry - Python packaging and dependency management made easy: https://github.com/python-poetry/poetry
 
+XMake - A cross-platform build utility based on Lua: https://github.com/xmake-io/xmake
 
 ----
 
 **Linux & DevOps:**
 
-
+OliveTin gives safe and simple access to predefined shell commands from a web interface: https://github.com/OliveTin/OliveTin
 
 ----
 
