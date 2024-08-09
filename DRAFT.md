@@ -26,6 +26,8 @@ MagicMirror² is an open source modular smart mirror platform. With a growing li
 
 ----
 
+Social Engineering Attacks Statistics 2024-2025: https://www.vpnranks.com/resources/social-engineering-attacks-statistics/
+
 OSINT VK Profile Analysis: https://habr.com/ru/articles/834280/
 
 ----
@@ -33,6 +35,12 @@ OSINT VK Profile Analysis: https://habr.com/ru/articles/834280/
 **OSINT Tools, Services and Investigations:**
 
 TeleParser - Simple parser for Telegram chats and channels with lemmatizer. Writes data in JSON, CSV and MongoDB: https://github.com/artmih24/TeleParser
+
+TelAnalysis - Telegram Analysis tool: https://github.com/krakodjaba/telanalysis
+
+Raven - This app uses APIs and web scraping to fetch news articles: https://github.com/ksh-b/raven
+
+Elyzer is an email header analyzer, written in python, capable of detecting potential spoofing attempts: https://github.com/B0lg0r0v/Elyzer
 
 W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering: https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 
