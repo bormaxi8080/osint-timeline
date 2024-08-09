@@ -34,6 +34,10 @@ OSINT VK Profile Analysis: https://habr.com/ru/articles/834280/
 
 **OSINT Tools, Services and Investigations:**
 
+Predicta Search unearths digital footprints of phone numbers and emails. Predicta has a free tier, paid subscription tier and an API for flexibility. It generates detailed reports in csv format (spreadsheet) so you can export it and use the data in multiple different ways — such as visualizing in Cosmograph: https://www.predictasearch.com/overview
+
+Cosmograph - Make sense of your graph and machine learning data: https://cosmograph.app/
+
 TeleParser - Simple parser for Telegram chats and channels with lemmatizer. Writes data in JSON, CSV and MongoDB: https://github.com/artmih24/TeleParser
 
 TelAnalysis - Telegram Analysis tool: https://github.com/krakodjaba/telanalysis
