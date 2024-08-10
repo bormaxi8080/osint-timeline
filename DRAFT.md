@@ -80,13 +80,13 @@ A geiger counter application for the Flipper Zero: https://github.com/nmrr/flipp
 
 **New from CyberDetective:**
 
-
+Imagery OSINT Tools - general search, reverse search, generation, enhancement, editing and manipulation, metadata and forensic: https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/imagery-intelligence-imint
 
 ----
 
 **New from GitHub Community:**
 
-
+Pingora - A library for building fast, reliable and evolvable network services: https://github.com/cloudflare/pingora#
 
 ----
 ### bormaxi8080 OSINT timeline:
