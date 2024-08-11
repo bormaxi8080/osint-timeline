@@ -44,6 +44,8 @@ TelAnalysis - Telegram Analysis tool: https://github.com/krakodjaba/telanalysis
 
 Raven - This app uses APIs and web scraping to fetch news articles: https://github.com/ksh-b/raven
 
+Aduana - Frontera backend to guide a crawl using PageRank, HITS or other ranking algorithms based on the link structure of the web graph, even when making big crawls (one billion pages): https://github.com/scrapinghub/aduana
+
 Elyzer is an email header analyzer, written in python, capable of detecting potential spoofing attempts: https://github.com/B0lg0r0v/Elyzer
 
 W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering: https://github.com/C3n7ral051nt4g3ncy/WebOSINT
