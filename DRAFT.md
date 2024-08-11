@@ -48,6 +48,8 @@ Elyzer is an email header analyzer, written in python, capable of detecting pote
 
 W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering: https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 
+Hookchain - In the current digital security ecosystem, where threats evolve rapidly and with complexity, companies developing Endpoint Detection and Response (EDR) solutions are in constant search for innovations that not only keep up but also anticipate emerging attack vectors: https://github.com/helviojunior/hookchain
+
 ----
 
 **AI:**
@@ -68,6 +70,8 @@ Open source API development ecosystem - [https://hoppscotch.io](https://hoppsco
 
 **Linux & DevOps:**
 
+PG Back Web isn't just another backup tool. It's your trusted ally in ensuring the security and availability of your PostgreSQL data: https://github.com/eduardolat/pgbackweb#
+
 OliveTin gives safe and simple access to predefined shell commands from a web interface: https://github.com/OliveTin/OliveTin
 
 ----
@@ -81,6 +85,8 @@ A geiger counter application for the Flipper Zero: https://github.com/nmrr/flipp
 **New from CyberDetective:**
 
 Imagery OSINT Tools - general search, reverse search, generation, enhancement, editing and manipulation, metadata and forensic: https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/imagery-intelligence-imint
+
+FACEAGLE Search by uploaded photo among 4,190,655 face images: https://faceagle.com
 
 ----
 
