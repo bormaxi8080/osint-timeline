@@ -70,6 +70,8 @@ Open source API development ecosystem - [https://hoppscotch.io](https://hoppsco
 
 **Linux & DevOps:**
 
+Sniffnet - Application to comfortably monitor your Internet traffic. Cross-platform, Intuitive, Reliable: https://github.com/GyulyVGC/sniffnet
+
 PG Back Web isn't just another backup tool. It's your trusted ally in ensuring the security and availability of your PostgreSQL data: https://github.com/eduardolat/pgbackweb#
 
 OliveTin gives safe and simple access to predefined shell commands from a web interface: https://github.com/OliveTin/OliveTin
