@@ -90,6 +90,8 @@ A geiger counter application for the Flipper Zero: https://github.com/nmrr/flipp
 
 Imagery OSINT Tools - general search, reverse search, generation, enhancement, editing and manipulation, metadata and forensic: https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/imagery-intelligence-imint
 
+[lenso.ai](http://lenso.ai): Reserve images/face images search tool. Search duplicates and similar images. Filter results by domains and keywords.
+
 FACEAGLE Search by uploaded photo among 4,190,655 face images: https://faceagle.com
 
 ----
