@@ -22,15 +22,17 @@ Buryat break.
 
 ----
 
-China has built more than 50 new settlements along its disputed borders and paid people to move into them, referring to them as 'border guardians'. Some are in areas claimed by other countries: https://www.nytimes.com/interactive/2024/08/10/world/asia/china-border-villages.html
-
-----
-
 MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant: https://github.com/MagicMirrorOrg/MagicMirror
 
 ----
 
+The National UFO Reporting Center Online Database: https://nuforc.org/databank/
+
 Social Engineering Attacks Statistics 2024-2025: https://www.vpnranks.com/resources/social-engineering-attacks-statistics/
+
+----
+
+China has built more than 50 new settlements along its disputed borders and paid people to move into them, referring to them as 'border guardians'. Some are in areas claimed by other countries: https://www.nytimes.com/interactive/2024/08/10/world/asia/china-border-villages.html
 
 OSINT VK Profile Analysis: https://habr.com/ru/articles/834280/
 
