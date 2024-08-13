@@ -68,6 +68,8 @@ TikTok Hashtag Analysis - Analyze hashtags within posts scraped from TikTok: htt
 
 Elyzer is an email header analyzer, written in python, capable of detecting potential spoofing attempts: https://github.com/B0lg0r0v/Elyzer
 
+Odinova Digital Tiger is an advanced application designed for Open-Source Intelligence (OSINT), equipped with versatile tools and a user-friendly interface to streamline investigative workflows and enhance data analysis capabilities: https://github.com/AnonCatalyst/Odinova
+
 W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering: https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 
 Hookchain - In the current digital security ecosystem, where threats evolve rapidly and with complexity, companies developing Endpoint Detection and Response (EDR) solutions are in constant search for innovations that not only keep up but also anticipate emerging attack vectors: https://github.com/helviojunior/hookchain
