@@ -52,6 +52,18 @@ Raven - This app uses APIs and web scraping to fetch news articles: https://gith
 
 Aduana - Frontera backend to guide a crawl using PageRank, HITS or other ranking algorithms based on the link structure of the web graph, even when making big crawls (one billion pages): https://github.com/scrapinghub/aduana
 
+Mails/Phones/Any Bulk Scrape & Extractor Pro is a powerful tool that allows you to bulk extract email and phone numbers from various social media platforms including Facebook, Twitter, Instagram, LinkedIn, Youtube, Pinterest, TikTok, Tumblr, Dribbble, VK, Discord, ok.ru, Line, Snapchat and any website: https://github.com/peoslsodo/Emails-Phones-Any-Bulk-Scrape-Extractor
+
+Tik-Spyder - A Python command-line tool designed to collect TikTok data from Google's search results using SerpAPI: https://github.com/estebanpdl/tik-spyder
+
+TikTok Scraper Selenium - Quick and dirty script that uses selenium and a webdriver binary to scrape public TikTok profiles: https://github.com/slouchd/tiktok-scraper-selenium
+
+TikTok Crawler - A custom Python crawler written in Selenium for downloading Tiktok videos as mp4 files along with their metadata in a json file (author, tags, captions, etc.): https://github.com/jeppbautista/tiktok-crawler
+
+Zefoy - Bot likes, followers, shares and views on TikTok: https://github.com/drakyanerlanggarizkiwardhana/zefoy
+
+TikTok Hashtag Analysis - Analyze hashtags within posts scraped from TikTok: https://github.com/rly0nheart/tiktok-hashtag-analysis
+
 Elyzer is an email header analyzer, written in python, capable of detecting potential spoofing attempts: https://github.com/B0lg0r0v/Elyzer
 
 W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering: https://github.com/C3n7ral051nt4g3ncy/WebOSINT
@@ -62,17 +74,21 @@ Hookchain - In the current digital security ecosystem, where threats evolve rapi
 
 **AI:**
 
+MindSearch - An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT): https://github.com/InternLM/MindSearch
+
 Frigate - NVR with realtime local object detection for IP cameras: https://github.com/blakeblackshear/frigate
 
 ---
 
 **Software Development:**
 
+esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently: https://github.com/SPLWare/esProc
+
 Poetry - Python packaging and dependency management made easy: https://github.com/python-poetry/poetry
 
 XMake - A cross-platform build utility based on Lua: https://github.com/xmake-io/xmake
 
-Open source API development ecosystem - [https://hoppscotch.io](https://hoppscotch.io/) (open-source alternative to Postman, Insomnia): https://github.com/hoppscotch/hoppscotch#
+Open source API development ecosystem - [https://hoppscotch.io](https://hoppscotch.io/) (open-source alternative to Postman, Insomnia): https://github.com/hoppscotch/hoppscotch
 
 ----
 
@@ -80,7 +96,11 @@ Open source API development ecosystem - [https://hoppscotch.io](https://hoppsco
 
 Sniffnet - Application to comfortably monitor your Internet traffic. Cross-platform, Intuitive, Reliable: https://github.com/GyulyVGC/sniffnet
 
-PG Back Web isn't just another backup tool. It's your trusted ally in ensuring the security and availability of your PostgreSQL data: https://github.com/eduardolat/pgbackweb#
+PG Back Web isn't just another backup tool. It's your trusted ally in ensuring the security and availability of your PostgreSQL data: https://github.com/eduardolat/pgbackweb
+
+Traceshark - Deep Linux runtime visibility meets Wireshark: https://github.com/aquasecurity/traceeshark
+
+SSHamble: Unexpected Exposures in SSH: https://github.com/runZeroInc/sshamble
 
 OliveTin gives safe and simple access to predefined shell commands from a web interface: https://github.com/OliveTin/OliveTin
 
