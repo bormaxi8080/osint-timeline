@@ -44,6 +44,8 @@ Predicta Search unearths digital footprints of phone numbers and emails. Predict
 
 Cosmograph - Make sense of your graph and machine learning data: https://cosmograph.app/
 
+Signalhire searches and displays phone numbers, emails, and social media profiles like LinkedIn, Facebook, and Twitter, all in one place: https://www.signalhire.com/
+
 TeleParser - Simple parser for Telegram chats and channels with lemmatizer. Writes data in JSON, CSV and MongoDB: https://github.com/artmih24/TeleParser
 
 TelAnalysis - Telegram Analysis tool: https://github.com/krakodjaba/telanalysis
