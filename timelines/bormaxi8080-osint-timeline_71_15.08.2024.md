@@ -5,13 +5,16 @@
 --
 
 Pine forest, sun, almost summer.
+
 - Cuckoo, cuckoo, how old am I?..
 I think it's 12.
 - Something’s not enough... Let’s do it again?..
 I think. 12.
 - Yes, in our lifetime, a year or two... Still not enough. Maybe you can add more?..
 I think. 12. And one more, with a pause.
-- How stubborn... Well, okay, we’ll live to see fifty, and then we’ll see. The cuckoo is not the last, after all.
+- How stubborn... 
+
+Well, okay, we’ll live to see fifty, and then we’ll see. The cuckoo is not the last, after all.
 
 ----
 \

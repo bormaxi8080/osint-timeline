@@ -18,13 +18,13 @@ Buryat break.
 
 **OSINT Tools, Services and Investigations:**
 
-
+G-Scraper - A GUI web scraper, written completely in Python: https://github.com/muaaz-ur-habibi/G-Scraper
 
 ----
 
 **AI:**
 
-
+Deep Live Cam - Real time face swap and one-click video deepfake with only a single image: https://github.com/hacksider/Deep-Live-Cam
 
 ---
 
