@@ -100,6 +100,8 @@ Open source API development ecosystem - [https://hoppscotch.io](https://hoppsco
 
 Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle: https://github.com/kubeshop/monokle
 
+Mgmt - Next generation distributed, event-driven, parallel config management: https://github.com/purpleidea/mgmt
+
 Sniffnet - Application to comfortably monitor your Internet traffic. Cross-platform, Intuitive, Reliable: https://github.com/GyulyVGC/sniffnet
 
 PG Back Web isn't just another backup tool. It's your trusted ally in ensuring the security and availability of your PostgreSQL data: https://github.com/eduardolat/pgbackweb
