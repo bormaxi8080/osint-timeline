@@ -98,6 +98,8 @@ Open source API development ecosystem - [https://hoppscotch.io](https://hoppsco
 
 **Linux & DevOps:**
 
+Monokle is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle: https://github.com/kubeshop/monokle
+
 Sniffnet - Application to comfortably monitor your Internet traffic. Cross-platform, Intuitive, Reliable: https://github.com/GyulyVGC/sniffnet
 
 PG Back Web isn't just another backup tool. It's your trusted ally in ensuring the security and availability of your PostgreSQL data: https://github.com/eduardolat/pgbackweb
@@ -131,6 +133,8 @@ FACEAGLE Search by uploaded photo among 4,190,655 face images: https://faceagle.
 **New from GitHub Community:**
 
 Pingora - A library for building fast, reliable and evolvable network services: https://github.com/cloudflare/pingora#
+
+Ghost - Independent technology for modern publishing, memberships, subscriptions and newsletters: https://github.com/TryGhost/Ghost
 
 ----
 ### bormaxi8080 OSINT timeline:
