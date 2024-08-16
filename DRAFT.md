@@ -12,7 +12,7 @@ Buryat break.
 
 ----
 
-
+Text Attribution - How to identify the author using a computer: https://habr.com/ru/articles/834912/
 
 ----
 
@@ -31,18 +31,17 @@ Deep Live Cam - Real time face swap and one-click video deepfake with only a sin
 **Software Development:**
 
 
-
 ----
 
 **Linux & DevOps:**
 
-
+Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI: https://github.com/Infisical/infisical#
 
 ----
 
 **Flipper Zero:**
 
-
+Flipper Zero POCSAG Pager receiver plugin: https://github.com/xMasterX/flipper-pager
 
 ----
 
