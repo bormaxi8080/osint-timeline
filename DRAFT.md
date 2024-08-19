@@ -14,6 +14,8 @@ Buryat break.
 
 Text Attribution - How to identify the author using a computer: https://habr.com/ru/articles/834912/
 
+Repository of LinkedIn posts about Red Team Exercises: https://github.com/CyberSecurityUP/Red-Team-Exercises
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -26,18 +28,23 @@ JDownloader is a free, open-source download management tool with a huge communit
 
 **AI:**
 
+Chainsaw Human Typing is a tool that allows you to simulate human typing on a keyboard if you can't, or don't want to, paste directly: https://github.com/LyubomirT/chainsaw-human-typing#
+
 Deep Live Cam - Real time face swap and one-click video deepfake with only a single image: https://github.com/hacksider/Deep-Live-Cam
 
 ---
 
 **Software Development:**
 
+Jet-Admin - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries: https://github.com/Jet-labs/Jet-admin
 
 ----
 
 **Linux & DevOps:**
 
-Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI: https://github.com/Infisical/infisical#
+Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI: https://github.com/Infisical/infisical
+
+Kexa's simple rules (Open Source) guarantee the security of your entire cloud. With real-time monitoring, instant alerts and detailed, scalable and integrable reporting, it turns complexity into simplicity, turning compliance into a competitive advantage: https://github.com/4urcloud/Kexa
 
 ----
 
@@ -55,7 +62,7 @@ Flipper Zero POCSAG Pager receiver plugin: https://github.com/xMasterX/flipper-p
 
 **New from GitHub Community:**
 
-
+Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only: https://github.com/pipelight/pipelight
 
 ----
 ### bormaxi8080 OSINT timeline:
