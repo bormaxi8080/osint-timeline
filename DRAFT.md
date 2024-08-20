@@ -20,6 +20,8 @@ Repository of LinkedIn posts about Red Team Exercises: https://github.com/CyberS
 
 **OSINT Tools, Services and Investigations:**
 
+StealthMessage is a designed platform that allows users to send and receive anonymous messages without revealing its identity: https://github.com/nordszamora/Stealth-Message
+
 G-Scraper - A GUI web scraper, written completely in Python: https://github.com/muaaz-ur-habibi/G-Scraper
 
 JDownloader is a free, open-source download management tool with a huge community that makes downloading as easy and fast as it should be. Users can start, stop or pause downloads, set bandwith limitations, auto-extract archives and much more. It's an easy-to-extend framework that can save hours of your valuable time every day. Created version for Linux Void: https://github.com/johna23-lab/jdownloader2
@@ -28,13 +30,15 @@ JDownloader is a free, open-source download management tool with a huge communit
 
 **AI:**
 
-Chainsaw Human Typing is a tool that allows you to simulate human typing on a keyboard if you can't, or don't want to, paste directly: https://github.com/LyubomirT/chainsaw-human-typing#
+Chainsaw Human Typing is a tool that allows you to simulate human typing on a keyboard if you can't, or don't want to, paste directly: https://github.com/LyubomirT/chainsaw-human-typing
 
 Deep Live Cam - Real time face swap and one-click video deepfake with only a single image: https://github.com/hacksider/Deep-Live-Cam
 
 ---
 
 **Software Development:**
+
+Parrot UI - A no-CLI, copy-paste component library using Tailwind and TSX. Simple, transparent, and easy to integrate: https://github.com/ddoemonn/parrot_ui
 
 Jet-Admin - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries: https://github.com/Jet-labs/Jet-admin
 
@@ -56,7 +60,7 @@ Flipper Zero POCSAG Pager receiver plugin: https://github.com/xMasterX/flipper-p
 
 **New from CyberDetective:**
 
-
+AIHIT Data Company Database Search over 13 million companies by various parameters - name, description, country, city, zipcode, phone, email, clients, partners, investor names: http://aihitdata.com
 
 ----
 
