@@ -40,6 +40,8 @@ Deep Live Cam - Real time face swap and one-click video deepfake with only a sin
 
 Parrot UI - A no-CLI, copy-paste component library using Tailwind and TSX. Simple, transparent, and easy to integrate: https://github.com/ddoemonn/parrot_ui
 
+Stack Auth - Open-source Clerk/Auth0 alternative: https://github.com/stack-auth/stack
+
 Jet-Admin - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries: https://github.com/Jet-labs/Jet-admin
 
 ----
