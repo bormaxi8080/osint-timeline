@@ -66,6 +66,8 @@ Flipper Zero POCSAG Pager receiver plugin: https://github.com/xMasterX/flipper-p
 
 AIHIT Data Company Database Search over 13 million companies by various parameters - name, description, country, city, zipcode, phone, email, clients, partners, investor names: http://aihitdata.com
 
+National Public Data (NPD) confirmed a breach that has exposed personal identity records belonging to potentially hundreds of millions of consumers across the US, UK, and Canada. Сheck whether the leak has affected your data: https://npd.pentester.com
+
 Search Whisperer Beta. A free AI tool that teaches you how to properly compose search queries and use Google Dorks. Write what you want to find and get search query recommendations with detailed explanations: https://searchwhisperer.ai
 
 ----
