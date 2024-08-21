@@ -8,7 +8,7 @@ Buryat break.
 
 ----
 
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2100: https://github.com/bormaxi8080/osint-repos-list
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2200: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
@@ -22,6 +22,8 @@ Red Team Exercises - Repository of LinkedIn posts about Red Team Exercises: http
 
 **OSINT Tools, Services and Investigations:**
 
+Trace URL redirects with Redirect Detective, a free tool to uncover hidden, potentially malicious sites behind shortened links: http://redirectdetective.com
+
 StealthMessage is a designed platform that allows users to send and receive anonymous messages without revealing its identity: https://github.com/nordszamora/Stealth-Message
 
 G-Scraper - A GUI web scraper, written completely in Python: https://github.com/muaaz-ur-habibi/G-Scraper
@@ -33,6 +35,8 @@ JDownloader is a free, open-source download management tool with a huge communit
 **AI:**
 
 Chainsaw Human Typing is a tool that allows you to simulate human typing on a keyboard if you can't, or don't want to, paste directly: https://github.com/LyubomirT/chainsaw-human-typing
+
+Auto-Analyst is an AI-driven data analytics agentic system designed to simplify and enhance the data science process. By integrating various specialized AI agents, this tool aims to make complex data analysis tasks more accessible and efficient for data analysts and scientists. Auto-Analyst provides a streamlined approach to data preprocessing, statistical analysis, machine learning, and visualization, all within an interactive Streamlit interface: https://github.com/ArslanS1997/Auto-Analyst
 
 Deep Live Cam - Real time face swap and one-click video deepfake with only a single image: https://github.com/hacksider/Deep-Live-Cam
 
