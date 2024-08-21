@@ -68,6 +68,8 @@ AIHIT Data Company Database Search over 13 million companies by various paramete
 
 National Public Data (NPD) confirmed a breach that has exposed personal identity records belonging to potentially hundreds of millions of consumers across the US, UK, and Canada. Сheck whether the leak has affected your data: https://npd.pentester.com
 
+LittleSis. Free database detailing the connections between public Figures and Organizations: Citations, Relationships, People, Organizations: https://littlesis.org
+
 Search Whisperer Beta. A free AI tool that teaches you how to properly compose search queries and use Google Dorks. Write what you want to find and get search query recommendations with detailed explanations: https://searchwhisperer.ai
 
 ----
