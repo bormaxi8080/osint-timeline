@@ -46,6 +46,8 @@ Stack Auth - Open-source Clerk/Auth0 alternative: https://github.com/stack-auth/
 
 Jet-Admin - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries: https://github.com/Jet-labs/Jet-admin
 
+Pororoca - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman: https://github.com/alexandrehtrb/Pororoca#
+
 ----
 
 **Linux & DevOps:**
