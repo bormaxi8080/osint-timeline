@@ -12,9 +12,11 @@ Buryat break.
 
 ----
 
+Sextortion Statistics: Over 165,000 Victims Predicted by 2025. From October 2022 to March 2023, the [FBI](https://www.fbi.gov/contact-us/field-offices/memphis/news/sextortion-a-growing-threat-targeting-minors) observed a **20% increase** in financially motivated sextortion involving minors compared to the previous year: https://www.vpnranks.com/resources/sextortion-statistics/
+
 Text Attribution - How to identify the author using a computer: https://habr.com/ru/articles/834912/
 
-Repository of LinkedIn posts about Red Team Exercises: https://github.com/CyberSecurityUP/Red-Team-Exercises
+Red Team Exercises - Repository of LinkedIn posts about Red Team Exercises: https://github.com/CyberSecurityUP/Red-Team-Exercises
 
 ----
 
@@ -63,6 +65,8 @@ Flipper Zero POCSAG Pager receiver plugin: https://github.com/xMasterX/flipper-p
 **New from CyberDetective:**
 
 AIHIT Data Company Database Search over 13 million companies by various parameters - name, description, country, city, zipcode, phone, email, clients, partners, investor names: http://aihitdata.com
+
+Search Whisperer Beta. A free AI tool that teaches you how to properly compose search queries and use Google Dorks. Write what you want to find and get search query recommendations with detailed explanations: https://searchwhisperer.ai
 
 ----
 
