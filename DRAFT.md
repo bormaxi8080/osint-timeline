@@ -23,7 +23,7 @@ How to install and run Telegram on Kali Linux: https://spy-soft.net/telegram-kal
 
 **OSINT Tools, Services and Investigations:**
 
-GPT4o Captcha Bypass - a CLI tool for testing various types of captchas including puzzle, text, complicated text, and reCAPTCHA using Python and Selenium. The tool also uses OpenAI GPT-4 to help solve the captchas: https://github.com/aydinnyunus/gpt4-captcha-bypass
+Search By Image - Browser extension for reverse image search, available for Chrome, Edge and Safari: https://github.com/dessant/search-by-image
 
 Findsploit - Find exploits in local and online databases instantly: https://github.com/1N3/Findsploit
 
@@ -33,7 +33,7 @@ open-source-web-scanners - A list of open source web security scanners on GitHub
 
 **AI:**
 
-
+GPT4o Captcha Bypass - a CLI tool for testing various types of captchas including puzzle, text, complicated text, and reCAPTCHA using Python and Selenium. The tool also uses OpenAI GPT-4 to help solve the captchas: https://github.com/aydinnyunus/gpt4-captcha-bypass
 
 ---
 
