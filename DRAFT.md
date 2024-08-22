@@ -25,6 +25,8 @@ How to install and run Telegram on Kali Linux: https://spy-soft.net/telegram-kal
 
 Search By Image - Browser extension for reverse image search, available for Chrome, Edge and Safari: https://github.com/dessant/search-by-image
 
+Gephi is an award-winning open-source platform for visualizing and manipulating large graphs: https://github.com/gephi/gephi
+
 Findsploit - Find exploits in local and online databases instantly: https://github.com/1N3/Findsploit
 
 open-source-web-scanners - A list of open source web security scanners on GitHub and GitLab, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools: 
