@@ -9,13 +9,17 @@ Slavyansk, Artem Street.
 
 ----
 
+US Driver's License Numbers: http://www.highprogrammer.com/alan/numbers/dl_us_shared.html
 
+Lookup US Social Security Number by State and Year: https://www.ssn-verify.com/lookup
+
+Decoding US Social Security Numbers in One Step (for numbers issued prior to June 25, 2011): https://stevemorse.org/ssn/ssn.html
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+Findsploit - Find exploits in local and online databases instantly: https://github.com/1N3/Findsploit
 
 ----
 

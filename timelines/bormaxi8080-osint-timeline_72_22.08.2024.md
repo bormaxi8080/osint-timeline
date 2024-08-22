@@ -12,7 +12,7 @@ Buryat break.
 
 ----
 
-```Sextortion Statistics```: Over 165,000 Victims Predicted by 2025. From October 2022 to March 2023, the [FBI](https://www.fbi.gov/contact-us/field-offices/memphis/news/sextortion-a-growing-threat-targeting-minors) observed a **20% increase** in financially motivated sextortion involving minors compared to the previous year: https://www.vpnranks.com/resources/sextortion-statistics/
+```Sextortion Statistics``` - Over 165,000 Victims Predicted by 2025. From October 2022 to March 2023, the [FBI](https://www.fbi.gov/contact-us/field-offices/memphis/news/sextortion-a-growing-threat-targeting-minors) observed a **20% increase** in financially motivated sextortion involving minors compared to the previous year: https://www.vpnranks.com/resources/sextortion-statistics/
 
 ```Text Attribution``` - How to identify the author using a computer: https://habr.com/ru/articles/834912/
 
@@ -82,7 +82,7 @@ Buryat break.
 
 **New from GitHub Community:**
 
-Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only: https://github.com/pipelight/pipelight
+Pipelight - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only: https://github.com/pipelight/pipelight
 
 ----
 ### bormaxi8080 OSINT timeline:
