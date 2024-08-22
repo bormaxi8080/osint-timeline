@@ -17,9 +17,17 @@ Decoding US Social Security Numbers in One Step (for numbers issued prior to Jun
 
 ----
 
+How to install and run Telegram on Kali Linux: https://spy-soft.net/telegram-kali-linux/
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
+GPT4o Captcha Bypass - a CLI tool for testing various types of captchas including puzzle, text, complicated text, and reCAPTCHA using Python and Selenium. The tool also uses OpenAI GPT-4 to help solve the captchas: https://github.com/aydinnyunus/gpt4-captcha-bypass
+
 Findsploit - Find exploits in local and online databases instantly: https://github.com/1N3/Findsploit
+
+open-source-web-scanners - A list of open source web security scanners on GitHub and GitLab, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools: 
 
 ----
 
