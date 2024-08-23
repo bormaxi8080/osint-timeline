@@ -43,6 +43,8 @@ GPT4o Captcha Bypass - a CLI tool for testing various types of captchas includin
 
 Lightgraph.js - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently: https://github.com/jagenjo/litegraph.js
 
+WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux: https://github.com/WebKit/WebKit
+
 ----
 
 **Linux & DevOps:**
@@ -61,7 +63,7 @@ Spoof temperature sensor with HackRF/FlipperZero: https://github.com/rgerganov/s
 
 **New from CyberDetective:**
 
-
+OSINT Methods for Image Investigations. A detailed overview of 22 image tools for investigative imaging: search engines, location finders, photo forensics, and more: https://redteamrecipe.com/osint-methods-for-image-investigations
 
 ----
 
