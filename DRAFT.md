@@ -29,7 +29,7 @@ Gephi is an award-winning open-source platform for visualizing and manipulating 
 
 Findsploit - Find exploits in local and online databases instantly: https://github.com/1N3/Findsploit
 
-open-source-web-scanners - A list of open source web security scanners on GitHub and GitLab, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools: 
+open-source-web-scanners - A list of open source web security scanners on GitHub and GitLab, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools: https://github.com/psiinon/open-source-web-scanners
 
 ----
 
