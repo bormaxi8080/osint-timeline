@@ -41,7 +41,7 @@ GPT4o Captcha Bypass - a CLI tool for testing various types of captchas includin
 
 **Software Development:**
 
-
+Lightgraph.js - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently: https://github.com/jagenjo/litegraph.js
 
 ----
 
@@ -53,7 +53,9 @@ GPT4o Captcha Bypass - a CLI tool for testing various types of captchas includin
 
 **Flipper Zero:**
 
+Metronome for Flipper Zero: https://github.com/panki27/Metronome
 
+Spoof temperature sensor with HackRF/FlipperZero: https://github.com/rgerganov/spoof_temp
 
 ----
 
@@ -65,7 +67,7 @@ GPT4o Captcha Bypass - a CLI tool for testing various types of captchas includin
 
 **New from GitHub Community:**
 
-
+Rotato - Compresses video by 90% while maintaining quality. Works in browser, free and without watermarks: https://tools.rotato.app/compress
 
 ----
 ### bormaxi8080 OSINT timeline:
