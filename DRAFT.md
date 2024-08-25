@@ -23,6 +23,8 @@ How to install and run Telegram on Kali Linux: https://spy-soft.net/telegram-kal
 
 **OSINT Tools, Services and Investigations:**
 
+A good script from[@dutch_osintguy](https://x.com/dutch_osintguy)to build investigation timelines: 
+
 Search By Image - Browser extension for reverse image search, available for Chrome, Edge and Safari: https://github.com/dessant/search-by-image
 
 Gephi is an award-winning open-source platform for visualizing and manipulating large graphs: https://github.com/gephi/gephi
@@ -41,6 +43,8 @@ GPT4o Captcha Bypass - a CLI tool for testing various types of captchas includin
 
 **Software Development:**
 
+ANtares - A modern, fast and productivity driven SQL client with a focus in UX: https://github.com/antares-sql/antares
+
 Lightgraph.js - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently: https://github.com/jagenjo/litegraph.js
 
 WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux: https://github.com/WebKit/WebKit
@@ -49,7 +53,7 @@ WebKit project, the browser engine used by Safari, Mail, App Store and many othe
 
 **Linux & DevOps:**
 
-
+Coolify - An open-source & self-hostable Heroku / Netlify / Vercel alternative: https://github.com/coollabsio/coolify
 
 ----
 
