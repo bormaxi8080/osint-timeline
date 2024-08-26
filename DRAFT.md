@@ -35,6 +35,8 @@ Search By Image - Browser extension for reverse image search, available for Chro
 
 Gephi is an award-winning open-source platform for visualizing and manipulating large graphs: https://github.com/gephi/gephi
 
+Getcontact - Find info about user by phone number using GetContact API: https://github.com/kovinevmv/getcontact
+
 Findsploit - Find exploits in local and online databases instantly: https://github.com/1N3/Findsploit
 
 LampScan - Automated security assessment tool for LAMP/WordPress servers using Nmap, featuring detailed scans, IPv6 support detection and logging of results: https://github.com/IntuitionAmiga/lampscan
@@ -56,6 +58,8 @@ GPT4o Captcha Bypass - a CLI tool for testing various types of captchas includin
 Antares - A modern, fast and productivity driven SQL client with a focus in UX: https://github.com/antares-sql/antares
 
 Lightgraph.js - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently: https://github.com/jagenjo/litegraph.js
+
+DuckDB-powered Postgres for high performance apps & analytics: https://github.com/duckdb/pg_duckdb
 
 WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux: https://github.com/WebKit/WebKit
 
