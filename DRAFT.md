@@ -27,9 +27,13 @@ Shodan Dorks. This GitHub repository provides a range of search queries, known a
 
 ----
 
-**OSINT Tools, Services and Investigations:**
+A good script from [@dutch_osintguy](https://x.com/dutch_osintguy)to build investigation timelines: https://github.com/Dutchosintguy/OSINT-timeline
 
-A good script from[@dutch_osintguy](https://x.com/dutch_osintguy)to build investigation timelines: https://github.com/Dutchosintguy/OSINT-timeline
+Deleted Tweet Finder V2.3. Google Cache searches for the most recent snapshot of the webpage stored in Google's cache. Although phased out by Google, you still can find something so now and then: https://cache.digitaldigging.org/
+
+----
+
+**OSINT Tools, Services and Investigations:**
 
 Search By Image - Browser extension for reverse image search, available for Chrome, Edge and Safari: https://github.com/dessant/search-by-image
 
