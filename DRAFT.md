@@ -87,6 +87,8 @@ OSINT Methods for Image Investigations. A detailed overview of 22 image tools fo
 
 Secret Files Exposed: How to Find Hidden Documents on the Web. A short Guide by Nina Maelainine on how to search for sensitive files using Google and analyse their metadata: https://medium.com/@ninamaelainine/curiosity-got-you-heres-how-to-find-hidden-docs-online-0a7d0f1e8397
 
+Dork King. Enter your target domain and get quick links to find pages with SQL Errors, backup files, backdoors, open redirects, log files and more: https://dorkking.blindf.com
+
 ----
 
 **New from GitHub Community:**
