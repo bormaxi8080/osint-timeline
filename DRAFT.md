@@ -1,3 +1,5 @@
+More than anything in the world, the procurator hated the smell of rose oil, and everything now foreshadowed a bad day, since this smell began to haunt the procurator from dawn. It seemed to the procurator that the cypresses and palms in the garden emitted a rose scent, that the accursed rose stream was mixed with the smell of leather and the convoy. From the wings in the rear of the palace, where the first cohort of the twelfth lightning legion, which had arrived with the procurator in Yershalaim, was stationed, smoke was carried into the colonnade through the upper platform of the garden, and the bitter smoke, testifying to the fact that the cooks in the centuries had begun to prepare dinner, was mixed with the same greasy rose spirit. Oh gods, gods, why are you punishing me?..
+
 
 The courtyards of Slavyansk. Three yards, a gypsy baron lives, all in gold and with shepherds. White pouring, grind the house to my grandmother, pull out cold juice from the basement, grandmother with a wet rag and a cry "Oh, you have a lousy nasty thing!" - Because you stomp the bed, and after 15 minutes you are drawn to strawberries together. With my grandfather to swim, to catch the fish on the red estuary, but you gobbled up the bread for the bait without reaching the estuary, because it is tasty. The mulberry on the soles of the sandals, and again a grandmother with a wet towel, because you smear the floorboards ... Through the road - the library in the recreation center of the railway workers, and the aunt Lida works there. And in the evening, in the wasteland, between the house of Aunt Lida and the House of Culture, we burn a fire and bake potatoes.
 
@@ -6,14 +8,6 @@ Slavyansk, Artem Street.
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2200: https://github.com/bormaxi8080/osint-repos-list
-
-----
-
-US Driver's License Numbers: http://www.highprogrammer.com/alan/numbers/dl_us_shared.html
-
-Lookup US Social Security Number by State and Year: https://www.ssn-verify.com/lookup
-
-Decoding US Social Security Numbers in One Step (for numbers issued prior to June 25, 2011): https://stevemorse.org/ssn/ssn.html
 
 ----
 
@@ -27,7 +21,15 @@ Shodan Dorks. This GitHub repository provides a range of search queries, known a
 
 ----
 
-A good script from [@dutch_osintguy](https://x.com/dutch_osintguy)to build investigation timelines: https://github.com/Dutchosintguy/OSINT-timeline
+US Driver's License Numbers: http://www.highprogrammer.com/alan/numbers/dl_us_shared.html
+
+Lookup US Social Security Number by State and Year: https://www.ssn-verify.com/lookup
+
+Decoding US Social Security Numbers in One Step (for numbers issued prior to June 25, 2011): https://stevemorse.org/ssn/ssn.html
+
+----
+
+A good script from [@dutch_osintguy](https://x.com/dutch_osintguy) to build investigation timelines: https://github.com/Dutchosintguy/OSINT-timeline
 
 Deleted Tweet Finder V2.3. Google Cache searches for the most recent snapshot of the webpage stored in Google's cache. Although phased out by Google, you still can find something so now and then: https://cache.digitaldigging.org/
 
