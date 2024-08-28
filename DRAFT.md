@@ -41,6 +41,10 @@ Search By Image - Browser extension for reverse image search, available for Chro
 
 Gephi is an award-winning open-source platform for visualizing and manipulating large graphs: https://github.com/gephi/gephi
 
+isBot - Detect bots/crawlers/spiders using the user agent string: https://github.com/omrilotan/isbot
+
+SpoofMAC - Change your MAC address for debugging: https://github.com/feross/SpoofMAC
+
 Getcontact - Find info about user by phone number using GetContact API: https://github.com/kovinevmv/getcontact
 
 Findsploit - Find exploits in local and online databases instantly: https://github.com/1N3/Findsploit
@@ -73,7 +77,11 @@ WebKit project, the browser engine used by Safari, Mail, App Store and many othe
 
 **Linux & DevOps:**
 
+Dozzle - Realtime log viewer for docker containers: https://github.com/amir20/dozzle#
+
 NetAlertX - WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found: https://github.com/jokob-sk/NetAlertX
+
+WireGuard obfuscator - simple obfuscator for WireGuard. Usefull if your ISP/government blocks WireGuard traffic: https://github.com/ClusterM/wg-obfuscator
 
 Coolify - An open-source & self-hostable Heroku / Netlify / Vercel alternative: https://github.com/coollabsio/coolify
 
@@ -90,6 +98,8 @@ Spoof temperature sensor with HackRF/FlipperZero: https://github.com/rgerganov/s
 **New from CyberDetective:**
 
 OSINT Methods for Image Investigations. A detailed overview of 22 image tools for investigative imaging: search engines, location finders, photo forensics, and more: https://redteamrecipe.com/osint-methods-for-image-investigations
+
+All text in NYC. Interesting example of a text search service for inscriptions on the walls of Brooklyn. It is a pity that there is no such service for all cities of the world (Overpass Turbo only allows to find a small portion): http://alltext.nyc
 
 Secret Files Exposed: How to Find Hidden Documents on the Web. A short Guide by Nina Maelainine on how to search for sensitive files using Google and analyse their metadata: https://medium.com/@ninamaelainine/curiosity-got-you-heres-how-to-find-hidden-docs-online-0a7d0f1e8397
 
