@@ -7,19 +7,35 @@ More than anything in the world, the procurator hated the smell of rose oil, and
 
 ----
 
+On Slicks and Satellites: An Open Source Guide to Marine Oil Spill Detection from Bellingcat: https://www.bellingcat.com/resources/how-tos/2024/08/30/marine-oil-spill-detection-guide
 
+Unmasking the fake MAGA accounts - stolen photos and digital lies: https://www.info-res.org/post/unmasking-the-fake-maga-accounts-stolen-photos-and-digital-lies
+
+Leveraging Telegram for OSINT Purposes: https://www.youtube.com/watch?si=wN237n3pXsLDYCmn&v=e_aXQYq2l6U&feature=youtu.be
+
+Outperforming Claude 3.5 Sonnet with Phi-3-mini-4k for graph entity relationship extraction tasks: https://asknews.app/en/blog-articles/outperforming-claude-3-5-sonnet-with-phi-3-mini-4k-for-graph-entity-relationship-extraction-tasks
+
+The SHERLOC portal is an initiative to facilitate the dissemination of information regarding the implementation of the [United Nations Convention against Transnational Organized Crime](https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html), the three Protocols thereto and the international legal framework against terrorism: https://sherloc.unodc.org/cld/en/st/home.html
+
+OSINT Updates - A hub for all your new tools, tactics, techniques, and emerging trends in the OSINT world: https://osintupdates.com/
+
+IPTV - Collection of publicly available IPTV channels from all over the world: https://github.com/iptv-org/iptv
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+Cloud Enum - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud: https://github.com/initstring/cloud_enum
 
+GoLinkFinder - A fast and minimal JS endpoint extractor: https://github.com/0xsha/GoLinkFinder
 
 ----
 
 **AI:**
 
+PixelGuard protects images from AI scraping and unauthorized use in AI training, such as facial recognition models or style transfer algorithms. It employs multiple invisible protection techniques that mostly imperceptible to the eye but can interfere with AI processing: https://github.com/captainzero93/Protect-Images-from-AI-PixelGuard
 
+MARS5. A novel speech model for insane prosody: https://github.com/Camb-ai/MARS5-TTS
 
 ---
 
@@ -31,19 +47,21 @@ More than anything in the world, the procurator hated the smell of rose oil, and
 
 **Linux & DevOps:**
 
-
+Kftray - manage multiple kubectl port-forward commands, with support for UDP, K8s proxy, and github state sync: https://github.com/hcavarsan/kftray#
 
 ----
 
 **Flipper Zero:**
 
-
+CLI - Analyze WPA/WPA2 handshakes from FlipperZero's captured .pcaps to find out the WiFi Passwords: https://github.com/grugnoymeme/flipperzero-CLI-wifi-cracker
 
 ----
 
 **New from CyberDetective:**
 
+Curated list of public server-side exploits. Search by keyword, filter by vulnerability type, service affected and OS. Detailed description for each exploit (with PoC, Nuclei template or Metasploit module): http://sploitify.haxx.it
 
+Deep Dive into Discord: OSINT Techniques (by Nina Maelainine). Discord Server Directories, Bot Directories and Resources, Specialized Tools: https://medium.com/@ninamaelainine/deep-dive-into-discord-osint-techniques-00534bf69371
 
 ----
 
