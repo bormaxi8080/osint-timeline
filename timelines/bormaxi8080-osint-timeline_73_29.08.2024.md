@@ -3,7 +3,7 @@
 
 --
 
-The courtyards of Slavyansk. Three yards, a gypsy baron lives, all in gold and with shepherds. White pouring, grind the house to my grandmother, pull out cold juice from the basement, grandmother with a wet rag and a cry "Oh, you have a lousy nasty thing!" - Because you stomp the bed, and after 15 minutes you are drawn to strawberries together. With my grandfather to swim, to catch the fish on the red estuary, but you gobbled up the bread for the bait without reaching the estuary, because it is tasty. The mulberry on the soles of the sandals, and again a grandmother with a wet towel, because you smear the floorboards ... Through the road - the library in the recreation center of the railway workers, and the aunt Lida works there. And in the evening, in the wasteland, between the house of Aunt Lida and the House of Culture, we burn a fire and bake potatoes.
+The courtyards of Slavyansk. Three yards, a gypsy baron lives, all in gold and with shepherds. White pouring, grind the house to my grandmother, pull out cold juice from the basement, grandmother with a wet rag and a cry "Oh, you have a lousy nasty thing!" - Because you stomp the bed, and after 15 minutes you are drawn to strawberries together. With my grandfather to swim, to catch the fish on the red estuary, but you gobbled up the bread for the bait without reaching the estuary, because it is tasty. The mulberry on the soles of the sandals, and again a grandmother with a wet towel, because you smear the floorboards... Through the road - the library in the recreation center of the railway workers, and the aunt Lida works there. And in the evening, in the wasteland, between the house of Aunt Lida and the House of Culture, we burn a fire and bake potatoes.
 
 Slavyansk, Artem Street.
 
