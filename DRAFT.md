@@ -1,6 +1,5 @@
 More than anything in the world, the procurator hated the smell of rose oil, and everything now foreshadowed a bad day, since this smell began to haunt the procurator from dawn. It seemed to the procurator that the cypresses and palms in the garden emitted a rose scent, that the accursed rose stream was mixed with the smell of leather and the convoy. From the wings in the rear of the palace, where the first cohort of the twelfth lightning legion, which had arrived with the procurator in Yershalaim, was stationed, smoke was carried into the colonnade through the upper platform of the garden, and the bitter smoke, testifying to the fact that the cooks in the centuries had begun to prepare dinner, was mixed with the same greasy rose spirit. Oh gods, gods, why are you punishing me?..
 
-
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2200: https://github.com/bormaxi8080/osint-repos-list
@@ -24,6 +23,8 @@ IPTV - Collection of publicly available IPTV channels from all over the world: h
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+Toolify.AI - Top All categories AI Websites & AI Tools: https://www.toolify.ai/Best-AI-Tools-Category
 
 Cloud Enum - Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud: https://github.com/initstring/cloud_enum
 
@@ -63,7 +64,9 @@ CLI - Analyze WPA/WPA2 handshakes from FlipperZero's captured .pcaps to find out
 
 **New from CyberDetective:**
 
-Curated list of public server-side exploits. Search by keyword, filter by vulnerability type, service affected and OS. Detailed description for each exploit (with PoC, Nuclei template or Metasploit module): http://sploitify.haxx.it
+GeoHints - A large reference with pictures of items from different countries: license plates, post boxes, house numbers, side walks, traffic lights and more: https://geohints.com
+
+Haxx.it - Curated list of public server-side exploits. Search by keyword, filter by vulnerability type, service affected and OS. Detailed description for each exploit (with PoC, Nuclei template or Metasploit module): http://sploitify.haxx.it
 
 Deep Dive into Discord: OSINT Techniques (by Nina Maelainine). Discord Server Directories, Bot Directories and Resources, Specialized Tools: https://medium.com/@ninamaelainine/deep-dive-into-discord-osint-techniques-00534bf69371
 
@@ -71,7 +74,7 @@ Deep Dive into Discord: OSINT Techniques (by Nina Maelainine). Discord Server Di
 
 **New from GitHub Community:**
 
-
+Dubbie - Open-source AI video dubbing studio that costs $0.1/min(~20x cheaper than alternatives like Elevenlabs, Rask or Speechify): https://github.com/dubbieHQ/dubbie
 
 ----
 ### bormaxi8080 OSINT timeline:
