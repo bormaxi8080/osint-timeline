@@ -37,6 +37,8 @@ PixelGuard protects images from AI scraping and unauthorized use in AI training,
 
 MARS5. A novel speech model for insane prosody: https://github.com/Camb-ai/MARS5-TTS
 
+Jobber - browser controlling AI agent that applies to relavant jobs on internet autonomously: https://github.com/sentient-engineering/jobber
+
 ---
 
 **Software Development:**
@@ -48,6 +50,8 @@ MARS5. A novel speech model for insane prosody: https://github.com/Camb-ai/MARS5
 **Linux & DevOps:**
 
 Kftray - manage multiple kubectl port-forward commands, with support for UDP, K8s proxy, and github state sync: https://github.com/hcavarsan/kftray#
+
+XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine. It works on top of your installed command-line programs and does not require any setup on your remote systems: https://github.com/xpipe-io/xpipe
 
 ----
 
