@@ -12,6 +12,8 @@ Unmasking the fake MAGA accounts - stolen photos and digital lies: https://www.i
 
 Leveraging Telegram for OSINT Purposes: https://www.youtube.com/watch?si=wN237n3pXsLDYCmn&v=e_aXQYq2l6U&feature=youtu.be
 
+Managed Attribution: The Key to Successful OSINT and CTI Operations: https://voodootomato.medium.com/managed-attribution-the-key-to-successful-osint-and-cti-operations-ec6b1e78217e
+
 Outperforming Claude 3.5 Sonnet with Phi-3-mini-4k for graph entity relationship extraction tasks: https://asknews.app/en/blog-articles/outperforming-claude-3-5-sonnet-with-phi-3-mini-4k-for-graph-entity-relationship-extraction-tasks
 
 The SHERLOC portal is an initiative to facilitate the dissemination of information regarding the implementation of the [United Nations Convention against Transnational Organized Crime](https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html), the three Protocols thereto and the international legal framework against terrorism: https://sherloc.unodc.org/cld/en/st/home.html
@@ -44,13 +46,15 @@ Jobber - browser controlling AI agent that applies to relavant jobs on internet 
 
 **Software Development:**
 
-
+Agrona - High Performance data structures and utility methods for Java: https://github.com/real-logic/agrona
 
 ----
 
 **Linux & DevOps:**
 
-Kftray - manage multiple kubectl port-forward commands, with support for UDP, K8s proxy, and github state sync: https://github.com/hcavarsan/kftray#
+Bash Exporter - Simple & minimalistic Prometheus exporter for bash scripts, written in Go: https://github.com/gree-gorey/bash-exporter
+
+Kftray - manage multiple kubectl port-forward commands, with support for UDP, K8s proxy, and github state sync: https://github.com/hcavarsan/kftray
 
 XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine. It works on top of your installed command-line programs and does not require any setup on your remote systems: https://github.com/xpipe-io/xpipe
 
