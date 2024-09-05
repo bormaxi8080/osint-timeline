@@ -12,7 +12,7 @@ She said that something always remains outside the frame, because the world depi
 
 **OSINT Tools, Services and Investigations:**
 
-
+Tiny-scan is a free URL inspection tool! Get IP, location, desktop/mobile screenshots, link count, JS & stylesheets, tech profile & more: https://www.tiny-scan.com/
 
 ----
 
@@ -24,7 +24,7 @@ She said that something always remains outside the frame, because the world depi
 
 **Software Development:**
 
-
+Piranha - A tool for refactoring code related to feature flag APIs: https://github.com/uber/piranha
 
 ----
 
@@ -36,7 +36,7 @@ She said that something always remains outside the frame, because the world depi
 
 **Flipper Zero:**
 
-
+BIP32/39/44 crypto wallet for Flipper Zero: https://github.com/xtruan/FlipBIP
 
 ----
 
