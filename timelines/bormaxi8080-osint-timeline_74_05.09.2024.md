@@ -78,7 +78,7 @@ More than anything in the world, the procurator hated the smell of rose oil, and
 
 ```Haxx.it``` - Curated list of public server-side exploits. Search by keyword, filter by vulnerability type, service affected and OS. Detailed description for each exploit (with PoC, Nuclei template or Metasploit module): http://sploitify.haxx.it
 
-```Deep Dive into Discord```: OSINT Techniques (by Nina Maelainine). Discord Server Directories, Bot Directories and Resources, Specialized Tools: https://medium.com/@ninamaelainine/deep-dive-into-discord-osint-techniques-00534bf69371
+```Deep Dive into Discord``` - OSINT Techniques (by Nina Maelainine). Discord Server Directories, Bot Directories and Resources, Specialized Tools: https://medium.com/@ninamaelainine/deep-dive-into-discord-osint-techniques-00534bf69371
 
 ----
 
