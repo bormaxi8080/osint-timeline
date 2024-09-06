@@ -6,13 +6,17 @@ She said that something always remains outside the frame, because the world depi
 
 ----
 
-
+How to get Skype IP using WireShark: https://www.youtube.com/watch?v=jgKbO9R76yM
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 Tiny-scan is a free URL inspection tool! Get IP, location, desktop/mobile screenshots, link count, JS & stylesheets, tech profile & more: https://www.tiny-scan.com/
+
+Canary - A Chrome extension that looks out for and blocks extremist content! Using the HTML content of visited sites, Canary will send that data off to the Google Vertex API and will use the LLM to identify if a page contains extremist content: https://github.com/CartographerLabs/Canary
+
+The Canary Mail Chrome extension revolutionizes your emailing experience, providing comprehensive insights into your sent emails. Offering a sophisticated Read Receipt feature, this extension ensures you’re informed precisely when your emails are opened by recipients, elevating your communication game to new heights: https://chromewebstore.google.com/detail/free-email-tracker-for-gm/jfkeeldgldifmcpckpmkjpoceamojgnk
 
 ----
 
