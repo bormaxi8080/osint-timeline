@@ -6,6 +6,8 @@ She said that something always remains outside the frame, because the world depi
 
 ----
 
+How to Analyze Facebook Posts Using AI: https://www.digitaldigging.org/p/how-to-analyze-facebook-posts-using
+
 How to get Skype IP using WireShark: https://www.youtube.com/watch?v=jgKbO9R76yM
 
 ----
@@ -14,15 +16,23 @@ How to get Skype IP using WireShark: https://www.youtube.com/watch?v=jgKbO9R76yM
 
 Tiny-scan is a free URL inspection tool! Get IP, location, desktop/mobile screenshots, link count, JS & stylesheets, tech profile & more: https://www.tiny-scan.com/
 
+Twitter list searcher: https://digitaldigging.org/twitter/
+
 Canary - A Chrome extension that looks out for and blocks extremist content! Using the HTML content of visited sites, Canary will send that data off to the Google Vertex API and will use the LLM to identify if a page contains extremist content: https://github.com/CartographerLabs/Canary
 
 The Canary Mail Chrome extension revolutionizes your emailing experience, providing comprehensive insights into your sent emails. Offering a sophisticated Read Receipt feature, this extension ensures you’re informed precisely when your emails are opened by recipients, elevating your communication game to new heights: https://chromewebstore.google.com/detail/free-email-tracker-for-gm/jfkeeldgldifmcpckpmkjpoceamojgnk
+
+Email Crawler Lead Generator - this email crawler will visit all pages of a provided website and parse and save emails found to a csv file: https://github.com/amitupreti/Email-Crawler-Lead-Generator
+
+OpenBAS - Open Breach and Attack Simulation Platform: https://github.com/OpenBAS-Platform/openbas
 
 ----
 
 **AI:**
 
+2900 ChatGPT Prompts for Everyday Professional Tasks: https://promptmatic.ai/prompts
 
+ListServe - Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale: https://github.com/Lightning-AI/LitServe
 
 ---
 
@@ -48,13 +58,15 @@ BIP32/39/44 crypto wallet for Flipper Zero: https://github.com/xtruan/FlipBIP
 
 **New from CyberDetective:**
 
+Get Whatsapp Profile Information by phone number. ID, description, email, website, location etc. (works not only for business but also for personal accounts, WhatsApp Login no required): https://whatsapp.checkleaked.cc
 
+60 indicators to find potentially related sites: https://informationlaundromat.com analyses the html code of a website and extracts 60+ indicators from it to help find other related sites (using IP search engines like Shodan, Netlas, Censys or source code search engines like PublicWWW).
 
 ----
 
 **New from GitHub Community:**
 
-
+Umami is a simple, fast, privacy-focused alternative to Google Analytics: https://github.com/umami-software/umami
 
 ----
 ### bormaxi8080 OSINT timeline:
