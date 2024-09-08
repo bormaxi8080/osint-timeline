@@ -26,6 +26,8 @@ Email Crawler Lead Generator - this email crawler will visit all pages of a prov
 
 OpenBAS - Open Breach and Attack Simulation Platform: https://github.com/OpenBAS-Platform/openbas
 
+Google Sheets Hunting Bad Domains - This project provides a set of Google Apps Scripts designed to help you identify and analyze potentially malicious domains directly from Google Sheets. By leveraging various APIs, these scripts can retrieve information such as VirusTotal reports, WHOIS data, breach information from Have I Been Pwned, and the HTTP status of a domain: https://github.com/Bugs-B0unt3r/google-sheets-hunting-bad-domains/
+
 ----
 
 **AI:**
@@ -34,9 +36,15 @@ OpenBAS - Open Breach and Attack Simulation Platform: https://github.com/OpenBAS
 
 ListServe - Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale: https://github.com/Lightning-AI/LitServe
 
+SpeedML - Speedml is a Python package to speed start machine learning projects: https://github.com/Speedml/speedml
+
 ---
 
 **Software Development:**
+
+SweetViz - Visualize and compare datasets, target values and associations, with one line of code: https://github.com/fbdesignpro/sweetviz
+
+Freeze - Generate images of code and terminal output: https://github.com/charmbracelet/freeze
 
 Piranha - A tool for refactoring code related to feature flag APIs: https://github.com/uber/piranha
 
