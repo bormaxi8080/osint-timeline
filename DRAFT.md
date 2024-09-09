@@ -42,6 +42,8 @@ SpeedML - Speedml is a Python package to speed start machine learning projects: 
 
 **Software Development:**
 
+PostgREST serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch: https://github.com/PostgREST/postgrest
+
 SweetViz - Visualize and compare datasets, target values and associations, with one line of code: https://github.com/fbdesignpro/sweetviz
 
 Freeze - Generate images of code and terminal output: https://github.com/charmbracelet/freeze
@@ -65,6 +67,8 @@ BIP32/39/44 crypto wallet for Flipper Zero: https://github.com/xtruan/FlipBIP
 ----
 
 **New from CyberDetective:**
+
+Overlooked OSINT in the U.S. Court System. An article on how public records of court cases on state websites can be useful for #OSINT + a great list of resources: https://osint2h22v.substack.com/p/the-amazing-overlooked-osint-in-the
 
 Get Whatsapp Profile Information by phone number. ID, description, email, website, location etc. (works not only for business but also for personal accounts, WhatsApp Login no required): https://whatsapp.checkleaked.cc
 
