@@ -34,6 +34,10 @@ Google Sheets Hunting Bad Domains - This project provides a set of Google Apps S
 
 2900 ChatGPT Prompts for Everyday Professional Tasks: https://promptmatic.ai/prompts
 
+CyberScraper 2077 is not just another web scraping tool – it's a glimpse into the future of data extraction. Born from the neon-lit streets of a cyberpunk world, this AI-powered scraper uses OpenAI, Gemini and LocalLLM Models to slice through the web's defenses, extracting the data you need with unparalleled precision and style: https://github.com/itsOwen/CyberScraper-2077
+
+Rath - Next generation of automated data exploratory analysis and visualization platform: https://github.com/Kanaries/Rath
+
 ListServe - Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale: https://github.com/Lightning-AI/LitServe
 
 SpeedML - Speedml is a Python package to speed start machine learning projects: https://github.com/Speedml/speedml
@@ -43,6 +47,9 @@ SpeedML - Speedml is a Python package to speed start machine learning projects: 
 **Software Development:**
 
 PostgREST serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch: https://github.com/PostgREST/postgrest
+
+`jd` is a commandline utility and Go library for diffing and patching JSON and YAML values. It supports a native `jd` format (similar to unified format) as well as JSON Merge Patch ([RFC 7386](https://datatracker.ietf.org/doc/html/rfc7386)) and a subset of JSON Patch ([RFC 6902](https://datatracker.ietf.org/doc/html/rfc6902)). Try it out at [http://play.jd-tool.io/](http://play.jd-tool.io/).
+Link: https://github.com/josephburnett/jd
 
 SweetViz - Visualize and compare datasets, target values and associations, with one line of code: https://github.com/fbdesignpro/sweetviz
 
