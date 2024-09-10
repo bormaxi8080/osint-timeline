@@ -48,6 +48,8 @@ SpeedML - Speedml is a Python package to speed start machine learning projects: 
 
 PostgREST serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch: https://github.com/PostgREST/postgrest
 
+Apache Superset is a Data Visualization and Data Exploration Platform: https://github.com/apache/superset
+
 `jd` is a commandline utility and Go library for diffing and patching JSON and YAML values. It supports a native `jd` format (similar to unified format) as well as JSON Merge Patch ([RFC 7386](https://datatracker.ietf.org/doc/html/rfc7386)) and a subset of JSON Patch ([RFC 6902](https://datatracker.ietf.org/doc/html/rfc6902)). Try it out at [http://play.jd-tool.io/](http://play.jd-tool.io/).
 Link: https://github.com/josephburnett/jd
 
