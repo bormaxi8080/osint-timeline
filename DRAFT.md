@@ -39,7 +39,7 @@ Something went wrong, not according to plan, and the gods no longer want to retu
 
 **Flipper Zero:**
 
-
+Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1/
 
 ----
 
