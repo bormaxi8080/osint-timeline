@@ -1,4 +1,8 @@
-She said that something always remains outside the frame, because the world depicted in the picture continues further, spreads around and is full of other colors, other aspirations, thanks to which the picture was created and exists. They went outside, all in the September sun.
+
+All that will remain of us is organic matter, lymph, Mixed with broken glass.
+
+
+Something went wrong, not according to plan, and the gods no longer want to return to Earth.
 
 ----
 
