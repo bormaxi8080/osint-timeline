@@ -13,7 +13,9 @@ When the Israelites, led by Moses, began to grumble against God during their wan
 
 ----
 
+Kali Linux 2024.3 Release (Multiple transitions): https://www.kali.org/blog/kali-linux-2024-3-release/
 
+Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1/
 
 ----
 
