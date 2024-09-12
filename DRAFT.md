@@ -4,6 +4,9 @@ All that will remain of us is organic matter, lymph, Mixed with broken glass.
 
 Something went wrong, not according to plan, and the gods no longer want to return to Earth.
 
+
+When the Israelites, led by Moses, began to grumble against God during their wanderings in the desert, God sent poisonous snakes to attack them. Many of the Israelites died from the bites of these snakes. At the request of the people, Moses prayed, and God commanded him to make a copper snake and raise it on a pole. Anyone who was bitten by a snake and looked at the copper snake survived.
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2200: https://github.com/bormaxi8080/osint-repos-list
