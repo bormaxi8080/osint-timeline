@@ -54,7 +54,7 @@ Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1
 
 **New from GitHub Community:**
 
-
+[**Tabby**](https://tabby.sh/) (formerly **Terminus**) is a highly configurable terminal emulator, SSH and serial client for Windows 10, macOS and Linux: https://github.com/Eugeny/tabby
 
 ----
 ### bormaxi8080 OSINT timeline:
