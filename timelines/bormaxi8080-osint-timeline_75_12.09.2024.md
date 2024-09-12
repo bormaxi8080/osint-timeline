@@ -48,7 +48,7 @@ She said that something always remains outside the frame, because the world depi
 
 ```SpeedML``` - Speedml is a Python package to speed start machine learning projects: https://github.com/Speedml/speedml
 
----
+----
 
 **Software Development:**
 
@@ -56,7 +56,7 @@ She said that something always remains outside the frame, because the world depi
 
 ```Apache Superset``` is a Data Visualization and Data Exploration Platform: https://github.com/apache/superset
 
-`jd` is a commandline utility and Go library for diffing and patching JSON and YAML values. It supports a native `jd` format (similar to unified format) as well as JSON Merge Patch ([RFC 7386](https://datatracker.ietf.org/doc/html/rfc7386)) and a subset of JSON Patch ([RFC 6902](https://datatracker.ietf.org/doc/html/rfc6902)). Try it out at [http://play.jd-tool.io/](http://play.jd-tool.io/).
+```jd``` is a commandline utility and Go library for diffing and patching JSON and YAML values. It supports a native `jd` format (similar to unified format) as well as JSON Merge Patch ([RFC 7386](https://datatracker.ietf.org/doc/html/rfc7386)) and a subset of JSON Patch ([RFC 6902](https://datatracker.ietf.org/doc/html/rfc6902)). Try it out at [http://play.jd-tool.io/](http://play.jd-tool.io/).
 Link: https://github.com/josephburnett/jd
 
 ```SweetViz``` - Visualize and compare datasets, target values and associations, with one line of code: https://github.com/fbdesignpro/sweetviz
