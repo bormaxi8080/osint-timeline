@@ -1,5 +1,5 @@
 
-All that will remain of us is organic matter, lymph, Mixed with broken glass.
+All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 
 Something went wrong, not according to plan, and the gods no longer want to return to Earth.
@@ -12,6 +12,8 @@ When the Israelites, led by Moses, began to grumble against God during their wan
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2200: https://github.com/bormaxi8080/osint-repos-list
 
 ----
+
+These are the Tools Open Source Researchers Say They Need. Results from a survey of 500 people who use a variety of online research tools. Will be useful to read for those involved in the development and promotion of OSINT tools: https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/
 
 Kali Linux 2024.3 Release (Multiple transitions): https://www.kali.org/blog/kali-linux-2024-3-release/
 
@@ -33,7 +35,7 @@ Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1
 
 **Software Development:**
 
-
+dbGate - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application: https://github.com/dbgate/dbgate
 
 ----
 
@@ -50,7 +52,7 @@ Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1
 
 **New from CyberDetective:**
 
-
+Guide: OSINT gathering on the X platform (Twitter). Inspecting X accounts, X username, X name, X profile and header images, User bio, Search on X, X advanced search operators, Using Google Dorks to search X: https://www.authentic8.com/blog/osint-gathering-x-twitter
 
 ----
 
