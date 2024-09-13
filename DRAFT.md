@@ -23,7 +23,11 @@ Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1
 
 **OSINT Tools, Services and Investigations:**
 
+A list of Python parsing tools initially imported from [@nedbat's](https://github.com/nedbat) [blog post](http://nedbatchelder.com/text/python-parsers.html): https://github.com/webmaven/python-parsing-tools
 
+Scrape links and text from website start.me: https://github.com/msd/scrape-startme
+
+Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity: https://github.com/lark-parser/lark
 
 ----
 
