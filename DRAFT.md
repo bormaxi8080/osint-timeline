@@ -39,6 +39,8 @@ Lark is a parsing toolkit for Python, built with a focus on ergonomics, performa
 
 **Software Development:**
 
+Citus is a [PostgreSQL extension](https://www.citusdata.com/blog/2017/10/25/what-it-means-to-be-a-postgresql-extension/) that transforms Postgres into a distributed database—so you can achieve high performance at any scale: https://github.com/citusdata/citus
+
 dbGate - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application: https://github.com/dbgate/dbgate
 
 ----
