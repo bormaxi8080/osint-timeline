@@ -13,7 +13,11 @@ When the Israelites, led by Moses, began to grumble against God during their wan
 
 ----
 
+Getting started with LinkScope — an actionable OSINT tool: https://medium.com/@tsvetelina1/getting-started-with-linkscope-an-actionable-osint-tool-ec6052d13746
+
 These are the Tools Open Source Researchers Say They Need. Results from a survey of 500 people who use a variety of online research tools. Will be useful to read for those involved in the development and promotion of OSINT tools: https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/
+
+----
 
 Kali Linux 2024.3 Release (Multiple transitions): https://www.kali.org/blog/kali-linux-2024-3-release/
 
@@ -22,6 +26,8 @@ Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+Repository for the LinkScope Client Online Investigation software. LinkScope allows you to perform online investigations by representing information as discrete pieces of data, called Entities: https://github.com/AccentuSoft/LinkScope_Client
 
 A list of Python parsing tools initially imported from [@nedbat's](https://github.com/nedbat) [blog post](http://nedbatchelder.com/text/python-parsers.html): https://github.com/webmaven/python-parsing-tools
 
