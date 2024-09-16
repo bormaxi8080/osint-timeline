@@ -27,7 +27,11 @@ Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1
 
 **OSINT Tools, Services and Investigations:**
 
+Picuki is a free tool which allows users to easily view or download **public** Instagram and TikTok photos and videos: https://www.picuki.com/
+
 Repository for the LinkScope Client Online Investigation software. LinkScope allows you to perform online investigations by representing information as discrete pieces of data, called Entities: https://github.com/AccentuSoft/LinkScope_Client
+
+headi - Customisable and automated HTTP header injection: https://github.com/mlcsec/headi
 
 A list of Python parsing tools initially imported from [@nedbat's](https://github.com/nedbat) [blog post](http://nedbatchelder.com/text/python-parsers.html): https://github.com/webmaven/python-parsing-tools
 
@@ -39,7 +43,7 @@ Lark is a parsing toolkit for Python, built with a focus on ergonomics, performa
 
 **AI:**
 
-
+MiniPerplx - A minimalistic AI-powered search engine that helps you find information on the internet: https://github.com/zaidmukaddam/miniperplx
 
 ---
 
@@ -47,12 +51,17 @@ Lark is a parsing toolkit for Python, built with a focus on ergonomics, performa
 
 Citus is a [PostgreSQL extension](https://www.citusdata.com/blog/2017/10/25/what-it-means-to-be-a-postgresql-extension/) that transforms Postgres into a distributed database—so you can achieve high performance at any scale: https://github.com/citusdata/citus
 
+Instant is a client-side database that makes it easy to build real-time and collaborative apps like Notion or Figma: https://github.com/instantdb/instant
+
 dbGate - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application: https://github.com/dbgate/dbgate
 
 ----
 
 **Linux & DevOps:**
 
+Go Universal Redirect - Lightweight Go server that redirects users to platform-specific URLs (e.g., App Store, Play Store): https://github.com/ftp27/go-universal-redirect
+
+NGinx Lua Anti-DDoS - A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Soc: https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
 
 ----
 
