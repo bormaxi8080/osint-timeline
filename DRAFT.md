@@ -13,7 +13,7 @@ When the Israelites, led by Moses, began to grumble against God during their wan
 
 ----
 
-Getting started with LinkScope — an actionable OSINT tool: https://medium.com/@tsvetelina1/getting-started-with-linkscope-an-actionable-osint-tool-ec6052d13746
+Getting started with LinkScope - an actionable OSINT tool: https://medium.com/@tsvetelina1/getting-started-with-linkscope-an-actionable-osint-tool-ec6052d13746
 
 These are the Tools Open Source Researchers Say They Need. Results from a survey of 500 people who use a variety of online research tools. Will be useful to read for those involved in the development and promotion of OSINT tools: https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/
 
@@ -74,6 +74,8 @@ Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1
 **New from CyberDetective:**
 
 Guide: OSINT gathering on the X platform (Twitter). Inspecting X accounts, X username, X name, X profile and header images, User bio, Search on X, X advanced search operators, Using Google Dorks to search X: https://www.authentic8.com/blog/osint-gathering-x-twitter
+
+ExportGenius. Detailed information on each category of import goods by countries: partners, ports and names of importing companies. Huge amount of data for several years including shipments records (Product Description, Total count, Country etc): https://exportgenius.in
 
 ----
 
