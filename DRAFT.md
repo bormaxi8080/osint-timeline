@@ -14,7 +14,7 @@ Something went wrong, not according to plan, and the gods no longer want to retu
 
 ----
 
-
+War Of Words - Russian TV Propaganda AI Monitoring Portal: https://warofwords.info
 
 ----
 
