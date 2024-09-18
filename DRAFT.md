@@ -1,3 +1,5 @@
+Mikhail Klodt, "The shadows of those he killed appear to Ivan the Terrible", 1908
+
 
 All that will remain of us is organic matter, lymph, mixed with broken glass.
 
@@ -27,7 +29,7 @@ Flipper Zero 1.0 Firmware released: https://blog.flipper.net/released-firmware-1
 
 **OSINT Tools, Services and Investigations:**
 
-Picuki is a free tool which allows users to easily view or download **public** Instagram and TikTok photos and videos: https://www.picuki.com/
+Picuki is a free tool which allows users to easily view or download public Instagram and TikTok photos and videos: https://www.picuki.com/
 
 Repository for the LinkScope Client Online Investigation software. LinkScope allows you to perform online investigations by representing information as discrete pieces of data, called Entities: https://github.com/AccentuSoft/LinkScope_Client
 
@@ -49,7 +51,7 @@ MiniPerplx - A minimalistic AI-powered search engine that helps you find informa
 
 **Software Development:**
 
-Citus is a [PostgreSQL extension](https://www.citusdata.com/blog/2017/10/25/what-it-means-to-be-a-postgresql-extension/) that transforms Postgres into a distributed database—so you can achieve high performance at any scale: https://github.com/citusdata/citus
+Citus is a [PostgreSQL extension](https://www.citusdata.com/blog/2017/10/25/what-it-means-to-be-a-postgresql-extension/) that transforms Postgres into a distributed database - so you can achieve high performance at any scale: https://github.com/citusdata/citus
 
 Instant is a client-side database that makes it easy to build real-time and collaborative apps like Notion or Figma: https://github.com/instantdb/instant
 
