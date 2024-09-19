@@ -26,13 +26,13 @@ War Of Words - Russian TV Propaganda AI Monitoring Portal: https://warofwords.in
 
 **AI:**
 
-
+Firecrawl - Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API: https://github.com/mendableai/firecrawl
 
 ---
 
 **Software Development:**
 
-
+Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences: https://github.com/skytable/skytable
 
 ----
 
@@ -44,13 +44,13 @@ War Of Words - Russian TV Propaganda AI Monitoring Portal: https://warofwords.in
 
 **Flipper Zero:**
 
-
+FlipperZero UFBT - Compact tool for building and debugging applications for Flipper Zero: https://github.com/flipperdevices/flipperzero-ufbt
 
 ----
 
 **New from CyberDetective:**
 
-
+A Free OSINT Lesson: “Google Scholar,” the OSINTers Dream That No One Uses. Instructions on how to search for court documents using Google Scholar + a very detailed description of an example of how to use such documents in an investigation: https://www.bullshithunting.com/p/a-free-osint-lesson-google-scholar
 
 ----
 
