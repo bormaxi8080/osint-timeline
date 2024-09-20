@@ -4,9 +4,9 @@ Mikhail Klodt, "The shadows of those he killed appear to Ivan the Terrible", 190
 All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 
+
+
 Something went wrong, not according to plan, and the gods no longer want to return to Earth.
-
-
 
 ----
 
@@ -20,7 +20,7 @@ War Of Words - Russian TV Propaganda AI Monitoring Portal: https://warofwords.in
 
 **OSINT Tools, Services and Investigations:**
 
-
+urlDNA is a powerful tool for comprehensive URL analysis, advanced brand monitoring, phishing detection, and custom query capabilities. This Python package allows users to interact with the urlDNA API seamlessly through Python: https://github.com/urldna/urldna
 
 ----
 
@@ -33,6 +33,8 @@ Firecrawl - Turn entire websites into LLM-ready markdown or structured data. Scr
 **Software Development:**
 
 Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences: https://github.com/skytable/skytable
+
+FrostDB - Coolest database around Embeddable column database written in Go: https://github.com/polarsignals/frostdb
 
 ----
 
@@ -50,7 +52,7 @@ FlipperZero UFBT - Compact tool for building and debugging applications for Flip
 
 **New from CyberDetective:**
 
-A Free OSINT Lesson: “Google Scholar,” the OSINTers Dream That No One Uses. Instructions on how to search for court documents using Google Scholar + a very detailed description of an example of how to use such documents in an investigation: https://www.bullshithunting.com/p/a-free-osint-lesson-google-scholar
+A Free OSINT Lesson: "Google Scholar", the OSINTers Dream That No One Uses. Instructions on how to search for court documents using Google Scholar + a very detailed description of an example of how to use such documents in an investigation: https://www.bullshithunting.com/p/a-free-osint-lesson-google-scholar
 
 ----
 
