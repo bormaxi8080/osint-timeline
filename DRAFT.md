@@ -22,6 +22,8 @@ War Of Words - Russian TV Propaganda AI Monitoring Portal: https://warofwords.in
 
 urlDNA is a powerful tool for comprehensive URL analysis, advanced brand monitoring, phishing detection, and custom query capabilities. This Python package allows users to interact with the urlDNA API seamlessly through Python: https://github.com/urldna/urldna
 
+IP_Rover - An Excellent OSINT tool to get information of any ip address. All details are explained in below screenshot: https://github.com/Cyber-Dioxide/IP_Rover
+
 ----
 
 **AI:**
