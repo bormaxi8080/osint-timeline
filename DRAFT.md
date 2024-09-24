@@ -14,6 +14,12 @@ Something went wrong, not according to plan, and the gods no longer want to retu
 
 ----
 
+Find the Right Open Source Tools With Bellingcat’s New Online Investigations Toolkit: https://www.bellingcat.com/resources/2024/09/24/bellingcat-online-investigations-toolkit/
+
+Link: https://bellingcat.gitbook.io/toolkit
+
+----
+
 War Of Words - Russian TV Propaganda AI Monitoring Portal: https://warofwords.info
 
 ----
@@ -55,6 +61,8 @@ FlipperZero UFBT - Compact tool for building and debugging applications for Flip
 **New from CyberDetective:**
 
 A Free OSINT Lesson: "Google Scholar", the OSINTers Dream That No One Uses. Instructions on how to search for court documents using Google Scholar + a very detailed description of an example of how to use such documents in an investigation: https://www.bullshithunting.com/p/a-free-osint-lesson-google-scholar
+
+TV News Archive - 2, 976, 000 videos (search by keywords in captions), Since 2009 Factchecks and special collections: https://archive.org/details/tv
 
 ----
 
