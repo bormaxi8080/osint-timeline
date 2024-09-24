@@ -40,6 +40,8 @@ Firecrawl - Turn entire websites into LLM-ready markdown or structured data. Scr
 
 **Software Development:**
 
+Cypress - Fast, easy and reliable testing for anything that runs in a browser: https://github.com/cypress-io/cypress
+
 Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences: https://github.com/skytable/skytable
 
 FrostDB - Coolest database around Embeddable column database written in Go: https://github.com/polarsignals/frostdb
@@ -68,7 +70,7 @@ TV News Archive - 2, 976, 000 videos (search by keywords in captions), Since 200
 
 **New from GitHub Community:**
 
-
+Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media. It is an alternative to the proprietary Emby and Plex, to provide media from a dedicated server to end-user devices via multiple apps: https://github.com/jellyfin/jellyfin
 
 ----
 ### bormaxi8080 OSINT timeline:
