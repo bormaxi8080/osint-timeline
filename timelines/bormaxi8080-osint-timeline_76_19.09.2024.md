@@ -1,6 +1,4 @@
-
 ![alt text](img/76.jpg)
-
 ### bormaxi8080 OSINT Timeline (76) - 19.09.2024:
 
 --
