@@ -34,13 +34,13 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 **Linux & DevOps:**
 
-
+mitmproxy is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets: https://github.com/mitmproxy/mitmproxy
 
 ----
 
 **Flipper Zero:**
 
-
+Flipper Zero WiFi Marauder companion app: https://github.com/0xchocolate/flipperzero-wifi-marauder
 
 ----
 
