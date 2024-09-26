@@ -10,7 +10,7 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 ----
 
-
+Large directory of news sites popular in different countries - dating sites by countries, real estate sites by countries, jobs sites by countries, cars sites by countries and more: https://allyoucanread.com
 
 ----
 
@@ -28,7 +28,7 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 **Software Development:**
 
-
+DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis: https://github.com/DiceDB/dice
 
 ----
 
