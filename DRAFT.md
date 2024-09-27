@@ -26,6 +26,8 @@ Large directory of news sites popular in different countries - dating sites by c
 
 ThreatPinch Lookup creates informational tooltips when hovering oven an item of interest on any website. It helps speed up security investigations by automatically providing relevant information upon hovering over any IPv4 address, MD5 hash, SHA2 hash, and CVE title. It’s designed to be completely customizable and work with any rest API: https://github.com/cloudtracer/ThreatPinchLookup
 
+Pytster is an application designed to check whether a given hash, email address, IPv4 address, URL, or domain is malicious. Additionally, it provides detailed information about the input by consolidating data from various OSINT (Open Source Intelligence) websites. This tool simplifies the work of analysts by aggregating information in one place: https://github.com/GaneshBalaji-04/Pytster
+
 ----
 
 **AI:**
