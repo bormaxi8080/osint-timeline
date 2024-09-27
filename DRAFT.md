@@ -14,22 +14,6 @@ OSINT - Emotions Under the Mircoscope.
 
 Finding valuable information within OSINT investigations often requires looking beyond the surface. Social media, blogs, and forums are environments where emotions often run high, and peer pressure can shape behavior. These psychological factors can become powerful for OSINT practitioners to uncover hidden insights, identify pivot points, and gain a deeper understanding of topics, groups or individuals.
 
-Using the 5W1H Method to get answers.
-
-Asking Who, What, When, Where, Why, and How questions can be very useful in OSINT investigations, especially when combined with the understanding of emotional states and peer dynamics.
-
-Who: Identifies the individuals involved. Who are the key players? Who is being influenced? Who might be sharing critical information under peer pressure?
-
-What: Focuses on the nature of the information. What is being shared? What kind of information is driving emotional responses or being revealed under (peer) pressure?
-
-When: Determines the timing. When did the events or information disclosure happen? When are individuals most likely to express heightened emotions or share sensitive details?
-
-Where: Locates the context or platform. Where is the information being shared? Specific social media platforms, forums, or blogs? Where are the echo chambers and hotbeds of emotional activity?
-
-Why: Uncovers the motivations. Why are individuals sharing this information? Why are they emotionally invested, and how does peer pressure or algorithmic reinforcement influence their behavior?
-
-How: Explains the process. How is the information being disseminated? How are individuals influenced by their peers or by the algorithmic environment they are in?
-
 https://www.dutchosintguy.com/post/osint-emotions-under-the-mircoscope
 
 ----
