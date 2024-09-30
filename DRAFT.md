@@ -10,7 +10,7 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 ----
 
-OSINT - Emotions Under the Mircoscope.
+OSINT - Emotions Under the Microscope.
 
 Finding valuable information within OSINT investigations often requires looking beyond the surface. Social media, blogs, and forums are environments where emotions often run high, and peer pressure can shape behavior. These psychological factors can become powerful for OSINT practitioners to uncover hidden insights, identify pivot points, and gain a deeper understanding of topics, groups or individuals.
 
@@ -46,6 +46,8 @@ DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper
 
 mitmproxy is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets: https://github.com/mitmproxy/mitmproxy
 
+Trace - POC for a real-time log monitoring solution, orchestrated as a distributed system: https://github.com/akkik04/Trace
+
 ----
 
 **Flipper Zero:**
@@ -56,7 +58,9 @@ Flipper Zero WiFi Marauder companion app: https://github.com/0xchocolate/flipper
 
 **New from CyberDetective:**
 
+Track Trace. A free online tool that uses a shipping container number to determine which company it belongs to and automatically redirects to company's website to track it: https://www.track-trace.com/container
 
+Image Translation Assistant. A simple and quick Chrome extension that uploads any image to Google Translate and translates it in two clicks: https://chromewebstore.google.com/detail/image-translation-assista/jkhebkocllcbjacmdmkgapgfiiedfgef
 
 ----
 
