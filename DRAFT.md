@@ -66,7 +66,7 @@ Image Translation Assistant. A simple and quick Chrome extension that uploads an
 
 **New from GitHub Community:**
 
-
+PyMacroRecord - Free and Open Source Macro Recorder with a modern GUI using Python: https://github.com/LOUDO56/PyMacroRecord
 
 ----
 ### bormaxi8080 OSINT timeline:
