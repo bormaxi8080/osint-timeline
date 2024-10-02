@@ -3,7 +3,6 @@ Mikhail Klodt, "The shadows of those he killed appear to Ivan the Terrible", 190
 
 All that will remain of us is organic matter, lymph, mixed with broken glass.
 
-
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2200: https://github.com/bormaxi8080/osint-repos-list
@@ -15,6 +14,10 @@ OSINT - Emotions Under the Microscope.
 Finding valuable information within OSINT investigations often requires looking beyond the surface. Social media, blogs, and forums are environments where emotions often run high, and peer pressure can shape behavior. These psychological factors can become powerful for OSINT practitioners to uncover hidden insights, identify pivot points, and gain a deeper understanding of topics, groups or individuals.
 
 https://www.dutchosintguy.com/post/osint-emotions-under-the-mircoscope
+
+----
+
+Boost Intelligence Operations: Save Thousands of Hours with OSINT Industries and Maltego: https://www.youtube.com/watch?v=5_eABtWpjXQ
 
 ----
 
@@ -32,7 +35,7 @@ Pytster is an application designed to check whether a given hash, email address,
 
 **AI:**
 
-
+FreeThinker is an AI agent that uses free-of-charge API open source LLMs in order to automatize tasks. That meaning that you don't required pay-per-token API keys to run it: https://github.com/diegovelilla/FreeThinker
 
 ---
 
