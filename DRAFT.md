@@ -27,7 +27,7 @@ Moral Risk, Moral Injury, and Institutional Responsibility: Ethical Issues in HU
 
 **Software Development:**
 
-
+swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition: https://github.com/swagger-api/swagger-codegen
 
 ----
 
