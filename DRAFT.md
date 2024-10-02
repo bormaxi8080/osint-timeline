@@ -7,7 +7,9 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 ----
 
+How Israeli spies penetrated Hizbollah. Depth and quality of intelligence helped IDF turn the tide against Lebanese militant group: https://www.ft.com/content/6638813e-e246-4409-9a38-95bf60a220a8
 
+Moral Risk, Moral Injury, and Institutional Responsibility: Ethical Issues in HUMINT: https://www.tandfonline.com/doi/full/10.1080/08850607.2024.2382031
 
 ----
 
