@@ -15,7 +15,7 @@ Moral Risk, Moral Injury, and Institutional Responsibility: Ethical Issues in HU
 
 **OSINT Tools, Services and Investigations:**
 
-
+Argus is an all-in-one, Python-powered toolkit designed to streamline the process of information gathering and reconnaissance. With a user-friendly interface and a suite of powerful modules, Argus empowers you to explore networks, web applications, and security configurations efficiently and effectively: https://github.com/jasonxtn/Argus
 
 ----
 
