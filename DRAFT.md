@@ -15,13 +15,19 @@ Moral Risk, Moral Injury, and Institutional Responsibility: Ethical Issues in HU
 
 **OSINT Tools, Services and Investigations:**
 
+Real time emotion recognition: https://github.com/otaha178/Emotion-recognition
+
 Argus is an all-in-one, Python-powered toolkit designed to streamline the process of information gathering and reconnaissance. With a user-friendly interface and a suite of powerful modules, Argus empowers you to explore networks, web applications, and security configurations efficiently and effectively: https://github.com/jasonxtn/Argus
+
+WiFi Phisher - The Rogue Access Point Framework: https://github.com/wifiphisher/wifiphisher
 
 ----
 
 **AI:**
 
+MyMapAI An online tool for drawing very beautiful Mind Maps, with a simple interface and flexible settings. Free drawing, free high quality export to png/jpeg, partly free AI text generation: https://mymap.ai
 
+Babelfish.AI - A realtime live transcription and translation app built with Huggingface Transformer.js and Supabase Realtime: https://github.com/supabase-community/babelfish.ai
 
 ---
 
@@ -39,19 +45,21 @@ swagger-codegen contains a template-driven engine to generate documentation, API
 
 **Flipper Zero:**
 
-
+Flipper Zero Mayhem - Perfect companion for your Flipper Zero. ESP32 with WiFi, BT/BLE, micro-SD, camera+PSRAM, flashlight and extras: NRF24/CC1101, 3V/5V sensors: https://github.com/eried/flipperzero-mayhem
 
 ----
 
 **New from CyberDetective:**
 
+Neshan Maps. Iran online maps with satellite view, street view, user reviews and lot of photos: neshan.org/maps/
 
+Global "Internet health" map. Tracking Internet outages across ISPs, top application providers, public clouds, and edge service networks. Live 24 hours data: thousandeyes.com/outages/
 
 ----
 
 **New from GitHub Community:**
 
-
+Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables: https://github.com/jsvine/pdfplumber
 
 ----
 ### bormaxi8080 OSINT timeline:
