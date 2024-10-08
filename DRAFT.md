@@ -42,6 +42,8 @@ Babelfish.AI - A realtime live transcription and translation app built with Hugg
 
 **Software Development:**
 
+Teable - The Next Gen Airtable Alternative. No-Code Postgres: https://github.com/teableio/teable
+
 swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition: https://github.com/swagger-api/swagger-codegen
 
 ----
