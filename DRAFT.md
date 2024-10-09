@@ -1,6 +1,6 @@
 Lived-were in a cloud of a point:
 Dots-daughters and sons
-Seven hundred thousand sons
+Five hundred thousand sons
 Twenty hundred thousand daughters
 Seven hundred thousand black dots
 Sons and dot-daughters
@@ -19,6 +19,8 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 How Israeli spies penetrated Hizbollah. Depth and quality of intelligence helped IDF turn the tide against Lebanese militant group: https://www.ft.com/content/6638813e-e246-4409-9a38-95bf60a220a8
 
 Moral Risk, Moral Injury, and Institutional Responsibility. Ethical Issues in HUMINT: https://www.tandfonline.com/doi/full/10.1080/08850607.2024.2382031
+
+Learn how to build a Python Telegram scraper using Telethon for OSINT and threat intelligence monitoring. Step-by-step guide with practical examples: https://publication.osintambition.org/python-for-telegram-osint-automate-telegram-threat-intel-monitoring-bdc21195575c
 
 ----
 
@@ -70,7 +72,9 @@ Global "Internet health" map. Tracking Internet outages across ISPs, top applica
 
 **New from GitHub Community:**
 
-Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables: https://github.com/jsvine/pdfplumber
+Plumb a PDF for detailed information about each char, rectangle, line, et cetera - and easily extract text and tables: https://github.com/jsvine/pdfplumber
+
+Go Dupfinder - Duplicate File Finder: https://github.com/mrinjamul/go-dupfinder
 
 ----
 ### bormaxi8080 OSINT timeline:
