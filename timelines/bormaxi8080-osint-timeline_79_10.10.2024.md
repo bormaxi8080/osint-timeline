@@ -36,7 +36,7 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 ```Babelfish.AI``` - A realtime live transcription and translation app built with Huggingface Transformer.js and Supabase Realtime: https://github.com/supabase-community/babelfish.ai
 
----
+----
 
 **Software Development:**
 

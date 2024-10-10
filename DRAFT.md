@@ -13,19 +13,23 @@ And they went underground.
 
 ----
 
+Elon Musk’s Starlink Terminals Are Falling Into the Wrong Hands. Starlink’s effectiveness as a communications tool makes the satellite internet service a target for a growing black-market trade worldwide: https://www.bloomberg.com/news/features/2024-03-25/elon-musk-s-spacex-sees-starlink-black-market-trade-grow-worldwide?srnd=homepage-europe
 
+AskNews. Online tool for search and analyze last news from 50,000+ sources ( 14 languages). Sources filters, keywords stats, relationship graphs, statistics, visualizations, AI chat and more. Partly free: https://asknews.app
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+Writeup-miner - This is a useful Python script for extracting bug bounty or any other write-ups from Medium.com and other websites (soon): https://github.com/Spix0r/writeup-miner
 
 ----
 
 **AI:**
 
+Avatars for Zoom, Skype and other video-conferencing apps: https://github.com/alievk/avatarify-python
 
+Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser: https://github.com/bromite/bromite
 
 ---
 
@@ -43,7 +47,7 @@ And they went underground.
 
 **Flipper Zero:**
 
-
+GUI - Analyze WPA/WPA2 handshakes from FlipperZero's captured .pcaps to find out the WiFi Passwords: https://github.com/grugnoymeme/flipperzero-GUI-wifi-cracker
 
 ----
 
@@ -55,7 +59,7 @@ And they went underground.
 
 **New from GitHub Community:**
 
-
+Speek - Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications: https://github.com/Speek-App/Speek
 
 ----
 ### bormaxi8080 OSINT timeline:
