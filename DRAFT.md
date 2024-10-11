@@ -30,6 +30,8 @@ Go UserAgent - Fast trie-based user-agent parser in Go: https://github.com/medam
 
 Writeup-miner - This is a useful Python script for extracting bug bounty or any other write-ups from Medium.com and other websites (soon): https://github.com/Spix0r/writeup-miner
 
+Storm Breaker - Social engineering tool (Access Webcam & Microphone & Location Finder) With Py, JS, PHP: https://github.com/ultrasecurity/Storm-Breaker
+
 ----
 
 **AI:**
@@ -48,7 +50,7 @@ Gravitino - World's most powerful open data catalog for building a high-performa
 
 **Linux & DevOps:**
 
-
+SpoofDPI App for MacOS - An easy-to-use Mac app that will make YouTube work great again! Powered by the SpoofDPI library: https://github.com/SpoofDPIApp/SpoofDPI-App
 
 ----
 
