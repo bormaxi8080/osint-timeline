@@ -7,6 +7,9 @@ Sons and dot-daughters
 Black hail spilled
 And they went underground.
 
+
+New life never comes for free.
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2200: https://github.com/bormaxi8080/osint-repos-list
@@ -20,6 +23,10 @@ AskNews. Online tool for search and analyze last news from 50,000+ sources ( 14 
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+Paliscope - Search, visualize, and explore vast amounts of data with speed and precision. Now available for free for investigative organizations: https://www.paliscope.com/
+
+Go UserAgent - Fast trie-based user-agent parser in Go: https://github.com/medama-io/go-useragent
 
 Writeup-miner - This is a useful Python script for extracting bug bounty or any other write-ups from Medium.com and other websites (soon): https://github.com/Spix0r/writeup-miner
 
@@ -35,7 +42,7 @@ Bromite is a Chromium fork with ad blocking and privacy enhancements; take back 
 
 **Software Development:**
 
-
+Gravitino - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake: https://github.com/apache/gravitino
 
 ----
 
