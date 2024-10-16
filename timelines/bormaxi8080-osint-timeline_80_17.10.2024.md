@@ -38,7 +38,7 @@ New life never comes for free.
 
 **AI:**
 
-```Whisper Timestamped```. In-browser speech recognition w/ word-level timestamps: https://huggingface.co/spaces/Xenova/whisper-word-level-timestamps
+```Whisper Timestamped.``` In-browser speech recognition / word-level timestamps: https://huggingface.co/spaces/Xenova/whisper-word-level-timestamps
 
 ```Agents``` - partnering with OpenAI on a new `MultimodalAgent` API in the Agents framework. This class completely wraps OpenAI’s Realtime API, abstracts away the raw wire protocol, and provide an ultra-low latency WebRTC transport between GPT-4o and your users’ devices. This same stack powers Advanced Voice in the ChatGPT app: https://github.com/livekit/agents
 

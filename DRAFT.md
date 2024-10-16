@@ -20,6 +20,8 @@ A quick overview of what a Social Links OSINT CoE (Center of Excellence) is: htt
 
 **OSINT Tools, Services and Investigations:**
 
+Whisper JAX is an optimised implementation of the [Whisper model](https://huggingface.co/openai/whisper-large-v3) by OpenAI. It runs on JAX with a TPU v4-8 in the backend. Compared to PyTorch on an A100 GPU, it is over [**70x faster**](https://github.com/sanchit-gandhi/whisper-jax#benchmarks), making it the fastest Whisper API available: https://huggingface.co/spaces/sanchit-gandhi/whisper-jax?s=09%7CWhisper
+
 Social Links gives an API to a suite of data extraction and analysis methods covering social media, blockchains, messengers, and the Dark Web: https://github.com/SocialLinks-IO/sociallinks-api
 
 Interpol Notices transforms for Maltego. A list of transforms for searching Red, Yellow, and UNSC notices by Name or Phrase.: https://github.com/SocialLinks-IO/interpol-notices-maltego
