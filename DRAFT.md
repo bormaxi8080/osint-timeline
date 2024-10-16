@@ -8,6 +8,8 @@ Black hail spilled
 And they went underground.
 
 
+The main ethical problem of modern recruitment: business must become social.
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2300: https://github.com/bormaxi8080/osint-repos-list
