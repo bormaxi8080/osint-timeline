@@ -14,13 +14,17 @@ And they went underground.
 
 ----
 
-
+A quick overview of what a Social Links OSINT CoE (Center of Excellence) is: https://github.com/SocialLinks-IO/center-of-excellence
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+Social Links gives an API to a suite of data extraction and analysis methods covering social media, blockchains, messengers, and the Dark Web: https://github.com/SocialLinks-IO/sociallinks-api
 
+Interpol Notices transforms for Maltego. A list of transforms for searching Red, Yellow, and UNSC notices by Name or Phrase.: https://github.com/SocialLinks-IO/interpol-notices-maltego
+
+A free transform to get a reputation of an email address in a second with **the power of [emailrep.io](https://github.com/SocialLinks-IO/emailrep-maltego/blob/master/emailrep.io)**: https://github.com/SocialLinks-IO/emailrep-maltego
 
 ----
 
@@ -44,19 +48,19 @@ And they went underground.
 
 **Flipper Zero:**
 
-
+Official ufbt Action wrapper for building Flipper Zero applications: https://github.com/flipperdevices/flipperzero-ufbt-action
 
 ----
 
 **New from CyberDetective:**
 
-
+The Ultimate List of Websites for U.S. Intelligence Enthusiasts: 33 Must-Visit Sources by Robert Morton: https://osintdaily.blogspot.com/2023/02/the-ultimate-list-of-websites-for-us.html
 
 ----
 
 **New from GitHub Community:**
 
-
+Open Video Downloader (youtube-dl-gui). A cross-platform GUI for youtube-dl made in Electron and node.js: https://github.com/jely2002/youtube-dl-gui
 
 ----
 ### bormaxi8080 OSINT timeline:
