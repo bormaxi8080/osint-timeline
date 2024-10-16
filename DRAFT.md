@@ -16,17 +16,21 @@ And they went underground.
 
 A quick overview of what a Social Links OSINT CoE (Center of Excellence) is: https://github.com/SocialLinks-IO/center-of-excellence
 
+Social Links gives an API to a suite of data extraction and analysis methods covering social media, blockchains, messengers, and the Dark Web: https://github.com/SocialLinks-IO/sociallinks-api
+
+Interpol Notices transforms for Maltego. A list of transforms for searching Red, Yellow, and UNSC notices by Name or Phrase.: https://github.com/SocialLinks-IO/interpol-notices-maltego
+
+A free transform to get a reputation of an email address in a second with **the power of [emailrep.io](https://github.com/SocialLinks-IO/emailrep-maltego/blob/master/emailrep.io)**: https://github.com/SocialLinks-IO/emailrep-maltego
+
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 Whisper JAX is an optimised implementation of the [Whisper model](https://huggingface.co/openai/whisper-large-v3) by OpenAI. It runs on JAX with a TPU v4-8 in the backend. Compared to PyTorch on an A100 GPU, it is over [**70x faster**](https://github.com/sanchit-gandhi/whisper-jax#benchmarks), making it the fastest Whisper API available: https://huggingface.co/spaces/sanchit-gandhi/whisper-jax?s=09%7CWhisper
 
-Social Links gives an API to a suite of data extraction and analysis methods covering social media, blockchains, messengers, and the Dark Web: https://github.com/SocialLinks-IO/sociallinks-api
+ytui is a TUI tool that allows users to query videos on youtube and play them in their local player: https://github.com/Banh-Canh/ytui
 
-Interpol Notices transforms for Maltego. A list of transforms for searching Red, Yellow, and UNSC notices by Name or Phrase.: https://github.com/SocialLinks-IO/interpol-notices-maltego
-
-A free transform to get a reputation of an email address in a second with **the power of [emailrep.io](https://github.com/SocialLinks-IO/emailrep-maltego/blob/master/emailrep.io)**: https://github.com/SocialLinks-IO/emailrep-maltego
+Efficient and lightweight Golang-based tool for validating email addresses with syntax checks and domain verification: https://github.com/zeeshanahmad0201/email_verification_tool
 
 ----
 
