@@ -52,11 +52,13 @@ Ovis1.6-Gemma2-9B A language model that is good at image identification (handwri
 
 **Software Development:**
 
-
+StatsD - Daemon for easy but powerful stats aggregation: https://github.com/statsd/statsd
 
 ----
 
 **Linux & DevOps:**
+
+Briefer - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team: https://github.com/briefercloud/briefer
 
 Wasted - Lock a device and wipe its data on emergency: https://github.com/x13a/Wasted
 
@@ -73,6 +75,10 @@ Official ufbt Action wrapper for building Flipper Zero applications: https://git
 The Ultimate List of Websites for U.S. Intelligence Enthusiasts: 33 Must-Visit Sources by Robert Morton: https://osintdaily.blogspot.com/2023/02/the-ultimate-list-of-websites-for-us.html
 
 OSINT Instagram Guide by [@DarknessGate](https://x.com/DarknessGate). Instagram Structure Inspecting Instagram user profile Inspect Instagram handle Instagram display name Profile picture Account bio Followers and following Account options Analyzing Instagram posts Searching Instagram: https://www.authentic8.com/blog/osint-instagram-guide
+
+ZEROX OCR. A quality open source text recognition tool that works very well with complex infographics.
+Free online demo (30 pages limit): https://getomni.ai/ocr-demo 
+Github repo with #npm package: https://github.com/getomni-ai/zerox
 
 ----
 
