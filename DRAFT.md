@@ -58,7 +58,9 @@ StatsD - Daemon for easy but powerful stats aggregation: https://github.com/stat
 
 **Linux & DevOps:**
 
-Briefer - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team: https://github.com/briefercloud/briefer
+nwipe is a fork of the dwipe command originally used by Darik's Boot and Nuke (DBAN). nwipe was created out of a need to run the DBAN dwipe command outside of DBAN, in order to allow its use with any host distribution, thus giving better hardware support: https://github.com/martijnvanbrummelen/nwipe
+
+Kubewall - A single binary kubernetes dashboard to manage your multiple clusters: https://github.com/kubewall/kubewall
 
 Wasted - Lock a device and wipe its data on emergency: https://github.com/x13a/Wasted
 
@@ -83,6 +85,8 @@ Github repo with #npm package: https://github.com/getomni-ai/zerox
 ----
 
 **New from GitHub Community:**
+
+Briefer - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team: https://github.com/briefercloud/briefer
 
 Open Video Downloader (youtube-dl-gui). A cross-platform GUI for youtube-dl made in Electron and node.js: https://github.com/jely2002/youtube-dl-gui
 
