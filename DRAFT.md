@@ -30,7 +30,11 @@ A free transform to get a reputation of an email address in a second with **the
 
 Bellingcat Filename Finder Extension that shows the filenames of Google Maps photos. Sometimes they allow to find out the exact date of the photo, and sometimes other details like the user's name or phone model: https://chromewebstore.google.com/detail/bellingcat-filename-finde/fdhodjpkigpaachejkipcghppfnnfdmp
 
+VK Visualizer - Visualization of geo points from photos from vk profile: https://github.com/lmsecure/vk_visualizer
+
 ytui is a TUI tool that allows users to query videos on youtube and play them in their local player: https://github.com/Banh-Canh/ytui
+
+BruteCMS - Multi-threaded CMS BruteForcer to WordPress, Joomla, Drupal, OpenCart: https://github.com/OffXec/brutecms
 
 Efficient and lightweight Golang-based tool for validating email addresses with syntax checks and domain verification: https://github.com/zeeshanahmad0201/email_verification_tool
 
