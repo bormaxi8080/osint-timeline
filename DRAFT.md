@@ -16,6 +16,10 @@ The main ethical problem of modern recruitment: business must become social.
 
 ----
 
+Parrot OS 6.2 released: https://www.parrotsec.org/blog/2024-10-23-parrot-6.2-release-notes/
+
+----
+
 A quick overview of what a Social Links OSINT CoE (Center of Excellence) is: https://github.com/SocialLinks-IO/center-of-excellence
 
 Social Links gives an API to a suite of data extraction and analysis methods covering social media, blockchains, messengers, and the Dark Web: https://github.com/SocialLinks-IO/sociallinks-api
