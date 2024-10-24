@@ -44,7 +44,7 @@ And they went underground.
 
 **Flipper Zero:**
 
-
+FlipperZero Browser passwords extractor (Chrome/Edge): https://github.com/RiadZX/FlipperPasswordExtractor
 
 ----
 
