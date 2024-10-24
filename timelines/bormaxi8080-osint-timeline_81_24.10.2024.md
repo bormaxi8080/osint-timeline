@@ -20,7 +20,7 @@ The main ethical problem of modern recruitment: business must become social.
 
 ```Social Links gives an API to a suite of data extraction and analysis``` methods covering social media, blockchains, messengers, and the Dark Web: https://github.com/SocialLinks-IO/sociallinks-api
 
-```Interpol Notices transforms for Maltego```. A list of transforms for searching Red, Yellow, and UNSC notices by Name or Phrase.: https://github.com/SocialLinks-IO/interpol-notices-maltego
+```Interpol Notices transforms for Maltego```. A list of transforms for searching Red, Yellow, and UNSC notices by Name or Phrase: https://github.com/SocialLinks-IO/interpol-notices-maltego
 
 ```A free transform to get a reputation of an email address``` in a second with **the power of [emailrep.io](https://github.com/SocialLinks-IO/emailrep-maltego/blob/master/emailrep.io)**: https://github.com/SocialLinks-IO/emailrep-maltego
 
@@ -90,9 +90,9 @@ Github repo with #npm package: https://github.com/getomni-ai/zerox
 
 **New from GitHub Community:**
 
-Briefer - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team: https://github.com/briefercloud/briefer
+```Briefer``` - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team: https://github.com/briefercloud/briefer
 
-Open Video Downloader (youtube-dl-gui). A cross-platform GUI for youtube-dl made in Electron and node.js: https://github.com/jely2002/youtube-dl-gui
+```Open Video Downloader (youtube-dl-gui)```. A cross-platform GUI for youtube-dl made in Electron and node.js: https://github.com/jely2002/youtube-dl-gui
 
 ----
 ### bormaxi8080 OSINT timeline:
