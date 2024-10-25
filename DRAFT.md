@@ -50,7 +50,9 @@ FlipperZero Browser passwords extractor (Chrome/Edge): https://github.com/RiadZX
 
 **New from CyberDetective:**
 
+Cluthch․co  - major site for finding various services for business  (350K+ service providers in 157 countries). This simple tool allows to collect data from it into a CSV file in a couple of clicks: https://thewebscrapingguy.com/free-tools/clutch-scraper
 
+British Newspaper Archive. 85,470,487 newspaper's pages from the 1700s. England, Scotland, Ireland and Wales: https://www.britishnewspaperarchive.co.uk/
 
 ----
 
