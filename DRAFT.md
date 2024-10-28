@@ -14,19 +14,21 @@ And they went underground.
 
 ----
 
-
+Embed a payload within a PNG file by splitting the payload across multiple `IDAT` sections. Each section is encrypted individually using its own 16-byte key with the RC4 encryption algorithm: https://github.com/Maldev-Academy/EmbedPayloadInPng
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+Seeker - Accurately Locate Smartphones using Social Engineering: https://github.com/thewhiteh4t/seeker
 
+AVRed - AntiVirus REDucer for AntiVirus REDteaming. Avred is being used to identify which parts of a file are identified by a Antivirus, and tries to show as much possible information and context about each match.: https://github.com/dobin/avred
 
 ----
 
 **AI:**
 
-
+Wikipedia Semantic Search. A search engine that does NOT look for word matches and does NOT generate answers using AI, but simply picks up relevant Wikipedia articles that potentially contain information related to the question: https://wikipedia-semantic-search.vercel.app
 
 ---
 
@@ -38,7 +40,7 @@ And they went underground.
 
 **Linux & DevOps:**
 
-
+Awesome Sysadmin - A curated list of amazingly awesome open-source sysadmin resources: https://github.com/awesome-foss/awesome-sysadmin
 
 ----
 
