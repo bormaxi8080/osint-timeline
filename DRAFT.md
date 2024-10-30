@@ -1,4 +1,5 @@
 
+In a city without addresses.
 
 ----
 
@@ -36,7 +37,7 @@
 
 **Flipper Zero:**
 
-
+Turn your Flipper Zero into an USB keyboard: https://github.com/huuck/FlipperZeroUSBKeyboard
 
 ----
 
