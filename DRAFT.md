@@ -16,11 +16,11 @@ And they went underground.
 
 Embed a payload within a PNG file by splitting the payload across multiple `IDAT` sections. Each section is encrypted individually using its own 16-byte key with the RC4 encryption algorithm: https://github.com/Maldev-Academy/EmbedPayloadInPng
 
+PNGify - A command line tool to encode text and files into PNG images: https://github.com/tofl/PNGify
+
 ----
 
 **OSINT Tools, Services and Investigations:**
-
-PNGify - A command line tool to encode text and files into PNG images: https://github.com/tofl/PNGify
 
 Satnow - OSINT web scraper for SatNow to extract details about satellite components and subsystem specs for in-depth reconnaissance: https://github.com/ANG13T/satnow-scraper
 
@@ -42,13 +42,15 @@ Memery - Search over large image datasets with natural language and computer vis
 
 **Software Development:**
 
-
+Starbase DB - HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects: https://github.com/Brayden/starbasedb
 
 ----
 
 **Linux & DevOps:**
 
 Awesome Sysadmin - A curated list of amazingly awesome open-source sysadmin resources: https://github.com/awesome-foss/awesome-sysadmin
+
+Zapper - Zaps arguments and environment from the process list: https://github.com/hackerschoice/zapper
 
 ----
 
@@ -60,18 +62,20 @@ FlipperZero Browser passwords extractor (Chrome/Edge): https://github.com/RiadZX
 
 **New from CyberDetective:**
 
-Cluthch․co  - major site for finding various services for business  (350K+ service providers in 157 countries). This simple tool allows to collect data from it into a CSV file in a couple of clicks: https://thewebscrapingguy.com/free-tools/clutch-scraper
+Cluthch․co  - major site for finding various services for business (350K+ service providers in 157 countries). This simple tool allows to collect data from it into a CSV file in a couple of clicks: https://thewebscrapingguy.com/free-tools/clutch-scraper
 
 British Newspaper Archive. 85,470,487 newspaper's pages from the 1700s. England, Scotland, Ireland and Wales: https://www.britishnewspaperarchive.co.uk/
 
 Analyzing Email Headers and Content Using OSINT Tools by twitter.com/DeepWebOsint
 Accessing Email Header Data, Analyzing Email Headers, Interpreting Information from Email Headers, Extracting and Analyzing URLs, Cross-Referencing IPs, Domains, and Hashes: https://theosintguide.com/2024/10/25/analyzing-email-headers-and-content-using-osint-tools/
 
+Orhyginal Maps. Select location on map and open info about it in 400+ maps/geodata tools and services. Dozens of OSM maps, transport/routring, meteo, history, webcams and more: http://map.orhyginal.fr
+
 ----
 
 **New from GitHub Community:**
 
-
+Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance: https://github.com/facebook/lexical
 
 ----
 ### bormaxi8080 OSINT timeline:
