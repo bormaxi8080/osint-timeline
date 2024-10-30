@@ -5,12 +5,19 @@ bormaxi8080 OSINT Timeline (82) - 31.10.2024:
 --
 
 Lived-were in a cloud of a point:
+
 Dots-daughters and sons
+
 Five hundred thousand sons
+
 Twenty hundred thousand daughters
+
 Seven hundred thousand black dots
+
 Sons and dot-daughters
+
 Black hail spilled
+
 And they went underground.
 
 ----
