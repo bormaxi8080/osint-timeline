@@ -7,19 +7,23 @@ In a city without addresses.
 
 ----
 
-
+How to Explore Russia When Data Is Shutting Down. Analysis and How-To: https://k-d.center/researchinrussia
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+ChatGPT Telegram COmmentator - ChatGPT will write comments on your behalf in telegram and do it the fastest: https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator
+
 Comet - A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion: https://github.com/Thavarshan/comet
+
+Awesome list of browser exploitation tutorials: https://github.com/Escapingbug/awesome-browser-exploit
 
 ----
 
-**AI:**
+**Universal Search & AI:**
 
-
+Facefusion - Industry leading face manipulation platform: https://github.com/facefusion/facefusion
 
 ---
 
@@ -43,13 +47,15 @@ Turn your Flipper Zero into an USB keyboard: https://github.com/huuck/FlipperZer
 
 **New from CyberDetective:**
 
-
+GlimpseHG. View active Ads in Google, Linkedin and Meta (Facebook) for target domain.: https://glimpsehq.io
 
 ----
 
 **New from GitHub Community:**
 
 Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance: https://github.com/facebook/lexical
+
+OSINT Tools Kazakhstan. Open Data portals, Companies registries, Vehicle history, Maps, Public procurement portal: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
 
 ----
 ### bormaxi8080 OSINT timeline:
