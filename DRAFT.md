@@ -9,11 +9,13 @@ In a city without addresses.
 
 How to Explore Russia When Data Is Shutting Down. Analysis and How-To: https://k-d.center/researchinrussia
 
+The Kitchen Sink - A collection of Open-Source Intelligence resources: https://github.com/OSINTI4L/The-Kitchen-Sink
+
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-ChatGPT Telegram COmmentator - ChatGPT will write comments on your behalf in telegram and do it the fastest: https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator
+Instatracker - an Instagram tracker that logs any changes to an Instagram account (followers, following, posts, and bio): https://github.com/ibnaleem/instatracker
 
 Comet - A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion: https://github.com/Thavarshan/comet
 
@@ -22,6 +24,8 @@ Awesome list of browser exploitation tutorials: https://github.com/Escapingbug/a
 ----
 
 **Universal Search & AI:**
+
+ChatGPT Telegram Commentator - ChatGPT will write comments on your behalf in telegram and do it the fastest: https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator
 
 Facefusion - Industry leading face manipulation platform: https://github.com/facefusion/facefusion
 
