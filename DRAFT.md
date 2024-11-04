@@ -11,6 +11,8 @@ How to Explore Russia When Data Is Shutting Down. Analysis and How-To: https://k
 
 The Kitchen Sink - A collection of Open-Source Intelligence resources: https://github.com/OSINTI4L/The-Kitchen-Sink
 
+OSINT Tools Kazakhstan. Open Data portals, Companies registries, Vehicle history, Maps, Public procurement portal: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -33,13 +35,13 @@ Facefusion - Industry leading face manipulation platform: https://github.com/fac
 
 **Software Development:**
 
-
+Supervision - write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone: https://github.com/roboflow/supervision
 
 ----
 
 **Linux & DevOps:**
 
-
+Kopia - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication: https://github.com/kopia/kopia
 
 ----
 
@@ -59,7 +61,7 @@ GlimpseHG. View active Ads in Google, Linkedin and Meta (Facebook) for target do
 
 Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance: https://github.com/facebook/lexical
 
-OSINT Tools Kazakhstan. Open Data portals, Companies registries, Vehicle history, Maps, Public procurement portal: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
+Yandex Music Downloader: https://github.com/llistochek/yandex-music-downloader
 
 ----
 ### bormaxi8080 OSINT timeline:
