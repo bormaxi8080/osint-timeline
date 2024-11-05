@@ -9,9 +9,9 @@ In a city without addresses.
 
 How to Explore Russia When Data Is Shutting Down. Analysis and How-To: https://k-d.center/researchinrussia
 
-The Kitchen Sink - A collection of Open-Source Intelligence resources: https://github.com/OSINTI4L/The-Kitchen-Sink
+Analyze Any X (Twitter) Profile for Hidden Insights Using the Word "My": https://medium.com/@practicalosint/analyze-any-x-twitter-profile-for-hidden-insights-using-my-f4a193c05e1d
 
-OSINT Tools Kazakhstan. Open Data portals, Companies registries, Vehicle history, Maps, Public procurement portal: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
+The Kitchen Sink - A collection of Open-Source Intelligence resources: https://github.com/OSINTI4L/The-Kitchen-Sink
 
 ----
 
@@ -29,19 +29,25 @@ Awesome list of browser exploitation tutorials: https://github.com/Escapingbug/a
 
 ChatGPT Telegram Commentator - ChatGPT will write comments on your behalf in telegram and do it the fastest: https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator
 
+Supervision - write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone: https://github.com/roboflow/supervision
+
 Facefusion - Industry leading face manipulation platform: https://github.com/facefusion/facefusion
 
 ---
 
 **Software Development:**
 
-Supervision - write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone: https://github.com/roboflow/supervision
+Rate Shield - A configurable rate limiter that can apply rate limiting on individual APIs with individual rules: https://github.com/x-sushant-x/Rate-Shield
+
+oci-registry is an implementation of the OCI Registry spec with filesystem and S3 storage back-ends: https://github.com/mcronce/oci-registry
 
 ----
 
 **Linux & DevOps:**
 
 Kopia - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication: https://github.com/kopia/kopia
+
+Ghostport - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic redirection: https://github.com/vxfemboy/ghostport
 
 ----
 
@@ -53,7 +59,17 @@ Turn your Flipper Zero into an USB keyboard: https://github.com/huuck/FlipperZer
 
 **New from CyberDetective:**
 
+Google Earth Map Overlays is a tool that makes it easy to combine Google Maps data with data from many other maps.
+
+Download overlays: https://ge-map-overlays.appspot.com/
+
+Make your own overlay from image: https://www.google.com/earth/outreach/learn/creating-photos-image-overlays-in-google-earth/
+
 GlimpseHG. View active Ads in Google, Linkedin and Meta (Facebook) for target domain.: https://glimpsehq.io
+
+Mexico OSINT Tools - public records, government databases, companies info, geodata and more: https://substack.com/home/post/p-149884860
+
+OSINT Tools Kazakhstan. Open Data portals, Companies registries, Vehicle history, Maps, Public procurement portal: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
 
 ----
 
