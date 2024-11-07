@@ -1,6 +1,5 @@
 ![alt text](img/82.jpg)
-
-bormaxi8080 OSINT Timeline (82) - 31.10.2024:
+### bormaxi8080 OSINT Timeline (82) - 31.10.2024:
 
 --
 
