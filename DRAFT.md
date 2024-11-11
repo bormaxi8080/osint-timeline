@@ -71,7 +71,7 @@ Checksum - File checksum verification tool written in Go: https://github.com/ibn
 
 **New from CyberDetective:**
 
-
+https://superbolt.web.app - A new tool from GrayLark allows to geolocate a photo by very small details (a window corner, a trash can, a bush on the sidewalk, etc.). So far only works for San Francisco, but many other cities are ahead.
 
 ----
 
