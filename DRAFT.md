@@ -29,13 +29,19 @@ If everyone around you lies and sells instead of making things, it means that th
 
 ----
 
-h
+
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+Telegram Scraper - A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities: https://github.com/unnohwn/telegram-scraper
 
+GoSearch - OSINT tool for searching usernames across social networks, written in Go: https://github.com/ibnaleem/gosearch
+
+CC Validation Webserver - A lightweight web server for validating credit card numbers, written in Go: https://github.com/ibnaleem/cc-validation-webserver
+
+Favicon Downloader - Ultimate Favicon Checking & Downloading Tool: https://github.com/seadfeng/favicon-downloader
 
 ----
 
@@ -47,13 +53,13 @@ h
 
 **Software Development:**
 
-
+Data Anonymization - Data anonymization & masking of sensitive information in a relational database. Auto detection of sensitive data: https://github.com/igor-pcholkin/DataAnonymization
 
 ----
 
 **Linux & DevOps:**
 
-
+Checksum - File checksum verification tool written in Go: https://github.com/ibnaleem/checksum
 
 ----
 
