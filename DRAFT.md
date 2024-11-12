@@ -47,7 +47,7 @@ Favicon Downloader - Ultimate Favicon Checking & Downloading Tool: https://githu
 
 **Universal Search & AI:**
 
-
+Surya - OCR, layout analysis, reading order, table recognition in 90+ languages: https://github.com/VikParuchuri/surya
 
 ---
 
@@ -65,7 +65,7 @@ Checksum - File checksum verification tool written in Go: https://github.com/ibn
 
 **Flipper Zero:**
 
-
+A collection of flipper zero stuff: https://github.com/rf-bandit/flipperzero
 
 ----
 
