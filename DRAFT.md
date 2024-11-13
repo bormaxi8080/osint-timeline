@@ -39,8 +39,6 @@ Telegram Scraper - A powerful Python script that allows you to scrape messages a
 
 GoSearch - OSINT tool for searching usernames across social networks, written in Go: https://github.com/ibnaleem/gosearch
 
-CC Validation Webserver - A lightweight web server for validating credit card numbers, written in Go: https://github.com/ibnaleem/cc-validation-webserver
-
 Favicon Downloader - Ultimate Favicon Checking & Downloading Tool: https://github.com/seadfeng/favicon-downloader
 
 ----
@@ -48,6 +46,8 @@ Favicon Downloader - Ultimate Favicon Checking & Downloading Tool: https://githu
 **Universal Search & AI:**
 
 Surya - OCR, layout analysis, reading order, table recognition in 90+ languages: https://github.com/VikParuchuri/surya
+
+Gateway - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs: https://github.com/adaline/gateway
 
 ---
 
@@ -65,7 +65,7 @@ Checksum - File checksum verification tool written in Go: https://github.com/ibn
 
 **Flipper Zero:**
 
-A collection of flipper zero stuff: https://github.com/rf-bandit/flipperzero
+A collection of Flipper Zero stuff: https://github.com/rf-bandit/flipperzero
 
 ----
 
@@ -73,11 +73,13 @@ A collection of flipper zero stuff: https://github.com/rf-bandit/flipperzero
 
 https://superbolt.web.app - A new tool from GrayLark allows to geolocate a photo by very small details (a window corner, a trash can, a bush on the sidewalk, etc.). So far only works for San Francisco, but many other cities are ahead.
 
+Wayback Machine Telegram Collection Search: 597,269,554 Telegram (t me) pages, ability to find deleted content, ability to see all search results (not just a small portion, as in Google), advanced search filters: web.archive.org/collection-search/telegram/
+
 ----
 
 **New from GitHub Community:**
 
-
+CC Validation Webserver - A lightweight web server for validating credit card numbers, written in Go: https://github.com/ibnaleem/cc-validation-webserver
 
 ----
 ### bormaxi8080 OSINT timeline:
