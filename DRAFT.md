@@ -29,7 +29,7 @@ If everyone around you lies and sells instead of making things, it means that th
 
 ----
 
-
+LinkedIn for Journalists (LIFJ) has been around for more than a decade helping journalists use LinkedIn to their advantage. Our program provides access to training sessions, LinkedIn experts, and tools like LinkedIn Premium Business. Stay up-to-date on all things LIFJ by joining our LinkedIn Group: https://news.linkedin.com/media-resources/linkedin-for-journalists
 
 ----
 
