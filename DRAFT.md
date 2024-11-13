@@ -39,6 +39,8 @@ Telegram Scraper - A powerful Python script that allows you to scrape messages a
 
 GoSearch - OSINT tool for searching usernames across social networks, written in Go: https://github.com/ibnaleem/gosearch
 
+CC Validation Webserver - A lightweight web server for validating credit card numbers, written in Go: https://github.com/ibnaleem/cc-validation-webserver
+
 Favicon Downloader - Ultimate Favicon Checking & Downloading Tool: https://github.com/seadfeng/favicon-downloader
 
 ----
@@ -79,7 +81,7 @@ Wayback Machine Telegram Collection Search: 597,269,554 Telegram (t me) pages, a
 
 **New from GitHub Community:**
 
-CC Validation Webserver - A lightweight web server for validating credit card numbers, written in Go: https://github.com/ibnaleem/cc-validation-webserver
+Memos - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way: https://github.com/usememos/memos
 
 ----
 ### bormaxi8080 OSINT timeline:
