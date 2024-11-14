@@ -31,6 +31,10 @@ If everyone around you lies and sells instead of making things, it means that th
 
 LinkedIn for Journalists (LIFJ) has been around for more than a decade helping journalists use LinkedIn to their advantage. Our program provides access to training sessions, LinkedIn experts, and tools like LinkedIn Premium Business. Stay up-to-date on all things LIFJ by joining our LinkedIn Group: https://news.linkedin.com/media-resources/linkedin-for-journalists
 
+Google advanced video search. When you search for videos on search engines, don't forget that there, as on and YouTube, there are advanced search filters. For example, Google has filters for language, duration, subtitles, and domain: https://www.google.com/advanced_video_search
+
+A list of OSINT tools that may be useful to you when conducting investigations related to Kyrgyz Rebublic. Do you want me to add more? Make a pull-request. Unless further clarified, the site or project has versions in Kyrgyz and Russian only. Some resources have English language versions as well: https://github.com/paulpogoda/OSINT-Tools-Kyrgyzstan
+
 ----
 
 **OSINT Tools, Services and Investigations:**
