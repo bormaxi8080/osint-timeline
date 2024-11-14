@@ -25,7 +25,7 @@ If everyone around you lies and sells instead of making things, it means that th
 
 ```CC Validation Webserver``` - A lightweight web server for validating credit card numbers, written in Go: https://github.com/ibnaleem/cc-validation-webserver
 
-```avicon Downloader``` - Ultimate Favicon Checking & Downloading Tool: https://github.com/seadfeng/favicon-downloader
+```Favicon Downloader``` - Ultimate Favicon Checking & Downloading Tool: https://github.com/seadfeng/favicon-downloader
 
 ----
 
