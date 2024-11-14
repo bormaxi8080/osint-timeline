@@ -1,5 +1,5 @@
 ![alt text](img/84.jpg)
-### bormaxi8080 OSINT Timeline (83) - 07.11.2024:
+### bormaxi8080 OSINT Timeline (84) - 14.11.2024:
 
 If everyone around you lies and sells instead of making things, it means that the point of no return has already been passed. The world is going crazy and brutal - and marketing, accordingly, too. Modern marketing breeds savagery and hatred. Society accumulates bitterness, and sooner or later it results in something. It can't help but result. In Russia - in universal "vatnik" and "greatness", in America - in a psychopath with a torn-off ear.
 
