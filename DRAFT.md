@@ -32,7 +32,7 @@ First, corporations cut staff, cut expenses on testing, infrastructure, monitori
 
 **OSINT Tools, Services and Investigations:**
 
-
+emp3r0r - Linux/Windows post-exploitation framework made by linux user: https://github.com/jm33-m0/emp3r0r
 
 ----
 
@@ -50,13 +50,13 @@ First, corporations cut staff, cut expenses on testing, infrastructure, monitori
 
 **Linux & DevOps:**
 
-
+Kamaji is the Hosted Control Plane Manager for Kubernetes: https://github.com/clastix/kamaji
 
 ----
 
-**Flipper Zero:**
+**Flipper Zero & Other Devices:**
 
-
+RFHunter is a device to find hidden Cameras at AirBNBs: https://github.com/RamboRogers/rfhunter
 
 ----
 
@@ -68,7 +68,7 @@ First, corporations cut staff, cut expenses on testing, infrastructure, monitori
 
 **New from GitHub Community:**
 
-
+Piped - An alternative privacy-friendly YouTube frontend which is efficient by design: https://github.com/TeamPiped/Piped
 
 ----
 ### bormaxi8080 OSINT timeline:
