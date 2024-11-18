@@ -26,7 +26,7 @@ First, corporations cut staff, cut expenses on testing, infrastructure, monitori
 
 ----
 
-
+This Week 4 in 6 - Weekly roundup of Digital Forensics and Incident Response news: https://thisweekin4n6.com
 
 ----
 
@@ -34,11 +34,13 @@ First, corporations cut staff, cut expenses on testing, infrastructure, monitori
 
 emp3r0r - Linux/Windows post-exploitation framework made by linux user: https://github.com/jm33-m0/emp3r0r
 
+Call-Me: Your Go-To for Instant Video Calls: https://github.com/miroslavpejic85/call-me
+
 ----
 
 **Universal Search & AI:**
 
-
+Noone Video - Finding faces from DNN and Haar face detection: https://github.com/JeiKeiLim/noone_video
 
 ---
 
@@ -51,6 +53,8 @@ emp3r0r - Linux/Windows post-exploitation framework made by linux user: https://
 **Linux & DevOps:**
 
 Kamaji is the Hosted Control Plane Manager for Kubernetes: https://github.com/clastix/kamaji
+
+Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video): https://github.com/deskflow/deskflow
 
 ----
 
