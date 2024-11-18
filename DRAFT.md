@@ -32,9 +32,13 @@ This Week 4 in 6 - Weekly roundup of Digital Forensics and Incident Response new
 
 **OSINT Tools, Services and Investigations:**
 
+NAPALM FTP Indexer lets you search and download files located on public FTP servers: https://www.searchftps.net/
+
+FTP Miner - An FTP search engine scraper, currently the following search engines: https://github.com/issarapong/FTP-Miner
+
 emp3r0r - Linux/Windows post-exploitation framework made by linux user: https://github.com/jm33-m0/emp3r0r
 
-Call-Me: Your Go-To for Instant Video Calls: https://github.com/miroslavpejic85/call-me
+Call-Me - Your Go-To for Instant Video Calls: https://github.com/miroslavpejic85/call-me
 
 ----
 
