@@ -36,7 +36,7 @@ Open Data and sources for OSINT in Kazakhstan: https://github.com/paulpogoda/OSI
 
 Open Data and sources for OSINT in Uzbekistan: https://github.com/paulpogoda/OSINT-Tools-Uzbekistan
 
-Open Data and sources for OSINT in Kyryzstan: https://github.com/paulpogoda/OSINT-Tools-Kyrgyzstan
+Open Data and sources for OSINT in Kyrgyzstan: https://github.com/paulpogoda/OSINT-Tools-Kyrgyzstan
 
 Open Data and sources for OSINT in Tajikistan: https://github.com/paulpogoda/OSINT-Tools-Tajikistan
 
