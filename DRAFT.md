@@ -30,6 +30,18 @@ This Week 4 in 6 - Weekly roundup of Digital Forensics and Incident Response new
 
 ----
 
+OSINT Collections from @Paulpogoda:
+
+Open Data and sources for OSINT in Kazakhstan: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
+
+Open Data and sources for OSINT in Uzbekistan: https://github.com/paulpogoda/OSINT-Tools-Uzbekistan
+
+Open Data and sources for OSINT in Kyryzstan: https://github.com/paulpogoda/OSINT-Tools-Kyrgyzstan
+
+Open Data and sources for OSINT in Tajikistan: https://github.com/paulpogoda/OSINT-Tools-Tajikistan
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 NAPALM FTP Indexer lets you search and download files located on public FTP servers: https://www.searchftps.net/
