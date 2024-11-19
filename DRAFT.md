@@ -62,7 +62,7 @@ Noone Video - Finding faces from DNN and Haar face detection: https://github.com
 
 **Software Development:**
 
-
+CanvaScript - Create HTML canvas graphics without writing code. Just draw with your pointer on the HTML canvas, then get the code to render it: https://github.com/VBproDev/Canvascript
 
 ----
 
@@ -82,7 +82,7 @@ RFHunter is a device to find hidden Cameras at AirBNBs: https://github.com/Rambo
 
 **New from CyberDetective:**
 
-
+ODIN IP search engine. Search by ip, domain name, ASN, geolocation, BGP prefix, ASN number, WHOIS updated date and other parameters: https://search.odin.io
 
 ----
 
