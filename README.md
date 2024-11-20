@@ -15,6 +15,8 @@ and contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/O
 ----
 ### Timelines:
 
+[bormaxi8080 OSINT Timeline (85) - 21.11.2024](./timelines/bormaxi8080-osint-timeline_85_21.11.2024.md)
+
 [bormaxi8080 OSINT Timeline (84) - 14.11.2024](./timelines/bormaxi8080-osint-timeline_84_14.11.2024.md)
 
 [bormaxi8080 OSINT Timeline (83) - 07.11.2024](./timelines/bormaxi8080-osint-timeline_83_07.11.2024.md)
