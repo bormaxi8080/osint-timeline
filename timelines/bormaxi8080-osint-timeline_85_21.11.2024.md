@@ -10,57 +10,57 @@ First, corporations cut staff, cut expenses on testing, infrastructure, monitori
 
 ----
 
-This Week 4 in 6 - Weekly roundup of Digital Forensics and Incident Response news: https://thisweekin4n6.com
+```This Week 4 in 6``` - Weekly roundup of Digital Forensics and Incident Response news: https://thisweekin4n6.com
 
 ----
 
 OSINT Collections from @Paulpogoda:
 
-Open Data and sources for OSINT in Kazakhstan: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
+Open Data and sources for OSINT in ```Kazakhstan```: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
 
-Open Data and sources for OSINT in Uzbekistan: https://github.com/paulpogoda/OSINT-Tools-Uzbekistan
+Open Data and sources for OSINT in ```Uzbekistan```: https://github.com/paulpogoda/OSINT-Tools-Uzbekistan
 
-Open Data and sources for OSINT in Kyrgyzstan: https://github.com/paulpogoda/OSINT-Tools-Kyrgyzstan
+Open Data and sources for OSINT in ```Kyrgyzstan```: https://github.com/paulpogoda/OSINT-Tools-Kyrgyzstan
 
-Open Data and sources for OSINT in Tajikistan: https://github.com/paulpogoda/OSINT-Tools-Tajikistan
+Open Data and sources for OSINT in ```Tajikistan```: https://github.com/paulpogoda/OSINT-Tools-Tajikistan
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-NAPALM FTP Indexer lets you search and download files located on public FTP servers: https://www.searchftps.net/
+```NAPALM FTP Indexer``` lets you search and download files located on public FTP servers: https://www.searchftps.net/
 
-FTP Miner - An FTP search engine scraper, currently the following search engines: https://github.com/issarapong/FTP-Miner
+```FTP Miner``` - An FTP search engine scraper, currently the following search engines: https://github.com/issarapong/FTP-Miner
 
-emp3r0r - Linux/Windows post-exploitation framework made by linux user: https://github.com/jm33-m0/emp3r0r
+```emp3r0r``` - Linux/Windows post-exploitation framework made by linux user: https://github.com/jm33-m0/emp3r0r
 
-Call-Me - Your Go-To for Instant Video Calls: https://github.com/miroslavpejic85/call-me
+```Call-Me``` - Your Go-To for Instant Video Calls: https://github.com/miroslavpejic85/call-me
 
 ----
 
 **Universal Search & AI:**
 
-Noone Video - Finding faces from DNN and Haar face detection: https://github.com/JeiKeiLim/noone_video
+```Noone Video``` - Finding faces from DNN and Haar face detection: https://github.com/JeiKeiLim/noone_video
 
-ebook2audiobook - Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages: https://github.com/DrewThomasson/ebook2audiobook
+```ebook2audiobook``` - Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages: https://github.com/DrewThomasson/ebook2audiobook
 
-Milvus - A cloud-native vector database, storage for next generation AI applications: https://github.com/milvus-io/milvus
+```Milvus``` - A cloud-native vector database, storage for next generation AI applications: https://github.com/milvus-io/milvus
 
 ---
 
 **Software Development:**
 
-Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics: https://github.com/apache/arrow
+```Apache Arrow``` is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics: https://github.com/apache/arrow
 
-CanvaScript - Create HTML canvas graphics without writing code. Just draw with your pointer on the HTML canvas, then get the code to render it: https://github.com/VBproDev/Canvascript
+```CanvaScript``` - Create HTML canvas graphics without writing code. Just draw with your pointer on the HTML canvas, then get the code to render it: https://github.com/VBproDev/Canvascript
 
 ----
 
 **Linux & DevOps:**
 
-Kamaji is the Hosted Control Plane Manager for Kubernetes: https://github.com/clastix/kamaji
+```Kamaji``` is the Hosted Control Plane Manager for Kubernetes: https://github.com/clastix/kamaji
 
-Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video): https://github.com/deskflow/deskflow
+```Deskflow``` lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video): https://github.com/deskflow/deskflow
 
 ----
 
@@ -72,13 +72,13 @@ RFHunter is a device to find hidden Cameras at AirBNBs: https://github.com/Rambo
 
 **New from CyberDetective:**
 
-ODIN IP search engine. Search by ip, domain name, ASN, geolocation, BGP prefix, ASN number, WHOIS updated date and other parameters: https://search.odin.io
+```ODIN IP search engine```. Search by ip, domain name, ASN, geolocation, BGP prefix, ASN number, WHOIS updated date and other parameters: https://search.odin.io
 
 ----
 
 **New from GitHub Community:**
 
-Piped - An alternative privacy-friendly YouTube frontend which is efficient by design: https://github.com/TeamPiped/Piped
+```Piped``` - An alternative privacy-friendly YouTube frontend which is efficient by design: https://github.com/TeamPiped/Piped
 
 ----
 ### bormaxi8080 OSINT timeline:
