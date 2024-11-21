@@ -29,7 +29,7 @@ Tomorrow it will rain.
 
 **OSINT Tools, Services and Investigations:**
 
-
+yt-fts - YouTube Full Text Search - Search all of a YouTube channel from the command line: https://github.com/NotJoeMartinez/yt-fts
 
 ----
 
@@ -47,7 +47,7 @@ Tomorrow it will rain.
 
 **Linux & DevOps:**
 
-
+Obtainium - Get Android app updates straight from the source: https://github.com/ImranR98/Obtainium
 
 ----
 
@@ -59,7 +59,7 @@ Tomorrow it will rain.
 
 **New from CyberDetective:**
 
-
+Sometimes it can be difficult to determine if photos taken at different ages belong to the same person. In such a situation, this tool will help: https://6mzld2.csb.app
 
 ----
 
