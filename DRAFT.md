@@ -35,7 +35,7 @@ yt-fts - YouTube Full Text Search - Search all of a YouTube channel from the com
 
 **Universal Search & AI:**
 
-
+Letta (formerly MemGPT) is a framework for creating LLM services with memory: https://github.com/letta-ai/letta
 
 ---
 
@@ -60,6 +60,16 @@ Obtainium - Get Android app updates straight from the source: https://github.com
 **New from CyberDetective:**
 
 Sometimes it can be difficult to determine if photos taken at different ages belong to the same person. In such a situation, this tool will help: https://6mzld2.csb.app
+
+If reverse facial photo search did not yield results, try processing the photo with AI age filter and add 10-20 years. Here are some examples of tools:
+
+media.io/lab/ai-face-editor/
+
+fotor.com/features/old-filter/
+
+reface.ai/unboring/features/old-face-filter
+
+ailab.wondershare.com/tools/aging-filter.html
 
 ----
 
