@@ -13,13 +13,13 @@
 
 **OSINT Tools, Services and Investigations:**
 
-
+Telegram CHecker - A Python tool for checking Telegram accounts via phone numbers. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction: https://github.com/unnohwn/telegram-checker
 
 ----
 
 **Universal Search & AI:**
 
-Awesome AI Web Searc. List of open source and proprietary AI web search tools (with launch dates): https://github.com/felladrin/awesome-ai-web-search
+Awesome AI Web Search. List of open source and proprietary AI web search tools (with launch dates): https://github.com/felladrin/awesome-ai-web-search
 
 ---
 
