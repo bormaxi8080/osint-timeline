@@ -19,7 +19,7 @@
 
 **Universal Search & AI:**
 
-
+Awesome AI Web Searc. List of open source and proprietary AI web search tools (with launch dates): https://github.com/felladrin/awesome-ai-web-search
 
 ---
 
@@ -37,7 +37,7 @@
 
 **Flipper Zero & Other Devices:**
 
-
+Evil portal app for the flipper zero + WiFi dev board: https://github.com/bigbrodude6119/flipper-zero-evil-portal
 
 ----
 
@@ -49,7 +49,7 @@
 
 **New from GitHub Community:**
 
-
+ Posthumous Automation - Code gets invoked when I die: https://github.com/0x41head/posthumous-automation
 
 ----
 ### bormaxi8080 OSINT timeline:
