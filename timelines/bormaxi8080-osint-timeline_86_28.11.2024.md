@@ -3,21 +3,33 @@
 ### bormaxi8080 OSINT Timeline (86) - 28.11.2024:
 
 Whoever throws a stone at us,
+
 We will beat him with bread:
 
+
 He will eat our bread,
+
 He will drink our wine,
+
 Until he is sated to the full,
+
 Until his belly grows heavy,
+
 Until his limbs grow soft,
+
 Until his eyes are covered with a cloudy film of satiety,
+
 And his hand can no longer lift a stone.
+
 
 And then the elder will rise and say:
 
 Eat, eat, little brother,
+
 And go to bed.
+
 There will be no more hunger.
+
 Tomorrow it will rain.
 
 ----
