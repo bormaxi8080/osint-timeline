@@ -7,7 +7,7 @@
 
 ----
 
-
+How to find the email of the Linkedin profile owner without a Linkedin account? Use various third-party databases (Amazing Hiring, Prospeo, SalesQL etc). Today I also found out https://recruitryte.com (50 emails free).
 
 ----
 
@@ -15,11 +15,15 @@
 
 Telegram CHecker - A Python tool for checking Telegram accounts via phone numbers. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction: https://github.com/unnohwn/telegram-checker
 
+Website to GIF - GitHub Action to turn your website into a GIF: https://github.com/PabloLec/website-to-gif
+
 ----
 
 **Universal Search & AI:**
 
 Awesome AI Web Search. List of open source and proprietary AI web search tools (with launch dates): https://github.com/felladrin/awesome-ai-web-search
+
+An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex PDF documents. Ideal for businesses seeking efficient document digitization and data extraction solutions: https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown
 
 ---
 
@@ -43,7 +47,7 @@ Evil portal app for the flipper zero + WiFi dev board: https://github.com/bigbro
 
 **New from CyberDetective:**
 
-
+MAPTILER. Detailed worldwide 3D + 3D satellite +aerial photo maps. A lot of additional tools (real-time weather, elevation profile etc). SDK for creating your own interactive 3D maps with incredibly wide functionality: https://maptiler.com
 
 ----
 
