@@ -1,5 +1,11 @@
 
+Import Substitutes in LinkedIn
+Alternate History Parasites
+Robots of the Failed Apocalypse
+Nervous Clowns Named after Elon Musk
 
+
+Those who do not want to see will never see, even if you hang spotlights all over the world, it will be useless.
 
 ----
 
@@ -13,7 +19,7 @@ How to find the email of the Linkedin profile owner without a Linkedin account? 
 
 **OSINT Tools, Services and Investigations:**
 
-Telegram CHecker - A Python tool for checking Telegram accounts via phone numbers. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction: https://github.com/unnohwn/telegram-checker
+Telegram Checker - A Python tool for checking Telegram accounts via phone numbers. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction: https://github.com/unnohwn/telegram-checker
 
 Website to GIF - GitHub Action to turn your website into a GIF: https://github.com/PabloLec/website-to-gif
 
@@ -47,7 +53,7 @@ Evil portal app for the flipper zero + WiFi dev board: https://github.com/bigbro
 
 **New from CyberDetective:**
 
-MAPTILER. Detailed worldwide 3D + 3D satellite +aerial photo maps. A lot of additional tools (real-time weather, elevation profile etc). SDK for creating your own interactive 3D maps with incredibly wide functionality: https://maptiler.com
+MAPTILER. Detailed worldwide 3D + 3D satellite + aerial photo maps. A lot of additional tools (real-time weather, elevation profile etc). SDK for creating your own interactive 3D maps with incredibly wide functionality: https://maptiler.com
 
 ----
 
