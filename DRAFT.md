@@ -23,6 +23,10 @@ Telegram Checker - A Python tool for checking Telegram accounts via phone number
 
 Website to GIF - GitHub Action to turn your website into a GIF: https://github.com/PabloLec/website-to-gif
 
+DeDigger - Find public files in Google Drive: https://www.dedigger.com/
+
+Striker is an offensive information and vulnerability scanner: https://github.com/s0md3v/Striker
+
 ----
 
 **Universal Search & AI:**
@@ -31,11 +35,13 @@ Awesome AI Web Search. List of open source and proprietary AI web search tools (
 
 An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex PDF documents. Ideal for businesses seeking efficient document digitization and data extraction solutions: https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown
 
+gradio WebUI for AdvancedLivePortrait: https://github.com/jhj0517/AdvancedLivePortrait-WebUI
+
 ---
 
 **Software Development:**
 
-
+Chance - Random generator helper for JavaScript: https://github.com/chancejs/chancejs
 
 ----
 
@@ -54,6 +60,8 @@ Evil portal app for the flipper zero + WiFi dev board: https://github.com/bigbro
 **New from CyberDetective:**
 
 MAPTILER. Detailed worldwide 3D + 3D satellite + aerial photo maps. A lot of additional tools (real-time weather, elevation profile etc). SDK for creating your own interactive 3D maps with incredibly wide functionality: https://maptiler.com
+
+Manhom.com - Large databases with detailed info about 240K+ persons from Arab regions. Biographies, social media profiles, related peoples and more. The site also allows you to track changes on the pages of people you are interested in: https://manhom.com
 
 ----
 
