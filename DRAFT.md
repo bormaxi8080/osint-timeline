@@ -15,6 +15,8 @@ Those who do not want to see will never see, even if you hang spotlights all ove
 
 How to find the email of the Linkedin profile owner without a Linkedin account? Use various third-party databases (Amazing Hiring, Prospeo, SalesQL etc). Today I also found out https://recruitryte.com (50 emails free).
 
+A list of OSINT tools that may be useful to you when conducting investigations related to the United Arab Emirates (Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah): https://github.com/paulpogoda/OSINT-Tools-Emirates
+
 ----
 
 **OSINT Tools, Services and Investigations:**
