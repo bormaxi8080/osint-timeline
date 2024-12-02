@@ -49,6 +49,8 @@ gradio WebUI for AdvancedLivePortrait: https://github.com/jhj0517/AdvancedLivePo
 
 **Software Development:**
 
+WhoDB - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface:  https://github.com/clidey/whodb
+
 Chance - Random generator helper for JavaScript: https://github.com/chancejs/chancejs
 
 ----
