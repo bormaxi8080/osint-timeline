@@ -23,6 +23,12 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 Telegram Checker - A Python tool for checking Telegram accounts via phone numbers. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction: https://github.com/unnohwn/telegram-checker
 
+The OTX Scraper is a Bash script designed to fetch URLs associated with a given domain from AlienVault's Open Threat Exchange (OTX) platform. It is particularly useful for cybersecurity professionals and researchers who want to gather intelligence for reconnaissance and vulnerability analysis: https://github.com/Suryesh/OTX_AlienVault_URL
+
+Search By Image - Browser extension for reverse image search, available for Chrome, Edge and Safari: https://github.com/dessant/search-by-image
+
+Image Forensics. This is an integrated framework for image forensic analysis. It includes a Java webservice, including seven splicing detection algorithm implementations, plus additional forensic tools, located in the subdirectory [java_service](https://github.com/MKLab-ITI/image-forensics/tree/master/java_service) and a Matlab algorithm evaluation framework: https://github.com/MKLab-ITI/image-forensics
+
 Website to GIF - GitHub Action to turn your website into a GIF: https://github.com/PabloLec/website-to-gif
 
 DeDigger - Find public files in Google Drive: https://www.dedigger.com/
