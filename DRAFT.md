@@ -31,7 +31,11 @@ Image Forensics. This is an integrated framework for image forensic analysis. It
 
 Website to GIF - GitHub Action to turn your website into a GIF: https://github.com/PabloLec/website-to-gif
 
+Deface - Video anonymization by face detection: https://github.com/ORB-HD/deface
+
 DeDigger - Find public files in Google Drive: https://www.dedigger.com/
+
+ScrapeComfort - Effortlessly extract data with the power of AI automating the process: https://github.com/Indie-Platforms/scrapecomfort
 
 Striker is an offensive information and vulnerability scanner: https://github.com/s0md3v/Striker
 
@@ -72,6 +76,8 @@ Evil portal app for the flipper zero + WiFi dev board: https://github.com/bigbro
 MAPTILER. Detailed worldwide 3D + 3D satellite + aerial photo maps. A lot of additional tools (real-time weather, elevation profile etc). SDK for creating your own interactive 3D maps with incredibly wide functionality: https://maptiler.com
 
 Manhom.com - Large databases with detailed info about 240K+ persons from Arab regions. Biographies, social media profiles, related peoples and more. The site also allows you to track changes on the pages of people you are interested in: https://manhom.com
+
+A free online tool for reading files metadata. What distinguishes it from many analogs is the number of fields to be read (maximum data, even the most insignificant) + a large number of supported formats: https://metashieldclean-up.tu.com
 
 ----
 
