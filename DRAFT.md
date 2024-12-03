@@ -13,6 +13,8 @@ Those who do not want to see will never see, even if you hang spotlights all ove
 
 ----
 
+In a new interview on the SlonFm channel, a Ukrainian cadet and founder of a small OSINT community, InfoHunters, shares his experience working with open sources of information. He explains how data analysis and social networks help identify large concentrations of Russian troops, and explains why OSINT skills are becoming increasingly important for everyone. The interview discusses the most high-profile works of Ukrainian OSINT communities and gives advice for complete beginners in this field. More in the full video (Ukrainian): https://www.youtube.com/watch?v=BcwoXeQZ8As
+
 How to find the email of the Linkedin profile owner without a Linkedin account? Use various third-party databases (Amazing Hiring, Prospeo, SalesQL etc). Today I also found out https://recruitryte.com (50 emails free).
 
 A list of OSINT tools that may be useful to you when conducting investigations related to the United Arab Emirates (Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah): https://github.com/paulpogoda/OSINT-Tools-Emirates
@@ -47,7 +49,7 @@ Awesome AI Web Search. List of open source and proprietary AI web search tools (
 
 An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex PDF documents. Ideal for businesses seeking efficient document digitization and data extraction solutions: https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown
 
-gradio WebUI for AdvancedLivePortrait: https://github.com/jhj0517/AdvancedLivePortrait-WebUI
+Gradio WebUI for AdvancedLivePortrait: https://github.com/jhj0517/AdvancedLivePortrait-WebUI
 
 ---
 
@@ -61,7 +63,7 @@ Chance - Random generator helper for JavaScript: https://github.com/chancejs/cha
 
 **Linux & DevOps:**
 
-
+ShellFirm - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification: https://github.com/kaplanelad/shellfirm
 
 ----
 
