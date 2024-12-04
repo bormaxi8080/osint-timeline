@@ -15,6 +15,8 @@ Those who do not want to see will never see, even if you hang spotlights all ove
 
 Acts of sabotage point to future aggression. Russia is actively conducting subversive and subversive activities in Europe, preparing for a major war with NATO. Press publications and testimonies of officials about the situation in the sphere of European security - in the review by Masha Slonim: https://newtimes.ru/articles/detail/249189/
 
+"Black Legion" - Secret Fake Private Military Company in Kyrgyzstan: https://www.youtube.com/watch?v=NcWYhewG9Ho
+
 In a new interview on the SlonFm channel, a Ukrainian cadet and founder of a small OSINT community, InfoHunters, shares his experience working with open sources of information. He explains how data analysis and social networks help identify large concentrations of Russian troops, and explains why OSINT skills are becoming increasingly important for everyone. The interview discusses the most high-profile works of Ukrainian OSINT communities and gives advice for complete beginners in this field. More in the full video (Ukrainian): https://www.youtube.com/watch?v=BcwoXeQZ8As
 
 ----
@@ -49,6 +51,8 @@ DeDigger - Find public files in Google Drive: https://www.dedigger.com/
 
 ScrapeComfort - Effortlessly extract data with the power of AI automating the process: https://github.com/Indie-Platforms/scrapecomfort
 
+Voice Writing Electron - A real-time, instant dictation desktop application built on Electron that uses Whisper and GROQ under the hood: https://github.com/aviaryan/voice-writing-electron
+
 Striker is an offensive information and vulnerability scanner: https://github.com/s0md3v/Striker
 
 ----
@@ -67,6 +71,8 @@ Gradio WebUI for AdvancedLivePortrait: https://github.com/jhj0517/AdvancedLivePo
 
 WhoDB - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface:  https://github.com/clidey/whodb
 
+SQL Seeder - This Go package provides a tool for generating SQL INSERT statements from JSON or Excel data. It supports various relationships between tables (one-to-many and many-to-many) and allows you to customize the delimiters used in your data: https://github.com/darwishdev/sqlseeder
+
 Chance - Random generator helper for JavaScript: https://github.com/chancejs/chancejs
 
 ----
@@ -74,6 +80,8 @@ Chance - Random generator helper for JavaScript: https://github.com/chancejs/cha
 **Linux & DevOps:**
 
 ShellFirm - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification: https://github.com/kaplanelad/shellfirm
+
+ArchImage - Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest: https://github.com/ivan-hc/ArchImage
 
 ----
 
