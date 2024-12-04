@@ -48,7 +48,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 ```Telegram Checker``` - A Python tool for checking Telegram accounts via phone numbers. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction: https://github.com/unnohwn/telegram-checker
 
-WhatsApp Spy is an app designed to monitor and log all on-screen texts whenever a user opens WhatsApp / Whatsapp Business. It also supports Instagram and Messenger, sending logs to either Discord or Telegram, without port forwarding: https://github.com/wellrodrig/Whatsapp-Spy
+```WhatsApp Spy``` is an app designed to monitor and log all on-screen texts whenever a user opens WhatsApp / Whatsapp Business. It also supports Instagram and Messenger, sending logs to either Discord or Telegram, without port forwarding: https://github.com/wellrodrig/Whatsapp-Spy
 
 ```The OTX Scraper``` is a Bash script designed to fetch URLs associated with a given domain from AlienVault's Open Threat Exchange (OTX) platform. It is particularly useful for cybersecurity professionals and researchers who want to gather intelligence for reconnaissance and vulnerability analysis: https://github.com/Suryesh/OTX_AlienVault_URL
 
