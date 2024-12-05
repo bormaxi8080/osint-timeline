@@ -10,6 +10,8 @@ Nervous Clowns Named after Elon Musk
 
 ----
 
+OSINT Resources/Tools by Country V 2.0. OSINT resources and tools by country, structured for digital profilers: https://github.com/paulpogoda/OSINT-for-countries-V2.0
+
 OSINT Tools Australia - A list of OSINT resources tools that may be useful to you when conducting investigations related to Australia: https://github.com/paulpogoda/OSINT-Tools-Australia/tree/main
 
 ----
