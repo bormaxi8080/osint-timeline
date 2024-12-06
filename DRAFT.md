@@ -18,7 +18,7 @@ OSINT Tools Australia - A list of OSINT resources tools that may be useful to yo
 
 **OSINT Tools, Services and Investigations:**
 
-
+Bug Bounty Tricks and useful payloads and bypasses for Web Application Security: https://github.com/Mehdi0x90/Web_Hacking
 
 ----
 
@@ -30,25 +30,25 @@ OSINT Tools Australia - A list of OSINT resources tools that may be useful to yo
 
 **Software Development:**
 
-
+Opik - Open-source end-to-end LLM Development Platform: https://github.com/comet-ml/opik
 
 ----
 
 **Linux & DevOps:**
 
-
+Appsmith - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.: https://github.com/appsmithorg/appsmith
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+qFlipper — desktop application for updating Flipper Zero firmware via PC: https://github.com/flipperdevices/qFlipper
 
 ----
 
 **New from CyberDetective:**
 
-
+Open Library. A tool to search for free books in the Internet Archive. Search by title, author, subject, place, publisher and full text: https://openlibrary.org
 
 ----
 
