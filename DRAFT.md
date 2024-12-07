@@ -32,11 +32,15 @@ Bug Bounty Tricks and useful payloads and bypasses for Web Application Security:
 
 Opik - Open-source end-to-end LLM Development Platform: https://github.com/comet-ml/opik
 
+pgai -A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL: https://github.com/timescale/pgai
+
 ----
 
 **Linux & DevOps:**
 
 Appsmith - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.: https://github.com/appsmithorg/appsmith
+
+SideKick - Bare metal to production ready in mins; your own fly server on your VPS: https://github.com/MightyMoud/sidekick
 
 ----
 
