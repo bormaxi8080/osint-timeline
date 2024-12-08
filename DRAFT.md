@@ -14,6 +14,8 @@ OSINT Resources/Tools by Country V 2.0. OSINT resources and tools by country, st
 
 OSINT Tools Australia - A list of OSINT resources tools that may be useful to you when conducting investigations related to Australia: https://github.com/paulpogoda/OSINT-Tools-Australia/tree/main
 
+A list of OSINT tools that may be useful to you when conducting investigations related to People's Republic of China. Most of resources and tools has versions in Chinese only, a very few has English as an option: https://github.com/paulpogoda/OSINT-Tools-China
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -24,15 +26,13 @@ Bug Bounty Tricks and useful payloads and bypasses for Web Application Security:
 
 **Universal Search & AI:**
 
-
+pgai -A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL: https://github.com/timescale/pgai
 
 ---
 
 **Software Development:**
 
 Opik - Open-source end-to-end LLM Development Platform: https://github.com/comet-ml/opik
-
-pgai -A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL: https://github.com/timescale/pgai
 
 ----
 
