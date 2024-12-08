@@ -20,6 +20,8 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 **OSINT Tools, Services and Investigations:**
 
+Hawker - An OSINT tool in python to find information about an email or phone number and get information about a URL then get information about an IP address: https://github.com/RetrO-M/Hawker
+
 Bug Bounty Tricks and useful payloads and bypasses for Web Application Security: https://github.com/Mehdi0x90/Web_Hacking
 
 ----
@@ -35,6 +37,8 @@ Data Formulator: Create Rich Visualizations with AI: https://github.com/microsof
 **Software Development:**
 
 Opik - Open-source end-to-end LLM Development Platform: https://github.com/comet-ml/opik
+
+Matterbridge - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!): https://github.com/42wim/matterbridge
 
 ----
 
@@ -60,7 +64,7 @@ Open Library. A tool to search for free books in the Internet Archive. Search by
 
 **New from GitHub Community:**
 
-
+Xplorer, a customizable, modern file manager: https://github.com/kimlimjustin/xplorer
 
 ----
 ### bormaxi8080 OSINT timeline:
