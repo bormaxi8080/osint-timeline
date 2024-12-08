@@ -28,6 +28,8 @@ Bug Bounty Tricks and useful payloads and bypasses for Web Application Security:
 
 pgai -A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL: https://github.com/timescale/pgai
 
+Data Formulator: Create Rich Visualizations with AI: https://github.com/microsoft/data-formulator
+
 ---
 
 **Software Development:**
