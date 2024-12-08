@@ -16,6 +16,8 @@ OSINT Tools Australia - A list of OSINT resources tools that may be useful to yo
 
 A list of OSINT tools that may be useful to you when conducting investigations related to People's Republic of China. Most of resources and tools has versions in Chinese only, a very few has English as an option: https://github.com/paulpogoda/OSINT-Tools-China
 
+List of Dutch OSINT Sources for profilers and fact-checkers: https://github.com/paulpogoda/OSINT-Tools-Netherlands
+
 ----
 
 **OSINT Tools, Services and Investigations:**
