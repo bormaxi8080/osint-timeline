@@ -10,6 +10,12 @@ Nervous Clowns Named after Elon Musk
 
 ----
 
+CapibaraZero aim to be a cheap alternative to FlipperZero™. It's based on ESP32 boards especially on ESP32-S3 but we want to port firmware to all ESP family boards: https://github.com/CapibaraZero/fw
+
+CapibaraZero firmware enables low-cost Flipper Zero alternatives based on ESP32-S3 hardware: https://www.cnx-software.com/2024/12/04/capibarazero-firmware-enables-low-cost-flipper-zero-esp32-s3-based-alternatives/?amp=1
+
+----
+
 OSINT Custom Search Engines by @paulpogoda: https://github.com/paulpogoda/OSINT-CSE
 
 OSINT Resources/Tools by Country V 2.0. OSINT resources and tools by country, structured for digital profilers: https://github.com/paulpogoda/OSINT-for-countries-V2.0
