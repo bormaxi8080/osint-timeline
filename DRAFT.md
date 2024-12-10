@@ -74,6 +74,8 @@ Appsmith - Platform to build admin panels, internal tools, and dashboards. Integ
 
 Shiroxy - A Reverse Proxy with Multiple Domains, Automatic SSL and Dynamic Routing: https://github.com/ShikharY10/shiroxy
 
+Gatus - Automated developer-oriented status page: https://github.com/TwiN/gatus
+
 SideKick - Bare metal to production ready in mins; your own fly server on your VPS: https://github.com/MightyMoud/sidekick
 
 ----
