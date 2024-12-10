@@ -16,6 +16,10 @@ CapibaraZero firmware enables low-cost Flipper Zero alternatives based on ESP32-
 
 ----
 
+Merlin Bird ID helps users quickly and accurately identify the species of birds they see or hear. Identifies the sounds of over 10,000 bird species worldwide. Let's go bird hunting to try the app out: https://merlin.allaboutbirds.org/
+
+----
+
 OSINT Custom Search Engines by @paulpogoda: https://github.com/paulpogoda/OSINT-CSE
 
 OSINT Resources/Tools by Country V 2.0. OSINT resources and tools by country, structured for digital profilers: https://github.com/paulpogoda/OSINT-for-countries-V2.0
@@ -46,6 +50,8 @@ Data Formulator: Create Rich Visualizations with AI: https://github.com/microsof
 
 **Software Development:**
 
+Pandas Datareader. Extract data from a wide range of Internet sources into a pandas DataFrame: https://github.com/pydata/pandas-datareader?tab=readme-ov-file
+
 Opik - Open-source end-to-end LLM Development Platform: https://github.com/comet-ml/opik
 
 Matterbridge - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!): https://github.com/42wim/matterbridge
@@ -75,6 +81,8 @@ Open Library. A tool to search for free books in the Internet Archive. Search by
 **New from GitHub Community:**
 
 Xplorer, a customizable, modern file manager: https://github.com/kimlimjustin/xplorer
+
+Librum is an application designed to make reading **enjoyable** and **straightforward** for everyone: https://github.com/Librum-Reader/Librum
 
 ----
 ### bormaxi8080 OSINT timeline:
