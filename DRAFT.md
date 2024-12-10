@@ -24,6 +24,10 @@ OSINT Custom Search Engines by @paulpogoda: https://github.com/paulpogoda/OSINT-
 
 OSINT Resources/Tools by Country V 2.0. OSINT resources and tools by country, structured for digital profilers: https://github.com/paulpogoda/OSINT-for-countries-V2.0
 
+Tools and resources that may be useful to you when conducting investigations related to Islamic Republic of Iran: https://github.com/paulpogoda/OSINT-Tools-Iran
+
+A list of OSINT resources that may be useful to you when conducting investigations related to Armenia: https://github.com/paulpogoda/OSINT-Tools-Armenia/
+
 OSINT Tools Australia - A list of OSINT resources tools that may be useful to you when conducting investigations related to Australia: https://github.com/paulpogoda/OSINT-Tools-Australia/tree/main
 
 A list of OSINT tools that may be useful to you when conducting investigations related to People's Republic of China. Most of resources and tools has versions in Chinese only, a very few has English as an option: https://github.com/paulpogoda/OSINT-Tools-China
@@ -34,7 +38,13 @@ List of Dutch OSINT Sources for profilers and fact-checkers: https://github.com/
 
 **OSINT Tools, Services and Investigations:**
 
-Hawker - An OSINT tool in python to find information about an email or phone number and get information about a URL then get information about an IP address: https://github.com/RetrO-M/Hawker
+View BlueSky account registration date, profile names history and some other additional info: https://internect.info/
+
+Excellent tool set summary: anything you need for geolocating stuff. GEOINTInvestigation by CScorza - an open-source repository offering tools and resources for GEOINT investigations: https://github.com/CScorza/GEOINTInvestigation
+  
+Encompasses maps, satellite imagery, GPS data, and analytical instruments.: https://github.com/CScorza/GEOINTInvestigation
+
+Hawker. An OSINT tool in python to find information about an email or phone number and get information about a URL then get information about an IP address: https://github.com/RetrO-M/Hawker
 
 Bug Bounty Tricks and useful payloads and bypasses for Web Application Security: https://github.com/Mehdi0x90/Web_Hacking
 
