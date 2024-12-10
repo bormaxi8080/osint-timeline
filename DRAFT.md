@@ -42,7 +42,7 @@ View BlueSky account registration date, profile names history and some other add
 
 Excellent tool set summary: anything you need for geolocating stuff. GEOINTInvestigation by CScorza - an open-source repository offering tools and resources for GEOINT investigations: https://github.com/CScorza/GEOINTInvestigation
   
-Encompasses maps, satellite imagery, GPS data, and analytical instruments.: https://github.com/CScorza/GEOINTInvestigation
+Encompasses maps, satellite imagery, GPS data, and analytical instruments: https://github.com/CScorza/GEOINTInvestigation
 
 Hawker. An OSINT tool in python to find information about an email or phone number and get information about a URL then get information about an IP address: https://github.com/RetrO-M/Hawker
 
@@ -71,6 +71,8 @@ Matterbridge - bridge between mattermost, IRC, gitter, xmpp, slack, discord, tel
 **Linux & DevOps:**
 
 Appsmith - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.: https://github.com/appsmithorg/appsmith
+
+Shiroxy - A Reverse Proxy with Multiple Domains, Automatic SSL and Dynamic Routing: https://github.com/ShikharY10/shiroxy
 
 SideKick - Bare metal to production ready in mins; your own fly server on your VPS: https://github.com/MightyMoud/sidekick
 
