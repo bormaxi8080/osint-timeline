@@ -3,8 +3,11 @@
 ### bormaxi8080 OSINT Timeline (88) - 12.12.2024:
 
 Import Substitutes in LinkedIn
+
 Alternate History Parasites
+
 Robots of the Failed Apocalypse
+
 Nervous Clowns Named after Elon Musk
 
 ----
