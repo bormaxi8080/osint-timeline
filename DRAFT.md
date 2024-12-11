@@ -52,6 +52,13 @@ Bug Bounty Tricks and useful payloads and bypasses for Web Application Security:
 
 **Universal Search & AI:**
 
+RelaxSearch is a lightweight, demonstration-based search engine project built with Go and Elasticsearch. It comprises two main components:
+
+1. **RelaxEngine**: A web scraper using cron jobs to periodically crawl and index content.
+2. **RelaxWeb**: An API server that enables full-text search capabilities on the indexed data.
+
+This project showcases the essentials of a search engine by scraping content from specified URLs and storing them in Elasticsearch, where they are accessible for keyword-based searches: https://github.com/Ravikisha/RelaxSearch
+
 pgai -A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL: https://github.com/timescale/pgai
 
 Data Formulator: Create Rich Visualizations with AI: https://github.com/microsoft/data-formulator
