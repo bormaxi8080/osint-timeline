@@ -37,6 +37,8 @@ List of ```Dutch``` OSINT Sources for profilers and fact-checkers: https://githu
 
 ```View BlueSky account registration date, profile names history``` and some other additional info: https://internect.info/
 
+```x2.email``` is a minimalistic app for managing disposable emails ("Custom addresses") in Cloudflare. Protect your inbox from the onslaught of unwanted junk emails and take control of your email privacy: https://github.com/jessetinell/x2.email
+
 Excellent tool set summary: anything you need for geolocating stuff. ```GEOINTInvestigation``` by CScorza - an open-source repository offering tools and resources for GEOINT investigations: https://github.com/CScorza/GEOINTInvestigation
   
 Encompasses maps, satellite imagery, GPS data, and analytical instruments: https://github.com/CScorza/GEOINTInvestigation
