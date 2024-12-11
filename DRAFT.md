@@ -6,7 +6,7 @@ Nervous Clowns Named after Elon Musk
 
 ----
 
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2300: https://github.com/bormaxi8080/osint-repos-list
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2400: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
