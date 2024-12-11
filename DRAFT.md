@@ -1,5 +1,5 @@
 
-
+How Russian propaganda is looking for personnel. Billboard caption: "Looking for poets".
 
 ----
 
