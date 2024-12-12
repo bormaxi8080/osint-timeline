@@ -1,4 +1,14 @@
 
+Sunnis and Shiites are sleeping,
+The mullah is sleeping.
+The Wahhabis are falling asleep
+(Inshallah!)
+Even Assad is going to bed,
+So that we can dream about him at night,
+But ISIS is not sleeping.
+Sleep, moron!
+
+
 Notre Dame, December 2024
 
 
