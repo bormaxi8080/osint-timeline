@@ -13,37 +13,45 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 **OSINT Tools, Services and Investigations:**
 
-
+VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains: https://github.com/cjhutto/vaderSentiment
 
 ----
 
 **Universal Search & AI:**
 
-
+IntellGPT. ChatGPT agent that's set to help in intelligence analysis with data science approaches and OSINT. Damn good in photo geolocation: https://chatgpt.com/g/g-NpDwkL41O-intellgpt-osint-data-science/
 
 ---
 
 **Software Development:**
 
-
+Atlas - Manage your database schema as code: https://github.com/ariga/atlas
 
 ----
 
 **Linux & DevOps:**
 
-
+bcrypt - Acceptable password hashing for your software and your servers (but you should really use argon2id or scrypt): https://github.com/pyca/bcrypt
 
 ----
 
 **Flipper Zero & Other Devices:**
 
+Arduino Pcap. A library for creating and sending .pcap files for Wireshark and other programms for CapibaraZero: https://github.com/CapibaraZero/ArduinoPcap
 
+EvilPortal - A captive portal library for ESP32. This library read static files from SD and create a web server with a customizable POST method and a DNS server that redirect all requests from connected devices to captive portal page: https://github.com/CapibaraZero/EvilPortal
 
 ----
 
 **New from CyberDetective:**
 
+Google Switch for Google Lens. When searching for a location by photo:
 
+1. First identify the country using AI (Geospy, Picarta etc)
+
+2. Search for a picture in Google Lens with the settings of that country and neighboring countries with this extension:
+
+https://chromewebstore.google.com/detail/googleswitch/gleogimfdeaapagejhfmlgkgenfiaoha
 
 ----
 
