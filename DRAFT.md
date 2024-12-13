@@ -70,7 +70,7 @@ https://chromewebstore.google.com/detail/googleswitch/gleogimfdeaapagejhfmlgkgen
 
 **New from GitHub Community:**
 
-
+SteganoPass - Hidden in Plain Sight. This is a lightweight, privacy focused password concealer that uses steganography to hide encrypted passwords within image files. This approach provides an additional layer of security by hiding sensitive information in plain sight: https://github.com/psdoood/SteganoPass
 
 ----
 ### bormaxi8080 OSINT timeline:
