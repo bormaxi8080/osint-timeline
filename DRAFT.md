@@ -28,6 +28,8 @@ Hunting The Secret Service’s $10M Joker: Timur Kamilevich Shakhmametov. The U.
 
 VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains: https://github.com/cjhutto/vaderSentiment
 
+Exposor is a tool using internet search engines to detect exposed technologies with a unified syntax: https://github.com/abuyv/exposor
+
 ----
 
 **Universal Search & AI:**
