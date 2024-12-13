@@ -22,6 +22,8 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 Hunting The Secret Service’s $10M Joker: Timur Kamilevich Shakhmametov. The U.S. Secret Service, in collaboration with the U.S. Department of State, is offering a significant reward of up to $10 million for information that leads to the arrest and/or conviction of Timur Kamilevich Shakhmametov: https://www.osinord.com/post/hunting-the-secret-service-s-10m-joker-timor-kamilevich-shakhmametov
 
+The Lumen database collects and analyzes legal complaints and requests for removal of online materials, helping Internet users to know their rights and understand the law. These data enable us to study the prevalence of legal threats and let Internet users see the source of content removals: https://lumendatabase.org/
+
 ----
 
 **OSINT Tools, Services and Investigations:**
