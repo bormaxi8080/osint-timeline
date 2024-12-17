@@ -9,7 +9,7 @@ But ISIS is not sleeping.
 Sleep, moron!
 
 
-A spiral of silence twists around my neck.
+A spiral of silence twists around their neck.
 It presses a little, but it doesn't hurt anymore.
 
 
@@ -32,7 +32,7 @@ UAP Disclosure GPT. AI chatbot built with a knowledge base of 11 high quality da
 
 Maigret finally has a web interface mode! What feature should we implement next? A huge shoutout to the amazing community for supporting Maigret's development, suggesting improvements, and even adding new features: https://maigret.readthedocs.io/en/latest/features.html#web-interface
 
-The Lumen database collects and analyzes legal complaints and requests for removal of online materials, helping Internet users to know their rights and understand the law. These data enable us to study the prevalence of legal threats and let Internet users see the source of content removals: https://lumendatabase.org/
+Kali Linux 2024.4 released: 14 New Tools, Python 3.12, and Raspberry Pi Enhancements: https://www.blackhatethicalhacking.com/news/kali-linux-2024-4-14-new-tools-python-3-12-and-raspberry-pi-enhancements/
 
 ----
 
@@ -40,9 +40,12 @@ The Lumen database collects and analyzes legal complaints and requests for remov
 
 VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains: https://github.com/cjhutto/vaderSentiment
 
-Sputnik - Open Source Intelligence Browser Extension: https://github.com/mitchmoser/sputnik
+The Lumen database collects and analyzes legal complaints and requests for removal of online materials, helping Internet users to know their rights and understand the law. These data enable us to study the prevalence of legal threats and let Internet users see the source of content removals: https://lumendatabase.org/
 
 Exposor is a tool using internet search engines to detect exposed technologies with a unified syntax: https://github.com/abuyv/exposor
+
+Sputnik - Open Source Intelligence Browser Extension: https://github.com/mitchmoser/sputnik
+
 
 Domain Checker Tool. A high-performance Go-based tool for checking the availability and responsiveness of domains, utilizing both HTTP requests and browser automation for comprehensive analysis: https://github.com/murat-exp/Domain-Checker-Tool
 
