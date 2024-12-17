@@ -9,6 +9,10 @@ But ISIS is not sleeping.
 Sleep, moron!
 
 
+A spiral of silence twists around my neck.
+It presses a little, but it doesn't hurt anymore.
+
+
 Notre Dame, December 2024
 
 
