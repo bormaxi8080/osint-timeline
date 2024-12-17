@@ -22,6 +22,12 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 Hunting The Secret Service’s $10M Joker: Timur Kamilevich Shakhmametov. The U.S. Secret Service, in collaboration with the U.S. Department of State, is offering a significant reward of up to $10 million for information that leads to the arrest and/or conviction of Timur Kamilevich Shakhmametov: https://www.osinord.com/post/hunting-the-secret-service-s-10m-joker-timor-kamilevich-shakhmametov
 
+UAP Disclosure GPT. AI chatbot built with a knowledge base of 11 high quality datasets/ reports/PDFs regarding #UAP (unidentified anomalous phenomena), #UFO (unidentified flying object) and #NHI (Non-human intelligence): https://chatgpt.com/g/g-Yfj4suiG1-uap-disclosure-gpt
+
+----
+
+Maigret finally has a web interface mode! What feature should we implement next? A huge shoutout to the amazing community for supporting Maigret's development, suggesting improvements, and even adding new features: https://maigret.readthedocs.io/en/latest/features.html#web-interface
+
 The Lumen database collects and analyzes legal complaints and requests for removal of online materials, helping Internet users to know their rights and understand the law. These data enable us to study the prevalence of legal threats and let Internet users see the source of content removals: https://lumendatabase.org/
 
 ----
@@ -30,13 +36,23 @@ The Lumen database collects and analyzes legal complaints and requests for remov
 
 VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains: https://github.com/cjhutto/vaderSentiment
 
+Sputnik - Open Source Intelligence Browser Extension: https://github.com/mitchmoser/sputnik
+
 Exposor is a tool using internet search engines to detect exposed technologies with a unified syntax: https://github.com/abuyv/exposor
+
+Domain Checker Tool. A high-performance Go-based tool for checking the availability and responsiveness of domains, utilizing both HTTP requests and browser automation for comprehensive analysis: https://github.com/murat-exp/Domain-Checker-Tool
+
+ADB-Toolkit is a BASH Script with 28 options and an METASPLOIT Section which has 6 options which is made to do easy penetration testing in Android Device: https://github.com/ASHWIN990/ADB-Toolkit
 
 ----
 
 **Universal Search & AI:**
 
 IntellGPT. ChatGPT agent that's set to help in intelligence analysis with data science approaches and OSINT. Damn good in photo geolocation: https://chatgpt.com/g/g-NpDwkL41O-intellgpt-osint-data-science/
+
+Maxun - Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes: https://github.com/getmaxun/maxun
+
+Agent S is an open agentic framework that uses computers like a human: https://github.com/simular-ai/Agent-S
 
 ---
 
@@ -47,6 +63,12 @@ Atlas - Manage your database schema as code: https://github.com/ariga/atlas
 ----
 
 **Linux & DevOps:**
+
+SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding: https://github.com/seaweedfs/seaweedfs
+
+Selene - Kernel-mode Paravirtualization in Ring 2, LLVM based linker, and some other things: https://github.com/can1357/selene
+
+Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back: https://github.com/bit-team/backintime
 
 bcrypt - Acceptable password hashing for your software and your servers (but you should really use argon2id or scrypt): https://github.com/pyca/bcrypt
 
@@ -69,6 +91,10 @@ Google Switch for Google Lens. When searching for a location by photo:
 2. Search for a picture in Google Lens with the settings of that country and neighboring countries with this extension:
 
 https://chromewebstore.google.com/detail/googleswitch/gleogimfdeaapagejhfmlgkgenfiaoha
+
+Find That Spot. A tool that allows to search the map for objects that match a text description. Based on OverPass Turbo, but does not require knowledge of query language, works faster and with large areas: https://findthatspot.io
+
+Domain Digger. Free and simple domain info gathering tool: subdomains (with first seen dates), dns map, whois, certificates and more: https://digger.tools
 
 ----
 
