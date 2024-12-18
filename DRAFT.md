@@ -27,7 +27,7 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 **OSINT Tools, Services and Investigations:**
 
-
+ShodanSpider is an open-source tool for interacting with Shodan. It lets you search and extract data from Shodan without an API key, offering a simple command-line interface. Premium users can integrate their API key for more results. Ideal for penetration testers and cybersecurity researchers: https://github.com/shubhamrooter/ShodanSpider
 
 ----
 
@@ -51,7 +51,7 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 **Flipper Zero & Other Devices:**
 
-
+Resources of capibaraZero: https://github.com/CapibaraZero/resources
 
 ----
 
