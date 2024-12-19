@@ -51,7 +51,7 @@ ShodanSpider is an open-source tool for interacting with Shodan. It lets you sea
 
 **Flipper Zero & Other Devices:**
 
-Resources of capibaraZero: https://github.com/CapibaraZero/resources
+Resources of Capibara Zero: https://github.com/CapibaraZero/resources
 
 ----
 
