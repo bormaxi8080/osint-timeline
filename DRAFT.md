@@ -21,13 +21,15 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 ----
 
-
+Digital Profiler's Toolki from @paulpogoda. This toolkit useful in profiling, research and digital investigations built for me and my trainees. Working and necessary tools only. All are tested in real cases, mostly free. UI an CLI tools separated: https://github.com/paulpogoda/Digital-Profiler-s-Toolkit
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 ShodanSpider is an open-source tool for interacting with Shodan. It lets you search and extract data from Shodan without an API key, offering a simple command-line interface. Premium users can integrate their API key for more results. Ideal for penetration testers and cybersecurity researchers: https://github.com/shubhamrooter/ShodanSpider
+
+Face Anonymization Made Simple (WACV 2025). Our face anonymization technique preserves the original facial expressions, head positioning, eye direction, and background elements, effectively masking identity while retaining other crucial details. The anonymized face blends seamlessly into its original photograph, making it ideal for diverse real-world applications: https://github.com/hanweikung/face_anon_simple
 
 ----
 
