@@ -31,6 +31,8 @@ ShodanSpider is an open-source tool for interacting with Shodan. It lets you sea
 
 Face Anonymization Made Simple (WACV 2025). Our face anonymization technique preserves the original facial expressions, head positioning, eye direction, and background elements, effectively masking identity while retaining other crucial details. The anonymized face blends seamlessly into its original photograph, making it ideal for diverse real-world applications: https://github.com/hanweikung/face_anon_simple
 
+FireCrawl - Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready markdown: https://github.com/devflowinc/firecrawl-simple
+
 ----
 
 **Universal Search & AI:**
