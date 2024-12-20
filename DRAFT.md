@@ -33,6 +33,8 @@ Face Anonymization Made Simple (WACV 2025). Our face anonymization technique pre
 
 FireCrawl - Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready markdown: https://github.com/devflowinc/firecrawl-simple
 
+Extractify.zip is open source progressive web app (PWA) website to view and extract zip files online without downloading them (client side). It is a free and open source project: https://github.com/xlmnxp/extractify.zip
+
 ----
 
 **Universal Search & AI:**
@@ -49,7 +51,9 @@ FireCrawl - Stripped down, stable version of firecrawl optimized for self-hostin
 
 **Linux & DevOps:**
 
+AutoSSH - Automatically restart SSH sessions and tunnels: https://github.com/Autossh/autossh
 
+Sara - RouterOS Security Inspector. It is a autonomous RouterOS configuration analyzer for finding security issues on MikroTik hardware: https://github.com/casterbyte/Sara
 
 ----
 
@@ -67,7 +71,7 @@ FLINFO. A partially free tool to monitor, search and quickly analyze news from m
 
 **New from GitHub Community:**
 
-
+LibreTranslate - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup: https://github.com/LibreTranslate/LibreTranslate
 
 ----
 ### bormaxi8080 OSINT timeline:
