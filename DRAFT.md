@@ -61,7 +61,7 @@ Resources of Capibara Zero: https://github.com/CapibaraZero/resources
 
 **New from CyberDetective:**
 
-
+FLINFO. A partially free tool to monitor, search and quickly analyze news from many different sources in Mandarin, Russian, Arabic, French, Persian, Vietnamese (the tool automatically translates them into English): https://flinfo.com
 
 ----
 
