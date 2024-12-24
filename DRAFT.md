@@ -43,13 +43,13 @@ Extractify.zip is open source progressive web app (PWA) website to view and extr
 
 **Universal Search & AI:**
 
-
+Omni SenseVoice. High-Speed Speech Recognition with words timestamps: https://github.com/lifeiteng/OmniSenseVoice
 
 ---
 
 **Software Development:**
 
-
+Dagster - An orchestration platform for the development, production, and observation of data assets: https://github.com/dagster-io/dagster
 
 ----
 
