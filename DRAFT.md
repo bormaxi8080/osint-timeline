@@ -23,6 +23,8 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 Digital Profiler's Toolki from @paulpogoda. This toolkit useful in profiling, research and digital investigations built for me and my trainees. Working and necessary tools only. All are tested in real cases, mostly free. UI an CLI tools separated: https://github.com/paulpogoda/Digital-Profiler-s-Toolkit
 
+ArchiveGrid. Worldwide map of 1400+ archives (libraries, universities, museums etc) with contact info, Search by 7M+ archival materials records: https://researchworks.oclc.org/archivegrid/
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -32,6 +34,8 @@ ShodanSpider is an open-source tool for interacting with Shodan. It lets you sea
 Face Anonymization Made Simple (WACV 2025). Our face anonymization technique preserves the original facial expressions, head positioning, eye direction, and background elements, effectively masking identity while retaining other crucial details. The anonymized face blends seamlessly into its original photograph, making it ideal for diverse real-world applications: https://github.com/hanweikung/face_anon_simple
 
 FireCrawl - Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready markdown: https://github.com/devflowinc/firecrawl-simple
+
+Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages: https://github.com/lionsoul2014/ip2region
 
 Extractify.zip is open source progressive web app (PWA) website to view and extract zip files online without downloading them (client side). It is a free and open source project: https://github.com/xlmnxp/extractify.zip
 
