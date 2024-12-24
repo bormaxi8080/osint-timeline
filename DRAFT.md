@@ -45,6 +45,8 @@ Extractify.zip is open source progressive web app (PWA) website to view and extr
 
 Omni SenseVoice. High-Speed Speech Recognition with words timestamps: https://github.com/lifeiteng/OmniSenseVoice
 
+Neo4j graph construction from unstructured data using LLMs: https://github.com/neo4j-labs/llm-graph-builder
+
 ---
 
 **Software Development:**
