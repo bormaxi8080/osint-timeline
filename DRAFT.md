@@ -37,7 +37,11 @@ FireCrawl - Stripped down, stable version of firecrawl optimized for self-hostin
 
 Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages: https://github.com/lionsoul2014/ip2region
 
+Digital Footprint OSINT Tool - A powerful Open Source Intelligence (OSINT) tool for analyzing digital footprints across multiple platforms. This tool helps researchers and security professionals map an individual's online presence while respecting privacy and platform policies: https://github.com/Hamed233/Digital-Footprint-OSINT-Tool
+
 Extractify.zip is open source progressive web app (PWA) website to view and extract zip files online without downloading them (client side). It is a free and open source project: https://github.com/xlmnxp/extractify.zip
+
+hashCrack - Python-based Hashcat wrapper for easy decryption: https://github.com/ente0/hashCrack
 
 ----
 
