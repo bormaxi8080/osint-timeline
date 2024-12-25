@@ -45,13 +45,13 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 **Linux & DevOps:**
 
-
+Elastop is a terminal-based dashboard for monitoring Elasticsearch clusters in real-time. It provides a comprehensive view of cluster health, node status, indices, and various performance metrics in an easy-to-read terminal interface. This tool was designed to look visually similar HTOP: https://github.com/acidvegas/elastop
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+SubGHz BruteForcer Application for Flipper Zero. This software is for experimental purposes only and is not meant for any illegal activity/purposes. We do not condone illegal activity and strongly encourage keeping transmissions to legal/valid uses allowed by law: https://github.com/DarkFlippers/flipperzero-subbrute
 
 ----
 
@@ -63,7 +63,7 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 **New from GitHub Community:**
 
-
+partdec is a command-line utility for multipart downloading and file splitting. Download a file in parts simultaneously: https://github.com/cjijcb/partdec
 
 ----
 ### bormaxi8080 OSINT timeline:
