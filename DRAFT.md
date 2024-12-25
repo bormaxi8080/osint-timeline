@@ -9,6 +9,12 @@ But ISIS is not sleeping.
 Sleep, moron!
 
 
+Christmas. God's disclaimer. The emptiness recedes.
+Christmas. God's disclaimer. Traffic jams. Crowd. Vanity.
+Christmas. God's disclaimer. There is no burning, no melancholy.
+Christmas. God's disclaimer. Lights. Cornflowers.
+
+
 A spiral of silence twists around their neck.
 It presses a little, but it doesn't hurt anymore.
 
