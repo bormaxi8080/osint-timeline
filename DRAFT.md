@@ -27,7 +27,9 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 **OSINT Tools, Services and Investigations:**
 
+Graphiti builds dynamic, temporally aware Knowledge Graphs that represent complex, evolving relationships between entities over time. Graphiti ingests both unstructured and structured data, and the resulting graph may be queried using a fusion of time, full-text, semantic, and graph algorithm approaches: https://github.com/getzep/graphiti
 
+garak checks if an LLM can be made to fail in a way we don't want. `garak` probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses. If you know `nmap`, it's `nmap` for LLMs: https://github.com/NVIDIA/garak
 
 ----
 
