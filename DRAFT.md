@@ -41,11 +41,13 @@ garak checks if an LLM can be made to fail in a way we don't want. `garak` pr
 
 **Software Development:**
 
-
+DrawDB is a robust and user-friendly database entity relationship (DBER) editor right in your browser. Build diagrams with a few clicks, export sql scripts, customize your editor, and more without creating an account: https://github.com/drawdb-io/drawdb
 
 ----
 
 **Linux & DevOps:**
+
+Dockly. Immersive terminal interface for managing docker containers and services: https://github.com/lirantal/dockly
 
 Elastop is a terminal-based dashboard for monitoring Elasticsearch clusters in real-time. It provides a comprehensive view of cluster health, node status, indices, and various performance metrics in an easy-to-read terminal interface. This tool was designed to look visually similar HTOP: https://github.com/acidvegas/elastop
 
