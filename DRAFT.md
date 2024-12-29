@@ -45,6 +45,8 @@ K-OTP-X - Advance OPT Bypass: https://github.com/M4xSec/K-OTP-X
 
 DrawDB is a robust and user-friendly database entity relationship (DBER) editor right in your browser. Build diagrams with a few clicks, export sql scripts, customize your editor, and more without creating an account: https://github.com/drawdb-io/drawdb
 
+Cloudberry - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database: https://github.com/apache/cloudberry
+
 ----
 
 **Linux & DevOps:**
