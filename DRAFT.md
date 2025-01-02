@@ -3,6 +3,35 @@ A spiral of silence twists around their neck.
 It presses a little, but it doesn't hurt anymore.
 
 
+This white bird of God,
+flying by in a light sleep,
+is marked by man and hell:
+with a black oil stain.
+Expecting nothing from us,
+but answering for our sins,
+here it is,
+here it is,
+here it is,
+blackened by our stain.
+
+
+NONSENSE
+As long as, as long as, in the black yard,
+the geese of time chased the holy children
+and with pink heels in sawdust and resin
+these children ran and sang le-le-le.
+But no one could get out beyond the sharp picket fence,
+as long as - prick, prick, prick.
+The geese of time chased the holy children
+in the black, in the black, in the black yard.
+The children trampled their heels into the chewing black earth
+and mommy, and daddy, and granny with the pig.
+And they themselves lay down there under the heels of their
+newly born children and cursed them.
+The geese of time chase, chase everyone and everything.
+And the earth watches, watches with greedy eyes
+
+
 How Russian propaganda is looking for personnel. Billboard caption: "Looking for poets".
 
 ----
