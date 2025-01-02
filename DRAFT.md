@@ -21,7 +21,7 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 ----
 
-
+Azerbaijan Airlines flight J28243 crashed near Aktau, Kazakhstan, on 25 December while attempting an emergency landing. ADS-B data and video of crash indicate possible control issues with the aircraft. Local officials report 62 passengers and five crew onboard: https://www.flightradar24.com/blog/azerbaijan-airlines-e190-crashes-near-aktau/
 
 ----
 
