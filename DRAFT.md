@@ -37,7 +37,9 @@ K-OTP-X - Advance OPT Bypass: https://github.com/M4xSec/K-OTP-X
 
 **Universal Search & AI:**
 
+Echogarden. Cross-platform speech toolset, used from the command-line or as a Node.js library. Includes a variety of engines for speech synthesis, speech recognition, forced alignment, speech translation, voice isolation, language detection and more: https://github.com/echogarden-project/echogarden
 
+VoiceCraft. Zero-Shot Speech Editing and Text-to-Speech in the Wild: https://github.com/jasonppy/VoiceCraft
 
 ---
 
@@ -65,7 +67,7 @@ SubGHz BruteForcer Application for Flipper Zero. This software is for experiment
 
 **New from CyberDetective:**
 
-
+Linkedin Profile Viewer. Free shows profile picture and description in full + some information about experience and education. Useful for those who do not have a Linkedin account: https://nubela.co/proxycurl/demo/linkedin-profile-viewer
 
 ----
 
