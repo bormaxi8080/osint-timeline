@@ -40,25 +40,31 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 ----
 
+ShipSpotting. 3M+ ships, inland vessels and lighthouses photos, advanced search with a lot of filters, real time tracking map and much more: https://shipspotting.com
 
+OPENSKY. Open (free) air traffic data for research: live data, historical data, tracking 264K+ aircrafts, scientific datasets, Python library )https://github.com/open-aviation/pyopensky)
+
+http://opensky-network.org
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+Favicorn takes a favicon and provides search result links across 10 platforms, and not only: https://github.com/sharsil/favicorn
 
+UrlFinder - A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning: https://github.com/projectdiscovery/urlfinder
 
 ----
 
 **Universal Search & AI:**
 
-
+Prompt Engineering Guide - Guides, papers, lecture, notebooks and resources for prompt engineering: https://github.com/dair-ai/Prompt-Engineering-Guide
 
 ---
 
 **Software Development:**
 
-
+microG Services is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available: https://github.com/microg/GmsCore
 
 ----
 
@@ -70,7 +76,7 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 **Flipper Zero & Other Devices:**
 
-
+Flepper Zero Good Fapps. Flipper Zero Official Apps maintained by Flipper Team and Friends: https://github.com/flipperdevices/flipperzero-good-faps
 
 ----
 
@@ -82,7 +88,7 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 **New from GitHub Community:**
 
-
+Siyuan - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang: https://github.com/siyuan-note/siyuan
 
 ----
 ### bormaxi8080 OSINT timeline:
