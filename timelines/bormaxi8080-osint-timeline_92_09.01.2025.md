@@ -48,6 +48,8 @@ And the earth watches, watches with greedy eyes.
 
 ```OPENSKY```. Open (free) air traffic data for research: live data, historical data, tracking 264K+ aircrafts, scientific datasets, Python library )https://github.com/open-aviation/pyopensky): http://opensky-network.org
 
+StrUtil - Go metrics for calculating string similarity and other string utility functions: https://github.com/adrg/strutil
+
 ```Favicorn``` takes a favicon and provides search result links across 10 platforms, and not only: https://github.com/sharsil/favicorn
 
 ```UrlFinder``` - A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning: https://github.com/projectdiscovery/urlfinder
