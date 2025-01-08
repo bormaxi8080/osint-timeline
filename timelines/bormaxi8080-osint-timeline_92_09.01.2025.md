@@ -66,6 +66,8 @@ StrUtil - Go metrics for calculating string similarity and other string utility 
 
 ```microG Services``` is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available: https://github.com/microg/GmsCore
 
+Moss - a simple, fast, ordered, persistable, key-val storage library for golang: https://github.com/couchbase/moss
+
 ----
 
 **Linux & DevOps:**
