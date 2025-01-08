@@ -15,23 +15,6 @@ here it is,
 blackened by our stain.
 
 
-NONSENSE
-As long as, as long as, in the black yard,
-the geese of time chased the holy children
-and with pink heels in sawdust and resin
-these children ran and sang le-le-le.
-But no one could get out beyond the sharp picket fence,
-as long as - prick, prick, prick.
-The geese of time chased the holy children
-in the black, in the black, in the black yard.
-The children trampled their heels into the chewing black earth
-and mommy, and daddy, and granny with the pig.
-And they themselves lay down there under the heels of their
-newly born children and cursed them.
-The geese of time chase, chase everyone and everything.
-And the earth watches, watches with greedy eyes
-
-
 How Russian propaganda is looking for personnel. Billboard caption: "Looking for poets".
 
 ----
@@ -40,55 +23,49 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 ----
 
-Unmasking an FSB Hacker: the OSINT Trail of Andrey Stanislavovich Korinets. Andrey Stanislavovich Korinets isn’t just any hacker—he’s a wanted operative for Russia’s Federal Security Service (FSB), accused of spear-phishing attacks targeting U.S. defense, foreign policy, and nuclear energy sectors: https://www.fbi.gov/wanted/cyber/andrey-stanislavovich-korinets
+
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-ShipSpotting. 3M+ ships, inland vessels and lighthouses photos, advanced search with a lot of filters, real time tracking map and much more: https://shipspotting.com
 
-OPENSKY. Open (free) air traffic data for research: live data, historical data, tracking 264K+ aircrafts, scientific datasets, Python library )https://github.com/open-aviation/pyopensky): http://opensky-network.org
-
-Favicorn takes a favicon and provides search result links across 10 platforms, and not only: https://github.com/sharsil/favicorn
-
-UrlFinder - A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning: https://github.com/projectdiscovery/urlfinder
 
 ----
 
 **Universal Search & AI:**
 
-Prompt Engineering Guide - Guides, papers, lecture, notebooks and resources for prompt engineering: https://github.com/dair-ai/Prompt-Engineering-Guide
+
 
 ---
 
 **Software Development:**
 
-microG Services is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available: https://github.com/microg/GmsCore
+
 
 ----
 
 **Linux & DevOps:**
 
-GPOHunter. A security assessment tool for analyzing Active Directory Group Policy Objects (GPOs) to identify misconfigurations and vulnerabilities: https://github.com/PShlyundin/GPOHunter
+
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-Flepper Zero Good Fapps. Flipper Zero Official Apps maintained by Flipper Team and Friends: https://github.com/flipperdevices/flipperzero-good-faps
+
 
 ----
 
 **New from CyberDetective:**
 
-OpenSupplyHub. Search worldwide supply chain data by facility name, country,  company, product type and other filters: https://opensupplyhub.org/
+
 
 ----
 
 **New from GitHub Community:**
 
-Siyuan - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang: https://github.com/siyuan-note/siyuan
+
 
 ----
 ### bormaxi8080 OSINT timeline:
