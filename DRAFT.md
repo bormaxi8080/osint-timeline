@@ -40,15 +40,15 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 ----
 
-ShipSpotting. 3M+ ships, inland vessels and lighthouses photos, advanced search with a lot of filters, real time tracking map and much more: https://shipspotting.com
-
-OPENSKY. Open (free) air traffic data for research: live data, historical data, tracking 264K+ aircrafts, scientific datasets, Python library )https://github.com/open-aviation/pyopensky)
-
-http://opensky-network.org
+Unmasking an FSB Hacker: the OSINT Trail of Andrey Stanislavovich Korinets. Andrey Stanislavovich Korinets isn’t just any hacker—he’s a wanted operative for Russia’s Federal Security Service (FSB), accused of spear-phishing attacks targeting U.S. defense, foreign policy, and nuclear energy sectors: https://www.fbi.gov/wanted/cyber/andrey-stanislavovich-korinets
 
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+ShipSpotting. 3M+ ships, inland vessels and lighthouses photos, advanced search with a lot of filters, real time tracking map and much more: https://shipspotting.com
+
+OPENSKY. Open (free) air traffic data for research: live data, historical data, tracking 264K+ aircrafts, scientific datasets, Python library )https://github.com/open-aviation/pyopensky): http://opensky-network.org
 
 Favicorn takes a favicon and provides search result links across 10 platforms, and not only: https://github.com/sharsil/favicorn
 
@@ -70,7 +70,7 @@ microG Services is a FLOSS (Free/Libre Open Source Software) framework to allow 
 
 **Linux & DevOps:**
 
-
+GPOHunter. A security assessment tool for analyzing Active Directory Group Policy Objects (GPOs) to identify misconfigurations and vulnerabilities: https://github.com/PShlyundin/GPOHunter
 
 ----
 
@@ -82,7 +82,7 @@ Flepper Zero Good Fapps. Flipper Zero Official Apps maintained by Flipper Team a
 
 **New from CyberDetective:**
 
-
+OpenSupplyHub. Search worldwide supply chain data by facility name, country,  company, product type and other filters: https://opensupplyhub.org/
 
 ----
 
