@@ -84,7 +84,7 @@ And the earth watches, watches with greedy eyes.
 
 **Flipper Zero & Other Devices:**
 
-```Flepper Zero Good Fapps```. Flipper Zero Official Apps maintained by Flipper Team and Friends: https://github.com/flipperdevices/flipperzero-good-faps
+```Flipper Zero Good Fapps```. Flipper Zero Official Apps maintained by Flipper Team and Friends: https://github.com/flipperdevices/flipperzero-good-faps
 
 ----
 
