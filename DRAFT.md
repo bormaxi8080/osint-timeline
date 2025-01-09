@@ -23,7 +23,9 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 ----
 
+$200,000 for every American killed. How the GRU paid the Taliban for terrorist attacks: https://theins.ru/politika/277677
 
+Russia Imports Unique Laser Equipment Developed in the US and EU. It Can Boost the Military-Industrial Complex's Potential: https://theins.ru/news/277734
 
 ----
 
