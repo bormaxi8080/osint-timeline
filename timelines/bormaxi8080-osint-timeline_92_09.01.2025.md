@@ -52,7 +52,7 @@ And the earth watches, watches with greedy eyes.
 
 ```TestDriverAI``` - Next generation autonomous AI agent for end-to-end testing of web & desktop: https://github.com/testdriverai/testdriverai
 
-StrUtil - Go metrics for calculating string similarity and other string utility functions: https://github.com/adrg/strutil
+```StrUtil``` - Go metrics for calculating string similarity and other string utility functions: https://github.com/adrg/strutil
 
 ```Favicorn``` takes a favicon and provides search result links across 10 platforms, and not only: https://github.com/sharsil/favicorn
 
