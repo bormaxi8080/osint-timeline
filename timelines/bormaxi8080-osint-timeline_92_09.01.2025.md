@@ -48,6 +48,10 @@ And the earth watches, watches with greedy eyes.
 
 ```OPENSKY```. Open (free) air traffic data for research: live data, historical data, tracking 264K+ aircrafts, scientific datasets, Python library )https://github.com/open-aviation/pyopensky): http://opensky-network.org
 
+```TGeocoder```. Parse Telegram channels and extracts location data contained within the messages and finds the Lat/Lon coordinates of each event. OpenAI API key required. Telegram API key required (do not use your important Telegram accounts to get the API key, there is a risk of blocking): https://github.com/MJCruickshank/TGeocoder
+
+```TestDriverAI``` - Next generation autonomous AI agent for end-to-end testing of web & desktop: https://github.com/testdriverai/testdriverai
+
 StrUtil - Go metrics for calculating string similarity and other string utility functions: https://github.com/adrg/strutil
 
 ```Favicorn``` takes a favicon and provides search result links across 10 platforms, and not only: https://github.com/sharsil/favicorn
@@ -66,11 +70,13 @@ StrUtil - Go metrics for calculating string similarity and other string utility 
 
 ```microG Services``` is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available: https://github.com/microg/GmsCore
 
-Moss - a simple, fast, ordered, persistable, key-val storage library for golang: https://github.com/couchbase/moss
+```Moss``` - a simple, fast, ordered, persistable, key-val storage library for golang: https://github.com/couchbase/moss
 
 ----
 
 **Linux & DevOps:**
+
+```FlareSolverr``` - Proxy server to bypass Cloudflare protection: https://github.com/FlareSolverr/FlareSolverr
 
 ```GPOHunter```. A security assessment tool for analyzing Active Directory Group Policy Objects (GPOs) to identify misconfigurations and vulnerabilities: https://github.com/PShlyundin/GPOHunter
 
