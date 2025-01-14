@@ -57,7 +57,7 @@ Meioc - Extracting IoC data from eMail: https://github.com/drego85/meioc
 
 **Flipper Zero & Other Devices:**
 
-
+Flipper Zero 3D Models. This repo contains 3D models, drawings, and outlines of Flipper Zero and blank external module PCB: https://github.com/flipperdevices/flipperzero-3d-models
 
 ----
 
@@ -71,7 +71,7 @@ Nuclei Disaster Worldwide Map. Power reactor locations, known locations of nucle
 
 **New from GitHub Community:**
 
-
+Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown: https://github.com/CatchTheTornado/text-extract-api
 
 ----
 ### bormaxi8080 OSINT timeline:
