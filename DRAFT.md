@@ -31,7 +31,9 @@ Russia Imports Unique Laser Equipment Developed in the US and EU. It Can Boost t
 
 **OSINT Tools, Services and Investigations:**
 
+A list of OSINT tools and resources that may be useful to you when conducting investigations related to Poland: https://github.com/paulpogoda/OSINT-Tools-Poland
 
+Meioc - Extracting IoC data from eMail: https://github.com/drego85/meioc
 
 ----
 
@@ -61,7 +63,9 @@ Russia Imports Unique Laser Equipment Developed in the US and EU. It Can Boost t
 
 **New from CyberDetective:**
 
+PugRecon. Search by 1.6 billion subdomains scrapped from multiple public (and private) sources: https://dash.pugrecon.celes.in/
 
+Nuclei Disaster Worldwide Map. Power reactor locations, known locations of nuclear weapons, states with nuclear weapons, declassified US nuclear targets: https://nucleardisastermap.com
 
 ----
 
