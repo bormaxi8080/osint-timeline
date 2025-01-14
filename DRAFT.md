@@ -17,6 +17,9 @@ blackened by our stain.
 
 How Russian propaganda is looking for personnel. Billboard caption: "Looking for poets".
 
+
+"The day you get a cat, you become immortal. You can no longer die".
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2400: https://github.com/bormaxi8080/osint-repos-list
