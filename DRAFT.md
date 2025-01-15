@@ -34,9 +34,13 @@ Russia Imports Unique Laser Equipment Developed in the US and EU. It Can Boost t
 
 **OSINT Tools, Services and Investigations:**
 
+HardBreak - A Wiki about Hardware Hacking: https://github.com/f3nter/HardBreak
+
 A list of OSINT tools and resources that may be useful to you when conducting investigations related to Poland: https://github.com/paulpogoda/OSINT-Tools-Poland
 
 Meioc - Extracting IoC data from eMail: https://github.com/drego85/meioc
+
+MorphUrl - A command-line tool for IP address and URL obfuscation/de-obfuscation, providing diverse techniques for enhanced privacy and security: https://github.com/whiteSHADOW1234/MorphURL
 
 ----
 
