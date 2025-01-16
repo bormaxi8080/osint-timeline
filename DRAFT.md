@@ -36,6 +36,8 @@ Russia Imports Unique Laser Equipment Developed in the US and EU. It Can Boost t
 
 HardBreak - A Wiki about Hardware Hacking: https://github.com/f3nter/HardBreak
 
+Awesome Linux Attack Forensics Purplelabs. This page is a result of the ongoing hands-on research around advanced Linux attacks, detection and forensics techniques and tools: https://github.com/cr0nx/awesome-linux-attack-forensics-purplelabs
+
 A list of OSINT tools and resources that may be useful to you when conducting investigations related to Poland: https://github.com/paulpogoda/OSINT-Tools-Poland
 
 Meioc - Extracting IoC data from eMail: https://github.com/drego85/meioc
