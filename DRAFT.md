@@ -40,6 +40,8 @@ Awesome Linux Attack Forensics Purplelabs. This page is a result of the ongoing 
 
 A list of OSINT tools and resources that may be useful to you when conducting investigations related to Poland: https://github.com/paulpogoda/OSINT-Tools-Poland
 
+Helium is a Python library for automating browsers such as Chrome and Firefox: https://github.com/mherrmann/helium
+
 Meioc - Extracting IoC data from eMail: https://github.com/drego85/meioc
 
 MorphUrl - A command-line tool for IP address and URL obfuscation/de-obfuscation, providing diverse techniques for enhanced privacy and security: https://github.com/whiteSHADOW1234/MorphURL
@@ -48,13 +50,13 @@ MorphUrl - A command-line tool for IP address and URL obfuscation/de-obfuscation
 
 **Universal Search & AI:**
 
-
+AI Video Composer. Compose new videos from your assets using natural language. Add video, image and audio assets and let [Qwen2.5-Coder](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct) or [DeepSeek-V3](https://huggingface.co/deepseek-ai/DeepSeek-V3-Base) generate a new video for you (using FFMPEG): https://huggingface.co/spaces/huggingface-projects/ai-video-composer
 
 ---
 
 **Software Development:**
 
-
+Reversing Bits. A comprehensive collection of cheatsheets for reverse engineering, binary analysis, and assembly programming tools. This repository serves as a one-stop reference for security researchers, reverse engineers, and low-level programmers: https://github.com/mohitmishra786/reversingBits
 
 ----
 
