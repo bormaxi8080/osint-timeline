@@ -23,19 +23,21 @@ blackened by our stain.
 
 ----
 
-
+Top 10 Cyber-Physical Systems Examples in 2023 & 2024: https://www.startus-insights.com/innovators-guide/cyber-physical-systems/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+ClatScope Info Tool - The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (20 features). Perfect for investigators, pentesters, or anyone looking for an effective reconnaissance / OSINT tool: https://github.com/Clats97/ClatScope
 
+ClatsCracker is a versatile Python password-cracking tool supporting over 15 hash algorithms. It offers dictionary or brute-force attacks, adjustable threads, salted hash verification, a user-friendly menu, and progress feedback-ensuring, efficient, ethical password testing: https://github.com/Clats97/ClatsCracker
 
 ----
 
 **Universal Search & AI:**
 
-
+AI-Context - A command-line tool designed to produce a context file from various sources, to make interactions with LLM apps (like ChatGPT, Claude, etc.) easy: https://github.com/tanq16/ai-context
 
 ---
 
@@ -53,13 +55,15 @@ blackened by our stain.
 
 **Flipper Zero & Other Devices:**
 
-
+Python API binding/wrappers for Flipper Zero protobuf protocol and command line tool: https://github.com/flipperdevices/flipperzero_protobuf_py
 
 ----
 
 **New from CyberDetective:**
 
+Data Portals. Search by 599 portals around the world. Goverment data, professional registries, courts records, cadastral maps and more: https://dataportals.org/search
 
+When searching for a person by full name/nickname, check accounts in services popular in their country. One way to find out them is to look at the country rankings of the most downloaded mobile apps in the categories  -dating, social, communication: https://appfollow.io
 
 ----
 
