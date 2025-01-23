@@ -29,19 +29,19 @@ It presses a little, but it doesn't hurt anymore.
 
 **Software Development:**
 
-
+MyPy. Optional static typing for Python: https://github.com/python/mypy
 
 ----
 
 **Linux & DevOps:**
 
-
+Dittofeed. Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more: https://github.com/dittofeed/dittofeed
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+Examples of all types of files stored on Flipper Zero SD card: https://github.com/flipperdevices/flipperzero-sd-card-examples
 
 ----
 
@@ -53,7 +53,7 @@ It presses a little, but it doesn't hurt anymore.
 
 **New from GitHub Community:**
 
-
+PassivBot. Trading bot running on Bybit, Bitget, OKX, GateIO, Binance and Hyperliquid: https://github.com/enarjord/passivbot
 
 ----
 ### bormaxi8080 OSINT timeline:
