@@ -11,7 +11,7 @@ It presses a little, but it doesn't hurt anymore.
 
 ----
 
-
+Cloudflare Vulnerability Allows You to Know the Location of Discord, Signal, and X Users: https://xakep.ru/2025/01/22/cloudflare-teleport/
 
 ----
 
