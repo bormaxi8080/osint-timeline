@@ -39,7 +39,9 @@ MyPy. Optional static typing for Python: https://github.com/python/mypy
 
 **Linux & DevOps:**
 
-Dittofeed. Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more: https://github.com/dittofeed/dittofeed
+Sequin. Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more: https://github.com/sequinstream/sequin
+
+Bashtop. Linux/OSX/FreeBSD resource monitor: https://github.com/aristocratos/bashtop
 
 ----
 
@@ -56,6 +58,8 @@ Alexandria is open source and old style search engine, allows to view all search
 ----
 
 **New from GitHub Community:**
+
+Dittofeed. Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more: https://github.com/dittofeed/dittofeed
 
 PassivBot. Trading bot running on Bybit, Bitget, OKX, GateIO, Binance and Hyperliquid: https://github.com/enarjord/passivbot
 
