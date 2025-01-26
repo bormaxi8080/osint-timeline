@@ -19,7 +19,11 @@ Cloudflare Vulnerability Allows You to Know the Location of Discord, Signal, and
 
 GpxExpeditor 3D Sattelite View. Worldwide map with 3D and high quality satellite images. For street views from 3-20 metres it is much better than Google Maps: https://gpxeditor.co.uk/map
 
+Phone2skype. Check the Skype account details linked to a phone number, including the name, ID, country, and profile picture: https://www.vedbex.com/phone2skype
+
 Penelope is a shell handler designed to be easy to use and intended to replace netcat when exploiting RCE vulnerabilities. It is compatible with Linux and macOS and requires Python 3.6 or higher. It is a standalone script using only Python's native library, and it is intended to remain this way: https://github.com/brightio/penelope
+
+fsociety Hacking Tools Pack – A Penetration Testing Framework: https://github.com/Manisso/fsociety
 
 ----
 
@@ -27,7 +31,7 @@ Penelope is a shell handler designed to be easy to use and intended to replace n
 
 SpeechBrain. A PyTorch-based Speech Toolkit: https://github.com/speechbrain/speechbrain
 
-Hailuo. AI that will read text in any voice.: https://www.hailuo.ai/audio
+Hailuo. AI that will read text in any voice: https://www.hailuo.ai/audio
 
 ---
 
