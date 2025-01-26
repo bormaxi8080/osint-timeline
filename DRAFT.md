@@ -33,6 +33,8 @@ SpeechBrain. A PyTorch-based Speech Toolkit: https://github.com/speechbrain/spee
 
 Hailuo. AI that will read text in any voice: https://www.hailuo.ai/audio
 
+Storm. An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations: https://github.com/stanford-oval/storm
+
 ---
 
 **Software Development:**
