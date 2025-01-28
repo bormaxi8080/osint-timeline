@@ -11,6 +11,8 @@ It presses a little, but it doesn't hurt anymore.
 
 ----
 
+UXCore. The largest free library of cognitive biases (thinking patterns) with over 1000 examples of use: https://keepsimple.io/ru/uxcore
+
 Cloudflare Vulnerability Allows You to Know the Location of Discord, Signal, and X Users: https://xakep.ru/2025/01/22/cloudflare-teleport/
 
 ----
@@ -20,6 +22,8 @@ Cloudflare Vulnerability Allows You to Know the Location of Discord, Signal, and
 GpxExpeditor 3D Sattelite View. Worldwide map with 3D and high quality satellite images. For street views from 3-20 metres it is much better than Google Maps: https://gpxeditor.co.uk/map
 
 Phone2skype. Check the Skype account details linked to a phone number, including the name, ID, country, and profile picture: https://www.vedbex.com/phone2skype
+
+r4ven. Track the GPS location of the user's smartphone or PC and capture a picture of the target, along with IP and device information: https://github.com/spyboy-productions/r4ven
 
 Penelope is a shell handler designed to be easy to use and intended to replace netcat when exploiting RCE vulnerabilities. It is compatible with Linux and macOS and requires Python 3.6 or higher. It is a standalone script using only Python's native library, and it is intended to remain this way: https://github.com/brightio/penelope
 
@@ -38,6 +42,8 @@ Storm. An LLM-powered knowledge curation system that researches a topic and gene
 ---
 
 **Software Development:**
+
+Filelize is a lightweight database designed to simplify writing and reading data into human-readable files, requiring just one line of code: https://github.com/filelize/filelize-java
 
 MyPy. Optional static typing for Python: https://github.com/python/mypy
 
