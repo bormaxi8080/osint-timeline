@@ -28,7 +28,7 @@ India OSINT. Search engines, maps, transport, criminal records, court records an
 
 **Software Development:**
 
-
+ObjWatch is a Python library to trace and monitor object attributes and method calls: https://github.com/aeeeeeep/objwatch
 
 ----
 
@@ -40,7 +40,13 @@ India OSINT. Search engines, maps, transport, criminal records, court records an
 
 **Flipper Zero & Other Devices:**
 
+Brute Force Gate Remote using Flipper Zero: https://github.com/Hong5489/flipperzero-gate-bruteforce
 
+Flipper Zero app to flash ESP chips from the device (no computer connection needed): https://github.com/0xchocolate/flipperzero-esp-flasher
+
+A method for increasing the range of receiving and transmitting a radio signal Flipper Zero: https://github.com/quen0n/flipperzero-ext-cc1101
+
+WiFi Scanner Module for FlipperZero based on ESP8266/ESP32: https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module
 
 ----
 
