@@ -22,7 +22,7 @@ India OSINT. Search engines, maps, transport, criminal records, court records an
 
 **Universal Search & AI:**
 
-
+DeepSeek LLM, an advanced language model comprising 67 billion parameters. It has been trained from scratch on a vast dataset of 2 trillion tokens in both English and Chinese: https://github.com/deepseek-ai/DeepSeek-LLM
 
 ---
 
