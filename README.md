@@ -208,6 +208,7 @@ and contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/O
 ----
 ### All article covers in [LinkedIn](https://www.linkedin.com/in/osintech/details/featured/):
 
+![alt text](./img/90-95.png)
 ![alt text](./img/84-89.png)
 
 ![alt text](./img/78-83.png)
