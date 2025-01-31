@@ -24,6 +24,8 @@ India OSINT. Search engines, maps, transport, criminal records, court records an
 
 DeepSeek LLM, an advanced language model comprising 67 billion parameters. It has been trained from scratch on a vast dataset of 2 trillion tokens in both English and Chinese: https://github.com/deepseek-ai/DeepSeek-LLM
 
+TxtAI. All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows: https://github.com/neuml/txtai
+
 ---
 
 **Software Development:**
@@ -52,7 +54,13 @@ WiFi Scanner Module for FlipperZero based on ESP8266/ESP32: https://github.com/S
 
 **New from CyberDetective:**
 
+Free image enhancement tools (to improve reverse image search results)
 
+Flux.1-dev Upscaler ControlNet: https://huggingface.co/spaces/jasperai/Flux.1-dev-Controlnet-Upscaler
+
+Image Upscaler with Tile Controlnet: https://huggingface.co/spaces/gokaygokay/Tile-Upscaler
+
+Image Upscaling & Restoration(esp. Face) using GFPGAN Algorithm: https://huggingface.co/spaces/nightfury/Image_Face_Upscale_Restoration-GFPGAN
 
 ----
 
