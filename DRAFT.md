@@ -3,6 +3,14 @@ A spiral of silence twists around their neck.
 It presses a little, but it doesn't hurt anymore.
 
 
+Little things.
+Like these.
+The Catholic birds on the branches outside the window think:
+God created the world from a cat's rib.
+They laughed happily.
+
+
+It is quite possible that the dust we wipe from the window and from the bookshelves is from the stars. It flew to us for millions of years, born in the nuclear ashes of a supernova, accumulated in its cosmic substances, gathered, settled, obeying the laws of gravity, and finally got here. And we ourselves are also dust. Only for some it is important, and for others it is not. You wipe the sunny windowsill, inhale, and. Here you have the protocol of stellar happiness, written by Infinity.
 
 ----
 
@@ -10,13 +18,21 @@ It presses a little, but it doesn't hurt anymore.
 
 ----
 
-
+European Companies Search Engine. Search by company name or person full name. Get address, corporate purpose and indentification number (free): https://www.northdata.com/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-India OSINT. Search engines, maps, transport, criminal records, court records and more.: https://start.me/p/vjR5wL/osint-india
+India OSINT. Search engines, maps, transport, criminal records, court records and more: https://start.me/p/vjR5wL/osint-india
+
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India: https://github.com/paulpogoda/OSINT-Tools-India
+
+Telegram Search Engine. A bot that can search for keywords in Telegram groups, channels, bots, and posts. Bot Link: https://t.me/OkSearchBot?start=6840148212
+
+Ergo. A modern IRC server (daemon/ircd) written in Go: https://github.com/ergochat/ergo
+
+GitMiner. Tool for advanced mining for content on Github: https://github.com/UnkL4b/GitMiner
 
 ----
 
@@ -24,7 +40,15 @@ India OSINT. Search engines, maps, transport, criminal records, court records an
 
 DeepSeek LLM, an advanced language model comprising 67 billion parameters. It has been trained from scratch on a vast dataset of 2 trillion tokens in both English and Chinese: https://github.com/deepseek-ai/DeepSeek-LLM
 
+Atlantic. Automated Data Preprocessing Framework for Machine Learning: https://github.com/TsLu1s/atlantic
+
+MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone: https://github.com/OpenBMB/MiniCPM-o
+
+AniPortrait. Audio-Driven Synthesis of Photorealistic Portrait Animation: https://github.com/Zejun-Yang/AniPortrait
+
 TxtAI. All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows: https://github.com/neuml/txtai
+
+Umi OCR. OCR software, free and offline: https://github.com/hiroi-sora/Umi-OCR/
 
 ---
 
@@ -32,11 +56,17 @@ TxtAI. All-in-one open-source embeddings database for semantic search, LLM orche
 
 ObjWatch is a Python library to trace and monitor object attributes and method calls: https://github.com/aeeeeeep/objwatch
 
+KH SQL Projects. This repository contains source code for popular SQL projects for beginners, intermediate, and advance: https://github.com/VikingPathak/kh-sql-projects
+
 ----
 
 **Linux & DevOps:**
 
+Localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes: https://github.com/localtunnel/localtunnel
 
+Dynamic Notification System. A Go-based dynamic notification scheduler. Supports multi-channel notifications (Slack, Email, SMS, Webhook), flexible intervals, and database-driven job scheduling with execution logging: https://github.com/zrougamed/dynamic-notification-system
+
+Smocker is a simple and efficient HTTP mock server and proxy: https://github.com/smocker-dev/smocker
 
 ----
 
@@ -54,7 +84,15 @@ WiFi Scanner Module for FlipperZero based on ESP8266/ESP32: https://github.com/S
 
 **New from CyberDetective:**
 
-Free image enhancement tools (to improve reverse image search results)
+Services for viewing tweets without registering on Twitter. Replace sector035 with an account you are interested in the links below:
+
+twstalker.com/sector035
+
+sotwe.com/sector035
+
+--
+
+Free image enhancement tools (to improve reverse image search results):
 
 Flux.1-dev Upscaler ControlNet: https://huggingface.co/spaces/jasperai/Flux.1-dev-Controlnet-Upscaler
 
@@ -66,7 +104,7 @@ Image Upscaling & Restoration(esp. Face) using GFPGAN Algorithm: https://hugging
 
 **New from GitHub Community:**
 
-
+LLA. Blazing fast `ls` replacement with superpowers: https://github.com/chaqchase/lla
 
 ----
 ### bormaxi8080 OSINT timeline:
