@@ -30,7 +30,7 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 
 Telegram Search Engine. A bot that can search for keywords in Telegram groups, channels, bots, and posts. Bot Link: https://t.me/OkSearchBot?start=6840148212
 
-Ergo. A modern IRC server (daemon/ircd) written in Go: https://github.com/ergochat/ergo
+rga (RIP Grep All). Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc: https://github.com/phiresky/ripgrep-all
 
 GitMiner. Tool for advanced mining for content on Github: https://github.com/UnkL4b/GitMiner
 
@@ -39,6 +39,8 @@ GitMiner. Tool for advanced mining for content on Github: https://github.com/Unk
 **Universal Search & AI:**
 
 DeepSeek LLM, an advanced language model comprising 67 billion parameters. It has been trained from scratch on a vast dataset of 2 trillion tokens in both English and Chinese: https://github.com/deepseek-ai/DeepSeek-LLM
+
+OpenAI Realtime Agents. This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API: https://github.com/openai/openai-realtime-agents
 
 Atlantic. Automated Data Preprocessing Framework for Machine Learning: https://github.com/TsLu1s/atlantic
 
@@ -53,6 +55,8 @@ Umi OCR. OCR software, free and offline: https://github.com/hiroi-sora/Umi-OCR/
 ---
 
 **Software Development:**
+
+DiffDeck. Streamline Code Reviews and Collaboration with Smart Diffs, Security Scans, and AI-Ready Outputs: https://github.com/KnockOutEZ/diffdeck
 
 ObjWatch is a Python library to trace and monitor object attributes and method calls: https://github.com/aeeeeeep/objwatch
 
@@ -103,6 +107,8 @@ Image Upscaling & Restoration(esp. Face) using GFPGAN Algorithm: https://hugging
 ----
 
 **New from GitHub Community:**
+
+Ergo. A modern IRC server (daemon/ircd) written in Go: https://github.com/ergochat/ergo
 
 LLA. Blazing fast `ls` replacement with superpowers: https://github.com/chaqchase/lla
 
