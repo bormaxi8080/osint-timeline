@@ -52,6 +52,12 @@ TxtAI. All-in-one open-source embeddings database for semantic search, LLM orche
 
 Umi OCR. OCR software, free and offline: https://github.com/hiroi-sora/Umi-OCR/
 
+Word to Number Russian. A project for translating numbers written in text form in Russian: https://github.com/SergeyShk/Word-to-Number-Russian
+
+Speech To Text Russian. Project for speech recognition in Russian based on pykaldi: https://github.com/SergeyShk/Speech-to-Text-Russian
+
+ruTS. Library for extracting statistics from Russian language texts: https://github.com/SergeyShk/ruTS
+
 ---
 
 **Software Development:**
