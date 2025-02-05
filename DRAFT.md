@@ -28,9 +28,23 @@ India OSINT. Search engines, maps, transport, criminal records, court records an
 
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India: https://github.com/paulpogoda/OSINT-Tools-India
 
+Quick YouTube Advanced Search. YouTube doesn't have many advanced search operators and they're easy to remember. But for those who haven't yet, there's this very simple and free online tool: https://playlists.at/youtube/search/
+
 Telegram Search Engine. A bot that can search for keywords in Telegram groups, channels, bots, and posts. Bot Link: https://t.me/OkSearchBot?start=6840148212
 
 rga (RIP Grep All). Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc: https://github.com/phiresky/ripgrep-all
+
+Handwriter.ttf. Handwriting synthesis with Harfbuzz WASM: https://github.com/hsfzxjy/handwriter.ttf
+
+Realtime SST. A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription: https://github.com/KoljaB/RealtimeSTT
+
+Umi OCR. OCR software, free and offline: https://github.com/hiroi-sora/Umi-OCR/
+
+Word to Number Russian. A project for translating numbers written in text form in Russian: https://github.com/SergeyShk/Word-to-Number-Russian
+
+Speech To Text Russian. Project for speech recognition in Russian based on pykaldi: https://github.com/SergeyShk/Speech-to-Text-Russian
+
+ruTS. Library for extracting statistics from Russian language texts: https://github.com/SergeyShk/ruTS
 
 GitMiner. Tool for advanced mining for content on Github: https://github.com/UnkL4b/GitMiner
 
@@ -49,14 +63,6 @@ MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Stream
 AniPortrait. Audio-Driven Synthesis of Photorealistic Portrait Animation: https://github.com/Zejun-Yang/AniPortrait
 
 TxtAI. All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows: https://github.com/neuml/txtai
-
-Umi OCR. OCR software, free and offline: https://github.com/hiroi-sora/Umi-OCR/
-
-Word to Number Russian. A project for translating numbers written in text form in Russian: https://github.com/SergeyShk/Word-to-Number-Russian
-
-Speech To Text Russian. Project for speech recognition in Russian based on pykaldi: https://github.com/SergeyShk/Speech-to-Text-Russian
-
-ruTS. Library for extracting statistics from Russian language texts: https://github.com/SergeyShk/ruTS
 
 ---
 
