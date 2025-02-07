@@ -18,6 +18,10 @@ Operation Archive - Saving the history behind Cybercriminal Arrests, Documentati
 
 Crime Data Frontend. Visualization and download tools for exploring the FBI’s Uniform Crime Reporting (UCR) data: https://github.com/fbi-cde/crime-data-frontend
 
+---
+
+A simple Python tool to retrieve the current revenue of a company using its stock ticker, powered by [Yahoo Finance](https://finance.yahoo.com/): https://github.com/DarkWebInformer/company-revenue-lookup
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -26,7 +30,7 @@ Realm OSINT Ex. A tool to check microsofts user real endpoint to get data about 
 
 Remove All Twitter/X Followers Script. This script automates the process of removing your Twitter/X followers. Originally inspired by [this Reddit post](https://www.reddit.com/r/Twitter/comments/1gs601u/removing_all_my_followers/), the code was initially generated with the help of ChatGPT: https://github.com/DarkWebInformer/remove-twitter-x-followers
 
-A simple Python tool to retrieve the current revenue of a company using its stock ticker, powered by [Yahoo Finance](https://finance.yahoo.com/): https://github.com/DarkWebInformer/company-revenue-lookup
+ExifTool meta information reader/writer: https://github.com/exiftool/exiftool
 
 FBI Watchdog is an OSINT tool that monitors domain seizures and DNS record changes in real time, alerting users to law enforcement takedowns and other DNS modifications: https://github.com/DarkWebInformer/FBI_Watchdog
 
@@ -52,7 +56,7 @@ A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, ma
 
 **Linux & DevOps:**
 
-
+**Dito** is an advanced reverse proxy server written in Go. It provides flexible middleware support, custom certificate handling for backend connections, dynamic configuration reloading, and distributed caching and rate limiting with Redis: https://github.com/andrearaponi/dito
 
 ----
 
