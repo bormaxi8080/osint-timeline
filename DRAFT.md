@@ -10,7 +10,7 @@ It is quite possible that the dust we wipe from the window and from the bookshel
 
 ----
 
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2400: https://github.com/bormaxi8080/osint-repos-list
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2500: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
@@ -26,7 +26,7 @@ A simple Python tool to retrieve the current revenue of a company using its stoc
 
 **OSINT Tools, Services and Investigations:**
 
-Realm OSINT Ex. A tool to check microsofts user real endpoint to get data about a tenant: https://github.com/nix2intel/realm_osint_ex
+Realm OSINT Ex. A tool to check Microsoft's user real endpoint to get data about a tenant: https://github.com/nix2intel/realm_osint_ex
 
 Remove All Twitter/X Followers Script. This script automates the process of removing your Twitter/X followers. Originally inspired by [this Reddit post](https://www.reddit.com/r/Twitter/comments/1gs601u/removing_all_my_followers/), the code was initially generated with the help of ChatGPT: https://github.com/DarkWebInformer/remove-twitter-x-followers
 
