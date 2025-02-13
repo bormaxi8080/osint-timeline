@@ -1,11 +1,4 @@
 
-Little things.
-Like these.
-The Catholic birds on the branches outside the window think:
-God created the world from a cat's rib.
-They laughed happily.
-
-
 It is quite possible that the dust we wipe from the window and from the bookshelves is from the stars. It flew to us for millions of years, born in the nuclear ashes of a supernova, accumulated in its cosmic substances, gathered, settled, obeying the laws of gravity, and finally got here. And we ourselves are also dust. Only for some it is important, and for others it is not. You wipe the sunny windowsill, inhale, and. Here you have the protocol of stellar happiness, written by Infinity.
 
 ----
