@@ -13,7 +13,9 @@ Oil and Gas Flaring Worldwide Interactive Map. Based on Global Gas Flaring Obser
 
 **OSINT Tools, Services and Investigations:**
 
+getJS. A tool to fastly get all javascript sources/files: https://github.com/003random/getJS
 
+Loki. Advanced Pentesting & Bug Bounty Framework: https://github.com/003random/loki
 
 ----
 
