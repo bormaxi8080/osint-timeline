@@ -7,7 +7,7 @@ It is quite possible that the dust we wipe from the window and from the bookshel
 
 ----
 
-
+Oil and Gas Flaring Worldwide Interactive Map. Based on Global Gas Flaring Observed from Space (VIIRS) data: https://flaring.skytruth.org
 
 ----
 
@@ -19,7 +19,7 @@ It is quite possible that the dust we wipe from the window and from the bookshel
 
 **Universal Search & AI:**
 
-
+Moondreadm. a tiny vision language model that kicks ass and runs anywhere: https://github.com/vikhyat/moondream
 
 ---
 
@@ -37,13 +37,15 @@ It is quite possible that the dust we wipe from the window and from the bookshel
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZeroDB. All In One Flipper Zero Database: https://github.com/curiousqeorqe/FlipperZeroDB
 
 ----
 
 **New from CyberDetective:**
 
+ZoomEyeGPT, CensysGPT, ShodanGPT and now another IP search engine has launched an AI tool to convert human language into queries with correct syntax: https://www.zoomeye.ai/gpt
 
+CopyTables. Simple Chrome extension to quickly copy data from tables on a web page (as text, CSV, HTML, HTML+CSS, Markdown): https://chromewebstore.google.com/detail/copytables/ekdpkppgmlalfkphpibadldikjimijon
 
 ----
 
