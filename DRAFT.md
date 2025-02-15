@@ -7,6 +7,14 @@ It is quite possible that the dust we wipe from the window and from the bookshel
 
 ----
 
+WEBMII People search engine. A very old and simple tool that is worth remembering. By full name, searches for profiles in various social networks and professional communities (and immediately displays profile pictures with description): https://webmii.com
+
+----
+
+TestZeus Hercules. Testing modern web applications can be difficult, with frequent changes and complex features making it hard to keep up. That’s where **Hercules** comes in. Hercules is the world’s first open-source testing agent, built to handle the toughest testing tasks so you don’t have to. It turns simple, easy-to-write Gherkin steps into fully automated **end to end** tests—no coding skills needed. Whether you’re working with tricky platforms like Salesforce or running tests in your CI/CD pipeline, Hercules adapts to your needs and takes care of the details. With Hercules, testing becomes simple, reliable, and efficient, helping teams everywhere deliver better software: https://github.com/test-zeus-ai/testzeus-hercules/
+
+----
+
 Oil and Gas Flaring Worldwide Interactive Map. Based on Global Gas Flaring Observed from Space (VIIRS) data: https://flaring.skytruth.org
 
 ----
@@ -21,13 +29,17 @@ Loki. Advanced Pentesting & Bug Bounty Framework: https://github.com/003random/l
 
 **Universal Search & AI:**
 
+WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs: https://github.com/hrithikkoduri/WebRover
+
+LLPlayer. The media player for language learning, with dual subtitles, AI-generated subtitles, realtime-OCR, translation, word lookup, and more: https://github.com/umlx5h/LLPlayer
+
 Moondreadm. a tiny vision language model that kicks ass and runs anywhere: https://github.com/vikhyat/moondream
 
 ---
 
-**Software Development:**
+**Software Development & APIs:**
 
-
+DeltaBase. A lightweight, comprehensive solution for managing delta tables built on polars and deltalake: https://github.com/uname-n/deltabase
 
 ----
 
@@ -53,7 +65,7 @@ CopyTables. Simple Chrome extension to quickly copy data from tables on a web pa
 
 **New from GitHub Community:**
 
-
+Paperless-NGX. A community-supported supercharged version of paperless: scan, index and archive all your physical documents: https://github.com/paperless-ngx/paperless-ngx
 
 ----
 ### bormaxi8080 OSINT timeline:
