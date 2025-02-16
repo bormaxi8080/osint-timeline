@@ -35,6 +35,8 @@ Logon Session Auditor. This tool parses Windows EVTX logs to extract login and l
 
 WebRover is an autonomous AI agent designed to interpret user input and execute actions by interacting with web elements to accomplish tasks or answer questions. It leverages advanced language models and web automation tools to navigate the web, gather information, and provide structured responses based on the user's needs: https://github.com/hrithikkoduri/WebRover
 
+GeoDeep. Free and open source library for AI object detection and semantic segmentation in geospatial rasters: https://github.com/uav4geo/GeoDeep
+
 LLPlayer. The media player for language learning, with dual subtitles, AI-generated subtitles, realtime-OCR, translation, word lookup, and more: https://github.com/umlx5h/LLPlayer
 
 GestSync. Official code for the paper "GestSync: Determining who is speaking without a talking head" published at BMVC 2023: https://github.com/Sindhu-Hegde/gestsync
