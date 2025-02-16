@@ -23,7 +23,11 @@ Oil and Gas Flaring Worldwide Interactive Map. Based on Global Gas Flaring Obser
 
 getJS. A tool to fastly get all javascript sources/files: https://github.com/003random/getJS
 
+Avito Parser. Free avito.ru products parser: https://github.com/Duff89/parser_avito
+
 Loki. Advanced Pentesting & Bug Bounty Framework: https://github.com/003random/loki
+
+Logon Session Auditor. This tool parses Windows EVTX logs to extract login and logout sessions from a security.evtx file. It uses a Tkinter GUI to let you select the EVTX file and specify a time for correlating login and logout events: https://github.com/0xHasanM/LogonSessionAuditor
 
 ----
 
@@ -33,7 +37,13 @@ WebRover is an autonomous AI agent designed to interpret user input and execute 
 
 LLPlayer. The media player for language learning, with dual subtitles, AI-generated subtitles, realtime-OCR, translation, word lookup, and more: https://github.com/umlx5h/LLPlayer
 
-Moondreadm. a tiny vision language model that kicks ass and runs anywhere: https://github.com/vikhyat/moondream
+GestSync. Official code for the paper "GestSync: Determining who is speaking without a talking head" published at BMVC 2023: https://github.com/Sindhu-Hegde/gestsync
+
+Sana. Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer: https://github.com/NVlabs/Sana
+
+Ultravox. A fast multimodal LLM for real-time voice: https://github.com/fixie-ai/ultravox
+
+Moondream. a tiny vision language model that kicks ass and runs anywhere: https://github.com/vikhyat/moondream
 
 ---
 
@@ -45,7 +55,7 @@ DeltaBase. A lightweight, comprehensive solution for managing delta tables built
 
 **Linux & DevOps:**
 
-
+Go-proxy. Easy to use reverse proxy with docker integration: https://github.com/yusing/go-proxy
 
 ----
 
