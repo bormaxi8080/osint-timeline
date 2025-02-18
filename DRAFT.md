@@ -28,6 +28,8 @@ Link: https://OSINTers.bio
 
 WEBMII People search engine. A very old and simple tool that is worth remembering. By full name, searches for profiles in various social networks and professional communities (and immediately displays profile pictures with description): https://webmii.com
 
+Linkdtime. Linkedin activity date finder. Extract timestamps from Linkedin posts/comments links and convert to date and time. Linkedin login not required: https://github.com/Lucksi/LinkdTime
+
 Oil and Gas Flaring Worldwide Interactive Map. Based on Global Gas Flaring Observed from Space (VIIRS) data: https://flaring.skytruth.org
 
 TestZeus Hercules. Testing modern web applications can be difficult, with frequent changes and complex features making it hard to keep up. That’s where **Hercules** comes in. Hercules is the world’s first open-source testing agent, built to handle the toughest testing tasks so you don’t have to. It turns simple, easy-to-write Gherkin steps into fully automated **end to end** tests—no coding skills needed. Whether you’re working with tricky platforms like Salesforce or running tests in your CI/CD pipeline, Hercules adapts to your needs and takes care of the details. With Hercules, testing becomes simple, reliable, and efficient, helping teams everywhere deliver better software: https://github.com/test-zeus-ai/testzeus-hercules/
