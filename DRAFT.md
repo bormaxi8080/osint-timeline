@@ -52,6 +52,8 @@ WebRover is an autonomous AI agent designed to interpret user input and execute 
 
 GeoDeep. Free and open source library for AI object detection and semantic segmentation in geospatial rasters: https://github.com/uav4geo/GeoDeep
 
+Autogram. AI agent that automates AI news curation and post to Instagram: https://github.com/ranahaani/autogram
+
 LLPlayer. The media player for language learning, with dual subtitles, AI-generated subtitles, realtime-OCR, translation, word lookup, and more: https://github.com/umlx5h/LLPlayer
 
 GestSync. Official code for the paper "GestSync: Determining who is speaking without a talking head" published at BMVC 2023: https://github.com/Sindhu-Hegde/gestsync
@@ -60,6 +62,8 @@ Sana. Efficient High-Resolution Image Synthesis with Linear Diffusion Transforme
 
 Ultravox. A fast multimodal LLM for real-time voice: https://github.com/fixie-ai/ultravox
 
+Chunkr. Open Source Document Intelligence API. Vision model based document ingestion: https://github.com/lumina-ai-inc/chunkr
+
 Moondream. A tiny vision language model that kicks ass and runs anywhere: https://github.com/vikhyat/moondream
 
 ---
@@ -67,6 +71,8 @@ Moondream. A tiny vision language model that kicks ass and runs anywhere: https:
 **Software Development & APIs:**
 
 DeltaBase. A lightweight, comprehensive solution for managing delta tables built on polars and deltalake: https://github.com/uname-n/deltabase
+
+Posting. Posting is an HTTP client, not unlike Postman and Insomnia. As a TUI application, it can be used over SSH and enables efficient keyboard-centric workflows. Your requests are stored locally in simple YAML files, so they're easy to read and version control: https://github.com/darrenburns/posting
 
 ----
 
