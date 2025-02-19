@@ -7,6 +7,10 @@ It is quite possible that the dust we wipe from the window and from the bookshel
 
 ----
 
+MEDIA MAP. A very large list of news sites for different countries and regions: https://start.me/p/lLaoXv/07-world
+
+----
+
 Are you passionate about Open-Source Intelligence (OSINT)?
 
  Build Your Own OSINT Portfolio Today! 
@@ -21,6 +25,14 @@ Are you passionate about Open-Source Intelligence (OSINT)?
 - Showcase your work— anything your project from SOCMINT (Social Media Intelligence) to GEOINT (Geospatial Intelligence) and beyond.
 
 Link: https://OSINTers.bio
+
+----
+
+The OSINT Insider Newsletter
+
+Become an OSINT insider, discover the cutting edge of OSINT techniques, tips, tactics, tools, and more! Written by Aidan Raney with support from Farnsworth Intelligence.
+
+https://osintinsider.com/
 
 ----
 
