@@ -1,4 +1,7 @@
 
+I am a tree above the road, Come and touch me, If I am just a spirit flying somewhere, You won't touch me - you don't have hands. I am a tree above the road, Not the most crooked, not the most wretched, And where does it lead at the end? I can't see such a distance. At night, someone rushed there laughing. Deep under the ground, the water is silent. I am a tree above the road, Fate was not particularly strict: Clothed in the most beautiful bark, A chipmunk loosened a hole at the roots. A cloud in the sky looks like a boomerang. A tank drove along the road for the first time today (A. Delfinov).
+
+
 It is quite possible that the dust we wipe from the window and from the bookshelves is from the stars. It flew to us for millions of years, born in the nuclear ashes of a supernova, accumulated in its cosmic substances, gathered, settled, obeying the laws of gravity, and finally got here. And we ourselves are also dust. Only for some it is important, and for others it is not. You wipe the sunny windowsill, inhale, and. Here you have the protocol of stellar happiness, written by Infinity.
 
 ----
@@ -8,6 +11,10 @@ It is quite possible that the dust we wipe from the window and from the bookshel
 ----
 
 MEDIA MAP. A very large list of news sites for different countries and regions: https://start.me/p/lLaoXv/07-world
+
+----
+
+OSINT Industries has released the [Palette](https://app.osint.industries/login) graphical interface into early access (demo video [here](https://www.youtube.com/watch?v=cg70iRz47RM)). It's very, very good (the screenshot shows an example of what you can extract from an email).
 
 ----
 
