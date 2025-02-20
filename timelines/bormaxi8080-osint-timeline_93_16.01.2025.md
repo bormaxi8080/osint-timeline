@@ -77,7 +77,9 @@ LinkedIn: [bormaxi8080 OSINT Featured Timeline](https://www.linkedin.com/in/osin
 
 You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
 
-and contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
+and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
+
+----
 
 If you like the projects that I do, I will be grateful for donations in private dialogue.
 
