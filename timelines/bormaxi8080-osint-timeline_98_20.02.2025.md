@@ -46,7 +46,7 @@ https://osintinsider.com/
 
 ```getJS```. A tool to fastly get all javascript sources/files: https://github.com/003random/getJS
 
-Brofile is a utility app which grants you with a better link handling abilities: https://github.com/llem00n/brofile
+```Brofile``` is a utility app which grants you with a better link handling abilities: https://github.com/llem00n/brofile
 
 ```Avito Parser```. Free avito.ru products parser: https://github.com/Duff89/parser_avito
 
