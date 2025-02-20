@@ -35,13 +35,13 @@ OSINT Industries has released the [Palette](https://app.osint.industries/login) 
 
 **Linux & DevOps:**
 
-
+Rclone (RSync for cloud storage) is a command-line program to sync files and directories to and from different cloud storage providers: https://github.com/rclone/rclone
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+A curated collection of Sub-GHz files for the Flipper Zero device, intended solely for educational purposes: https://github.com/Zero-Sploit/FlipperZero-Subghz-DB
 
 ----
 
@@ -64,7 +64,7 @@ LinkedIn: [bormaxi8080 OSINT Featured Timeline](https://www.linkedin.com/in/osin
 
 You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
 
-and contact me on Twitter: [https://twitter.com/OSINTech_](https://twitter.com/OSINTech_)
+and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
 
 If you like the projects that I do, I will be grateful for donations in private dialogue.
 
