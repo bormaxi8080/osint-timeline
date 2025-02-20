@@ -1,5 +1,15 @@
 
-I am a tree above the road, Come and touch me, If I am just a spirit flying somewhere, You won't touch me - you don't have hands. I am a tree above the road, Not the most crooked, not the most wretched, And where does it lead at the end? I can't see such a distance. At night, someone rushed there laughing. Deep under the ground, the water is silent. I am a tree above the road, Fate was not particularly strict: Clothed in the most beautiful bark, A chipmunk loosened a hole at the roots. A cloud in the sky looks like a boomerang. A tank drove along the road for the first time today (A. Delfinov).
+I am a tree above the road, Come and touch me, If I am just a spirit flying somewhere, You won't touch me - you don't have hands. I am a tree above the road, Not the most crooked, not the most wretched, And where does it lead at the end? I can't see such a distance. At night, someone rushed there laughing. Deep under the ground, the water is silent. I am a tree above the road, Fate was not particularly strict: Clothed in the most beautiful bark, A chipmunk loosened a hole at the roots. A cloud in the sky looks like a boomerang. A tank drove along the road for the first time today.
+
+
+A spring has burst in the sky
+the smell of cherry plum is everywhere.
+In the yellow fig seed
+the blood is desperately pounding.
+Here are the tendon tracks -
+the first thin ice has cracked.
+In the warm fig seed
+the blood is desperately singing.
 
 ----
 
