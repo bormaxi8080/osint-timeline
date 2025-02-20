@@ -17,7 +17,7 @@ OSINT Industries has released the [Palette](https://app.osint.industries/login) 
 
 **OSINT Tools, Services and Investigations:**
 
-
+Browser Snatch. This project steals important data from all chromium and gecko browsers installed in the system and gather the data in a stealer db to be exfiltrated out: https://github.com/shaddy43/BrowserSnatch
 
 ----
 
