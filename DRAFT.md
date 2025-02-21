@@ -29,6 +29,8 @@ OSINT Industries has released the [Palette](https://app.osint.industries/login) 
 
 Browser Snatch. This project steals important data from all chromium and gecko browsers installed in the system and gather the data in a stealer db to be exfiltrated out: https://github.com/shaddy43/BrowserSnatch
 
+__grep-backURLs__ is a web security automation tool to extracts important credentials in bug hunting. It uses subfinder to find subdomains and then those subdomain acts as input links for waybackurls . After that , it uses grep command and keywords.txt to sort out important credentials: https://github.com/gigachad80/grep-backURLs
+
 ----
 
 **Universal Search & AI:**
@@ -45,6 +47,8 @@ Browser Snatch. This project steals important data from all chromium and gecko b
 
 **Linux & DevOps:**
 
+Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data: https://github.com/vectordotdev/vector
+
 Rclone (RSync for cloud storage) is a command-line program to sync files and directories to and from different cloud storage providers: https://github.com/rclone/rclone
 
 ----
@@ -57,7 +61,7 @@ A curated collection of Sub-GHz files for the Flipper Zero device, intended sole
 
 **New from CyberDetective:**
 
-
+What to do if when you try to search for a photo of a person Google does not give results and writes "Results for people are limited"? Use free alternatives like Bing, Yandex, Baidu, TinEye and Sogou. Korean, but works with not only photos of Asians: https://ris.sogou.com
 
 ----
 
