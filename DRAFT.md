@@ -17,6 +17,12 @@ the blood is desperately singing.
 
 ----
 
+Google reported that the Signal messenger was under surveillance by Russian special services.
+
+Details and technical research: https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger
+
+----
+
 MEDIA MAP. A very large list of news sites for different countries and regions: https://start.me/p/lLaoXv/07-world
 
 ----
