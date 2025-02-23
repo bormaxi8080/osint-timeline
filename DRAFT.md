@@ -35,25 +35,33 @@ OSINT Industries has released the [Palette](https://app.osint.industries/login) 
 
 Browser Snatch. This project steals important data from all chromium and gecko browsers installed in the system and gather the data in a stealer db to be exfiltrated out: https://github.com/shaddy43/BrowserSnatch
 
+MegaParse. File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs: https://github.com/QuivrHQ/MegaParse
+
 __grep-backURLs__ is a web security automation tool to extracts important credentials in bug hunting. It uses subfinder to find subdomains and then those subdomain acts as input links for waybackurls . After that , it uses grep command and keywords.txt to sort out important credentials: https://github.com/gigachad80/grep-backURLs
+
+HExHTTP is a tool designed to perform tests on HTTP headers and analyze the results to identify vulnerabilities and interesting behaviors: https://github.com/c0dejump/HExHTTP
 
 ----
 
 **Universal Search & AI:**
 
+Fast Music Remover. A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement: https://github.com/omeryusufyagci/fast-music-remover
 
+Audiblez: Generate audiobooks from e-books: https://github.com/santinic/audiblez
 
 ---
 
 **Software Development & APIs:**
 
+Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data: https://github.com/vectordotdev/vector
 
+Apache Sharding Sphere. Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases: https://github.com/apache/shardingsphere
 
 ----
 
 **Linux & DevOps:**
 
-Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data: https://github.com/vectordotdev/vector
+ServiceRadar is a distributed network monitoring system designed for infrastructure and services in hard to reach places or constrained environments. It provides real-time monitoring of internal services, with cloud-based alerting capabilities to ensure you stay informed even during network or power outages: https://github.com/carverauto/serviceradar
 
 Rclone (RSync for cloud storage) is a command-line program to sync files and directories to and from different cloud storage providers: https://github.com/rclone/rclone
 
@@ -73,7 +81,7 @@ What to do if when you try to search for a photo of a person Google does not giv
 
 **New from GitHub Community:**
 
-
+Laplace is an open-source project to enable screen sharing directly via browser. Based on WebRTC for low latency peer-to-peer connections, and WebSocket implemented in golang for signaling: https://github.com/adamyordan/laplace
 
 ----
 ### bormaxi8080 OSINT timeline:
