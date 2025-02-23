@@ -57,6 +57,8 @@ Vector is a high-performance, end-to-end (agent & aggregator) observability data
 
 Apache Sharding Sphere. Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases: https://github.com/apache/shardingsphere
 
+Zola. A fast static site generator in a single binary with everything built-in: https://github.com/getzola/zola
+
 ----
 
 **Linux & DevOps:**
