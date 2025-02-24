@@ -37,7 +37,9 @@ Browser Snatch. This project steals important data from all chromium and gecko b
 
 MegaParse. File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs: https://github.com/QuivrHQ/MegaParse
 
-__grep-backURLs__ is a web security automation tool to extracts important credentials in bug hunting. It uses subfinder to find subdomains and then those subdomain acts as input links for waybackurls . After that , it uses grep command and keywords.txt to sort out important credentials: https://github.com/gigachad80/grep-backURLs
+grep-backURLs is a web security automation tool to extracts important credentials in bug hunting. It uses subfinder to find subdomains and then those subdomain acts as input links for waybackurls . After that , it uses grep command and keywords.txt to sort out important credentials: https://github.com/gigachad80/grep-backURLs
+
+Rusty Hog is a secret scanner built in Rust for performance, and based on TruffleHog which is written in Python: https://github.com/newrelic/rusty-hog
 
 HExHTTP is a tool designed to perform tests on HTTP headers and analyze the results to identify vulnerabilities and interesting behaviors: https://github.com/c0dejump/HExHTTP
 
