@@ -27,6 +27,10 @@ MEDIA MAP. A very large list of news sites for different countries and regions: 
 
 ----
 
+Austria OSINT. List of 57+ websites + list of OSINT Telegram channels by Snooptsz: https://osintteam.blog/osint-austria-188ac5b7ed5e
+
+----
+
 OSINT Industries has released the [Palette](https://app.osint.industries/login) graphical interface into early access (demo video [here](https://www.youtube.com/watch?v=cg70iRz47RM)). It's very, very good (the screenshot shows an example of what you can extract from an email).
 
 ----
@@ -42,6 +46,18 @@ grep-backURLs is a web security automation tool to extracts important credentia
 Rusty Hog is a secret scanner built in Rust for performance, and based on TruffleHog which is written in Python: https://github.com/newrelic/rusty-hog
 
 HExHTTP is a tool designed to perform tests on HTTP headers and analyze the results to identify vulnerabilities and interesting behaviors: https://github.com/c0dejump/HExHTTP
+
+YogSec Search is a powerful and flexible search tool designed to fetch search results from Bing: https://github.com/yogsec/YogSec-Search
+
+DorkTerm is a terminal-themed web-based security tool designed to assist security researchers in performing Google Dork queries efficiently. The tool generates multiple Google Dork search queries for a given domain and opens them in new browser tabs to help identify potential vulnerabilities: https://github.com/yogsec/DorkTerm
+
+BugBoard: A comprehensive open-source cybersecurity tool for vulnerability detection and bug hunting: https://github.com/yogsec/BugBoard
+
+Web History Analysis is an advanced tool for classifying and categorizing URLs from browser history logs using machine learning techniques: https://github.com/yogsec/Web-History-Analysis
+
+Endpoints Extractor. A powerful Bash script for extracting URLs and API endpoints from HTML, JavaScript, and JSON content of web pages. Designed for security researchers, bug bounty hunters, and developers to streamline endpoint discovery. Simple to use, supports single or multiple URLs, and offers file-saving capabilities: https://github.com/yogsec/endpoints-extractor
+
+CORS Scanner is a Bash script designed to detect and analyze CORS misconfigurations in web applications. With its efficient concurrency and detailed output, it empowers developers and security researchers to identify potential vulnerabilities in Access-Control headers, ensuring robust web security: https://github.com/yogsec/CorsScanner
 
 ----
 
@@ -67,7 +83,9 @@ Zola. A fast static site generator in a single binary with everything built-in: 
 
 ServiceRadar is a distributed network monitoring system designed for infrastructure and services in hard to reach places or constrained environments. It provides real-time monitoring of internal services, with cloud-based alerting capabilities to ensure you stay informed even during network or power outages: https://github.com/carverauto/serviceradar
 
-Rclone (RSync for cloud storage) is a command-line program to sync files and directories to and from different cloud storage providers: https://github.com/rclone/rclone
+Nping mean NB Ping, A Ping Tool in Rust with Real-Time Data and Visualizations: https://github.com/hanshuaikang/Nping
+
+RClone (RSync for cloud storage) is a command-line program to sync files and directories to and from different cloud storage providers: https://github.com/rclone/rclone
 
 ----
 
