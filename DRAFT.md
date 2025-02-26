@@ -45,6 +45,8 @@ grep-backURLs is a web security automation tool to extracts important credentia
 
 Rusty Hog is a secret scanner built in Rust for performance, and based on TruffleHog which is written in Python: https://github.com/newrelic/rusty-hog
 
+Sn1per. Discover hidden assets and vulnerabilities in your environment: https://github.com/1N3/Sn1per
+
 HExHTTP is a tool designed to perform tests on HTTP headers and analyze the results to identify vulnerabilities and interesting behaviors: https://github.com/c0dejump/HExHTTP
 
 YogSec Search is a powerful and flexible search tool designed to fetch search results from Bing: https://github.com/yogsec/YogSec-Search
@@ -72,6 +74,8 @@ Audiblez: Generate audiobooks from e-books: https://github.com/santinic/audiblez
 **Software Development & APIs:**
 
 Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data: https://github.com/vectordotdev/vector
+
+GoFreeDB is a Golang library that provides common and simple database abstractions on top of Google Sheets: https://github.com/FreeLeh/GoFreeDB
 
 Apache Sharding Sphere. Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases: https://github.com/apache/shardingsphere
 
