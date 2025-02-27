@@ -13,7 +13,9 @@ I am a tree above the road, Come and touch me, If I am just a spirit flying some
 
 **OSINT Tools, Services and Investigations:**
 
+E4GL30S1NT - Simple Information Gathering Tool: https://github.com/C0MPL3XDEV/E4GL30S1NT
 
+PHPSploit. Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor: https://github.com/nil0x42/phpsploit
 
 ----
 
@@ -37,13 +39,13 @@ I am a tree above the road, Come and touch me, If I am just a spirit flying some
 
 **Flipper Zero & Other Devices:**
 
-
+Alternative Infrared Remote plugin for FlipperZero: https://github.com/Hong5489/ir_remote
 
 ----
 
 **New from CyberDetective:**
 
-
+Exa AI tool to search and crawl the web. Just describe in words what data you would like to collect with scraping and get ready Python/JavaScript code with a request to Exa API and test it in a sandbox: https://exa.ai
 
 ----
 
