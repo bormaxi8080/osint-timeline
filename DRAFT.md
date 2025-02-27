@@ -13,6 +13,8 @@ I am a tree above the road, Come and touch me, If I am just a spirit flying some
 
 **OSINT Tools, Services and Investigations:**
 
+Stega Shade CLI is a user-friendly command-line interface tool designed for image-based steganography. With a focus on simplicity and security, it provides functionality to encode and decode messages into images, including password-protected encoding for enhanced privacy: https://github.com/merwin-asm/StegaShade
+
 E4GL30S1NT - Simple Information Gathering Tool: https://github.com/C0MPL3XDEV/E4GL30S1NT
 
 PHPSploit. Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor: https://github.com/nil0x42/phpsploit
