@@ -59,7 +59,7 @@ OSINT Industries has released the [Palette](https://app.osint.industries/login) 
 
 ```DorkTerm``` is a terminal-themed web-based security tool designed to assist security researchers in performing Google Dork queries efficiently. The tool generates multiple Google Dork search queries for a given domain and opens them in new browser tabs to help identify potential vulnerabilities: https://github.com/yogsec/DorkTerm
 
-```BugBoard```: A comprehensive open-source cybersecurity tool for vulnerability detection and bug hunting: https://github.com/yogsec/BugBoard
+```BugBoard```. A comprehensive open-source cybersecurity tool for vulnerability detection and bug hunting: https://github.com/yogsec/BugBoard
 
 ```Web History Analysis``` is an advanced tool for classifying and categorizing URLs from browser history logs using machine learning techniques: https://github.com/yogsec/Web-History-Analysis
 
@@ -73,7 +73,7 @@ OSINT Industries has released the [Palette](https://app.osint.industries/login) 
 
 ```Fast Music Remover```. A C++ based, lightweight music and noise remover for YouTube and other internet media, using DeepFilterNet for audio enhancement: https://github.com/omeryusufyagci/fast-music-remover
 
-```Audiblez```: Generate audiobooks from e-books: https://github.com/santinic/audiblez
+```Audiblez```. Generate audiobooks from e-books: https://github.com/santinic/audiblez
 
 ---
 
