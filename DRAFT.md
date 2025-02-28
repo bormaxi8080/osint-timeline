@@ -7,13 +7,21 @@ I am a tree above the road, Come and touch me, If I am just a spirit flying some
 
 ----
 
+How can sexual and gender-based violence be identified through open sources, and what ethical considerations should guide this research? Alexa Koenig is at the forefront of answering these questions. Listen to our Stage Talk with her here: https://rss.com/podcasts/bellingcatstagetalk/1908244/
 
+----
+
+Google Journalist Studio. A collection of tools to empower journalists to do their work more efficiently, creatively, and securely: https://journaliststudio.google.com/
+
+JournalistOnHF. The Essential AI Toolkit for Journalists and Content Creators: https://huggingface.co/spaces/JournalistsonHF/ai-toolkit
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 Stega Shade CLI is a user-friendly command-line interface tool designed for image-based steganography. With a focus on simplicity and security, it provides functionality to encode and decode messages into images, including password-protected encoding for enhanced privacy: https://github.com/merwin-asm/StegaShade
+
+CHRONOS. Go tool to download and analyze archive org snapshots, search regex matches, extract endpoints from JS fils, calculate old favicon hashes, extract html tags with XPath: https://github.com/mhmdiaa/chronos
 
 E4GL30S1NT - Simple Information Gathering Tool: https://github.com/C0MPL3XDEV/E4GL30S1NT
 
@@ -23,7 +31,7 @@ PHPSploit. Full-featured C2 framework which silently persists on webserver with 
 
 **Universal Search & AI:**
 
-
+Chaplin. A visual speech recognition (VSR) tool that reads your lips in real-time and types whatever you silently mouth. Runs fully locally: https://github.com/amanvirparhar/chaplin
 
 ---
 
