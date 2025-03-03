@@ -11,9 +11,31 @@ How can sexual and gender-based violence be identified through open sources, and
 
 ----
 
+FBI Crime Data Explorer (stats by USA states).
+
+How many percent of people are killed  by their boyfriends and girlfriends?
+
+How many times more likely are men to be murder victims than women?
+
+Which properties are most likely to be robbed?
+
+https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend
+
+----
+
 Google Journalist Studio. A collection of tools to empower journalists to do their work more efficiently, creatively, and securely: https://journaliststudio.google.com/
 
 JournalistOnHF. The Essential AI Toolkit for Journalists and Content Creators: https://huggingface.co/spaces/JournalistsonHF/ai-toolkit
+
+----
+
+The ability to recognize and identify firearms is crucial when investigating images and footage from combat zones and other conflict areas. These resources can help you pinpoint weapon types and gain valuable insights.
+
+Useful tools for firearm identification:
+
+https://www.armalytics.ca/?size=n_10_n
+
+https://www.smallarmssurvey.org/resource/introductory-guide-identification-small-arms-light-weapons-and-associated-ammunition
 
 ----
 
@@ -24,6 +46,8 @@ Stega Shade CLI is a user-friendly command-line interface tool designed for imag
 CHRONOS. Go tool to download and analyze archive org snapshots, search regex matches, extract endpoints from JS fils, calculate old favicon hashes, extract html tags with XPath: https://github.com/mhmdiaa/chronos
 
 E4GL30S1NT - Simple Information Gathering Tool: https://github.com/C0MPL3XDEV/E4GL30S1NT
+
+AFrog. A Security Tool for Bug Bounty, Pentest and Red Teaming: https://github.com/zan8in/afrog
 
 PHPSploit. Full-featured C2 framework which silently persists on webserver with a single-line PHP backdoor: https://github.com/nil0x42/phpsploit
 
@@ -37,13 +61,13 @@ Chaplin. A visual speech recognition (VSR) tool that reads your lips in real-tim
 
 **Software Development & APIs:**
 
-
+Faiss. A library for efficient similarity search and clustering of dense vectors: https://github.com/facebookresearch/faiss
 
 ----
 
 **Linux & DevOps:**
 
-
+Telegraf. Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data: https://github.com/influxdata/telegraf
 
 ----
 
@@ -61,7 +85,7 @@ Exa AI tool to search and crawl the web. Just describe in words what data you w
 
 **New from GitHub Community:**
 
-
+DocuSeal. Open source DocuSign alternative. Create, fill, and sign digital documents: https://github.com/docusealco/docuseal
 
 ----
 ### bormaxi8080 OSINT timeline:
