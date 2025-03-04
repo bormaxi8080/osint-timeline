@@ -7,6 +7,10 @@ I am a tree above the road, Come and touch me, If I am just a spirit flying some
 
 ----
 
+After the rapid fall of Bashir al-Assad's regime, the main coordination center of Russian espionage in the Middle East moved from Syria to Iran. However, the strengthening of relations between Moscow and Tehran began back in 2022, as evidenced by the sharp increase in the number of flights of Russian spies to Iran. The Insider found out who heads the GRU residency in Tehran, which banks and shipping companies are profiting from the supply of combat drones that are bringing death in Ukraine, and why Russian spies in Iran are grateful to the Fifth Service of the FSB for drinks: https://theins.ru/inv/279277
+
+----
+
 How can sexual and gender-based violence be identified through open sources, and what ethical considerations should guide this research? Alexa Koenig is at the forefront of answering these questions. Listen to our Stage Talk with her here: https://rss.com/podcasts/bellingcatstagetalk/1908244/
 
 ----
@@ -45,6 +49,8 @@ Stega Shade CLI is a user-friendly command-line interface tool designed for imag
 
 CHRONOS. Go tool to download and analyze archive org snapshots, search regex matches, extract endpoints from JS fils, calculate old favicon hashes, extract html tags with XPath: https://github.com/mhmdiaa/chronos
 
+OsintIA_Tools.py is an automated tool for collecting and analyzing public information that combines OSINT techniques with artificial intelligence, providing detailed insights into cybersecurity, potential vulnerabilities, and best mitigation practices: https://github.com/andersonsevla/OsintIA_Tools
+
 E4GL30S1NT - Simple Information Gathering Tool: https://github.com/C0MPL3XDEV/E4GL30S1NT
 
 AFrog. A Security Tool for Bug Bounty, Pentest and Red Teaming: https://github.com/zan8in/afrog
@@ -54,6 +60,8 @@ PHPSploit. Full-featured C2 framework which silently persists on webserver with 
 ----
 
 **Universal Search & AI:**
+
+GPT Crawler. Crawl a site to generate knowledge files to create your own custom GPT from a URL: https://github.com/BuilderIO/gpt-crawler
 
 Chaplin. A visual speech recognition (VSR) tool that reads your lips in real-time and types whatever you silently mouth. Runs fully locally: https://github.com/amanvirparhar/chaplin
 
@@ -68,6 +76,8 @@ Faiss. A library for efficient similarity search and clustering of dense vectors
 **Linux & DevOps:**
 
 Telegraf. Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data: https://github.com/influxdata/telegraf
+
+Pangolin. Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI: https://github.com/fosrl/pangolin
 
 ----
 
