@@ -77,6 +77,8 @@ Faiss. A library for efficient similarity search and clustering of dense vectors
 
 Telegraf. Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data: https://github.com/influxdata/telegraf
 
+Wireless IDS. Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets: https://github.com/SYWorks/wireless-ids
+
 Pangolin. Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI: https://github.com/fosrl/pangolin
 
 ----
