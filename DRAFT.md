@@ -3,7 +3,7 @@ I am a tree above the road, Come and touch me, If I am just a spirit flying some
 
 ----
 
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2500: https://github.com/bormaxi8080/osint-repos-list
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2600: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
