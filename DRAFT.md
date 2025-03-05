@@ -1,5 +1,11 @@
 
+Spring, the first bright butterfly, entered the house. It brought pollen, dust and the fawn of destroyed cities on its wings.
 
+
+Outside the window, a river Human voices Diligent hopelessness Softness of ice No inevitability of death No definitions of love
+
+
+You are made of the stones of those fortresses, that were once razed to the ground. I fear that even this short communication will change my character, my former lightness will be replaced by gloom. It is better for us to separately each perform our own suerte de muerte!
 
 ----
 
