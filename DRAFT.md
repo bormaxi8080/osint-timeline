@@ -25,13 +25,13 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 **Universal Search & AI:**
 
-
+Director. AI video agents framework for next-gen video interactions and workflows: https://github.com/video-db/Director
 
 ---
 
 **Software Development & APIs:**
 
-
+Apify Fingerprint Suite. Browser fingerprinting tools for anonymizing your scrapers: https://github.com/apify/fingerprint-suite
 
 ----
 
@@ -43,7 +43,7 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero Template. A template for starting a flipperzero-rs project for the Flipper Zero: https://github.com/flipperzero-rs/flipperzero-template
 
 ----
 
@@ -55,7 +55,7 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 **New from GitHub Community:**
 
-
+PDFDing. Selfhosted PDF manager, viewer and editor offering a seamless user experience on multiple devices: https://github.com/mrmn2/PdfDing
 
 ----
 ### bormaxi8080 OSINT timeline:
