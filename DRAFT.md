@@ -17,6 +17,8 @@ In our latest investigation, Bellingcat identifies the former Wagner fighter and
 
 Maritime OSINT: The Caribbean’s Untapped Weapon Against Transnational Crime: https://www.linkedin.com/pulse/maritime-osint-caribbeans-untapped-weapon-against-transnational-ke13e/?trackingId=%2Fi1mBtu6faFpQxnnJxAvPQ%3D%3D
 
+PixieWPS. An offline Wi-Fi Protected Setup brute-force utility: https://github.com/wiire-a/pixiewps
+
 ----
 
 **OSINT Tools, Services and Investigations:**
