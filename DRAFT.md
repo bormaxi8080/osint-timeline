@@ -15,7 +15,7 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 In our latest investigation, Bellingcat identifies the former Wagner fighter and admin of an racist Telegram group behind a Russian fashion brand that sells clothing items glorifying far-right ideology and the Russian mercenary group Wagner: https://www.bellingcat.com/news/2025/03/06/unmasking-maskov-how-bellingcat-found-a-man-outfitting-russian-neo-nazis/?utm_source=linkedin
 
-Maritime OSINT: The Caribbean’s Untapped Weapon Against Transnational Crime: https://www.linkedin.com/pulse/maritime-osint-caribbeans-untapped-weapon-against-transnational-ke13e/?trackingId=%2Fi1mBtu6faFpQxnnJxAvPQ%3D%3D
+Maritime OSINT. The Caribbean’s Untapped Weapon Against Transnational Crime: https://www.linkedin.com/pulse/maritime-osint-caribbeans-untapped-weapon-against-transnational-ke13e/?trackingId=%2Fi1mBtu6faFpQxnnJxAvPQ%3D%3D
 
 PixieWPS. An offline Wi-Fi Protected Setup brute-force utility: https://github.com/wiire-a/pixiewps
 
@@ -24,6 +24,8 @@ PixieWPS. An offline Wi-Fi Protected Setup brute-force utility: https://github.c
 **OSINT Tools, Services and Investigations:**
 
 UK PHONEBOOK. Service for finding addresses and phone numbers by full name, city and street name. Partially free (5 searches per day). Company search and API search are also available: https://www.ukphonebook.com/residential-telephone-directory/
+
+Apify Fingerprint Suite. Browser fingerprinting tools for anonymizing your scrapers: https://github.com/apify/fingerprint-suite
 
 Bulk Bing Image Downloader. A simple and fast tool to automate loading images from Bing Images search results  (limit 5 is used for the example, but larger limits can be used): https://github.com/ostrolucky/Bulk-Bing-Image-downloader
 
@@ -36,8 +38,6 @@ Director. AI video agents framework for next-gen video interactions and workflow
 ---
 
 **Software Development & APIs:**
-
-Apify Fingerprint Suite. Browser fingerprinting tools for anonymizing your scrapers: https://github.com/apify/fingerprint-suite
 
 VizTracer. A debugging and profiling tool that can trace and visualize python code execution: https://github.com/gaogaotiantian/viztracer
 
