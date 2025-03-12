@@ -25,6 +25,8 @@ PixieWPS. An offline Wi-Fi Protected Setup brute-force utility: https://github.c
 
 UK PHONEBOOK. Service for finding addresses and phone numbers by full name, city and street name. Partially free (5 searches per day). Company search and API search are also available: https://www.ukphonebook.com/residential-telephone-directory/
 
+Bulk Bing Image Downloader. A simple and fast tool to automate loading images from Bing Images search results  (limit 5 is used for the example, but larger limits can be used): https://github.com/ostrolucky/Bulk-Bing-Image-downloader
+
 ----
 
 **Universal Search & AI:**
@@ -36,6 +38,8 @@ Director. AI video agents framework for next-gen video interactions and workflow
 **Software Development & APIs:**
 
 Apify Fingerprint Suite. Browser fingerprinting tools for anonymizing your scrapers: https://github.com/apify/fingerprint-suite
+
+VizTracer. A debugging and profiling tool that can trace and visualize python code execution: https://github.com/gaogaotiantian/viztracer
 
 ----
 
