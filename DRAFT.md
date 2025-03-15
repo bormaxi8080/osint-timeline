@@ -1,7 +1,4 @@
 
-Spring, the first bright butterfly, entered the house. It brought pollen, dust and the fawn of destroyed cities on its wings.
-
-
 Outside the window, a river Human voices Diligent hopelessness Softness of ice No inevitability of death No definitions of love
 
 
