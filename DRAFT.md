@@ -10,13 +10,29 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 ----
 
+TrueMedia.org is a service that detects deepfakes in social media. The product allows critical election audiences from around the world to quickly and effectively detect deepfakes. We combine the power of our in-house deepfake detection models with industry and academia to achieve over 90% accuracy: https://github.com/truemediaorg
 
+Repositories:
+
+https://github.com/truemediaorg/ml-models
+
+https://github.com/truemediaorg/GenConViT
+
+https://github.com/truemediaorg/media-resolver
+
+https://github.com/truemediaorg/socialbot
+
+https://github.com/truemediaorg/deepfake-app
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+Cyber URL Scanner is an advanced tool for analyzing website security. Using the latest cybersecurity technologies, we offer comprehensive URL scanning to detect potential threats: https://cyscan.io/
 
+Blind XSS Scanner is a tool that can be used to scan for blind XSS vulnerabilities in web applications: https://github.com/ethicalhackingplayground/bxss
+
+Phisherman. A real fake social engineering app: https://github.com/jfmaes/phisherman
 
 ----
 
@@ -34,13 +50,15 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 **Linux & DevOps:**
 
+Dockershrink is an AI Assistant that reduces the size of your application's Docker Image: https://github.com/duaraghav8/dockershrink
 
+bore is a simple CLI tool for making tunnels to localhost: https://github.com/ekzhang/bore
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+Flipper Zero TouchTunes. Pin folder contains the remote signals broken out by admin code. Typically most locations do not change the default 000 pin, so i would start there unless you already know the pin: https://github.com/jimilinuxguy/flipperzero-touchtunes
 
 ----
 
