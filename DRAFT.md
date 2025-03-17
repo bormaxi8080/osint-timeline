@@ -10,6 +10,10 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 ----
 
+List of fact-checking websites. Dozens of services for checking news information (both political and non-political) for different countries and regions: https://en.wikipedia.org/wiki/List_of_fact-checking_websites
+
+----
+
 TrueMedia.org is a service that detects deepfakes in social media. The product allows critical election audiences from around the world to quickly and effectively detect deepfakes. We combine the power of our in-house deepfake detection models with industry and academia to achieve over 90% accuracy: https://github.com/truemediaorg
 
 Repositories:
