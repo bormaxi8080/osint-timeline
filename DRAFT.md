@@ -46,7 +46,7 @@ Phisherman. A real fake social engineering app: https://github.com/jfmaes/phishe
 
 **Universal Search & AI:**
 
-
+Unstract. No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents: https://github.com/Zipstack/unstract
 
 ---
 
