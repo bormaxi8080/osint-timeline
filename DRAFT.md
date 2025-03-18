@@ -32,6 +32,10 @@ https://github.com/truemediaorg/deepfake-app
 
 **OSINT Tools, Services and Investigations:**
 
+VisualOrigins Detector. Google Lens, Google Fact-Check Explorer and EXIF Viewer in one Instrument: https://visualorigins.digitaldigging.org/
+
+ScrapeServ. Simple URL to screenshots server. A self-hosted API that takes a URL and returns a file with browser screenshots: https://github.com/goodreasonai/ScrapeServ
+
 Cyber URL Scanner is an advanced tool for analyzing website security. Using the latest cybersecurity technologies, we offer comprehensive URL scanning to detect potential threats: https://cyscan.io/
 
 Blind XSS Scanner is a tool that can be used to scan for blind XSS vulnerabilities in web applications: https://github.com/ethicalhackingplayground/bxss
