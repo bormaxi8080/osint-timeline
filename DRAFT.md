@@ -48,7 +48,7 @@ Phisherman. A real fake social engineering app: https://github.com/jfmaes/phishe
 
 **Software Development & APIs:**
 
-
+Glom. Python's nested data operator (and CLI), for all your declarative restructuring needs: https://github.com/mahmoud/glom
 
 ----
 
