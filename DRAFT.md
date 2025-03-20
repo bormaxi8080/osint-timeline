@@ -36,6 +36,8 @@ VisualOrigins Detector. Google Lens, Google Fact-Check Explorer and EXIF Viewer
 
 ScrapeServ. Simple URL to screenshots server. A self-hosted API that takes a URL and returns a file with browser screenshots: https://github.com/goodreasonai/ScrapeServ
 
+YouTube Handless Fuzz. A Python tool that generates username variants by keyword(nickname, last name, username) and checks if there are YouTube users with that username: https://github.com/mariosantella/youtube-handles-fuzz
+
 Cyber URL Scanner is an advanced tool for analyzing website security. Using the latest cybersecurity technologies, we offer comprehensive URL scanning to detect potential threats: https://cyscan.io/
 
 Blind XSS Scanner is a tool that can be used to scan for blind XSS vulnerabilities in web applications: https://github.com/ethicalhackingplayground/bxss
@@ -47,6 +49,14 @@ Phisherman. A real fake social engineering app: https://github.com/jfmaes/phishe
 **Universal Search & AI:**
 
 Unstract. No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents: https://github.com/Zipstack/unstract
+
+Cloudflare Agents. Build and deploy AI Agents on Cloudflare: https://github.com/cloudflare/agents
+
+GraphRAG. A modular graph-based Retrieval-Augmented Generation (RAG) system: https://github.com/microsoft/graphrag
+
+Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more: https://github.com/yamadashy/repomix
+
+AISuite. Simple, unified interface to multiple Generative AI providers: https://github.com/andrewyng/aisuite
 
 ---
 
@@ -72,13 +82,15 @@ Flipper Zero TouchTunes. Pin folder contains the remote signals broken out by ad
 
 **New from CyberDetective:**
 
+Reddit User Insights. A tool that analyzes a Reddit user's comments and, with the help of AI, makes assumptions about their gender, age, occupation, interests, brand mentions(!) and other properties: https://vapor.selva.ee/
 
+Limitless OSINT. Online platform for skill testing in OSINT and cyber intelligence. Digital Footprint Analysis, Geolocation Intelligence, Language Analysis, Foreign Influence Analysis, Operational Security Protocols: limitless-osint.com/challenges
 
 ----
 
 **New from GitHub Community:**
 
-
+Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps: https://github.com/StructuredLabs/preswald
 
 ----
 ### bormaxi8080 OSINT timeline:
