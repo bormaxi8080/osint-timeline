@@ -10,7 +10,7 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 ----
 
-
+How OSINT shaped reporting on the war in Ukraine: https://www.info-res.org/eyes-on-russia/articles/how-osint-shaped-reporting-on-the-war-in-ukraine/
 
 ----
 
