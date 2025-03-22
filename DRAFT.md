@@ -10,7 +10,6 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 ----
 
-
 How OSINT shaped reporting on the war in Ukraine: https://www.info-res.org/eyes-on-russia/articles/how-osint-shaped-reporting-on-the-war-in-ukraine/
 
 Russian company working with the state promises $4 million for hacking Telegram. Operation Zero (OOO Matrix) is based in St. Petersburg and is run by a certain Sergey Zelenyuk. He has previously stated that his company resells vulnerabilities only in countries “not part of NATO.” The company’s website states that it cooperates with Russian state companies. Unlike traditional bug bounty platforms like Hacker One or Bugcrowd, Operation Zero does NOT warn vendors about vulnerabilities in their products: https://theins.ru/news/279855
@@ -35,7 +34,7 @@ AI-Renamer. A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, L
 
 **Software Development & APIs:**
 
-
+SeleniumBase. Python APIs for web automation, testing, and bypassing bot-detection: https://github.com/seleniumbase/SeleniumBase
 
 ----
 
