@@ -22,7 +22,9 @@ Cybersecurity researchers at Citizen Lab, a digital rights watchdog based at the
 
 ICELAND OSINT. Live cams, news monitoring, Game of Thrones locations, traffic info, maps and more: https://start.me/p/RM4Xae/iceland
 
-By the date the profile picture was uploaded, you can determine the possible creation date of the account. This service displays the avatar update date in WhatsApp/FaceBook by username and in some other social networks by URL: https://profileimageintel.com/
+By the date the profile picture was uploaded, you can determine the possible creation date of the account. This service displays the avatar update date in WhatsApp/Facebook by username and in some other social networks by URL: https://profileimageintel.com/
+
+Scraper of Google Maps reviews. The code allows to extract the **most recent** reviews starting from the url of a specific Point Of Interest (POI) in Google Maps. An additional extension helps to monitor and incrementally store the reviews in a MongoDB instance: https://github.com/gaspa93/googlemaps-scraper
 
 Baitroute. A web honeypot library to create vulnerable-looking endpoints to detect and mislead attackers: https://github.com/utkusen/baitroute
 
@@ -41,6 +43,8 @@ AI-Renamer. A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, L
 **Software Development & APIs:**
 
 SeleniumBase. Python APIs for web automation, testing, and bypassing bot-detection: https://github.com/seleniumbase/SeleniumBase
+
+Caffeine. A high performance caching library for Java: https://github.com/ben-manes/caffeine?tab=readme-ov-file
 
 ----
 
@@ -68,7 +72,9 @@ BrowserExt. Get detailed info by Chrome/Edge extension ID. Risk score, required 
 
 **New from GitHub Community:**
 
+Jinsp. Visually inspect JSON data from the terminal: https://github.com/simeonkr/jinsp
 
+Photo Video Watermark. Telegram bot for creating watermark on photos and videos: https://github.com/h1w/photo-video-watermark
 
 ----
 ### bormaxi8080 OSINT timeline:
