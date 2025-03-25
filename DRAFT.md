@@ -20,7 +20,13 @@ Cybersecurity researchers at Citizen Lab, a digital rights watchdog based at the
 
 **OSINT Tools, Services and Investigations:**
 
-DSViper. This is for Ethical Use only! Update:- Currently the payloads can only bypass latest real time monitoring and not cloud based detections, due to a lot of virus total submissions. Works like a charm in lab assessments like HTB Prolab's or any other Penetration Testing certification that has antivirus enabled: https://github.com/dagowda/DSViper
+ICELAND OSINT. Live cams, news monitoring, Game of Thrones locations, traffic info, maps and more: https://start.me/p/RM4Xae/iceland
+
+By the date the profile picture was uploaded, you can determine the possible creation date of the account. This service displays the avatar update date in WhatsApp/FaceBook by username and in some other social networks by URL: https://profileimageintel.com/
+
+Baitroute. A web honeypot library to create vulnerable-looking endpoints to detect and mislead attackers: https://github.com/utkusen/baitroute
+
+DSViper. This is for Ethical Use only! Currently the payloads can only bypass latest real time monitoring and not cloud based detections, due to a lot of virus total submissions. Works like a charm in lab assessments like HTB Prolab's or any other Penetration Testing certification that has antivirus enabled: https://github.com/dagowda/DSViper
 
 ----
 
@@ -40,20 +46,21 @@ SeleniumBase. Python APIs for web automation, testing, and bypassing bot-detecti
 
 **Linux & DevOps:**
 
+1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server: https://github.com/1Panel-dev/1Panel
+
 Caps-Log. A small TUI journaling tool: https://github.com/NikolaDucak/caps-log
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+Flipper zero exploiting vulnerability to open any Sentry Safe and Master Lock electronic safe without any pin code: https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin
 
 ----
 
 **New from CyberDetective:**
 
 B2BHint. Search for information on registered businesses around the world. It's can search either by company name or by a person's surname: https://b2bhint.com
-
 
 BrowserExt. Get detailed info by Chrome/Edge extension ID. Risk score, required permissions, sensitive data scan results, manifest viewing: https://browserext.info/
 
