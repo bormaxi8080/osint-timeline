@@ -22,6 +22,8 @@ Cybersecurity researchers at Citizen Lab, a digital rights watchdog based at the
 
 ICELAND OSINT. Live cams, news monitoring, Game of Thrones locations, traffic info, maps and more: https://start.me/p/RM4Xae/iceland
 
+DOCUMENT SEARCH TOOLS. Filesharing search, FTP servers search, cloud storage search, documents/files search: https://start.me/p/1kl8j9/search-engines-searchers
+
 By the date the profile picture was uploaded, you can determine the possible creation date of the account. This service displays the avatar update date in WhatsApp/Facebook by username and in some other social networks by URL: https://profileimageintel.com/
 
 Scraper of Google Maps reviews. The code allows to extract the **most recent** reviews starting from the url of a specific Point Of Interest (POI) in Google Maps. An additional extension helps to monitor and incrementally store the reviews in a MongoDB instance: https://github.com/gaspa93/googlemaps-scraper
