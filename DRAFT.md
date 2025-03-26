@@ -24,6 +24,14 @@ ICELAND OSINT. Live cams, news monitoring, Game of Thrones locations, traffic in
 
 DOCUMENT SEARCH TOOLS. Filesharing search, FTP servers search, cloud storage search, documents/files search: https://start.me/p/1kl8j9/search-engines-searchers
 
+Deep Fake Detection. Start me page with examples of Deep Fake Tools, Deep Fake detection tools, Deep Fake detection guides and MDR explained articles: https://start.me/p/zpkMMO/deep-fake-tools-detection
+
+ID and other documents OSINT. List of sites for checking and searching information about passports and other documents in European countries: https://start.me/p/Pwxv4y/16-id-and-travel-documents
+
+Terrorism financing OSINT List by Lorando Bono. Reports, organizations info, company/charity info, sanctions lists, crypto investigations and more: https://start.me/p/1kwrGp/terrorism-financing
+
+Company registries by country. A list of dozens of registries for finding information about registered businesses in different countries. Some allow to search only by company identification number, some by name, and some by owner name and address: https://www.disputesregister.org/advice/company-registries-by-country
+
 By the date the profile picture was uploaded, you can determine the possible creation date of the account. This service displays the avatar update date in WhatsApp/Facebook by username and in some other social networks by URL: https://profileimageintel.com/
 
 Scraper of Google Maps reviews. The code allows to extract the **most recent** reviews starting from the url of a specific Point Of Interest (POI) in Google Maps. An additional extension helps to monitor and incrementally store the reviews in a MongoDB instance: https://github.com/gaspa93/googlemaps-scraper
