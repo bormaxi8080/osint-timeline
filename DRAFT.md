@@ -44,6 +44,8 @@ AI-Renamer. A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, L
 
 SeleniumBase. Python APIs for web automation, testing, and bypassing bot-detection: https://github.com/seleniumbase/SeleniumBase
 
+White Obfuscate. A tool to obfuscate / to make Python code unreadable. It obfuscates your code and prevents easy access of others to your code: https://github.com/whxitte/white-obfuscate
+
 Caffeine. A high performance caching library for Java: https://github.com/ben-manes/caffeine?tab=readme-ov-file
 
 ----
