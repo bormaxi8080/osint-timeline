@@ -37,13 +37,13 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 **Flipper Zero & Other Devices:**
 
-
+FlepperZero NFS Tools. Repository contains nfc tools for Flipper companions: https://github.com/flipperdevices/flipperzero-nfc-tools
 
 ----
 
 **New from CyberDetective:**
 
-
+In this article, talk about how solve the problem of not being able to export my subscribers after Substack account was locked. Will be useful also for anyone who needs to automate data collection from Gmail: https://medium.com/@cyb_detective/substack-locked-my-account-9880b56f5ab0
 
 ----
 
