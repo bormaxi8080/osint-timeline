@@ -7,13 +7,28 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 ----
 
+One of the most prominent employees of the Department of Government Efficiency (DOGE), which is run by oligarch Elon Musk, once worked for a cybercrime group that sold stolen data and carried out blackmail. The man in question is 19-year-old Edward Coristin, also known by the nickname Big Balls.
+
+According to a Reuters investigation, starting in 2022, when Coristin was still in high school, he ran a company called DiamondCDN, which facilitated the cybercrime organization EGodly.
+Digital records reviewed by Reuters showed that the EGodly website and dataleak.fun were linked to Internet Protocol addresses registered to DiamondCDN and other entities owned by Coristin.
+
+Neither Coristin nor DOGE commented on the investigation's findings and declined to answer questions from reporters. The teenager currently holds the position of "senior adviser" at the State Department and the Cybersecurity and Infrastructure Security Agency.
+
+The EGodly cyber group reported on its Telegram channel that it intercepts phone numbers, hacks into law enforcement accounts in Latin America and Eastern Europe, and steals cryptocurrency. In addition, in early 2023, it posted the details of an FBI employee online, distributing his address, phone number, and so on.
+
+It is believed that the agent was investigating EGodly's activities. For this, the organization began to deanonymize him. The employee is now retired. He reported that members of the criminal organization also practiced swatting - calling armed special forces to false addresses.
+
+https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cybercrime-ring-records-show-2025-03-26/
+
+----
+
 
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. Its purpose is to help developers and security professionals quickly identify and remediate exposed sensitive informations in their codebases: https://github.com/whxitte/gixposed
 
 ----
 
@@ -25,7 +40,9 @@ You are made of the stones of those fortresses, that were once razed to the grou
 
 **Software Development & APIs:**
 
+File Systam Spec. A specification that python filesystems should adhere to: https://github.com/fsspec/filesystem_spec
 
+FastAPI Guard. A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats: https://github.com/rennf93/fastapi-guard
 
 ----
 
