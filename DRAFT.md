@@ -28,13 +28,15 @@ https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cy
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT USA. Criminal records, Government records, Bussines entity search, Charites/non-profit search, People search, Radio signals and more: https://start.me/p/GEQXv7/osint-us
+
 Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. Its purpose is to help developers and security professionals quickly identify and remediate exposed sensitive informations in their codebases: https://github.com/whxitte/gixposed
 
 ----
 
 **Universal Search & AI:**
 
-
+DEEP FACE UI. Self-hosted tool for analysing and comparing face photos. Does not require API keys. x.com/GONZOs_int  published it on Github just yesterday and feel free to write him about any issues: https://github.com/GONZOsint/deepfaceui
 
 ---
 
