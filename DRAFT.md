@@ -30,6 +30,8 @@ https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cy
 
 OSINT USA. Criminal records, Government records, Bussines entity search, Charites/non-profit search, People search, Radio signals and more: https://start.me/p/GEQXv7/osint-us
 
+HANDLEHAWK. By nickname, collects profile information across multiple platforms. Bluesky, Mastodon, Nostr, TruthSocial, Reddit, Snapchat, Twitter (via optional RapidAPI): https://github.com/C3n7ral051nt4g3ncy/HandleHawk
+
 Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. Its purpose is to help developers and security professionals quickly identify and remediate exposed sensitive informations in their codebases: https://github.com/whxitte/gixposed
 
 ----
