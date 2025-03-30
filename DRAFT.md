@@ -22,7 +22,7 @@ https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cy
 
 ----
 
-
+BEST OSINT Books. Digital Investigations, cybersecurity, investigative journalism, OPSE, sourcing, national security, intelligence mindset: https://osintteam.com/books/
 
 ----
 
