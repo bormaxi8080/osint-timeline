@@ -32,7 +32,11 @@ OSINT USA. Criminal records, Government records, Bussines entity search, Charite
 
 HANDLEHAWK. By nickname, collects profile information across multiple platforms. Bluesky, Mastodon, Nostr, TruthSocial, Reddit, Snapchat, Twitter (via optional RapidAPI): https://github.com/C3n7ral051nt4g3ncy/HandleHawk
 
+Discord OSINT. Useful resources to conduct research on Discord: https://github.com/thepseudonym/DiscordOSINT
+
 Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. Its purpose is to help developers and security professionals quickly identify and remediate exposed sensitive informations in their codebases: https://github.com/whxitte/gixposed
+
+FakeEmail. A Fake Email Server with a Web Front End: https://github.com/tomwardill/FakeEmail
 
 ----
 
@@ -52,7 +56,7 @@ FastAPI Guard. A security library for FastAPI that provides middleware to contro
 
 **Linux & DevOps:**
 
-
+bpytop. Linux/OSX/FreeBSD resource monitor: https://github.com/aristocratos/bpytop
 
 ----
 
@@ -70,7 +74,7 @@ In this article, talk about how solve the problem of not being able to export my
 
 **New from GitHub Community:**
 
-
+Browser-use is the easiest way to connect your AI agents with the browser: https://github.com/browser-use/browser-use
 
 ----
 ### bormaxi8080 OSINT timeline:
