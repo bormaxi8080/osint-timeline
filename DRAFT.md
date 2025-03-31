@@ -34,6 +34,8 @@ HANDLEHAWK. By nickname, collects profile information across multiple platforms.
 
 Discord OSINT. Useful resources to conduct research on Discord: https://github.com/thepseudonym/DiscordOSINT
 
+Namus Missing Persons Search. Database of missing, unidentified and unclaimed persons with a lot of advanced search filters (USA). Age/ethnicity, case created/last contact date, hair/eye color, clothing and accessories, piercing/tattoo: https://www.namus.gov/MissingPersons/Search
+
 Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. Its purpose is to help developers and security professionals quickly identify and remediate exposed sensitive informations in their codebases: https://github.com/whxitte/gixposed
 
 FakeEmail. A Fake Email Server with a Web Front End: https://github.com/tomwardill/FakeEmail
@@ -52,9 +54,13 @@ File Systam Spec. A specification that python filesystems should adhere to: http
 
 FastAPI Guard. A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats: https://github.com/rennf93/fastapi-guard
 
+Machbase is a blazing fast time-series database designed specifically for IoT applications and implemented in C. `machbase-neo` is an IoT Database Server that embeds the Machbase engine and offers essential and convenient features for building IoT platforms, including MQTT and HTTP APIs. It is highly versatile and can be installed on a wide range of machines, from Raspberry Pi devices to high-performance servers: https://github.com/machbase/neo-server/?tab=readme-ov-file
+
 ----
 
 **Linux & DevOps:**
+
+nginx-proxy sets up a container running nginx and [docker-gen](https://github.com/nginx-proxy/docker-gen). docker-gen generates reverse proxy configs for nginx and reloads nginx when containers are started and stopped: https://github.com/nginx-proxy/nginx-proxy
 
 bpytop. Linux/OSX/FreeBSD resource monitor: https://github.com/aristocratos/bpytop
 
