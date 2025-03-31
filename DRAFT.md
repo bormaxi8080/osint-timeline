@@ -24,6 +24,8 @@ https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cy
 
 BEST OSINT Books. Digital Investigations, cybersecurity, investigative journalism, OPSE, sourcing, national security, intelligence mindset: https://osintteam.com/books/
 
+Mastering Image Geolocation (OSINT): https://medium.com/@preciousvincentct/mastering-image-geolocation-osint-d046d715c70c
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -32,13 +34,25 @@ OSINT USA. Criminal records, Government records, Bussines entity search, Charite
 
 HANDLEHAWK. By nickname, collects profile information across multiple platforms. Bluesky, Mastodon, Nostr, TruthSocial, Reddit, Snapchat, Twitter (via optional RapidAPI): https://github.com/C3n7ral051nt4g3ncy/HandleHawk
 
+Asia Pacific Business OSINT Tools. Trusts & foundations, real estate, charities, wealth indicators, individuals and business entities search: https://start.me/p/3KMwaw/hbg-asia-pacific-resources
+
+Venicle OSINT. Stolen car databases, check insurance for registration numbers, licence plates search, VIN search, model recognition, road and traffic info and more: https://start.me/p/q6mmMA/17-road-transportation
+
+Companies Intelligence. List of tools for companies investigation from Shally Stecker: https://start.me/p/Bn4evw/srcn
+
 Discord OSINT. Useful resources to conduct research on Discord: https://github.com/thepseudonym/DiscordOSINT
 
+AI is not new however it has recently taken a leap forward not just in technology but also public awareness. For that reason it cannot be ignored as a potential OSINT tool. There are Privacy concerns with some European counteries already taking note and maybe action in the future. Like with any OSINT tool, understand what it does and ensure you are happy that you maybe giving up your data ro help build future AI capabilities: https://github.com/The-Osint-Toolbox/AI-Resources
+
 Namus Missing Persons Search. Database of missing, unidentified and unclaimed persons with a lot of advanced search filters (USA). Age/ethnicity, case created/last contact date, hair/eye color, clothing and accessories, piercing/tattoo: https://www.namus.gov/MissingPersons/Search
+
+DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs: https://github.com/daprofiler/DaProfiler
 
 Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. Its purpose is to help developers and security professionals quickly identify and remediate exposed sensitive informations in their codebases: https://github.com/whxitte/gixposed
 
 FakeEmail. A Fake Email Server with a Web Front End: https://github.com/tomwardill/FakeEmail
+
+CSVKit. A suite of utilities for converting to and working with CSV, the king of tabular file formats: https://github.com/wireservice/csvkit
 
 ----
 
