@@ -1,4 +1,13 @@
 
+Time has judged. The bustle has praised the calendar without days off.
+
+
+Spring and drops.
+
+
+Demand for gratitude: it is here and now that the line between a man and a scumbag is drawn.
+
+
 You are made of the stones of those fortresses, that were once razed to the ground. I fear that even this short communication will change my character, my former lightness will be replaced by gloom. It is better for us to separately each perform our own suerte de muerte!
 
 ----
@@ -42,6 +51,8 @@ Companies Intelligence. List of tools for companies investigation from Shally St
 
 Discord OSINT. Useful resources to conduct research on Discord: https://github.com/thepseudonym/DiscordOSINT
 
+Browservice: Browser as a Service. A web "proxy" server that enables browsing the modern web on historical browsers. It works by rendering the browser viewport into images, which are then shown by a JavaScript application running on the client browser: https://github.com/ttalvitie/browservice
+
 AI is not new however it has recently taken a leap forward not just in technology but also public awareness. For that reason it cannot be ignored as a potential OSINT tool. There are Privacy concerns with some European counteries already taking note and maybe action in the future. Like with any OSINT tool, understand what it does and ensure you are happy that you maybe giving up your data ro help build future AI capabilities: https://github.com/The-Osint-Toolbox/AI-Resources
 
 Namus Missing Persons Search. Database of missing, unidentified and unclaimed persons with a lot of advanced search filters (USA). Age/ethnicity, case created/last contact date, hair/eye color, clothing and accessories, piercing/tattoo: https://www.namus.gov/MissingPersons/Search
@@ -50,7 +61,13 @@ DaProfiler is an OSINT tool allowing you to collect certain information about yo
 
 Gixposed is a powerful command-line tool designed to search the commit history of Git repositories for sensitive information, such as API keys and access tokens. Its purpose is to help developers and security professionals quickly identify and remediate exposed sensitive informations in their codebases: https://github.com/whxitte/gixposed
 
+Official implementation of [Video Seal](https://ai.meta.com/research/publications/video-seal-open-and-efficient-video-watermarking/). Training and inference code for **image and video watermarking**, and state-of-the-art open-sourced models: https://github.com/facebookresearch/videoseal
+
 FakeEmail. A Fake Email Server with a Web Front End: https://github.com/tomwardill/FakeEmail
+
+IP-Tracer - A basic Termux IP address tracer tool that can fetch all publicly available information about an IP address: https://github.com/Achik-Ahmed/Ip-Tracer
+
+White IP-Tracer. Just a simple light weight tool for simple ip information gathering: https://github.com/whxitte/white-IpTracer
 
 CSVKit. A suite of utilities for converting to and working with CSV, the king of tabular file formats: https://github.com/wireservice/csvkit
 
@@ -89,6 +106,10 @@ FlepperZero NFS Tools. Repository contains nfc tools for Flipper companions: htt
 **New from CyberDetective:**
 
 In this article, talk about how solve the problem of not being able to export my subscribers after Substack account was locked. Will be useful also for anyone who needs to automate data collection from Gmail: https://medium.com/@cyb_detective/substack-locked-my-account-9880b56f5ab0
+
+FilePhish. Free online query builder for searching sensitive data files on a target domain in different search engines: https://greylensresearch.github.io/filephish/
+
+Crime Mapper. Cyber crime mapping  tool. Import IOCs, data enrichment  from API (Shodan, InternetDB, Google DNS), import and export to JSON. Self-hosted (https://github.com/mr-r3b00t/crime-mapper) or online demo (https://mr-r3b00t.github.io/crime-mapper/)
 
 ----
 
