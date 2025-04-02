@@ -58,7 +58,7 @@ Official implementation of [Video Seal](https://ai.meta.com/research/publicatio
 
 ```FakeEmail```. A Fake Email Server with a Web Front End: https://github.com/tomwardill/FakeEmail
 
-```IP-Tracer``` - A basic Termux IP address tracer tool that can fetch all publicly available information about an IP address: https://github.com/Achik-Ahmed/Ip-Tracer
+```IP-Tracer```. A basic Termux IP address tracer tool that can fetch all publicly available information about an IP address: https://github.com/Achik-Ahmed/Ip-Tracer
 
 ```White IP-Tracer```. Just a simple light weight tool for simple ip information gathering: https://github.com/whxitte/white-IpTracer
 
