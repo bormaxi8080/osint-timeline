@@ -83,6 +83,8 @@ DEEP FACE UI. Self-hosted tool for analysing and comparing face photos. Does not
 
 File Systam Spec. A specification that python filesystems should adhere to: https://github.com/fsspec/filesystem_spec
 
+Data Engineer Handbook. This is a repo with links to everything you'd ever want to learn about data engineering: https://github.com/DataExpert-io/data-engineer-handbook
+
 FastAPI Guard. A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats: https://github.com/rennf93/fastapi-guard
 
 Machbase is a blazing fast time-series database designed specifically for IoT applications and implemented in C. `machbase-neo` is an IoT Database Server that embeds the Machbase engine and offers essential and convenient features for building IoT platforms, including MQTT and HTTP APIs. It is highly versatile and can be installed on a wide range of machines, from Raspberry Pi devices to high-performance servers: https://github.com/machbase/neo-server/?tab=readme-ov-file
