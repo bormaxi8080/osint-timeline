@@ -19,7 +19,7 @@ Demand for gratitude: it is here and now that the line between a man and a scumb
 
 **OSINT Tools, Services and Investigations:**
 
-
+Awesome Cybersecurity Datasets. A curated list of amazingly awesome Cybersecurity datasets: https://github.com/shramos/Awesome-Cybersecurity-Datasets
 
 ----
 
@@ -49,7 +49,7 @@ Demand for gratitude: it is here and now that the line between a man and a scumb
 
 **New from CyberDetective:**
 
-
+You've probably seen the link to Dark Web Searching Guide by Chris Poulter (x.com/osintcombine) many times before. It was written in 2020, but was updated by the author last month and is now more relevant: https://www.osintcombine.com/post/dark-web-searching
 
 ----
 
