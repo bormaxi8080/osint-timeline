@@ -13,13 +13,25 @@ Demand for gratitude: it is here and now that the line between a man and a scumb
 
 ----
 
+Source code for Hacker101.com - a free online web and mobile security class: https://github.com/Hacker0x01/hacker101
 
+Awesome Cybersecurity Datasets. A curated list of amazingly awesome Cybersecurity datasets: https://github.com/shramos/Awesome-Cybersecurity-Datasets
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-Awesome Cybersecurity Datasets. A curated list of amazingly awesome Cybersecurity datasets: https://github.com/shramos/Awesome-Cybersecurity-Datasets
+CHINA OSINT. Companies search, social networks, search engines, phone number search, ID search and more: https://start.me/p/gGvP1p/chinese-osint
+
+PEOPLE INVESTIGATIONS. Email adresses search, phone number search, data breach search, court records search, criminal records search and more: https://start.me/p/GEKMz7/poi-socmint
+
+Telegram Post Downloader. Python tool to download posts from multiple telegram feeds (you can set a range of publish dates) and analyse them using LLM: https://github.com/Ironship/TelegramOSINTPolo
+
+Do not use important tg accounts to obtain API keys (risk of blocking).
+
+MineSearch. Program designed for search and kill silent miners: https://github.com/BlendLog/MinerSearch
+
+Sickle is a tool I originally developed to help me be more effective, in both developing and understanding shellcode. However, throughout the course of its development and usage It has evolved into a payload development framework. Although current modules are mostly aimed towards assembly, this tool is not limited to shellcode: https://github.com/wetw0rk/Sickle
 
 ----
 
