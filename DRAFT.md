@@ -33,6 +33,10 @@ MineSearch. Program designed for search and kill silent miners: https://github.c
 
 Sickle is a tool I originally developed to help me be more effective, in both developing and understanding shellcode. However, throughout the course of its development and usage It has evolved into a payload development framework. Although current modules are mostly aimed towards assembly, this tool is not limited to shellcode: https://github.com/wetw0rk/Sickle
 
+Orion is a TCP/IP Forensics Tool, written in C, capable of detecting malicious processes / connections on windows hosts by using the VirusTotal API: https://github.com/B0lg0r0v/Orion
+
+CTFPacker. Cross platform (Linux / Windows) shellcode packer for CTFs and pentest / red team exams aiming for AV evasion: https://github.com/B0lg0r0v/CTFPacker
+
 ----
 
 **Universal Search & AI:**
