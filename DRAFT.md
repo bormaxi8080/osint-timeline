@@ -19,15 +19,21 @@ Awesome Cybersecurity Datasets. A curated list of amazingly awesome Cybersecurit
 
 ----
 
+Telegram Post Downloader. Python tool to download posts from multiple telegram feeds (you can set a range of publish dates) and analyse them using LLM: https://github.com/Ironship/TelegramOSINTPolo
+
+Telegram Files. A self-hosted Telegram file downloader for continuous, stable, and unattended downloads: https://github.com/jarvis2f/telegram-files
+
+Do not use important tg accounts to obtain API keys (risk of blocking).
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 CHINA OSINT. Companies search, social networks, search engines, phone number search, ID search and more: https://start.me/p/gGvP1p/chinese-osint
 
 PEOPLE INVESTIGATIONS. Email adresses search, phone number search, data breach search, court records search, criminal records search and more: https://start.me/p/GEKMz7/poi-socmint
 
-Telegram Post Downloader. Python tool to download posts from multiple telegram feeds (you can set a range of publish dates) and analyse them using LLM: https://github.com/Ironship/TelegramOSINTPolo
-
-Do not use important tg accounts to obtain API keys (risk of blocking).
+Lightpanda: the headless browser designed for AI and automation: https://github.com/lightpanda-io/browser
 
 MineSearch. Program designed for search and kill silent miners: https://github.com/BlendLog/MinerSearch
 
@@ -41,25 +47,27 @@ CTFPacker. Cross platform (Linux / Windows) shellcode packer for CTFs and pentes
 
 **Universal Search & AI:**
 
+Awesome list of Search Engines for Cybersecurity Researchers: https://github.com/onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers
 
+Roop. This software is designed to contribute positively to the AI-generated media industry, assisting artists with tasks like character animation and models for clothing: https://github.com/s0md3v/roop
 
 ---
 
 **Software Development & APIs:**
 
-
+PgDog. Horizontal scaling for PostgreSQL with automatic sharding: https://github.com/pgdogdev/pgdog
 
 ----
 
 **Linux & DevOps:**
 
-
+**Reaver** implements a **brute force attack** against **Wifi Protected Setup** (WPS) registrar **PINs** in order to recover **WPA/WPA2 passphrases**, as described in [Brute forcing Wi-Fi Protected Setup When poor design meets poor implementation.](http://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf) by Stefan Viehböck: https://github.com/t6x/reaver-wps-fork-t6x
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZeroSub-GHz. Sub-GHz Files for the Flipper Zero: https://github.com/MuddledBox/FlipperZeroSub-GHz
 
 ----
 
@@ -71,7 +79,7 @@ You've probably seen the link to Dark Web Searching Guide by Chris Poulter (x.co
 
 **New from GitHub Community:**
 
-
+Magika is a novel AI-powered file type detection tool that relies on the recent advance of deep learning to provide accurate detection. Under the hood, Magika employs a custom, highly optimized model that only weighs about a few MBs, and enables precise file identification within milliseconds, even when running on a single CPU. Magika has been trained and evaluated on a dataset of ~100M samples across 200+ content types (covering both binary and textual file formats), and it achieves an average ~99% accuracy on our test set: https://github.com/google/magika
 
 ----
 ### bormaxi8080 OSINT timeline:
