@@ -33,7 +33,9 @@ CHINA OSINT. Companies search, social networks, search engines, phone number sea
 
 PEOPLE INVESTIGATIONS. Email adresses search, phone number search, data breach search, court records search, criminal records search and more: https://start.me/p/GEKMz7/poi-socmint
 
-Lightpanda: the headless browser designed for AI and automation: https://github.com/lightpanda-io/browser
+Lightpanda. The headless browser designed for AI and automation: https://github.com/lightpanda-io/browser
+
+Ghoulbond. Open Source System Utility , Scanner and OSINT tool: https://github.com/hitesh22rana/ghoulbond
 
 MineSearch. Program designed for search and kill silent miners: https://github.com/BlendLog/MinerSearch
 
@@ -74,6 +76,10 @@ FlipperZeroSub-GHz. Sub-GHz Files for the Flipper Zero: https://github.com/Muddl
 ----
 
 **New from CyberDetective:**
+
+Library of Leaks. Search by keyword (full name, email, company) in leaked documents, emails, tables, images and other files. 29M+ public entities: https://search.libraryofleaks.org/
+
+Marginaila Search. Open source search engine. No ads, no AI. "Indexing the small, old and weird web"(c) Search blogs, forums, plain text sites and more: https://marginalia-search.com
 
 You've probably seen the link to Dark Web Searching Guide by Chris Poulter (x.com/osintcombine) many times before. It was written in 2020, but was updated by the author last month and is now more relevant: https://www.osintcombine.com/post/dark-web-searching
 
