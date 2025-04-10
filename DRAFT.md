@@ -10,7 +10,7 @@ Spring and drops.
 
 ----
 
-
+OSINT Resources/Tools by Country V 2.0. This page lists tools and websites for **Open Source Intelligence (OSINT)** - gathering information from publicly available sources: https://digitaldigging.org/osint/
 
 ----
 
@@ -34,19 +34,19 @@ Spring and drops.
 
 **Linux & DevOps:**
 
-
+Deckhouse Prom++ is a high-performance fork of Prometheus, designed to significantly reduce memory consumption: https://github.com/deckhouse/prompp/
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+A Collection of Over 60 Scripts - updated specifically for the BadUSB function on the FlipperZero: https://github.com/beigeworm/BadUSB-Files-For-FlipperZero
 
 ----
 
 **New from CyberDetective:**
 
-
+UNCOVER. Go tool to automate IP address search in different search engines: Shodan, Netlas, Fofa, Censys, Quake, Hunter, Zoomeye, Publicwww, Criminalip, Hunterhow, Google, Odin, Binaryedge. GitHub: https://github.com/projectdiscovery/uncover
 
 ----
 
