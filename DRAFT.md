@@ -12,13 +12,23 @@ Spring and drops.
 
 OSINT Resources/Tools by Country V 2.0. This page lists tools and websites for **Open Source Intelligence (OSINT)** - gathering information from publicly available sources: https://digitaldigging.org/osint/
 
+Crypto OSINT. How to Guides, cryptocurrency info search, wallet explorers, decentralized ecosystems and more: https://start.me/p/eppylY/finint-cryptocurrency
+
+Business Entity Search. List by CyberSecStu. Charities & non-profit search, company information global sources, employer reviews: https://start.me/p/1kxyw9/v3nari-bookmarks
+
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+fbsh. An attempt to expose Facebook to the commandline. So far the only things you can do are to read your profile, newsfeed, and post a status update: https://github.com/stephentu/fbsh
+
 Multi Checkers (Hma/Hulu/Spotify/Call of duty/Instagram/smtp2go/VyprVpn) in One Tool Named FCommunity: https://github.com/Aron-Tn/FCommunity
 
 LinkdTime is a Timeline generator for Linkedin it can extract the exact date and time on a single post/comments or activity or generate a Timeline about a list of post/comments or activity: https://github.com/Lucksi/LinkdTime
+
+FileHunt. Search query builder for finding sensitive files on Google, DuckDuckGo, Bing, Yandex and Baidu. 
+Online tool: https://filehunt.3kh0.net/
+Github repo with source code: 
 
 ----
 
@@ -35,6 +45,8 @@ LinkdTime is a Timeline generator for Linkedin it can extract the exact date and
 ----
 
 **Linux & DevOps:**
+
+Beszel. Lightweight server monitoring hub with historical data, docker stats, and alerts: https://github.com/henrygd/beszel
 
 Deckhouse Prom++ is a high-performance fork of Prometheus, designed to significantly reduce memory consumption: https://github.com/deckhouse/prompp/
 
