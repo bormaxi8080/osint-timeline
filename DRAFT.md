@@ -34,7 +34,7 @@ Github repo with source code:
 
 **Universal Search & AI:**
 
-
+Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites: https://github.com/AndyTheFactory/newspaper4k
 
 ---
 
@@ -66,7 +66,7 @@ UNCOVER. Go tool to automate IP address search in different search engines: Shod
 
 **New from GitHub Community:**
 
-
+Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration: https://github.com/ghostty-org/ghostty
 
 ----
 ### bormaxi8080 OSINT timeline:
