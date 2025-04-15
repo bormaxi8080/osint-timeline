@@ -40,6 +40,12 @@ WPSploit - Exploiting WordPress With Metasploit. This repository is designed for
 
 **Universal Search & AI:**
 
+A.I. Start Pages - AI Tools and Resources: 
+
+https://start.me/p/GEgppm/ai-tools-and-resources
+
+https://start.me/p/xbe5xP/a-i-tools
+
 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites: https://github.com/AndyTheFactory/newspaper4k
 
 Magicam. AI double for video calls. It can replace face and voice in real time. Works on many platforms: https://magicam.ai/
