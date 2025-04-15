@@ -22,19 +22,27 @@ Business Entity Search. List by CyberSecStu. Charities & non-profit search, comp
 
 fbsh. An attempt to expose Facebook to the commandline. So far the only things you can do are to read your profile, newsfeed, and post a status update: https://github.com/stephentu/fbsh
 
-Multi Checkers (Hma/Hulu/Spotify/Call of duty/Instagram/smtp2go/VyprVpn) in One Tool Named FCommunity: https://github.com/Aron-Tn/FCommunity
-
 LinkdTime is a Timeline generator for Linkedin it can extract the exact date and time on a single post/comments or activity or generate a Timeline about a list of post/comments or activity: https://github.com/Lucksi/LinkdTime
+
+self.so. LinkedIn to Website in one click. Turn your resume/LinkedIn into a professional website: https://www.self.so/
+
+Multi Checkers (Hma/Hulu/Spotify/Call of duty/Instagram/smtp2go/VyprVpn) in One Tool Named FCommunity: https://github.com/Aron-Tn/FCommunity
 
 FileHunt. Search query builder for finding sensitive files on Google, DuckDuckGo, Bing, Yandex and Baidu. 
 Online tool: https://filehunt.3kh0.net/
-Github repo with source code: 
+Github repo with source code: https://github.com/3kh0/filehuntv
+
+jshunter is a command-line tool designed for analyzing JavaScript files and extracting endpoints. This tool specializes in identifying sensitive data, such as API endpoints and potential security vulnerabilities, making it an essential resource for and bug bounty hunters and security researchers: https://github.com/cc1a2b/jshunter
+
+WPSploit - Exploiting WordPress With Metasploit. This repository is designed for creating and/or porting of specific exploits for WordPress using metasploit as exploitation tool: https://github.com/espreto/wpsploit
 
 ----
 
 **Universal Search & AI:**
 
 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites: https://github.com/AndyTheFactory/newspaper4k
+
+Magicam. AI double for video calls. It can replace face and voice in real time. Works on many platforms: https://magicam.ai/
 
 ---
 
