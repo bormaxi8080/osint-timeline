@@ -34,6 +34,8 @@ Github repo with source code: https://github.com/3kh0/filehuntv
 
 jshunter is a command-line tool designed for analyzing JavaScript files and extracting endpoints. This tool specializes in identifying sensitive data, such as API endpoints and potential security vulnerabilities, making it an essential resource for and bug bounty hunters and security researchers: https://github.com/cc1a2b/jshunter
 
+Scanbtforinfo. Scan Bluetooth's Info Around You: https://github.com/ming-hermawan/scanbtforinfo
+
 WPSploit - Exploiting WordPress With Metasploit. This repository is designed for creating and/or porting of specific exploits for WordPress using metasploit as exploitation tool: https://github.com/espreto/wpsploit
 
 ----
