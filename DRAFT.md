@@ -26,6 +26,8 @@ LinkdTime is a Timeline generator for Linkedin it can extract the exact date and
 
 self.so. LinkedIn to Website in one click. Turn your resume/LinkedIn into a professional website: https://www.self.so/
 
+URX. Extracts URLs from OSINT Archives for Security Insights: https://github.com/hahwul/urx
+
 Multi Checkers (Hma/Hulu/Spotify/Call of duty/Instagram/smtp2go/VyprVpn) in One Tool Named FCommunity: https://github.com/Aron-Tn/FCommunity
 
 FileHunt. Search query builder for finding sensitive files on Google, DuckDuckGo, Bing, Yandex and Baidu. 
@@ -56,7 +58,7 @@ Magicam. AI double for video calls. It can replace face and voice in real time. 
 
 **Software Development & APIs:**
 
-
+Pex. A tool for generating .pex (Python EXecutable) files, lock files and venvs: https://github.com/pex-tool/pex
 
 ----
 
