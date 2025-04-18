@@ -37,7 +37,7 @@ Spring and drops.
 
 **Flipper Zero & Other Devices:**
 
-
+Flipper Zero Embedded Toolchain: https://github.com/flipperdevices/flipperzero-toolchain
 
 ----
 
@@ -49,7 +49,7 @@ Spring and drops.
 
 **New from GitHub Community:**
 
-
+Same. Build fullstack web apps by prompting: https://same.new/
 
 ----
 ### bormaxi8080 OSINT timeline:
