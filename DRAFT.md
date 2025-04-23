@@ -4,14 +4,9 @@ Five in the morning. Predawn.
 
 The world is running out of mackerel.
 
-
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2600: https://github.com/bormaxi8080/osint-repos-list
-
-----
-
-OSINT Techniques for Sensitive Documents That Have Escaped Into The Clear Web: https://christina-lekati.medium.com/osint-techniques-for-sensitive-documents-that-have-escaped-into-the-clear-web-6659f29e6010
 
 ----
 
