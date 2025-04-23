@@ -75,7 +75,7 @@ GrayHat WarFare Public Buckets Search online tool: https://buckets.grayhatwarfar
 
 ```Tools to check URL reputation```. Useful for phishing and malware researchers, as well as anyone who just wants to check a link before clicking on it: https://start.me/p/wMrA5z/cyber-threat-intelligence
 
-```DIGITAL NETWORK INTELLIGENCE```. List by [](https://www.linkedin.com/in/ACoAAAi7ngoBDPzkzlWOEumlq4a92tlG1ZJPj6A)[Bohdan Taranenko](https://www.linkedin.com/in/bohdan-taranenko-a3609741/) redirects & backlinks, IP/IOT search engines, user agents analyze, attack maps, network scanners and more: https://start.me/p/on469m/digital-network-intelligence-dnint
+```DIGITAL NETWORK INTELLIGENCE```. List by [Bohdan Taranenko](https://www.linkedin.com/in/bohdan-taranenko-a3609741/) redirects & backlinks, IP/IOT search engines, user agents analyze, attack maps, network scanners and more: https://start.me/p/on469m/digital-network-intelligence-dnint
 
 ----
 
