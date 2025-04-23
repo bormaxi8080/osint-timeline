@@ -1,4 +1,10 @@
 
+Five in the morning. Predawn.
+
+
+The world is running out of mackerel.
+
+
 Spring and drops.
 
 ----
