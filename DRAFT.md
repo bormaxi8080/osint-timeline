@@ -70,7 +70,7 @@ Flipper Zero Embedded Toolchain: https://github.com/flipperdevices/flipperzero-t
 
 **New from CyberDetective:**
 
-
+Google Ads Transparency. Enter a domain or business name to see what ads it has on Google Maps, YouTube, Google Play, Google Shopping and Google Search in different countries: https://adstransparency.google.com
 
 ----
 
