@@ -7,13 +7,12 @@ Spring and drops.
 
 ----
 
-Public Buckets Search  
+Public Buckets Search
   
 Amazon Web Services, Digital Ocean Spaces, Google Cloud Platform, Alibaba Cloud, Azure Cloud Storage contain a huge number of publicly available files. For example, by surname, first name or nickname you can find photos of people there.  
   
 You can also search pdf, office documents, database dumps and more by full name, company name or domain.  
-  
-  
+
 OsintSh Public Buckets Search online tool:  https://osint.sh/buckets/  
 
 GrayHat WarFare Public Buckets Search online tool: https://buckets.grayhatwarfare.com/
@@ -24,11 +23,7 @@ GrayHat WarFare Public Buckets Search online tool: https://buckets.grayhatwarfar
 
 NORDIC COUNTRIES OSINT. Tools and resources for Norway, Sweden, Denmark and Finland: https://start.me/p/Nxrb27/20-nordic-countries
 
-IMAGE SEARCH TOOLS. List of tools for image search and analysis by jlitz88: https://start.me/p/5v4g6n/search
-
 PANO - Advanced OSINT recon investigation platform combining graphical visualization, time series analysis and AI assistance to uncover hidden connections in data: https://github.com/ALW1EZ/PANO/
-
-Tools to check URL reputation. Useful for phishing and malware researchers, as well as anyone who just wants to check a link before clicking on it: https://start.me/p/wMrA5z/cyber-threat-intelligence
 
 Web Archiving/Mirroring Tools. A list of tools and services for archiving and creating local copies of websites, which can be made simply for the purpose of saving information or for the purpose of automatically analysing web pages: https://start.me/p/m60j2v/digital-forensics
 
@@ -40,9 +35,15 @@ Stolen Property Intelligence. Vehicles, bots, firearms, antiques & art, property
 
 Hacker Laws. Laws, Theories, Principles and Patterns for developers and technologists: https://github.com/dwmkerr/hacker-laws
 
+Mellisa: Web Parameter Crawling Tool. This Python script scans web pages to extract potential URL parameters, form fields, and query strings that could be vulnerable to SQL injection attacks. It automates reconnaissance by crawling target websites, identifying input fields, and logging discovered parameters for security analysis and penetration testing: https://github.com/yel1337/mellisa
+
 ----
 
 **Universal Search & AI:**
+
+Search Whisperer. Henk Van Ess has released an alpha version of Search Whisperer. Just enter keywords, get "Smart search strategies" and "Professional-level search strategies powered by Claude 3.5 Sonnet": https://searchwhisperer.ai/
+
+IMAGE SEARCH TOOLS. List of tools for image search and analysis by jlitz88: https://start.me/p/5v4g6n/search
 
 Same. Build fullstack web apps by prompting: https://same.new/
 
@@ -58,7 +59,7 @@ AIOGrAPI. Asynchronous Python library for Instagram Private API 2025: https://gi
 
 **Linux & DevOps:**
 
-
+Tools to check URL reputation. Useful for phishing and malware researchers, as well as anyone who just wants to check a link before clicking on it: https://start.me/p/wMrA5z/cyber-threat-intelligence
 
 ----
 
