@@ -25,23 +25,35 @@ GrayHat WarFare Public Buckets Search online tool: https://buckets.grayhatwarfar
 
 ----
 
+OSINT Techniques for Sensitive Documents That Have Escaped Into The Clear Web: https://christina-lekati.medium.com/osint-techniques-for-sensitive-documents-that-have-escaped-into-the-clear-web-6659f29e6010
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 NORDIC COUNTRIES OSINT. Tools and resources for Norway, Sweden, Denmark and Finland: https://start.me/p/Nxrb27/20-nordic-countries
 
 PANO - Advanced OSINT recon investigation platform combining graphical visualization, time series analysis and AI assistance to uncover hidden connections in data: https://github.com/ALW1EZ/PANO/
 
+NAMINT. A free online tool for finding information by full name. It will generate possible login variants based on first name last name + email variants, generate quick links to find them on Google and other search engines, download profile avatars by email from Gravatar API: https://seintpl.github.io/NAMINT/
+
+Open Payments Data. Search for physicians, physician assistants, advanced practice nurses, and teaching hospitals receiving payments from drug and medical device companies. Huge amounts of data (over 9,000 results for the surname Smith alone) for various countries - UK, India, Germany, Turkey and dozens more. Full names, addresses and statistics of payments received for each person can be found: https://openpaymentsdata.cms.gov/
+
 Web Archiving/Mirroring Tools. A list of tools and services for archiving and creating local copies of websites, which can be made simply for the purpose of saving information or for the purpose of automatically analysing web pages: https://start.me/p/m60j2v/digital-forensics
 
 Human Trafficking Investigations. A list of useful resources for those involved in human trafficking investigations - Tools, stats, reports, news, indicators and more: https://start.me/p/288PMp/human-trafficking
 
-Awesome Security Operation Center Analyst. Books, Malware Analysis, Practice Labs, Phishing Analysis, Tools for Investigation, Network Log Sources and more: https://github.com/LetsDefend/awesome-soc-analyst
-
 Stolen Property Intelligence. Vehicles, bots, firearms, antiques & art, property: https://start.me/p/QRoEAO/stolen-property-intelligence
 
-Hacker Laws. Laws, Theories, Principles and Patterns for developers and technologists: https://github.com/dwmkerr/hacker-laws
+Live streaming and webcam resources. List by Dean Da Costa: https://start.me/p/9EaakR/sa-osint-3
 
 Mellisa: Web Parameter Crawling Tool. This Python script scans web pages to extract potential URL parameters, form fields, and query strings that could be vulnerable to SQL injection attacks. It automates reconnaissance by crawling target websites, identifying input fields, and logging discovered parameters for security analysis and penetration testing: https://github.com/yel1337/mellisa
+
+----
+
+Awesome Security Operation Center Analyst. Books, Malware Analysis, Practice Labs, Phishing Analysis, Tools for Investigation, Network Log Sources and more: https://github.com/LetsDefend/awesome-soc-analyst
+
+Hacker Laws. Laws, Theories, Principles and Patterns for developers and technologists: https://github.com/dwmkerr/hacker-laws
 
 ----
 
@@ -66,6 +78,8 @@ AIOGrAPI. Asynchronous Python library for Instagram Private API 2025: https://gi
 **Linux & DevOps:**
 
 Tools to check URL reputation. Useful for phishing and malware researchers, as well as anyone who just wants to check a link before clicking on it: https://start.me/p/wMrA5z/cyber-threat-intelligence
+
+DIGITAL NETWORK INTELLIGENCE. List by [](https://www.linkedin.com/in/ACoAAAi7ngoBDPzkzlWOEumlq4a92tlG1ZJPj6A)[Bohdan Taranenko](https://www.linkedin.com/in/bohdan-taranenko-a3609741/) redirects & backlinks, IP/IOT search engines, user agents analyze, attack maps, network scanners and more: https://start.me/p/on469m/digital-network-intelligence-dnint
 
 ----
 
