@@ -14,6 +14,12 @@ The world is running out of mackerel.
 
 A list of OSINT resources that may be useful to you when conducting investigations related to France: https://github.com/Aegyr21/OSINT-Tools-France/
 
+Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs: 
+
+https://github.com/Abdulbluebird/alfred
+
+https://github.com/ParrotCoder1/alfredtest
+
 ----
 
 **Universal Search & AI:**
@@ -30,13 +36,15 @@ A list of OSINT resources that may be useful to you when conducting investigatio
 
 **Linux & DevOps:**
 
+Pixie. Instant Kubernetes-Native Application Observability: https://github.com/pixie-io/pixie?tab=readme-ov-file
 
+Simon. Minimal, web-based system monitor with alerts and Docker insights—all bundled into a single binary: https://github.com/alibahmanyar/simon
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+Official ufbt Action wrapper for building Flipper Zero applications: https://github.com/flipperdevices/flipperzero-ufbt-action
 
 ----
 
