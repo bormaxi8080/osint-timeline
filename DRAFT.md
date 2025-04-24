@@ -26,7 +26,7 @@ https://github.com/ParrotCoder1/alfredtest
 
 **Universal Search & AI:**
 
-
+Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis: https://github.com/taranis-ai/taranis-ai
 
 ---
 
