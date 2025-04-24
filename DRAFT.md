@@ -14,6 +14,8 @@ The world is running out of mackerel.
 
 A list of OSINT resources that may be useful to you when conducting investigations related to France: https://github.com/Aegyr21/OSINT-Tools-France/
 
+Dshell is a network forensic analysis framework: https://github.com/USArmyResearchLab/Dshell
+
 Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs: 
 
 https://github.com/Abdulbluebird/alfred
