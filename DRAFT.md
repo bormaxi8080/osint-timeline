@@ -32,11 +32,13 @@ Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Arti
 
 **Software Development & APIs:**
 
-
+Python OSINT Notebook. Core Tools & Libraries, Installation & Configuration, Using OSINT Tools via CLI, Python Scripting with OSINT Libraries, Combining Tools in a Script, OSINT Data Integration and more: https://github.com/tegridydev/python-OSINT-notebook
 
 ----
 
 **Linux & DevOps:**
+
+tcping. Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go: https://github.com/pouriyajamshidi/tcping
 
 Pixie. Instant Kubernetes-Native Application Observability: https://github.com/pixie-io/pixie?tab=readme-ov-file
 
@@ -58,7 +60,7 @@ Official ufbt Action wrapper for building Flipper Zero applications: https://git
 
 **New from GitHub Community:**
 
-
+YouTubeGO is a high-performance video/audio downloader supporting major platforms like YouTube, Vimeo, Odysee, TikTok, SoundCloud, and Twitter. With MP3/MP4 support, smart queueing, batch tools, scheduling, and a fully offline cross-platform UI, YouTubeGO delivers a fast, secure and seamless downloading experience: https://github.com/Efeckc17/YoutubeGO
 
 ----
 ### bormaxi8080 OSINT timeline:
