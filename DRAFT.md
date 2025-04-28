@@ -14,6 +14,12 @@ The world is running out of mackerel.
 
 A list of OSINT resources that may be useful to you when conducting investigations related to France: https://github.com/Aegyr21/OSINT-Tools-France/
 
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to Estonia: https://github.com/paulpogoda/OSINT-Tools-Estonia/tree/main
+
+SilverTGOSINT is a Telegram OSINT tool that collects messages from target users in Telegram groups and tracks users who extract data from these groups. It aids in monitoring and analyzing user activities for investigative and intelligence purposes: https://github.com/silverxpymaster/silvertgosint
+
+img2table is a table identification and extraction Python Library for PDF and images, based on OpenCV image processing: https://github.com/xavctn/img2table
+
 Dshell is a network forensic analysis framework: https://github.com/USArmyResearchLab/Dshell
 
 Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs: 
