@@ -50,6 +50,8 @@ Python OSINT Notebook. Core Tools & Libraries, Installation & Configuration, Usi
 
 tcping. Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go: https://github.com/pouriyajamshidi/tcping
 
+rtop is an interactive, remote system monitoring tool based on SSH: https://github.com/rapidloop/rtop
+
 Pixie. Instant Kubernetes-Native Application Observability: https://github.com/pixie-io/pixie?tab=readme-ov-file
 
 Simon. Minimal, web-based system monitor with alerts and Docker insights—all bundled into a single binary: https://github.com/alibahmanyar/simon
