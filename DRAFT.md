@@ -34,6 +34,10 @@ https://github.com/ParrotCoder1/alfredtest
 
 Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis: https://github.com/taranis-ai/taranis-ai
 
+[MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services. Awesome MCP Servers is biggest collection of MCP servers: https://github.com/punkpeye/awesome-mcp-servers
+
+OpenCV Face Recognition. Real-time face recognition project with OpenCV and Python: https://github.com/Mjrovai/OpenCV-Face-Recognition
+
 ---
 
 **Software Development & APIs:**
