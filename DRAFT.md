@@ -66,7 +66,7 @@ Official ufbt Action wrapper for building Flipper Zero applications: https://git
 
 **New from CyberDetective:**
 
-
+Ubersuggest. Tool for collecting information about organic traffic of a domain: most popular pages, backlinks, traffic estimation, keywords by traffic, similar websites. Free trial: https://neilpatel.com/ubersuggest/
 
 ----
 
