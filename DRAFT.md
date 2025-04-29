@@ -68,6 +68,8 @@ Official ufbt Action wrapper for building Flipper Zero applications: https://git
 
 Ubersuggest. Tool for collecting information about organic traffic of a domain: most popular pages, backlinks, traffic estimation, keywords by traffic, similar websites. Free trial: https://neilpatel.com/ubersuggest/
 
+OSINT Podcasts  StartMe page. BreadCrumbs by TraceLabs, Intelligence Matters by CBS news, OSINT with ShadowDragon, Layer8 Podcast, Digital Detectives, The World of Intelligence and more: https://start.me/p/vjAjjb/10-podcasts
+
 ----
 
 **New from GitHub Community:**
