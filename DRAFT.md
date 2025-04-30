@@ -9,7 +9,11 @@ The world is running out of mackerel.
 
 **OSINT Tools, Services and Investigations:**
 
+Criminal OSINT. List of tool for searching criminal, prison, missing persons, most wanted, terrorism, sanctions and other databases in different countries: https://start.me/p/lLzzg7/tomoko-discovery-osint
 
+Darknet search engines and directories: https://start.me/p/gyxDQM/darknet-deep-web
+
+Facebook JSON to RSS. Converts the JSON from Facebook's Graph API to RSS: https://github.com/khawkins98/facebook-json-to-rss
 
 ----
 
@@ -39,7 +43,7 @@ The world is running out of mackerel.
 
 **New from CyberDetective:**
 
-
+Accessing Hidden Profile Photos With Web Developer Tools. Clearly shows how viewing versions of a site for different devices can open up access to additional info: https://www.youtube.com/watch?v=KP-d5wzpn0M
 
 ----
 
