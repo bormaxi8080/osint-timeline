@@ -48,9 +48,15 @@ Python OSINT Notebook. Core Tools & Libraries, Installation & Configuration, Usi
 
 **Linux & DevOps:**
 
+Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity: https://github.com/safing/portmaster
+
 tcping. Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go: https://github.com/pouriyajamshidi/tcping
 
 rtop is an interactive, remote system monitoring tool based on SSH: https://github.com/rapidloop/rtop
+
+Supercronic is a crontab-compatible job runner, designed specifically to run in containers: https://github.com/aptible/supercronic
+
+Bashly. Bash command line framework and CLI generator: https://github.com/DannyBen/bashly
 
 Pixie. Instant Kubernetes-Native Application Observability: https://github.com/pixie-io/pixie?tab=readme-ov-file
 
