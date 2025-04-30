@@ -6,7 +6,7 @@ The world is running out of mackerel.
 
 ----
 
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2600: https://github.com/bormaxi8080/osint-repos-list
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2700: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
