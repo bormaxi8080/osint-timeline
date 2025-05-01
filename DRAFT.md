@@ -11,6 +11,8 @@ The world is running out of mackerel.
 
 Criminal OSINT. List of tool for searching criminal, prison, missing persons, most wanted, terrorism, sanctions and other databases in different countries: https://start.me/p/lLzzg7/tomoko-discovery-osint
 
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Democratic People's Republic of Korea (DPRK): https://github.com/paulpogoda/OSINT-Tools-North-Korea
+
 Darknet search engines and directories: https://start.me/p/gyxDQM/darknet-deep-web
 
 Facebook JSON to RSS. Converts the JSON from Facebook's Graph API to RSS: https://github.com/khawkins98/facebook-json-to-rss
