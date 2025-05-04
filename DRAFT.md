@@ -33,7 +33,7 @@ Facebook JSON to RSS. Converts the JSON from Facebook's Graph API to RSS: https:
 
 **Linux & DevOps:**
 
-
+doggo is a modern command-line DNS client (like _dig_) written in Golang. It outputs information in a neat concise manner and supports protocols like DoH, DoT, DoQ, and DNSCrypt as well: https://github.com/mr-karan/doggo
 
 ----
 
