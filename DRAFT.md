@@ -47,7 +47,7 @@ doggo is a modern command-line DNS client (like _dig_) written in Golang. It o
 
 **Flipper Zero & Other Devices:**
 
-
+Devboard for Flipper Zero based on ST-Link V3: https://github.com/flipperdevices/flipperzero-devboard-stlinkv3
 
 ----
 
@@ -59,7 +59,7 @@ Accessing Hidden Profile Photos With Web Developer Tools. Clearly shows how view
 
 **New from GitHub Community:**
 
-
+VTScanner. A comprehensive Python-based security tool for file scanning, malware detection, and analysis in an ever-evolving cyber landscape: https://github.com/samhaxr/VTScanner
 
 ----
 ### bormaxi8080 OSINT timeline:
