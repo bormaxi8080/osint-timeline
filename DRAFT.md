@@ -7,6 +7,10 @@ The world is running out of mackerel.
 
 ----
 
+Arrests.org (https://arrests.org). Free online tool to search for arrest data on USA people by first name, last name, and state. On the second page (with search results) you can do a search within the state WITHOUT a name (by offence type, age range, gender, arrest date).
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Criminal OSINT. List of tool for searching criminal, prison, missing persons, most wanted, terrorism, sanctions and other databases in different countries: https://start.me/p/lLzzg7/tomoko-discovery-osint
@@ -21,13 +25,17 @@ Facebook JSON to RSS. Converts the JSON from Facebook's Graph API to RSS: https:
 
 **Universal Search & AI:**
 
+PaSa - an advanced paper search agent powered by large language models. It can autonomously make a series of decisions, including invoking search tools, reading papers, and selecting relevant references, to ultimately obtain comprehensive and accurate results for complex scholarly queries: https://github.com/bytedance/pasa
 
+Dia. A TTS model capable of generating ultra-realistic dialogue in one pass: https://github.com/nari-labs/dia
+
+CoMotion. Concurrent Multi-person 3D Motion: https://github.com/apple/ml-comotion
 
 ---
 
 **Software Development & APIs:**
 
-
+SQLGlot is a no-dependency SQL parser, transpiler, optimizer, and engine. It can be used to format SQL or translate between [24 different dialects](https://github.com/tobymao/sqlglot/blob/main/sqlglot/dialects/__init__.py) like [DuckDB](https://duckdb.org/), [Presto](https://prestodb.io/) / [Trino](https://trino.io/), [Spark](https://spark.apache.org/) / [Databricks](https://www.databricks.com/), [Snowflake](https://www.snowflake.com/en/), and [BigQuery](https://cloud.google.com/bigquery/). It aims to read a wide variety of SQL inputs and output syntactically and semantically correct SQL in the targeted dialects: https://github.com/tobymao/sqlglot?tab=readme-ov-file
 
 ----
 
