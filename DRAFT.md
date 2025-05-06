@@ -1,4 +1,13 @@
 
+Plantain is a thing from childhood.
+
+
+on the other side of the rain
+five in the morning pre-dawn
+you will be a little old lady
+i will be a bone-dry old man
+
+
 The world is running out of mackerel.
 
 ----
@@ -41,7 +50,7 @@ SQLGlot is a no-dependency SQL parser, transpiler, optimizer, and engine. It can
 
 **Linux & DevOps:**
 
-doggo is a modern command-line DNS client (like _dig_) written in Golang. It outputs information in a neat concise manner and supports protocols like DoH, DoT, DoQ, and DNSCrypt as well: https://github.com/mr-karan/doggo
+doggo is a modern command-line DNS client (like _dig_) written in GoLang. It outputs information in a neat concise manner and supports protocols like DoH, DoT, DoQ, and DNSCrypt as well: https://github.com/mr-karan/doggo
 
 ----
 
