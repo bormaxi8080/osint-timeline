@@ -58,6 +58,8 @@ doggo is a modern command-line DNS client (like _dig_) written in GoLang. It o
 
 Devboard for Flipper Zero based on ST-Link V3: https://github.com/flipperdevices/flipperzero-devboard-stlinkv3
 
+A list of projects that were or will be featured in Weekly Robotics newsletter: https://github.com/msadowski/awesome-weekly-robotics
+
 ----
 
 **New from CyberDetective:**
