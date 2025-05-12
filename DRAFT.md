@@ -19,13 +19,19 @@ i will be a bone-dry old man
 
 **OSINT Tools, Services and Investigations:**
 
+Camoufox is the most modern, effective & future-proof open source solution for avoiding bot detection and intelligent fingerprint rotation. It outperforms most commercial anti-bot browsers: https://github.com/daijro/camoufox
 
+ScrapFly is an enterprise-grade solution providing Web Scraping API that aims to simplify the scraping process by managing everything: real browser rendering, rotating proxies, and fingerprints (TLS, HTTP, browser) to bypass all major anti-bots. Scrapfly also unlocks the observability by providing an analytical dashboard and measuring the success rate/block rate in detail: https://scrapfly.io/
+
+Hrequests (human requests) is a simple, configurable, feature-rich, replacement for the Python requests library: https://github.com/daijro/hrequests
+
+BrowserForge is a browser header and fingerprint generator that mimics the frequency of different browsers, operating systems, and devices found in the wild: https://github.com/daijro/browserforge
 
 ----
 
 **Universal Search & AI:**
 
-
+Bark is a transformer-based text-to-audio model created by [Suno](https://suno.ai/). Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying. To support the research community, we are providing access to pretrained model checkpoints, which are ready for inference and available for commercial use: https://github.com/suno-ai/bark
 
 ---
 
@@ -37,7 +43,7 @@ i will be a bone-dry old man
 
 **Linux & DevOps:**
 
-
+HazeTunnel. Vindicate non-organic web traffic via MITM proxy: https://github.com/daijro/hazetunnel
 
 ----
 
@@ -55,7 +61,7 @@ i will be a bone-dry old man
 
 **New from GitHub Community:**
 
-
+WOWY is a modern, full-featured e-commerce platform built with Django 4.x, designed to provide a seamless shopping experience for both customers and administrators. This comprehensive solution offers robust product management with multi-image support, real-time cart operations, and wishlist functionality, alongside a powerful admin dashboard: https://github.com/manjurulhoque/wowy
 
 ----
 ### bormaxi8080 OSINT timeline:
