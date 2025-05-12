@@ -13,11 +13,13 @@ i will be a bone-dry old man
 
 ----
 
-
+Russia is undertaking a major factory expansion in remote Siberia to ramp up production of a powerful explosive used in artillery shells and other munitions in the war in Ukraine, a Reuters review of publicly available state documents and satellite imagery has found: https://www.reuters.com/investigations/russia-building-major-new-explosives-facility-ukraine-war-drags-2025-05-08/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+StealthMole is an advanced artificial intelligence platform designed to enhance cybersecurity through sophisticated dark web monitoring and threat intelligence. Its primary focus is on detecting, analyzing, and mitigating cyber threats by providing real-time surveillance of dark web activities: https://www.stealthmole.com/
 
 Camoufox is the most modern, effective & future-proof open source solution for avoiding bot detection and intelligent fingerprint rotation. It outperforms most commercial anti-bot browsers: https://github.com/daijro/camoufox
 
@@ -37,7 +39,9 @@ Bark is a transformer-based text-to-audio model created by [Suno](https://suno.
 
 **Software Development & APIs:**
 
+WOWY is a modern, full-featured e-commerce platform built with Django 4.x, designed to provide a seamless shopping experience for both customers and administrators. This comprehensive solution offers robust product management with multi-image support, real-time cart operations, and wishlist functionality, alongside a powerful admin dashboard: https://github.com/manjurulhoque/wowy
 
+Quick API Client. A library for creating fully typed declarative API clients quickly and easily: https://github.com/martinn/quickapiclient
 
 ----
 
@@ -49,7 +53,7 @@ HazeTunnel. Vindicate non-organic web traffic via MITM proxy: https://github.com
 
 **Flipper Zero & Other Devices:**
 
-
+Momentum Firmware. Feature-rich, stable and customizable Flipper Firmware: https://github.com/Next-Flip/Momentum-Firmware
 
 ----
 
@@ -61,7 +65,7 @@ HazeTunnel. Vindicate non-organic web traffic via MITM proxy: https://github.com
 
 **New from GitHub Community:**
 
-WOWY is a modern, full-featured e-commerce platform built with Django 4.x, designed to provide a seamless shopping experience for both customers and administrators. This comprehensive solution offers robust product management with multi-image support, real-time cart operations, and wishlist functionality, alongside a powerful admin dashboard: https://github.com/manjurulhoque/wowy
+NewsNow. Elegant reading of real-time and hottest news: https://github.com/ourongxing/newsnow
 
 ----
 ### bormaxi8080 OSINT timeline:
