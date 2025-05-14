@@ -33,9 +33,36 @@ Russia is undertaking a major factory expansion in remote Siberia to ramp up pro
 
 ----
 
+ResearchClinic Toolkit  
+  
+- Searching for information  
+- Social media research  
+- Finding people  
+- Archives - search the past  
+- Images, audio and video  
+- Business research  
+- Domain lookup & tech tools  
+- Government, charities & NGO's  
+- Specialist tools  
+- Telecoms research  
+- Maps, Geo and satellites  
+- News  
+- Security  
+- Verification  
+- Transport  
+- AML and KYC
+
+https://researchclinic.net/
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 StealthMole is an advanced artificial intelligence platform designed to enhance cybersecurity through sophisticated dark web monitoring and threat intelligence. Its primary focus is on detecting, analyzing, and mitigating cyber threats by providing real-time surveillance of dark web activities: https://www.stealthmole.com/
+
+URLHaus Database. A huge database of malicious URLs. Search by domain, url, md5 or sha256 hashes, filetype and status (online/offline): https://urlhaus.abuse.ch/browse/
+
+Facebook Ad Library: Explore active ads across Facebook platforms by keyword, advertiser, or topic. Essential for OSINT investigations into influence operations, brand activity, and political messaging: https://www.facebook.com/ads/library/?active_status=active&ad_type=political_and_issue_ads&country=KZ&is_targeted_country=false&media_type=all
 
 Camoufox is the most modern, effective & future-proof open source solution for avoiding bot detection and intelligent fingerprint rotation. It outperforms most commercial anti-bot browsers: https://github.com/daijro/camoufox
 
