@@ -45,19 +45,19 @@ JSDOM. A JavaScript implementation of various web standards, for use with Node.j
 
 **Linux & DevOps:**
 
-
+Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations: https://github.com/bluewave-labs/checkmate
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero Brute for of LRS Pager System: https://github.com/jimilinuxguy/flipperzero-lrs-pagers
 
 ----
 
 **New from CyberDetective:**
 
-
+SpaceSport Satellite Images Galleries. New high resolution satellite images of Earth's spaceports, powerful historic declassified spy satellite images (since 1960), high resolution aerial photos (since 1946): https://spacefromspace.com
 
 ----
 
