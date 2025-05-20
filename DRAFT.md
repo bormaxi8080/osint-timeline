@@ -39,6 +39,8 @@ StegCloak is a pure JavaScript steganography module designed in functional progr
 
 Browserless. Deploy headless browsers in Docker. Run on our cloud or bring your own: https://github.com/browserless/browserless
 
+No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun "no", or want to simulate being turned down in style: https://github.com/hotheadhacker/no-as-a-service
+
 JSDOM. A JavaScript implementation of various web standards, for use with Node.js: https://github.com/jsdom/jsdom
 
 ----
@@ -46,6 +48,8 @@ JSDOM. A JavaScript implementation of various web standards, for use with Node.j
 **Linux & DevOps:**
 
 Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations: https://github.com/bluewave-labs/checkmate
+
+ingress-nginx is an Ingress controller for Kubernetes using [NGINX](https://www.nginx.org/) as a reverse proxy and load balancer: https://github.com/kubernetes/ingress-nginx
 
 ----
 
