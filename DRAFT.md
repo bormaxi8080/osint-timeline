@@ -25,13 +25,21 @@ Yershalaim burned
 
 **OSINT Tools, Services and Investigations:**
 
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Belarus: https://github.com/paulpogoda/OSINT-Tools-Belarus
+
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to Brazil: https://github.com/bgmello/OSINT-Tools-Brazil/
+
+A list of OSINT resources and tools that may be useful when conducting investigations related to the Kingdom of Saudi Arabia: https://github.com/paulpogoda/OSINT-Tools-Saudi-Arabia
+
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to Syrian Arab Republic: https://github.com/paulpogoda/OSINT-Tools-Syria
+
 StegCloak is a pure JavaScript steganography module designed in functional programming style, to hide secrets inside text by compressing and encrypting the secret before cloaking it with special unicode invisible characters. It can be used to safely watermark strings, invisible scripts on webpages, texts on social media or for any other covert communication. Completely invisible! See how it works in-depth in this Medium [article](https://blog.bitsrc.io/how-to-hide-secrets-in-strings-modern-text-hiding-in-javascript-613a9faa5787) or watch our [demo](https://www.youtube.com/watch?v=RBDqZwcGvQk) to know what it does: https://github.com/KuroLabs/stegcloak
 
 ----
 
 **Universal Search & AI:**
 
-
+reTermAI. A terminal command recommender powered by AI and your own shell history: https://github.com/pie0902/reTermAI
 
 ---
 
@@ -51,6 +59,8 @@ Checkmate is an open-source, self-hosted tool designed to track and monitor serv
 
 ingress-nginx is an Ingress controller for Kubernetes using [NGINX](https://www.nginx.org/) as a reverse proxy and load balancer: https://github.com/kubernetes/ingress-nginx
 
+OCI2Git. A Rust application that converts container images (Docker, etc.) to Git repositories. Each container layer is represented as a Git commit, preserving the history and structure of the original image: https://github.com/Virviil/oci2git
+
 ----
 
 **Flipper Zero & Other Devices:**
@@ -63,11 +73,13 @@ FlipperZero Brute for of LRS Pager System: https://github.com/jimilinuxguy/flipp
 
 SpaceSport Satellite Images Galleries. New high resolution satellite images of Earth's spaceports, powerful historic declassified spy satellite images (since 1960), high resolution aerial photos (since 1946): https://spacefromspace.com
 
+A new online tool (from @osintambition) to search for information by email/username/phone number. Finds social media accounts, profile avatars, leaked accounts and generates a report with key information (ex. activity timeline) based on them: https://search.profiler.me
+
 ----
 
 **New from GitHub Community:**
 
-
+Snake Apple. Articles and tools related to research in the Apple environment (mainly macOS): https://github.com/Karmaz95/Snake_Apple
 
 ----
 ### bormaxi8080 OSINT timeline:
