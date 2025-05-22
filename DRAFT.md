@@ -1,9 +1,8 @@
 
-The melancholy of an ungrown apple
+The melancholy of an ungrown apple.
 
 
 Plantain is a thing from childhood.
-
 
 ----
 
@@ -13,7 +12,9 @@ Plantain is a thing from childhood.
 
 **OSINT Tools, Services and Investigations:**
 
+Machinae is a tool for collecting intelligence from public sites/feeds about various security-related pieces of data: IP addresses, domain names, URLs, email addresses, file hashes and SSL fingerprints: https://github.com/HurricaneLabs/machinae
 
+The **LaZagne project** is an open source application used to **retrieve lots of passwords** stored on a local computer. Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.). This tool has been developed for the purpose of finding these passwords for the most commonly-used software: https://github.com/AlessandroZ/LaZagne
 
 ----
 
@@ -37,19 +38,19 @@ Plantain is a thing from childhood.
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero Official Documentation Project: https://github.com/flipperdevices/flipperzero-documentation
 
 ----
 
 **New from CyberDetective:**
 
-
+FaceSeek. A tool for reverse face search by photo. Free functionality is limited (found images are partially blurred and only part of the URL is displayed): https://faceseek.online/
 
 ----
 
 **New from GitHub Community:**
 
-
+Telegram Join Captcha Bot. Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time: https://github.com/J-Rios/TLG_JoinCaptchaBot
 
 ----
 ### bormaxi8080 OSINT timeline:
