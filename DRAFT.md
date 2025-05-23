@@ -32,7 +32,7 @@ The **LaZagne project** is an open source application used to **retrieve lots
 
 **Linux & DevOps:**
 
-
+Syncthing is a **continuous file synchronization program**. It synchronizes files between two or more computers: https://github.com/syncthing/syncthing
 
 ----
 
@@ -44,7 +44,11 @@ FlipperZero Official Documentation Project: https://github.com/flipperdevices/fl
 
 **New from CyberDetective:**
 
+OsintPortal. Select the data you have (e.g. email, domain, cryptocurrency wallet, company name) and get a list of resources and a tool that allows you to find something by that type of entry point to investigate: https://osintportal.com/
+
 FaceSeek. A tool for reverse face search by photo. Free functionality is limited (found images are partially blurred and only part of the URL is displayed): https://faceseek.online/
+
+instaclip.app allows to download content from Instagram without account: videos, photos, reels, stories, IGTV (convenient when you need to view Instagram content found in Google search results, but don't want to authorize): https://instaclip.app
 
 ----
 
