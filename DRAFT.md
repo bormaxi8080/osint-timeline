@@ -16,17 +16,19 @@ Machinae is a tool for collecting intelligence from public sites/feeds about var
 
 The **LaZagne project** is an open source application used to **retrieve lots of passwords** stored on a local computer. Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.). This tool has been developed for the purpose of finding these passwords for the most commonly-used software: https://github.com/AlessandroZ/LaZagne
 
+PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books: https://github.com/oomol-lab/pdf-craft
+
 ----
 
 **Universal Search & AI:**
 
-
+Restore Photos. Use AI to restore old black and white photos: https://restorephotos.one/
 
 ---
 
 **Software Development & APIs:**
 
-
+Kreuzberg. A text extraction library supporting PDFs, images, office documents and more: https://github.com/Goldziher/kreuzberg
 
 ----
 
@@ -48,7 +50,11 @@ OsintPortal. Select the data you have (e.g. email, domain, cryptocurrency wallet
 
 FaceSeek. A tool for reverse face search by photo. Free functionality is limited (found images are partially blurred and only part of the URL is displayed): https://faceseek.online/
 
+LeakRadar. An online tool to search for data breaches where a domain or email has been found: https://leakradar.io
+
 instaclip.app allows to download content from Instagram without account: videos, photos, reels, stories, IGTV (convenient when you need to view Instagram content found in Google search results, but don't want to authorize): https://instaclip.app
+
+Search engine for KQL Queries. KQL (Kusto Query Language) is a query language that allows to extract meaningful insights from large datasets. Widely used in the cybersecurity (detecting Social Engineering Attacks, search devices with CVEs and more): https://www.kqlsearch.com/
 
 ----
 
