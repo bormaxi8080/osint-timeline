@@ -28,6 +28,8 @@ Restore Photos. Use AI to restore old black and white photos: https://restorepho
 
 **Software Development & APIs:**
 
+Saleor Core: the high performance, composable, headless commerce API: https://github.com/saleor/saleor
+
 Kreuzberg. A text extraction library supporting PDFs, images, office documents and more: https://github.com/Goldziher/kreuzberg
 
 ----
