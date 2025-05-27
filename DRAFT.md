@@ -22,6 +22,8 @@ PDF craft can convert PDF files into various other formats. This project will fo
 
 **Universal Search & AI:**
 
+Meeting Minutes. A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon): https://github.com/Zackriya-Solutions/meeting-minutes
+
 Restore Photos. Use AI to restore old black and white photos: https://restorephotos.one/
 
 ---
@@ -61,6 +63,8 @@ Search engine for KQL Queries. KQL (Kusto Query Language) is a query language th
 ----
 
 **New from GitHub Community:**
+
+Anx Reader. Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused: https://github.com/Anxcye/anx-reader
 
 Telegram Join Captcha Bot. Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time: https://github.com/J-Rios/TLG_JoinCaptchaBot
 
