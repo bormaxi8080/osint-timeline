@@ -10,7 +10,7 @@ The melancholy of an ungrown apple.
 
 **OSINT Tools, Services and Investigations:**
 
-
+WebScrapBook. A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X: https://github.com/danny0838/webscrapbook
 
 ----
 
@@ -40,7 +40,7 @@ The melancholy of an ungrown apple.
 
 **New from CyberDetective:**
 
-
+Essential OSINT tools for journalists investigating air pollution. Tracking real-time air pollution, identifying pollution sources, identifying the polluters, tracking air pollution over time: https://ijnet.org/en/story/essential-osint-tools-journalists-investigating-air-pollution
 
 ----
 
