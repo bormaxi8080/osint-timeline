@@ -14,7 +14,15 @@ Plantain is a thing from childhood.
 
 Machinae is a tool for collecting intelligence from public sites/feeds about various security-related pieces of data: IP addresses, domain names, URLs, email addresses, file hashes and SSL fingerprints: https://github.com/HurricaneLabs/machinae
 
-The **LaZagne project** is an open source application used to **retrieve lots of passwords** stored on a local computer. Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.). This tool has been developed for the purpose of finding these passwords for the most commonly-used software: https://github.com/AlessandroZ/LaZagne
+Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions: https://github.com/autoscrape-labs/pydoll
+
+GoLogin. Anti-detect browser for managing multiple accounts on a single device without the hassle of receiving blocked access or dealing with tedious transferring of passwords: https://gologin.com/
+
+REST API provides programmatic access to GoLogin App. Create a new browser profile, get a list of all browser profiles, add a browser profile and runnig: https://github.com/gologinapp/gologin
+
+The LaZagne project is an open source application used to retrieve lots of passwords stored on a local computer. Each software stores its passwords using different techniques (plaintext, APIs, custom algorithms, databases, etc.). This tool has been developed for the purpose of finding these passwords for the most commonly-used software: https://github.com/AlessandroZ/LaZagne
+
+Ternera EXIF Viewer. A browser extension to display EXIF data of images directly on web pages: https://github.com/ternera/exif-viewer
 
 PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books: https://github.com/oomol-lab/pdf-craft
 
@@ -32,13 +40,15 @@ Restore Photos. Use AI to restore old black and white photos: https://restorepho
 
 Saleor Core: the high performance, composable, headless commerce API: https://github.com/saleor/saleor
 
+Presenterm lets you create presentations in markdown format and run them from your terminal, with support for image and animated gifs, highly customizable themes, code highlighting, exporting presentations into PDF format, and plenty of other features: https://github.com/mfontanini/presenterm
+
 Kreuzberg. A text extraction library supporting PDFs, images, office documents and more: https://github.com/Goldziher/kreuzberg
 
 ----
 
 **Linux & DevOps:**
 
-Syncthing is a **continuous file synchronization program**. It synchronizes files between two or more computers: https://github.com/syncthing/syncthing
+Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers: https://github.com/syncthing/syncthing
 
 ----
 
