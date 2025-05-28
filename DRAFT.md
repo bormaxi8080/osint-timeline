@@ -2,6 +2,9 @@
 The melancholy of an ungrown apple.
 
 
+Unborn children are Adam's apples. And dead children have the status of supernovas.
+
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2700: https://github.com/bormaxi8080/osint-repos-list
