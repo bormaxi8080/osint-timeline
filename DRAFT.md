@@ -4,7 +4,6 @@ The melancholy of an ungrown apple.
 
 Unborn children are Adam's apples. And dead children have the status of supernovas.
 
-
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2700: https://github.com/bormaxi8080/osint-repos-list
@@ -19,7 +18,7 @@ WebScrapBook. A browser extension that captures web pages to local device or bac
 
 **Universal Search & AI:**
 
-
+Docling simplifies document processing, parsing diverse formats - including advanced PDF understanding - and providing seamless integrations with the gen AI ecosystem: https://github.com/docling-project/docling
 
 ---
 
@@ -37,7 +36,7 @@ WebScrapBook. A browser extension that captures web pages to local device or bac
 
 **Flipper Zero & Other Devices:**
 
-
+Segger Embedded Studio project for building & debugging Flipper Zero firmware: https://github.com/hedger/flipperzero-sesproject
 
 ----
 
