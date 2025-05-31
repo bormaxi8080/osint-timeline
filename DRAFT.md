@@ -12,6 +12,12 @@ Unborn children are Adam's apples. And dead children have the status of supernov
 
 **OSINT Tools, Services and Investigations:**
 
+Ubikron. You probably know Roelof Temmingh as the man who created Maltego 17 years ago, and who has been working on the Vortimo tool for the last few years. A few days ago he released Ubikron, a tool for tracking, tagging, and saving web investigations: https://www.ubikron.com/
+
+BountyOS. New Linux distro for different cybersecurity tasks: based on Debian 12, 75+ tools, simple installation (ISO file): https://bountyos.github.io/
+
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Iraq: https://github.com/paulpogoda/OSINT-Tools-Iraq
+
 WebScrapBook. A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X: https://github.com/danny0838/webscrapbook
 
 ----
@@ -30,7 +36,7 @@ Docling simplifies document processing, parsing diverse formats - including adva
 
 **Linux & DevOps:**
 
-
+Ubicloud. Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta: https://github.com/ubicloud/ubicloud
 
 ----
 
