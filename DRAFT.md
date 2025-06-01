@@ -18,6 +18,8 @@ BountyOS. New Linux distro for different cybersecurity tasks: based on Debian 12
 
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Iraq: https://github.com/paulpogoda/OSINT-Tools-Iraq
 
+Index. The SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web: https://github.com/lmnr-ai/index
+
 WebScrapBook. A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X: https://github.com/danny0838/webscrapbook
 
 ----
