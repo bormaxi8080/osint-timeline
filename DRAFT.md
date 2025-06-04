@@ -18,9 +18,9 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 
 Ubikron. You probably know Roelof Temmingh as the man who created Maltego 17 years ago, and who has been working on the Vortimo tool for the last few years. A few days ago he released Ubikron, a tool for tracking, tagging, and saving web investigations: https://www.ubikron.com/
 
-BountyOS. New Linux distro for different cybersecurity tasks: based on Debian 12, 75+ tools, simple installation (ISO file): https://bountyos.github.io/
-
 Subscrape. Python tool to search subdomains and extract titles, urls, emails, tokens and any other information from the HTML code of their main pages using regular expressions: https://github.com/cesc0sec/SecResearch
+
+GroupDa. A search engine for finding Telegram groups, useful for gathering intelligence from public and private communities within Telegram: https://groupda.com/telegram/group/find
 
 Depix is a PoC for a technique to recover plaintext from pixelized screenshots: https://github.com/spipm/Depixelization_poc
 
@@ -62,7 +62,7 @@ Essential OSINT tools for journalists investigating air pollution. Tracking real
 
 **New from GitHub Community:**
 
-
+BountyOS. New Linux distro for different cybersecurity tasks: based on Debian 12, 75+ tools, simple installation (ISO file): https://bountyos.github.io/
 
 ----
 ### bormaxi8080 OSINT timeline:
