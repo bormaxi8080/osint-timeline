@@ -12,11 +12,15 @@ Unborn children are Adam's apples. And dead children have the status of supernov
 
 **OSINT Tools, Services and Investigations:**
 
+R00M 101 OSINT Tools Directory. 113+ tools for social media intelligence, archiving, automation, downloading, monitoring, scraping, searching and more: https://r00m101.com/tools
+
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Iraq: https://github.com/paulpogoda/OSINT-Tools-Iraq
+
 Ubikron. You probably know Roelof Temmingh as the man who created Maltego 17 years ago, and who has been working on the Vortimo tool for the last few years. A few days ago he released Ubikron, a tool for tracking, tagging, and saving web investigations: https://www.ubikron.com/
 
 BountyOS. New Linux distro for different cybersecurity tasks: based on Debian 12, 75+ tools, simple installation (ISO file): https://bountyos.github.io/
 
-A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Iraq: https://github.com/paulpogoda/OSINT-Tools-Iraq
+Subscrape. Python tool to search subdomains and extract titles, urls, emails, tokens and any other information from the HTML code of their main pages using regular expressions: https://github.com/cesc0sec/SecResearch
 
 Depix is a PoC for a technique to recover plaintext from pixelized screenshots: https://github.com/spipm/Depixelization_poc
 
@@ -34,7 +38,7 @@ Docling simplifies document processing, parsing diverse formats - including adva
 
 **Software Development & APIs:**
 
-
+Lingui. A readable, automated, and optimized (3 kb) internationalization for JavaScript: https://github.com/lingui/js-lingui?tab=readme-ov-file
 
 ----
 
