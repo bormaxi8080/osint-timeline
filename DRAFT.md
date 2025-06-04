@@ -1,5 +1,5 @@
 
-The melancholy of an ungrown apple.
+Unborn children are Adam's apples. And dead children have the status of supernovas.
 
 ----
 

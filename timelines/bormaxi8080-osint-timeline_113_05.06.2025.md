@@ -1,7 +1,7 @@
 ![alt text](img/113.jpg)
 ### bormaxi8080 OSINT Timeline (113) - 05.06.2025:
 
-Unborn children are Adam's apples. And dead children have the status of supernovas.
+The melancholy of an ungrown apple.
 
 ----
 
