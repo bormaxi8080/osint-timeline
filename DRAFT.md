@@ -9,7 +9,9 @@ Unborn children are Adam's apples. And dead children have the status of supernov
 
 **OSINT Tools, Services and Investigations:**
 
+Old Maps. # Discover history through OldMapsOnline. Browse historical places and search for old maps with timeline: https://www.oldmapsonline.org/en
 
+**NExfil** is an **OSINT** tool written in python for finding profiles by username. The provided usernames are checked on over 350 websites within few seconds. The goal behind this tool was to get results quickly while maintaining low amounts of false positives: https://github.com/thewhiteh4t/nexfil
 
 ----
 
@@ -33,7 +35,7 @@ Unborn children are Adam's apples. And dead children have the status of supernov
 
 **Flipper Zero & Other Devices:**
 
-
+Ducky Scripts for Malduino, Rubber Ducky, FlipperZero, etc.: https://github.com/p0p3j/ducky-scripts
 
 ----
 
