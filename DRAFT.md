@@ -7,6 +7,10 @@ Unborn children are Adam's apples. And dead children have the status of supernov
 
 ----
 
+Disclosure. Covert Web-to-App Tracking via Localhost on Android: https://localmess.github.io/
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Old Maps. # Discover history through OldMapsOnline. Browse historical places and search for old maps with timeline: https://www.oldmapsonline.org/en
