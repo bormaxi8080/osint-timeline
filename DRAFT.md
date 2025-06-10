@@ -13,11 +13,13 @@ Disclosure. Covert Web-to-App Tracking via Localhost on Android: https://localme
 
 **OSINT Tools, Services and Investigations:**
 
-Old Maps. # Discover history through OldMapsOnline. Browse historical places and search for old maps with timeline: https://www.oldmapsonline.org/en
+Old Maps. Discover history through OldMapsOnline. Browse historical places and search for old maps with timeline: https://www.oldmapsonline.org/en
 
 **NExfil** is an **OSINT** tool written in python for finding profiles by username. The provided usernames are checked on over 350 websites within few seconds. The goal behind this tool was to get results quickly while maintaining low amounts of false positives: https://github.com/thewhiteh4t/nexfil
 
 WaybackLister is a reconnaissance tool that taps into the Wayback Machine to fetch historical URLs for a domain, parses unique paths, and checks if any of those paths currently expose **directory listings**. It's fast, multithreaded, and built for practical use in security assessments and bug bounty recon: https://github.com/anmolksachan/wayBackLister
+
+Pinkerton. Python project to crawl for JavaScript files and search for secrets like API keys, authorization tokens, hardcoded password or related: https://github.com/000pp/Pinkerton
 
 ----
 
@@ -29,7 +31,7 @@ WhoBIRD. Identify bird sounds in real time with this Android version of BirdNET.
 
 **Software Development & APIs:**
 
-
+OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches: https://github.com/i3visio/osrframework
 
 ----
 
@@ -47,7 +49,13 @@ Ducky Scripts for Malduino, Rubber Ducky, FlipperZero, etc.: https://github.com/
 
 **New from CyberDetective:**
 
+GeoGuessr Alternatives:
 
+- https://geohub.gg
+
+- https://hideandseek.world
+
+- https://openguessr.com
 
 ----
 
