@@ -7,6 +7,8 @@ Unborn children are Adam's apples. And dead children have the status of supernov
 
 ----
 
+How is Telegram connected to the FSB? What does this mean for you personally? Investigation: https://www.youtube.com/watch?v=s7pnANMPigg
+
 Disclosure. Covert Web-to-App Tracking via Localhost on Android: https://localmess.github.io/
 
 ----
@@ -37,7 +39,9 @@ OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visi
 
 **Linux & DevOps:**
 
+Automation Bash Scripts. A collection of BASH-Python scripts for different scenarios using loops, field processors and clever commands: https://github.com/grv231/automation-bash-scripts
 
+Practical Bash Scripts. This repository contains a collection of useful Bash scripts for Linux systems. Each script serves a specific purpose, ranging from system maintenance to monitoring and automation tasks. Below is a description of each script along with instructions on how to use them: https://github.com/Nikoo-Asadnejad/Practical_BashScripts
 
 ----
 
