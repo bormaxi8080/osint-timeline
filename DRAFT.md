@@ -16,7 +16,7 @@ Inevitable Death.
 
 **OSINT Tools, Services and Investigations:**
 
-
+DMitry (Deepmagic Information Gathering Tool) is a UNIX/(GNU)Linux Command Line program coded purely in C with the ability to gather as much information as possible about a host: https://github.com/jaygreig86/dmitry
 
 ----
 
@@ -28,7 +28,7 @@ Inevitable Death.
 
 **Software Development & APIs:**
 
-
+pythontk is a collection of backend utilities for Python: https://github.com/m3trik/pythontk
 
 ----
 
@@ -40,7 +40,9 @@ Inevitable Death.
 
 **Flipper Zero & Other Devices:**
 
+DTMF (Dual-Tone Multi-Frequency) dialer, Bluebox, and Redbox: https://github.com/litui/dtmf_dolphin
 
+Mitsubishi Electric AC remote control for Flipper Zero: https://github.com/achistyakov/flipperzero-mitsubishi-ac-remote
 
 ----
 
