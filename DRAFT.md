@@ -13,11 +13,15 @@ Disclosure. Covert Web-to-App Tracking via Localhost on Android: https://localme
 
 ----
 
+I Tried KaliGPT: Here’s What Happened: https://www.linkedin.com/pulse/i-tried-kaligpt-heres-what-happened-mary-kambo-xtbuc/
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Old Maps. Discover history through OldMapsOnline. Browse historical places and search for old maps with timeline: https://www.oldmapsonline.org/en
 
-**NExfil** is an **OSINT** tool written in python for finding profiles by username. The provided usernames are checked on over 350 websites within few seconds. The goal behind this tool was to get results quickly while maintaining low amounts of false positives: https://github.com/thewhiteh4t/nexfil
+NExfil is an **OSINT** tool written in python for finding profiles by username. The provided usernames are checked on over 350 websites within few seconds. The goal behind this tool was to get results quickly while maintaining low amounts of false positives: https://github.com/thewhiteh4t/nexfil
 
 WaybackLister is a reconnaissance tool that taps into the Wayback Machine to fetch historical URLs for a domain, parses unique paths, and checks if any of those paths currently expose **directory listings**. It's fast, multithreaded, and built for practical use in security assessments and bug bounty recon: https://github.com/anmolksachan/wayBackLister
 
