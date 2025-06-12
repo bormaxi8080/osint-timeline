@@ -48,7 +48,7 @@ Mitsubishi Electric AC remote control for Flipper Zero: https://github.com/achis
 
 **New from CyberDetective:**
 
-
+OnionLand. Darknet search engine (work in simple browser) + a series of article-guides on using Tor and other methods to access the .onion domain zone: https://onionland.io/
 
 ----
 
