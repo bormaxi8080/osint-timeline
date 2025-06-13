@@ -10,10 +10,6 @@ Inevitable Death.
 
 ----
 
-
-
-----
-
 **OSINT Tools, Services and Investigations:**
 
 DMitry (Deepmagic Information Gathering Tool) is a UNIX/(GNU)Linux Command Line program coded purely in C with the ability to gather as much information as possible about a host: https://github.com/jaygreig86/dmitry
@@ -34,7 +30,7 @@ pythontk is a collection of backend utilities for Python: https://github.com/m3t
 
 **Linux & DevOps:**
 
-
+RouterSploit - Exploitation Framework for Embedded Devices: https://github.com/threat9/routersploit
 
 ----
 
@@ -54,7 +50,7 @@ OnionLand. Darknet search engine (work in simple browser) + a series of article-
 
 **New from GitHub Community:**
 
-
+GitHub topics for Telegram Channels Scraping: https://github.com/topics/telegram-channel-scraper
 
 ----
 ### bormaxi8080 OSINT timeline:
