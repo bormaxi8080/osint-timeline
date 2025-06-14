@@ -30,6 +30,8 @@ pythontk is a collection of backend utilities for Python: https://github.com/m3t
 
 **Linux & DevOps:**
 
+Promxy is a prometheus proxy that makes many shards of prometheus appear as a single API endpoint to the user. This significantly simplifies operations and use of prometheus at scale (when you have more than one prometheus host). Promxy delivers this unified access endpoint without requiring **any** sidecars, custom-builds, or other changes to your prometheus infrastructure: https://github.com/jacksontj/promxy
+
 RouterSploit - Exploitation Framework for Embedded Devices: https://github.com/threat9/routersploit
 
 ----
@@ -45,6 +47,8 @@ Mitsubishi Electric AC remote control for Flipper Zero: https://github.com/achis
 **New from CyberDetective:**
 
 OnionLand. Darknet search engine (work in simple browser) + a series of article-guides on using Tor and other methods to access the .onion domain zone: https://onionland.io/
+
+PageCached. A simple and free online service for finding old versions of web pages in search engine caches and web archives: https://pagecached.com/
 
 ----
 
