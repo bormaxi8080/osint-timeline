@@ -12,7 +12,13 @@ Inevitable Death.
 
 **OSINT Tools, Services and Investigations:**
 
+Telerecon is a comprehensive OSINT reconnaissance framework for researching, investigating, and scraping Telegram. For example: Input a target username, and Telerecon efficiently crawls across multiple chats gathering profile metadata, account activity, user messages, extracting potential selectors, ideological indicators, identifying named entities, indicators of capability and violent intent, constructing a network map of possible associates, and a EXIF metadata geo-map, amongst various other analytics: https://github.com/sockysec/Telerecon
+
 DMitry (Deepmagic Information Gathering Tool) is a UNIX/(GNU)Linux Command Line program coded purely in C with the ability to gather as much information as possible about a host: https://github.com/jaygreig86/dmitry
+
+Tracecat. Open source Tines / Splunk SOAR alternative. All-in-one automation platform (workflows, tables, cases) for security and IT teams: https://github.com/TracecatHQ/tracecat
+
+Browser Chrome extensions, to help with OSINT, OPSEC, Privacy & Obfuscation: https://github.com/The-Osint-Toolbox/OSINT-Browser-Extensions
 
 ----
 
