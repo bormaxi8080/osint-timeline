@@ -24,7 +24,7 @@ Browser Chrome extensions, to help with OSINT, OPSEC, Privacy & Obfuscation: htt
 
 **Universal Search & AI:**
 
-
+Prompt2Flutter. Transform text into fully functional Flutter applications using AI: https://github.com/filippofinke/Prompt2Flutter
 
 ---
 
@@ -39,6 +39,8 @@ pythontk is a collection of backend utilities for Python: https://github.com/m3t
 Promxy is a prometheus proxy that makes many shards of prometheus appear as a single API endpoint to the user. This significantly simplifies operations and use of prometheus at scale (when you have more than one prometheus host). Promxy delivers this unified access endpoint without requiring **any** sidecars, custom-builds, or other changes to your prometheus infrastructure: https://github.com/jacksontj/promxy
 
 RouterSploit - Exploitation Framework for Embedded Devices: https://github.com/threat9/routersploit
+
+WayPoint. A fast, lightweight URL mapping and redirection system that dynamically manages URL shortcuts through YAML configuration files. Perfect for creating and managing custom URL shorteners for internal tools, documentation, or any web resources: https://github.com/NishantJoshi00/waypoint
 
 ----
 
@@ -55,6 +57,8 @@ Mitsubishi Electric AC remote control for Flipper Zero: https://github.com/achis
 OnionLand. Darknet search engine (work in simple browser) + a series of article-guides on using Tor and other methods to access the .onion domain zone: https://onionland.io/
 
 PageCached. A simple and free online service for finding old versions of web pages in search engine caches and web archives: https://pagecached.com/
+
+VK WATCH. Face photo search tool for the VK social network (over a billion profiles worldwide): https://vk.watch/ (don't pay to view profiles, just copy ID from VKwatch's URL and open profile by ID in VK)
 
 ----
 
