@@ -18,19 +18,25 @@ DMitry (Deepmagic Information Gathering Tool) is a UNIX/(GNU)Linux Command Line 
 
 Tracecat. Open source Tines / Splunk SOAR alternative. All-in-one automation platform (workflows, tables, cases) for security and IT teams: https://github.com/TracecatHQ/tracecat
 
+Subdosec is a fast, accurate subdomain takeover scanner with no false positives. It also offers a database of sites vulnerable to subdomain takeover (public results), along with detailed metadata like IP, CNAME, TITLE, and STATUS CODE for reconnaissance to identify potential new vulnerabilities: https://github.com/xcapri/subdosec
+
 Browser Chrome extensions, to help with OSINT, OPSEC, Privacy & Obfuscation: https://github.com/The-Osint-Toolbox/OSINT-Browser-Extensions
 
 ----
 
 **Universal Search & AI:**
 
-Prompt2Flutter. Transform text into fully functional Flutter applications using AI: https://github.com/filippofinke/Prompt2Flutter
+Vexa AI. Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts: https://github.com/Vexa-ai/vexa
+
+Vert. The next-generation file converter. Open source, fully local* and free forever: https://github.com/VERT-sh/vert
 
 ---
 
 **Software Development & APIs:**
 
 pythontk is a collection of backend utilities for Python: https://github.com/m3trik/pythontk
+
+Prompt2Flutter. Transform text into fully functional Flutter applications using AI: https://github.com/filippofinke/Prompt2Flutter
 
 ----
 
@@ -41,6 +47,8 @@ Promxy is a prometheus proxy that makes many shards of prometheus appear as a si
 RouterSploit - Exploitation Framework for Embedded Devices: https://github.com/threat9/routersploit
 
 WayPoint. A fast, lightweight URL mapping and redirection system that dynamically manages URL shortcuts through YAML configuration files. Perfect for creating and managing custom URL shorteners for internal tools, documentation, or any web resources: https://github.com/NishantJoshi00/waypoint
+
+ClickVisual. A lightweight log analytic and data visualize platform built on Clickhouse: https://github.com/clickvisual/clickvisual
 
 ----
 
