@@ -9,7 +9,7 @@ We lack of heat.
 
 **OSINT Tools, Services and Investigations:**
 
-
+Domain Scanner. A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters: https://github.com/xuemian168/domain-scanner
 
 ----
 
@@ -33,7 +33,7 @@ We lack of heat.
 
 **Flipper Zero & Other Devices:**
 
-
+Flipper JVM Protobuf. JVM library using git submodule from [repository](https://github.com/flipperdevices/flipperzero-protobuf) to simplify implementation: https://github.com/flipperdevices/flipperzero-protobuf-jvm
 
 ----
 
