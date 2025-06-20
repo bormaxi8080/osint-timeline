@@ -9,7 +9,11 @@ We lack of heat.
 
 **OSINT Tools, Services and Investigations:**
 
+OscarZulu is a command line in a web interface (which is funny in itself). The tool searches for a nickname on a number of sites: https://usercheck.oscarzulu.org/
+
 Domain Scanner. A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters: https://github.com/xuemian168/domain-scanner
+
+BadDNS. Python cli tool for detecting domain/subdomain takeovers (all kinds). Check for dangling CNAME records, NS records, MX records. Enumerate subdomains by NSEC-walking. Check HTML content + TXT record content: https://github.com/blacklanternsecurity/baddns
 
 ----
 
