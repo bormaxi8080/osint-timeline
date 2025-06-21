@@ -9,6 +9,10 @@ We lack of heat.
 
 **OSINT Tools, Services and Investigations:**
 
+A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of Azerbaijan: https://github.com/paulpogoda/OSINT-Tools-Azerbaijan
+
+A list of OSINT resources and tools that may be useful when conducting investigations related to Lithuania: https://github.com/paulpogoda/OSINT-Tools-Lithuania
+
 OscarZulu is a command line in a web interface (which is funny in itself). The tool searches for a nickname on a number of sites: https://usercheck.oscarzulu.org/
 
 Domain Scanner. A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters: https://github.com/xuemian168/domain-scanner
