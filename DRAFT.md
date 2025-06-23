@@ -21,6 +21,8 @@ Check-up is a project aimed at analyzing the presence of misinformation in healt
 
 Blockchain OSINT. A collection of tools and resources useful for OSINT investigations in the cryptocurrency: https://github.com/codeluu/blockchain-osint
 
+Domain Scanner. A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters: https://github.com/xuemian168/domain-scanner
+
 DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic: https://github.com/palahsu/DDoS-Ripper
 
 ----
@@ -35,11 +37,13 @@ DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off
 
 tailspin works by reading through a log file line by line, running a series of regexes against each line. The regexes recognize patterns you expect to find in a logfile, like dates, numbers, severity keywords and more: https://github.com/bensadeh/tailspin
 
+HasID Identify the different types of hashes used to encrypt data and especially passwords: https://github.com/psypanda/hashID
+
 ----
 
 **Linux & DevOps:**
 
-Domain Scanner. A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters: https://github.com/xuemian168/domain-scanner
+DevOps Bash Tools. 000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux: https://github.com/HariSekhon/DevOps-Bash-tools
 
 BadDNS. Python cli tool for detecting domain/subdomain takeovers (all kinds). Check for dangling CNAME records, NS records, MX records. Enumerate subdomains by NSEC-walking. Check HTML content + TXT record content: https://github.com/blacklanternsecurity/baddns
 
