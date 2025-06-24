@@ -59,6 +59,8 @@ Flipper JVM Protobuf. JVM library using git submodule from [repository](https:/
 
 **New from CyberDetective:**
 
+WEATHER2GEO. Python tool that filters cities by the weather that was in them on a certain date and time (MSN API). The list of cities can be customised by changing the text file: https://github.com/elliott-diy/Weather2Geo
+
 Rhino User Checker is a command line in a web interface (which is funny in itself). The tool searches for a nickname on a number of sites: https://usercheck.oscarzulu.org/
 
 ----
