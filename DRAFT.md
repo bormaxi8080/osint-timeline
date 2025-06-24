@@ -21,6 +21,8 @@ Check-up is a project aimed at analyzing the presence of misinformation in healt
 
 Blockchain OSINT. A collection of tools and resources useful for OSINT investigations in the cryptocurrency: https://github.com/codeluu/blockchain-osint
 
+Fakjs is a fast, lightweight, and extensible tool written in Go, designed to extract potentially sensitive information from publicly accessible JavaScript files. It plays a crucial role in reconnaissance during security assessments, allowing you to discover information that might aid in understanding the inner workings of a web application or reveal unintended data exposures: https://github.com/thd3r/fakjs
+
 Domain Scanner. A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters: https://github.com/xuemian168/domain-scanner
 
 DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic: https://github.com/palahsu/DDoS-Ripper
