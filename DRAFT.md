@@ -1,4 +1,10 @@
 
+Surge in pizza orders points to attack.
+
+
+Surge in pizza orders points to attack.
+
+
 We lack of heat.
 
 ----
@@ -48,9 +54,7 @@ https://www.osintteam.com/investigating-economic-crime-like-a-pro-tools-tradecra
 
 The Disinformation Laundromat: An OSINT tool to expose mirror and proxy websites: https://github.com/ASD-at-GMF/disinfo-laundromat
 
-Open Measures is a platform for finding content on various ‘low-popularity’ social networks. Some of which have no censorship or are very free (4chan, BlueSky, Fideverse). There is a search on social networks popular in the former USSR countries (VK, OK, Rutube), as well as on archives of now defunct social networks (Parler): https://public.openmeasures.io/timeline
-  
-OpenMeasures allows to search for content by keywords, get statistics on the use of these words in posts and see which domains are most often mentioned when discussing a certain topic (and many other different features).
+Open Measures is a platform for finding content on various ‘low-popularity’ social networks. Some of which have no censorship or are very free (4chan, BlueSky, Fideverse). There is a search on social networks popular in the former USSR countries (VK, OK, Rutube), as well as on archives of now defunct social networks (Parler). OpenMeasures allows to search for content by keywords, get statistics on the use of these words in posts and see which domains are most often mentioned when discussing a certain topic (and many other different features): https://public.openmeasures.io/timeline
 
 PageCached. A free tool that checks if a URL has been cached by major search engines and web archives, aiding in retrieving older versions of web pages: https://pagecached.com
 
@@ -84,7 +88,7 @@ HasID Identify the different types of hashes used to encrypt data and especially
 
 **Linux & DevOps:**
 
-DevOps Bash Tools. 000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux: https://github.com/HariSekhon/DevOps-Bash-tools
+DevOps Bash Tools. 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux: https://github.com/HariSekhon/DevOps-Bash-tools
 
 BadDNS. Python cli tool for detecting domain/subdomain takeovers (all kinds). Check for dangling CNAME records, NS records, MX records. Enumerate subdomains by NSEC-walking. Check HTML content + TXT record content: https://github.com/blacklanternsecurity/baddns
 
