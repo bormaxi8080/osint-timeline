@@ -25,13 +25,15 @@ Fakjs is a fast, lightweight, and extensible tool written in Go, designed to ex
 
 Domain Scanner. A powerful and flexible domain name availability checker written in Go. This tool helps you find available domain names based on various patterns and filters: https://github.com/xuemian168/domain-scanner
 
+JSFScan.sh. Automation for javascript recon in bug bounty: https://github.com/KathanP19/JSFScan.sh
+
 DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic: https://github.com/palahsu/DDoS-Ripper
 
 ----
 
 **Universal Search & AI:**
 
-
+Terminator. Computer use SDK for building agents that learn from human screen recordings. Cross-platform (Windows/macOS/Linux), deterministic, and ready for L5 desktop automation: https://github.com/mediar-ai/terminator
 
 ---
 
@@ -67,7 +69,7 @@ Rhino User Checker is a command line in a web interface (which is funny in itsel
 
 **New from GitHub Community:**
 
-
+Cosmos Server. The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot): https://github.com/azukaar/Cosmos-Server
 
 ----
 ### bormaxi8080 OSINT timeline:
