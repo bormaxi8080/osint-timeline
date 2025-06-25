@@ -3,7 +3,7 @@ We lack of heat.
 
 ----
 
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2700: https://github.com/bormaxi8080/osint-repos-list
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2800: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
@@ -11,11 +11,48 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 
 A list of OSINT resources and tools that may be useful when conducting investigations related to Lithuania: https://github.com/paulpogoda/OSINT-Tools-Lithuania
 
+Qatar OSINT Tools. Open Data & Government Portals, Company Registries, Land Records  / Property Ownership, People Search, Court, Procurement & Tenders, Maps and Geolocation Resources: https://unishka.substack.com/p/osint-of-qatar
+
+Nigeria OSINT Tools. Open Data Portals, Company Registries, Land & Property Records, Maps, Vehicle Information, People Search / Personal Identifiers, Court, Procurement & Contracts, WHOIS and Domain Info: https://unishka.substack.com/p/osint-of-nigeria
+
+----
+
+Registry Amnesia: How Russian Data on Sanctioned Companies is disappearing – and how we put it back.
+
+Since Russia's full-scale invasion of Ukraine in 2022, the dictatorship has increasingly hidden and falsified data in its trade registry. We’ve churned through 100GB of compressed XML files, so that we can now present both: the current, memory-impaired version as well as the pre-war data.
+
+https://www.opensanctions.org/articles/2025-05-30-egrul-amnesia/
+
+----
+
+Investigation Economic Crime Like a Pro: Tools, Tradecraft and Methods for OSINT Analysis  
+  
+Article by Brett M:  
+  
+- Shell Companies: What And why?  
+- Red Flags for OSINT Analysts  
+- OSINT Methodology for Investigating Economic Crime  
+- Corporate Registries  
+- Sanctions Databases  
+- Offshore Data  
+- General Search Tools  
+- Use visualization tools to map out connections  
+- Essential Tools for OSINT Investigators  
+- Tradecraft Skills for Economic Crime Investigators
+
+https://www.osintteam.com/investigating-economic-crime-like-a-pro-tools-tradecraft-and-methods-for-osint-analysts/
+
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 The Disinformation Laundromat: An OSINT tool to expose mirror and proxy websites: https://github.com/ASD-at-GMF/disinfo-laundromat
+
+Open Measures is a platform for finding content on various ‘low-popularity’ social networks. Some of which have no censorship or are very free (4chan, BlueSky, Fideverse). There is a search on social networks popular in the former USSR countries (VK, OK, Rutube), as well as on archives of now defunct social networks (Parler): https://public.openmeasures.io/timeline
+  
+OpenMeasures allows to search for content by keywords, get statistics on the use of these words in posts and see which domains are most often mentioned when discussing a certain topic (and many other different features).
+
+PageCached. A free tool that checks if a URL has been cached by major search engines and web archives, aiding in retrieving older versions of web pages: https://pagecached.com
 
 Check-up is a project aimed at analyzing the presence of misinformation in health ads that are promoted on major news websites in Brazil: https://github.com/aosfatos/check-up
 
