@@ -1,3 +1,5 @@
+The Crack of Doom.
+
 
 Surge in pizza orders points to attack.
 
@@ -16,7 +18,7 @@ Surge in pizza orders points to attack.
 
 **OSINT Tools, Services and Investigations:**
 
-
+Wifite2. Rewrite of the popular wireless network auditor, "wifite": https://github.com/kimocoder/wifite2
 
 ----
 
