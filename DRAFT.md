@@ -15,6 +15,10 @@ Surge in pizza orders points to attack.
 
 **OSINT Tools, Services and Investigations:**
 
+DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web. Whether you're a digital marketer, a researcher, or just someone who wants to uncover hidden gems on the internet, DorkGenius can help you search smarter, not harder: https://dorkgenius.com/
+
+Russia’s Pravda network in numbers: Introducing the Pravda Dashboard. The Pravda Dashboard reveals how Russia’s global network circumvents sanctions on prohibited content: https://dfrlab.org/2025/04/18/introducing-the-pravda-dashboard/
+
 Dir2txt. A blazing-fast CLI tool to export a directory's structure and contents into a neatly formatted `.txt` or `.json` file: https://github.com/shubhamoy/dir2txt
 
 Wifite2. Rewrite of the popular wireless network auditor, "wifite": https://github.com/kimocoder/wifite2
