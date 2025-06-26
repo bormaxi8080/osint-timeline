@@ -15,6 +15,8 @@ Surge in pizza orders points to attack.
 
 **OSINT Tools, Services and Investigations:**
 
+Dir2txt. A blazing-fast CLI tool to export a directory's structure and contents into a neatly formatted `.txt` or `.json` file: https://github.com/shubhamoy/dir2txt
+
 Wifite2. Rewrite of the popular wireless network auditor, "wifite": https://github.com/kimocoder/wifite2
 
 ----
