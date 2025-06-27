@@ -33,7 +33,7 @@ StageWise. What if Cursor, Github Copilot and Windsurf could actually interact w
 
 **Software Development & APIs:**
 
-
+Chalk.ist. Create beautiful images of your source code: https://github.com/Idered/chalk.ist
 
 ----
 
