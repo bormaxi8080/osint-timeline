@@ -9,13 +9,11 @@ Surge in pizza orders points to attack.
 
 ----
 
-
+Graph of Key Stakeholders of Russian Arctic Policy by Arctida.io: https://stakeholders.arctida.io/en
 
 ----
 
 **OSINT Tools, Services and Investigations:**
-
-Graph of Key Stakeholders of Russian Arctic Policy by Arctida.io: https://stakeholders.arctida.io/en
 
 DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web. Whether you're a digital marketer, a researcher, or just someone who wants to uncover hidden gems on the internet, DorkGenius can help you search smarter, not harder: https://dorkgenius.com/
 
@@ -29,7 +27,7 @@ Wifite2. Rewrite of the popular wireless network auditor, "wifite": https://gith
 
 **Universal Search & AI:**
 
-
+StageWise. What if Cursor, Github Copilot and Windsurf could actually interact with your browser? Comment on any DOM element: https://github.com/stagewise-io/stagewise
 
 ---
 
@@ -41,13 +39,13 @@ Wifite2. Rewrite of the popular wireless network auditor, "wifite": https://gith
 
 **Linux & DevOps:**
 
-
+TProxy. A cli tool to proxy and analyze TCP connections: https://github.com/kevwan/tproxy
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero Examples for control NFC over RPC: https://github.com/flipperdevices/flipperzero-nfc-rpc
 
 ----
 
