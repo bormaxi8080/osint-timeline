@@ -35,7 +35,7 @@ StageWise. What if Cursor, Github Copilot and Windsurf could actually interact w
 
 **Software Development & APIs:**
 
-Chalk.ist. Create beautiful images of your source code: https://github.com/Idered/chalk.ist
+Selenium-Wire. Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser: https://github.com/wkeeling/selenium-wire
 
 ----
 
@@ -59,7 +59,7 @@ FlipperZero Examples for control NFC over RPC: https://github.com/flipperdevices
 
 **New from GitHub Community:**
 
-
+Chalk.ist. Create beautiful images of your source code: https://github.com/Idered/chalk.ist
 
 ----
 ### bormaxi8080 OSINT timeline:
