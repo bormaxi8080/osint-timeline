@@ -11,6 +11,8 @@ Surge in pizza orders points to attack.
 
 Graph of Key Stakeholders of Russian Arctic Policy by Arctida.io: https://stakeholders.arctida.io/en
 
+Russia’s Pravda network in numbers: Introducing the Pravda Dashboard. The Pravda Dashboard reveals how Russia’s global network circumvents sanctions on prohibited content: https://dfrlab.org/2025/04/18/introducing-the-pravda-dashboard/
+
 OSINT of Pakistan: https://substack.com/inbox/post/166954383
 
 ----
@@ -19,15 +21,19 @@ OSINT of Pakistan: https://substack.com/inbox/post/166954383
 
 DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web. Whether you're a digital marketer, a researcher, or just someone who wants to uncover hidden gems on the internet, DorkGenius can help you search smarter, not harder: https://dorkgenius.com/
 
-Russia’s Pravda network in numbers: Introducing the Pravda Dashboard. The Pravda Dashboard reveals how Russia’s global network circumvents sanctions on prohibited content: https://dfrlab.org/2025/04/18/introducing-the-pravda-dashboard/
+Telegram History Dump. Backup Telegram chat logs using telegram-cli: https://github.com/tvdstaaij/telegram-history-dump
 
 Dir2txt. A blazing-fast CLI tool to export a directory's structure and contents into a neatly formatted `.txt` or `.json` file: https://github.com/shubhamoy/dir2txt
+
+Quarkdown. Markdown with superpowers - from ideas to presentations, articles and books: https://github.com/iamgio/quarkdown
 
 Wifite2. Rewrite of the popular wireless network auditor, "wifite": https://github.com/kimocoder/wifite2
 
 ----
 
 **Universal Search & AI:**
+
+Streaming KokoroJS. Unlimited text-to-speech in the Browser using Kokoro-JS, 100% local, 100% open source: https://github.com/rhulha/StreamingKokoroJS
 
 StageWise. What if Cursor, Github Copilot and Windsurf could actually interact with your browser? Comment on any DOM element: https://github.com/stagewise-io/stagewise
 
