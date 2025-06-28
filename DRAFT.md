@@ -9,6 +9,8 @@ Surge in pizza orders points to attack.
 
 ----
 
+Drone Database, an incredible resource that provides detailed information on drones from around the world. Perfect for research, analysis, and staying informed about global drone capabilities: https://drones.cnas.org/drones/
+
 Graph of Key Stakeholders of Russian Arctic Policy by Arctida.io: https://stakeholders.arctida.io/en
 
 Russia’s Pravda network in numbers: Introducing the Pravda Dashboard. The Pravda Dashboard reveals how Russia’s global network circumvents sanctions on prohibited content: https://dfrlab.org/2025/04/18/introducing-the-pravda-dashboard/
