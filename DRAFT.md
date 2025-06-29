@@ -57,6 +57,8 @@ StageWise. What if Cursor, Github Copilot and Windsurf could actually interact w
 
 Selenium-Wire. Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser: https://github.com/wkeeling/selenium-wire
 
+MicroRabbit: A lightweight, asynchronous Python framework for RabbitMQ that simplifies building microservices and distributed systems. Features include easy message routing, plugin support, and intuitive client configuration: https://github.com/TonnoBelloSnello/microrabbit
+
 ----
 
 **Linux & DevOps:**
