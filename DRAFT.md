@@ -15,6 +15,8 @@ Russia’s Pravda network in numbers: Introducing the Pravda Dashboard. The Prav
 
 Chinese Online Research Database tool. IISS's China Connects "From Coal to Code: The BRI's Strategic Influence". Interactive map the Belt and Road Initiative with time search and the following filters - Company / contractors, Projects, Project status, Layers / maps: https://chinaconnects.iiss.org/
 
+How to use court records and legal documents for OSINT investigations. Article by Nihad Hassan: https://www.authentic8.com/blog/court-records-legal-documents-osint-investigations
+
 ----
 
 Graph of Key Stakeholders of Russian Arctic Policy by Arctida.io: https://stakeholders.arctida.io/en
@@ -24,6 +26,8 @@ OSINT of Pakistan: https://substack.com/inbox/post/166954383
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+Data leaks websites. List of data leaks related websites by OSINT LINK: https://osint.link/#leak
 
 DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web. Whether you're a digital marketer, a researcher, or just someone who wants to uncover hidden gems on the internet, DorkGenius can help you search smarter, not harder: https://dorkgenius.com/
 
@@ -38,6 +42,10 @@ Wifite2. Rewrite of the popular wireless network auditor, "wifite": https://gith
 ----
 
 **Universal Search & AI:**
+
+The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you’re building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need: https://github.com/browserbase/mcp-server-browserbase
+
+DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes: https://github.com/binaco/DarkGPT
 
 Streaming KokoroJS. Unlimited text-to-speech in the Browser using Kokoro-JS, 100% local, 100% open source: https://github.com/rhulha/StreamingKokoroJS
 
