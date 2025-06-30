@@ -45,6 +45,8 @@ Wifite2. Rewrite of the popular wireless network auditor, "wifite": https://gith
 
 The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you’re building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need: https://github.com/browserbase/mcp-server-browserbase
 
+MCP Playwright. Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More: https://github.com/executeautomation/mcp-playwright
+
 DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes: https://github.com/binaco/DarkGPT
 
 Streaming KokoroJS. Unlimited text-to-speech in the Browser using Kokoro-JS, 100% local, 100% open source: https://github.com/rhulha/StreamingKokoroJS
@@ -58,6 +60,8 @@ StageWise. What if Cursor, Github Copilot and Windsurf could actually interact w
 Selenium-Wire. Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser: https://github.com/wkeeling/selenium-wire
 
 MicroRabbit: A lightweight, asynchronous Python framework for RabbitMQ that simplifies building microservices and distributed systems. Features include easy message routing, plugin support, and intuitive client configuration: https://github.com/TonnoBelloSnello/microrabbit
+
+Chalk.ist. Create beautiful images of your source code: https://github.com/Idered/chalk.ist
 
 ----
 
@@ -81,7 +85,7 @@ FREE SHODAN TOOLS. cvedb.shodan.io, internetdb.shodan.io, geonet.shodan.io, enti
 
 **New from GitHub Community:**
 
-Chalk.ist. Create beautiful images of your source code: https://github.com/Idered/chalk.ist
+PDF Math Translate. PDF scientific paper translation and bilingual comparison: https://github.com/Byaidu/PDFMathTranslate
 
 ----
 ### bormaxi8080 OSINT timeline:
