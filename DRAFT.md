@@ -1,5 +1,3 @@
-The Crack of Doom.
-
 
 Surge in pizza orders points to attack.
 
@@ -9,6 +7,12 @@ Oh brave new world!
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2800: https://github.com/bormaxi8080/osint-repos-list
+
+----
+
+Telegram has blocked Telegram channels of Russian and Ukrainian OSINT projects: https://www.linkedin.com/posts/osintech_telegram-has-blocked-telegram-channels-of-activity-7344401462338203648-kXhr
+
+Understanding Telegram for OSINT research: https://www.authentic8.com/blog/telegram-osint-research
 
 ----
 
