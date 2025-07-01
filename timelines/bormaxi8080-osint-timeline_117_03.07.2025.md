@@ -11,7 +11,7 @@ The Crack of Doom.
 
 ```Telegram has blocked channels``` of Russian and Ukrainian OSINT projects: https://www.linkedin.com/posts/osintech_telegram-has-blocked-telegram-channels-of-activity-7344401462338203648-kXhr
 
-Understanding ```Telegram for OSINT research```: https://www.authentic8.com/blog/telegram-osint-research
+Understanding ```Telegram for OSINT``` research: https://www.authentic8.com/blog/telegram-osint-research
 
 ----
 
