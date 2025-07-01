@@ -3,6 +3,9 @@ The Crack of Doom.
 
 Surge in pizza orders points to attack.
 
+
+Oh brave new world!
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2800: https://github.com/bormaxi8080/osint-repos-list
