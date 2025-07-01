@@ -24,7 +24,9 @@ How to use court records and legal documents for OSINT investigations. Article b
 
 Graph of Key Stakeholders of Russian Arctic Policy by Arctida.io: https://stakeholders.arctida.io/en
 
-OSINT of Pakistan: https://substack.com/inbox/post/166954383
+A collection of OSINT sources and public data tools specific to Pakistan: https://substack.com/inbox/post/166954383
+
+A collection of OSINT sources and public data tools specific to Bangladesh: https://github.com/paulpogoda/OSINT-Tools-Bangladesh
 
 ----
 
