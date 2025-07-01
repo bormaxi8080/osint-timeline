@@ -14,6 +14,8 @@ Oh brave new world!
 
 Drone Database, an incredible resource that provides detailed information on drones from around the world. Perfect for research, analysis, and staying informed about global drone capabilities: https://drones.cnas.org/drones/
 
+Data leaks websites. List of data leaks related websites by OSINT LINK: https://osint.link/#leak
+
 Russia’s Pravda network in numbers: Introducing the Pravda Dashboard. The Pravda Dashboard reveals how Russia’s global network circumvents sanctions on prohibited content: https://dfrlab.org/2025/04/18/introducing-the-pravda-dashboard/
 
 Chinese Online Research Database tool. IISS's China Connects "From Coal to Code: The BRI's Strategic Influence". Interactive map the Belt and Road Initiative with time search and the following filters - Company / contractors, Projects, Project status, Layers / maps: https://chinaconnects.iiss.org/
