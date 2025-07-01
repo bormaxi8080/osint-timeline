@@ -88,6 +88,8 @@ FREE SHODAN TOOLS. cvedb.shodan.io, internetdb.shodan.io, geonet.shodan.io, enti
 
 **New from GitHub Community:**
 
+Caret is a Markdown editor for Mac, Windows and Linux. It stands out with its clean interface, productivity features and obsessive attention to detail: https://caret.io/
+
 PDF Math Translate. PDF scientific paper translation and bilingual comparison: https://github.com/Byaidu/PDFMathTranslate
 
 ----
