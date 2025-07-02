@@ -67,7 +67,7 @@ A collection of OSINT sources and public data tools specific to ```Bangladesh```
 
 ```Selenium-Wire```. Extends Selenium's Python bindings to give you the ability to inspect requests made by the browser: https://github.com/wkeeling/selenium-wire
 
-```MicroRabbit```: A lightweight, asynchronous Python framework for RabbitMQ that simplifies building microservices and distributed systems. Features include easy message routing, plugin support, and intuitive client configuration: https://github.com/TonnoBelloSnello/microrabbit
+```MicroRabbit```. A lightweight, asynchronous Python framework for RabbitMQ that simplifies building microservices and distributed systems. Features include easy message routing, plugin support, and intuitive client configuration: https://github.com/TonnoBelloSnello/microrabbit
 
 ```Chalk.ist```. Create beautiful images of your source code: https://github.com/Idered/chalk.ist
 
