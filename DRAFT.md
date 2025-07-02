@@ -34,7 +34,7 @@ Gemini-Cli. An open-source AI agent that brings the power of Gemini directly int
 
 **Linux & DevOps:**
 
-
+Bash Utils. A collection of hand-crafted bash scripts for various common tasks: https://github.com/pirate/bash-utils
 
 ----
 
