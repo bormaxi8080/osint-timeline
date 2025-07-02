@@ -22,7 +22,7 @@ Oh brave new world!
 
 **Universal Search & AI:**
 
-
+Gemini-Cli. An open-source AI agent that brings the power of Gemini directly into your terminal: https://github.com/google-gemini/gemini-cli
 
 ---
 
@@ -40,7 +40,7 @@ Oh brave new world!
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero ESP32 Marauder. A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32: https://github.com/justcallmekoko/ESP32Marauder
 
 ----
 
