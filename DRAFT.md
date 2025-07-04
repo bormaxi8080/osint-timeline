@@ -52,7 +52,7 @@ Guide. Using Facebook in OSINT Article by Nihad A. Hassan: Facebook background i
 
 **New from GitHub Community:**
 
-
+KeyPass: Open Source Project & An Offline Password Manager. Store, manage, and take control securely: https://github.com/yogeshpaliyal/KeyPass
 
 ----
 ### bormaxi8080 OSINT timeline:
