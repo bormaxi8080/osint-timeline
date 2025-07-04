@@ -18,6 +18,10 @@ Oh brave new world!
 
 Pastebin Search. This script allows you to quickly search for terms on Pastebin using various search engines. It supports multiple browsers and handles special characters in search terms by URL encoding them: https://github.com/byfranke/PastebinSearch
 
+XCancel. Anonymous Twitter (X) search tool: https://xcancel.com/
+
+YouTube History Analyzer. A web application that allows users to visualize and analyze their YouTube watch history: https://github.com/ronething/yt-history
+
 ----
 
 **Universal Search & AI:**
