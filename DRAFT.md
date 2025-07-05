@@ -52,6 +52,8 @@ FlipperZero ESP32 Marauder. A suite of WiFi/Bluetooth offensive and defensive to
 
 Guide. Using Facebook in OSINT Article by Nihad A. Hassan: Facebook background information Facebook profiles Inspecting Facebook user's profiles Practical techniques for inspecting Facebook profiles: https://www.authentic8.com/blog/guide-facebook-osint
 
+OSINT Link. Tools + Guides directory: government records, people search, social media intelligence, grey literature, image search engines, files search engines and more: https://osint.link
+
 ----
 
 **New from GitHub Community:**
