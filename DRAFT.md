@@ -1,7 +1,4 @@
 
-Surge in pizza orders points to attack.
-
-
 Oh brave new world!
 
 ----
@@ -66,7 +63,7 @@ LittleFS. A little fail-safe filesystem designed for microcontrollers: https://g
 
 **New from CyberDetective:**
 
-OSINT Link. Tools + Guides directory: government records, people search, social media intelligence, grey literature, image search engines, files search engines and more: https://osint.link
+OSINT Link. Tools + Guides Directory: government records, people search, social media intelligence, grey literature, image search engines, files search engines and more: https://osint.link
 
 ODCrawler. Open directory search engine. Search videos, audio, images, archives and more: https://odcrawler.xyz/
 
