@@ -19,7 +19,7 @@ Oh brave new world!
 
 **Universal Search & AI:**
 
-
+MLX-Audio. A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon: https://github.com/Blaizzy/mlx-audio
 
 ---
 
@@ -31,7 +31,7 @@ Oh brave new world!
 
 **Linux & DevOps:**
 
-
+PWNAT. The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing: https://github.com/samyk/pwnat
 
 ----
 
