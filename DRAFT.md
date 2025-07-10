@@ -13,7 +13,7 @@ Investigating War Crimes: Self-Care for Covering Traumatic Events: https://gijn.
 
 **OSINT Tools, Services and Investigations:**
 
-UK Person OSINT Toolkit. Tools list by Matthew Beardwell @mbeardwell: people search, company data, web footprint, contact information, geolocation, image search: https://github.com/mbeardwell/uk-personal-osint-toolkit
+UK Person OSINT Toolkit. Tools list by Matthew Beardwell. People search, company data, web footprint, contact information, geolocation, image search: https://github.com/mbeardwell/uk-personal-osint-toolkit
 
 ----
 
