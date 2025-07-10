@@ -7,13 +7,13 @@ Oh brave new world!
 
 ----
 
-
+Investigating War Crimes: Self-Care for Covering Traumatic Events: https://gijn.org/resource/reporters-guide-to-investigating-war-crimes-self-care-for-covering-traumatic-events/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+UK Person OSINT Toolkit. Tools list by Matthew Beardwell @mbeardwell: people search, company data, web footprint, contact information, geolocation, image search: https://github.com/mbeardwell/uk-personal-osint-toolkit
 
 ----
 
