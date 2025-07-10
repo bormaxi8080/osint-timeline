@@ -21,7 +21,7 @@ UK Person OSINT Toolkit. Tools list by Matthew Beardwell @mbeardwell: people sea
 
 MLX-Audio. A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon: https://github.com/Blaizzy/mlx-audio
 
----
+----
 
 **Software Development & APIs:**
 
