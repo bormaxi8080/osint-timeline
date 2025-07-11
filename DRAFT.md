@@ -15,6 +15,12 @@ Investigating War Crimes: Self-Care for Covering Traumatic Events: https://gijn.
 
 UK Person OSINT Toolkit. Tools list by Matthew Beardwell. People search, company data, web footprint, contact information, geolocation, image search: https://github.com/mbeardwell/uk-personal-osint-toolkit
 
+Social Media Hacker List. This Github repository contains a large list of applications and tools to extend the standard features of social networks (alternative interface, displaying additional data, automation, etc.). Facebook, Instagram, Linkedin, Mastodon, Reddit and others: https://github.com/MobileFirstLLC/social-media-hacker-list
+
+TheHive. A Scalable, Open Source and Free Security Incident Response Platform: https://github.com/TheHive-Project/TheHive
+
+Dimpor. A free, no-login Instagram viewer that allows easy access to public profiles and posts, valuable for social media investigations: https://dumpor.io/
+
 ----
 
 **Universal Search & AI:**
@@ -31,19 +37,25 @@ MLX-Audio. A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (ST
 
 **Linux & DevOps:**
 
+oha is a tiny program that sends some load to a web application and show realtime tui: https://github.com/hatoo/oha
+
 PWNAT. The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing: https://github.com/samyk/pwnat
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+WiFi/USB capable version of the famous BlackMagicProbe (or DapLink) debugger: https://github.com/flipperdevices/blackmagic-esp32-s2
 
 ----
 
 **New from CyberDetective:**
 
+IDCrawl. Search social media profiles by username. Instagram, Twitter, Facebook, YouTube etc (results with profile pics and additional data) + email addresses: https://www.idcrawl.com/username-search
 
+Introduction to Mastodon for OSINT Practitioners. Mastodon servers, Running a Mastodon instance, Finding Mastodon instances: https://authentic8.com/blog/introduction-mastodon-osint-practitioners
+
+Collecting OSINT on Discord. Discord’s architecture, Find unlisted Discord servers, Using Google dorks, Using the built-in search functionality of the Discord server, Investigating Discord users profiles: https://authentic8.com/blog/author/nihad-hassan
 
 ----
 
