@@ -19,6 +19,8 @@ Social Media Hacker List. This Github repository contains a large list of applic
 
 TheHive. A Scalable, Open Source and Free Security Incident Response Platform: https://github.com/TheHive-Project/TheHive
 
+The Time Machine 3.0. Fetch URLs from Archive org, extract subdomains, find backup files, extract GET parameters from URLs. Extreme quickly. Fetch 100K+ urls in few seconds: https://github.com/anmolksachan/TheTimeMachine
+
 Dimpor. A free, no-login Instagram viewer that allows easy access to public profiles and posts, valuable for social media investigations: https://dumpor.io/
 
 ----
@@ -31,7 +33,7 @@ MLX-Audio. A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (ST
 
 **Software Development & APIs:**
 
-
+Paramiko is a pure-Python implementation of the SSHv2 protocol, providing both client and server functionality. It provides the foundation for the high-level SSH library [Fabric](https://fabfile.org/), which is what we recommend you use for common client use-cases such as running remote shell commands or transferring files: https://github.com/paramiko/paramiko
 
 ----
 
