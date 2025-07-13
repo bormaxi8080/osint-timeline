@@ -41,6 +41,8 @@ Paramiko is a pure-Python implementation of the SSHv2 protocol, providing both c
 
 **Linux & DevOps:**
 
+WrapGuard. Userspace WireGuard proxy for transparent network tunneling: https://github.com/puzed/wrapguard
+
 oha is a tiny program that sends some load to a web application and show realtime tui: https://github.com/hatoo/oha
 
 PWNAT. The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing: https://github.com/samyk/pwnat
