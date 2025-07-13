@@ -19,6 +19,8 @@ Social Media Hacker List. This Github repository contains a large list of applic
 
 TheHive. A Scalable, Open Source and Free Security Incident Response Platform: https://github.com/TheHive-Project/TheHive
 
+Detect Secrets. An enterprise friendly way of detecting and preventing secrets in code: https://github.com/Yelp/detect-secrets
+
 The Time Machine 3.0. Fetch URLs from Archive org, extract subdomains, find backup files, extract GET parameters from URLs. Extreme quickly. Fetch 100K+ urls in few seconds: https://github.com/anmolksachan/TheTimeMachine
 
 Dimpor. A free, no-login Instagram viewer that allows easy access to public profiles and posts, valuable for social media investigations: https://dumpor.io/
@@ -52,6 +54,8 @@ WiFi/USB capable version of the famous BlackMagicProbe (or DapLink) debugger: ht
 ----
 
 **New from CyberDetective:**
+
+VormWeb. Search engine for .onion domains. Not too many indexed sites, but there are Darkglossary definition hints: https://vormweb.de/en/
 
 IDCrawl. Search social media profiles by username. Instagram, Twitter, Facebook, YouTube etc (results with profile pics and additional data) + email addresses: https://www.idcrawl.com/username-search
 
