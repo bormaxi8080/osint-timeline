@@ -11,6 +11,15 @@ Investigating War Crimes: Self-Care for Covering Traumatic Events: https://gijn.
 
 ----
 
+Go for Dorks.
+
+Online generator of advanced search queries for Google, Bing, DuckDuckGo, LeaklX, Shodan, Refseek, Fofa, Yandex and other search engines.
+
+Tool: https://dorks.xen00rw.me/
+Github repo: https://github.com/xen00rw/GoForDorks
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 UK Person OSINT Toolkit. Tools list by Matthew Beardwell. People search, company data, web footprint, contact information, geolocation, image search: https://github.com/mbeardwell/uk-personal-osint-toolkit
@@ -30,6 +39,10 @@ Dimpor. A free, no-login Instagram viewer that allows easy access to public prof
 **Universal Search & AI:**
 
 MLX-Audio. A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon: https://github.com/Blaizzy/mlx-audio
+
+MaxKB is an open-source platform for building enterprise-grade agents: https://github.com/1Panel-dev/MaxKB
+
+Rivet. The open-source visual AI programming environment and TypeScript library: https://github.com/Ironclad/rivet
 
 ----
 
@@ -59,6 +72,10 @@ WiFi/USB capable version of the famous BlackMagicProbe (or DapLink) debugger: ht
 
 VormWeb. Search engine for .onion domains. Not too many indexed sites, but there are Darkglossary definition hints: https://vormweb.de/en/
 
+Leakix. A search engine for web services where common types of vulnerabilities have been found (As well as a community of researchers and an online tool for analyzing domain links): https://leakix.net/about
+
+File Pursuit. Open Directory Search Engine. Search audio, video, archives, documents, mobile apps and other files. Browse list of IPs/domains with open directories: https://filepursuit.com/
+
 IDCrawl. Search social media profiles by username. Instagram, Twitter, Facebook, YouTube etc (results with profile pics and additional data) + email addresses: https://www.idcrawl.com/username-search
 
 Introduction to Mastodon for OSINT Practitioners. Mastodon servers, Running a Mastodon instance, Finding Mastodon instances: https://authentic8.com/blog/introduction-mastodon-osint-practitioners
@@ -69,7 +86,7 @@ Collecting OSINT on Discord. Discord’s architecture, Find unlisted Discord ser
 
 **New from GitHub Community:**
 
-
+Sampled Maximal Marginal Relevance (SMMR) is a new method from scientists at T-Bank AI Research that allows up to 10% faster and more diverse formation of recommendations in online services. Instead of the same relevant object, SMMR uses a probabilistic sample from a limited number of candidates. According to the results of the study: the new method turned out to be 2-10 times faster than MMR and DPP and at the same time provided an increase in the diversity of recommendations by 5-10%: https://github.com/kliakhnovich/smmr
 
 ----
 ### bormaxi8080 OSINT timeline:
