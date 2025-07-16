@@ -1,5 +1,8 @@
 
+Alien.
 
+
+I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky forest. Verdun. Tin cans with nails. Optical fiber getting into flour.
 
 ----
 
