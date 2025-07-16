@@ -7,22 +7,21 @@ Oh brave new world!
 
 ----
 
-Investigating War Crimes: Self-Care for Covering Traumatic Events: https://gijn.org/resource/reporters-guide-to-investigating-war-crimes-self-care-for-covering-traumatic-events/
+[TV 2](https://www.linkedin.com/company/tv-2_2/)'s investigation into Russian property ownership in northern Norway is a reminder of what’s at stake — and what’s possible when investigative journalism is backed by the right tools: https://www.osint.industries/project/the-russian-cabins-tv2s-osint-breakthrough
+
+Investigating War Crimes. Self-Care for Covering Traumatic Events: https://gijn.org/resource/reporters-guide-to-investigating-war-crimes-self-care-for-covering-traumatic-events/
+
+Google vs. Fact-Checkers. Changes in the Search Engine That Will Affect Everyone: https://www.linkedin.com/pulse/google-vs-fact-checkers-changes-search-engine-affect-everyone-ozbse/?trackingId=Euj%2Flkd23k%2BLWEMXwJzYMQ%3D%3D
 
 ----
 
-Go for Dorks.
+Spain OSINT Tools. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://unishka.substack.com/p/osint-of-spain
 
-Online generator of advanced search queries for Google, Bing, DuckDuckGo, LeaklX, Shodan, Refseek, Fofa, Yandex and other search engines.
-
-Tool: https://dorks.xen00rw.me/
-Github repo: https://github.com/xen00rw/GoForDorks
+UK Person OSINT Toolkit. Tools list by Matthew Beardwell. People search, company data, web footprint, contact information, geolocation, image search: https://github.com/mbeardwell/uk-personal-osint-toolkit
 
 ----
 
 **OSINT Tools, Services and Investigations:**
-
-UK Person OSINT Toolkit. Tools list by Matthew Beardwell. People search, company data, web footprint, contact information, geolocation, image search: https://github.com/mbeardwell/uk-personal-osint-toolkit
 
 Social Media Hacker List. This Github repository contains a large list of applications and tools to extend the standard features of social networks (alternative interface, displaying additional data, automation, etc.). Facebook, Instagram, Linkedin, Mastodon, Reddit and others: https://github.com/MobileFirstLLC/social-media-hacker-list
 
@@ -39,6 +38,15 @@ Collecting OSINT on Discord. Discord’s architecture, Find unlisted Discord ser
 The Time Machine 3.0. Fetch URLs from Archive org, extract subdomains, find backup files, extract GET parameters from URLs. Extreme quickly. Fetch 100K+ urls in few seconds: https://github.com/anmolksachan/TheTimeMachine
 
 Dimpor. A free, no-login Instagram viewer that allows easy access to public profiles and posts, valuable for social media investigations: https://dumpor.io/
+
+----
+
+Go for Dorks.
+
+Online generator of advanced search queries for Google, Bing, DuckDuckGo, LeaklX, Shodan, Refseek, Fofa, Yandex and other search engines.
+
+Tool: https://dorks.xen00rw.me/
+Github repo: https://github.com/xen00rw/GoForDorks
 
 ----
 
