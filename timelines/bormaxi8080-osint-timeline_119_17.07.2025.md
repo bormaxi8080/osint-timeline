@@ -39,7 +39,7 @@ Oh brave new world!
 
 ```The Time Machine 3.0```. Fetch URLs from Archive org, extract subdomains, find backup files, extract GET parameters from URLs. Extreme quickly. Fetch 100K+ urls in few seconds: https://github.com/anmolksachan/TheTimeMachine
 
-```Dimpor```. A free, no-login Instagram viewer that allows easy access to public profiles and posts, valuable for social media investigations: https://dumpor.io/
+```Dumpor```. A free, no-login Instagram viewer that allows easy access to public profiles and posts, valuable for social media investigations: https://dumpor.io/
 
 ----
 
