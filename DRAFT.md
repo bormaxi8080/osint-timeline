@@ -30,6 +30,12 @@ TheHive. A Scalable, Open Source and Free Security Incident Response Platform: h
 
 Detect Secrets. An enterprise friendly way of detecting and preventing secrets in code: https://github.com/Yelp/detect-secrets
 
+IDCrawl. Search social media profiles by username. Instagram, Twitter, Facebook, YouTube etc (results with profile pics and additional data) + email addresses: https://www.idcrawl.com/username-search
+
+Introduction to Mastodon for OSINT Practitioners. Mastodon servers, Running a Mastodon instance, Finding Mastodon instances: https://authentic8.com/blog/introduction-mastodon-osint-practitioners
+
+Collecting OSINT on Discord. Discord’s architecture, Find unlisted Discord servers, Using Google dorks, Using the built-in search functionality of the Discord server, Investigating Discord users profiles: https://authentic8.com/blog/author/nihad-hassan
+
 The Time Machine 3.0. Fetch URLs from Archive org, extract subdomains, find backup files, extract GET parameters from URLs. Extreme quickly. Fetch 100K+ urls in few seconds: https://github.com/anmolksachan/TheTimeMachine
 
 Dimpor. A free, no-login Instagram viewer that allows easy access to public profiles and posts, valuable for social media investigations: https://dumpor.io/
@@ -60,6 +66,8 @@ oha is a tiny program that sends some load to a web application and show realtim
 
 PWNAT. The only tool/technique to punch holes through firewalls/NATs where multiple clients & server can be behind separate NATs without any 3rd party involvement. Pwnat is a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, DNS, router admin requirements, STUN/TURN/UPnP/ICE, or spoofing: https://github.com/samyk/pwnat
 
+Somo. A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS: https://github.com/theopfr/somo
+
 ----
 
 **Flipper Zero & Other Devices:**
@@ -76,11 +84,7 @@ Leakix. A search engine for web services where common types of vulnerabilities h
 
 File Pursuit. Open Directory Search Engine. Search audio, video, archives, documents, mobile apps and other files. Browse list of IPs/domains with open directories: https://filepursuit.com/
 
-IDCrawl. Search social media profiles by username. Instagram, Twitter, Facebook, YouTube etc (results with profile pics and additional data) + email addresses: https://www.idcrawl.com/username-search
-
-Introduction to Mastodon for OSINT Practitioners. Mastodon servers, Running a Mastodon instance, Finding Mastodon instances: https://authentic8.com/blog/introduction-mastodon-osint-practitioners
-
-Collecting OSINT on Discord. Discord’s architecture, Find unlisted Discord servers, Using Google dorks, Using the built-in search functionality of the Discord server, Investigating Discord users profiles: https://authentic8.com/blog/author/nihad-hassan
+Archive org does not yet have full text search of saved copies of pages, except for collections (Telegram, Pastebin etc). But other web archives have such a feature. For example, Australian Troove (7,5B+ snapshots for .com domains + other domains): https://trove.nla.gov.au/search/
 
 ----
 
