@@ -16,13 +16,15 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 **OSINT Tools, Services and Investigations:**
 
+Pyeak. Detect leaked asyncio tasks, threads, and event loop blocking with stack trace in Python. Inspired by GoLeak: https://github.com/deepankarm/pyleak
 
+APKDeepLens is a Python based tool designed to scan Android applications (APK files) for security vulnerabilities. It specifically targets the OWASP Top 10 mobile vulnerabilities, providing an easy and efficient way for developers, penetration testers, and security researchers to assess the security posture of Android apps: https://github.com/d78ui98/APKDeepLens
 
 ----
 
 **Universal Search & AI:**
 
-
+AgenticSeek. Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity: https://github.com/Fosowl/agenticSeek
 
 ----
 
@@ -40,13 +42,13 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero Lightmeter. Lightmeter app for photography based on BH1750 sensor: https://github.com/oleksiikutuzov/flipperzero-lightmeter
 
 ----
 
 **New from CyberDetective:**
 
-
+Reversely. Reverse image and face search engine. Searches not bad, but in the free version it shows only part of the text from the found page (but it can be useful too): https://www.reversely.ai/
 
 ----
 
