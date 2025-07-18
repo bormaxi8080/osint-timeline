@@ -20,6 +20,8 @@ Pyeak. Detect leaked asyncio tasks, threads, and event loop blocking with stack 
 
 APKDeepLens is a Python based tool designed to scan Android applications (APK files) for security vulnerabilities. It specifically targets the OWASP Top 10 mobile vulnerabilities, providing an easy and efficient way for developers, penetration testers, and security researchers to assess the security posture of Android apps: https://github.com/d78ui98/APKDeepLens
 
+Webripper Pro is a comprehensive, professional-grade web vulnerability scanner that automates the detection of security flaws in websites. It is designed for penetration testers, bug bounty hunters, and security professionals seeking fast, actionable insights into the security posture of web applications: https://github.com/MrpasswordTz/webripper-pro
+
 ----
 
 **Universal Search & AI:**
@@ -30,13 +32,15 @@ AgenticSeek. Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an auto
 
 **Software Development & APIs:**
 
+nats.go. Golang client for NATS, the cloud native messaging system: https://github.com/nats-io/nats.go
 
+Puppeteer IDE Extension. A standalone extension to write and execute puppeteer scripts from browser's developer tools: https://github.com/gajananpp/puppeteer-ide-extension
 
 ----
 
 **Linux & DevOps:**
 
-
+BrewKit. Container-native build system. Meaning that BrewKit is a **single tool** that you should use(across Docker) to build project: https://github.com/ispringtech/brewkit
 
 ----
 
@@ -49,6 +53,15 @@ FlipperZero Lightmeter. Lightmeter app for photography based on BH1750 sensor: h
 **New from CyberDetective:**
 
 Reversely. Reverse image and face search engine. Searches not bad, but in the free version it shows only part of the text from the found page (but it can be useful too): https://www.reversely.ai/
+
+Hunchly. It's a good old tool that's worth reminding once again:
+
+- save the pages you visit (text, screenshots, path to opening)
+- extract "juicy info" (email, IPs, Tor links and MUCH more + use your own regex)
+- make notes, to-do lists
+- generate reports 
+
+https://hunch.ly
 
 ----
 
