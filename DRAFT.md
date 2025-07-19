@@ -42,6 +42,10 @@ A monorepo for puppeteer-extra, a modular plugin framework for Puppeteer: https
 
 Puppeteer IDE Extension. A standalone extension to write and execute puppeteer scripts from browser's developer tools: https://github.com/gajananpp/puppeteer-ide-extension
 
+Puppeteer Cluster. Create a cluster of puppeteer workers. This library spawns a pool of Chromium instances via [Puppeteer](https://github.com/GoogleChrome/puppeteer "Puppeteer") and helps to keep track of jobs and errors. This is helpful if you want to crawl multiple pages or run tests in parallel. Puppeteer Cluster takes care of reusing Chromium and restarting the browser in case of errors: https://github.com/thomasdondorf/puppeteer-cluster
+
+Node.js wrapper for useragents.me: https://github.com/DavideViolante/useragents-me-api/
+
 ----
 
 **Linux & DevOps:**
