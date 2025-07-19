@@ -58,6 +58,8 @@ BrewKit. Container-native build system. Meaning that BrewKit is a **single tool
 
 FlipperZero Lightmeter. Lightmeter app for photography based on BH1750 sensor: https://github.com/oleksiikutuzov/flipperzero-lightmeter
 
+ESP32 Bus Pirate is an open-source firmware that turns your device into a multi-protocol hacker's tool: https://github.com/geo-tp/ESP32-Bus-Pirate
+
 ----
 
 **New from CyberDetective:**
