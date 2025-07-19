@@ -16,6 +16,10 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 **OSINT Tools, Services and Investigations:**
 
+WebCapture. Simple Python tool for extracting sensitive data from web pages - emails, phones, links, subdomains, whois and ip info gathering: https://github.com/drackyjr/WEBCAPTURE
+
+As most of email products out there, Unsend also uses Amazon SES under the hood to send emails. We provide an open and alternative way to send emails reliably and cheaply with a great dashboard. You can also use Unsend manage contacts and send bulk emails(newsletter, product updates etc): https://github.com/unsend-dev/unsend
+
 Pyeak. Detect leaked asyncio tasks, threads, and event loop blocking with stack trace in Python. Inspired by GoLeak: https://github.com/deepankarm/pyleak
 
 APKDeepLens is a Python based tool designed to scan Android applications (APK files) for security vulnerabilities. It specifically targets the OWASP Top 10 mobile vulnerabilities, providing an easy and efficient way for developers, penetration testers, and security researchers to assess the security posture of Android apps: https://github.com/d78ui98/APKDeepLens
@@ -33,6 +37,8 @@ AgenticSeek. Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an auto
 **Software Development & APIs:**
 
 nats.go. Golang client for NATS, the cloud native messaging system: https://github.com/nats-io/nats.go
+
+A monorepo for puppeteer-extra, a modular plugin framework for Puppeteer: https://github.com/berstend/puppeteer-extra
 
 Puppeteer IDE Extension. A standalone extension to write and execute puppeteer scripts from browser's developer tools: https://github.com/gajananpp/puppeteer-ide-extension
 
@@ -67,7 +73,7 @@ https://hunch.ly
 
 **New from GitHub Community:**
 
-
+Probe codebase of RIPE Atlas, a global network measuring Internet connectivity and reachability: https://github.com/RIPE-NCC/ripe-atlas-software-probe
 
 ----
 ### bormaxi8080 OSINT timeline:
