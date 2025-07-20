@@ -12,6 +12,10 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 Malicious Firefox Extensions Unmasked: Fake Games, VPNs, & Calendar Tools Hijack Traffic, Steal Crypto & OAuth Tokens: https://securityonline.info/malicious-firefox-extensions-unmasked-fake-games-vpns-calendar-tools-hijack-traffic-steal-crypto-oauth-tokens/
 
+Limitless OSINT provides training in open source intelligence, cyber threat intelligence and operational security through immersive, practical challenges: https://www.limitless-osint.com/
+
+Stratir. A creative intelligence company synthesizing human ingenuity and artificial intelligence to solve complex problems: https://stratir.com/
+
 ----
 
 OSINT of Egypt. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://unishka.substack.com/p/osint-of-egypt
@@ -28,13 +32,13 @@ Telepipe. A simple command-line utility to send messages to Telegram: https://gi
 
 As most of email products out there, Unsend also uses Amazon SES under the hood to send emails. We provide an open and alternative way to send emails reliably and cheaply with a great dashboard. You can also use Unsend manage contacts and send bulk emails(newsletter, product updates etc): https://github.com/unsend-dev/unsend
 
-Pyeak. Detect leaked asyncio tasks, threads, and event loop blocking with stack trace in Python. Inspired by GoLeak: https://github.com/deepankarm/pyleak
+PyLeak. Detect leaked asyncio tasks, threads, and event loop blocking with stack trace in Python. Inspired by GoLeak: https://github.com/deepankarm/pyleak
 
 APKDeepLens is a Python based tool designed to scan Android applications (APK files) for security vulnerabilities. It specifically targets the OWASP Top 10 mobile vulnerabilities, providing an easy and efficient way for developers, penetration testers, and security researchers to assess the security posture of Android apps: https://github.com/d78ui98/APKDeepLens
 
 Webripper Pro is a comprehensive, professional-grade web vulnerability scanner that automates the detection of security flaws in websites. It is designed for penetration testers, bug bounty hunters, and security professionals seeking fast, actionable insights into the security posture of web applications: https://github.com/MrpasswordTz/webripper-pro
 
-AX Framework. The Distributed Scanning Framework for Everybody! Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our nine supported cloud providers: https://github.com/attacksurge/ax
+AX Framework. The Distributed Scanning Framework for Everybody! Control Your Infrastructure, Scale Your Scanning-On Your Terms. Easily distribute arbitrary binaries and scripts using any of our nine supported cloud providers: https://github.com/attacksurge/ax
 
 V2RayCollector. This project crawls v2ray configs from Telegram channels: https://github.com/mrvcoder/V2rayCollector
 
@@ -49,6 +53,8 @@ WiFi Password Stealer. Simple Windows and Linux keystroke injection tool that ex
 BruteForceAI. Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks: https://github.com/MorDavid/BruteForceAI
 
 AgenticSeek. Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity: https://github.com/Fosowl/agenticSeek
+
+Contextual AI. This service converts PDF files into clean text, ready to be fed into neural networks. Simply upload the document, and the tool will extract the structure, sections, tables, diagrams, and images, turning them into understandable text with metadata: https://app.contextual.ai/
 
 ----
 
