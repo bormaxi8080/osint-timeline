@@ -10,13 +10,21 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 ----
 
+Malicious Firefox Extensions Unmasked: Fake Games, VPNs, & Calendar Tools Hijack Traffic, Steal Crypto & OAuth Tokens: https://securityonline.info/malicious-firefox-extensions-unmasked-fake-games-vpns-calendar-tools-hijack-traffic-steal-crypto-oauth-tokens/
 
+----
+
+OSINT of Egypt. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://unishka.substack.com/p/osint-of-egypt
+
+Awesome OSINT Chrome Extensions. Often, much of the OSINT analyst's work is done using a browser. And sometimes it consists only of endless data search on different sites. This repository contains extensions for Chrome/Brave that will help make this process more comfortable and efficient: https://github.com/ubikron/awesome-osint-chrome-extensions
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 WebCapture. Simple Python tool for extracting sensitive data from web pages - emails, phones, links, subdomains, whois and ip info gathering: https://github.com/drackyjr/WEBCAPTURE
+
+Telepipe. A simple command-line utility to send messages to Telegram: https://github.com/Linuxmaster14/telepipe
 
 As most of email products out there, Unsend also uses Amazon SES under the hood to send emails. We provide an open and alternative way to send emails reliably and cheaply with a great dashboard. You can also use Unsend manage contacts and send bulk emails(newsletter, product updates etc): https://github.com/unsend-dev/unsend
 
@@ -26,9 +34,19 @@ APKDeepLens is a Python based tool designed to scan Android applications (APK fi
 
 Webripper Pro is a comprehensive, professional-grade web vulnerability scanner that automates the detection of security flaws in websites. It is designed for penetration testers, bug bounty hunters, and security professionals seeking fast, actionable insights into the security posture of web applications: https://github.com/MrpasswordTz/webripper-pro
 
+AX Framework. The Distributed Scanning Framework for Everybody! Control Your Infrastructure, Scale Your Scanning—On Your Terms. Easily distribute arbitrary binaries and scripts using any of our nine supported cloud providers: https://github.com/attacksurge/ax
+
+V2RayCollector. This project crawls v2ray configs from Telegram channels: https://github.com/mrvcoder/V2rayCollector
+
+Excel Url Checker. This Python script checks the HTTP status codes for a list of URLs provided in an Excel file. It processes the URLs in parallel using multiple threads, handles errors gracefully, and saves the results (status codes or error messages) in a new column in the output Excel file: https://github.com/vollh4rD/Excel-Url-Checker
+
+WiFi Password Stealer. Simple Windows and Linux keystroke injection tool that exfiltrates stored WiFi data (SSID and password): https://github.com/AleksaMCode/WiFi-password-stealer
+
 ----
 
 **Universal Search & AI:**
+
+BruteForceAI. Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks: https://github.com/MorDavid/BruteForceAI
 
 AgenticSeek. Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity: https://github.com/Fosowl/agenticSeek
 
@@ -51,6 +69,10 @@ Node.js wrapper for useragents.me: https://github.com/DavideViolante/useragents-
 **Linux & DevOps:**
 
 BrewKit. Container-native build system. Meaning that BrewKit is a **single tool** that you should use(across Docker) to build project: https://github.com/ispringtech/brewkit
+
+Probe codebase of RIPE Atlas, a global network measuring Internet connectivity and reachability: https://github.com/RIPE-NCC/ripe-atlas-software-probe
+
+[Merliot](https://merliot.io/) Hub is an AI-integrated device hub. What does that mean? It means you can control and interact with your physical devices, your security cameras, your thermometer, seamlessly using natural language from an LLM host such as [Claude Desktop](https://claude.ai/download) or [Cursor](https://cursor.com/). The hub is a gateway between AI and the physical world: https://github.com/merliot/hub
 
 ----
 
@@ -79,7 +101,7 @@ https://hunch.ly
 
 **New from GitHub Community:**
 
-Probe codebase of RIPE Atlas, a global network measuring Internet connectivity and reachability: https://github.com/RIPE-NCC/ripe-atlas-software-probe
+Quik. The most beautiful SMS messenger for Android: https://github.com/octoshrimpy/quik
 
 ----
 ### bormaxi8080 OSINT timeline:
