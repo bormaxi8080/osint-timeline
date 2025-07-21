@@ -70,6 +70,8 @@ Contextual AI. This service converts PDF files into clean text, ready to be fed 
 
 [Templater](https://github.com/SilentVoid13/Templater) is a template plugin for [Obsidian.md](https://obsidian.md/). It defines a templating language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions: https://github.com/SilentVoid13/Templater
 
+: https://github.com/Seraphli/obsidian-link-embed
+
 nats.go. Golang client for NATS, the cloud native messaging system: https://github.com/nats-io/nats.go
 
 A monorepo for puppeteer-extra, a modular plugin framework for Puppeteer: https://github.com/berstend/puppeteer-extra
