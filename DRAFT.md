@@ -18,6 +18,12 @@ Stratir. A creative intelligence company synthesizing human ingenuity and artifi
 
 ----
 
+Designed for ultimate security and ease of use, Tresorit SecureCloud provides an all-in-one, customizable workspace for storing sensitive data and collaborating with your teams, clients, and partners: https://tresorit.com/
+
+Cryptee. Private & Encrypted European Cloud Storage.  https://crypt.ee/
+
+----
+
 OSINT of Egypt. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://unishka.substack.com/p/osint-of-egypt
 
 Awesome OSINT Chrome Extensions. Often, much of the OSINT analyst's work is done using a browser. And sometimes it consists only of endless data search on different sites. This repository contains extensions for Chrome/Brave that will help make this process more comfortable and efficient: https://github.com/ubikron/awesome-osint-chrome-extensions
@@ -46,6 +52,8 @@ Excel Url Checker. This Python script checks the HTTP status codes for a list of
 
 WiFi Password Stealer. Simple Windows and Linux keystroke injection tool that exfiltrates stored WiFi data (SSID and password): https://github.com/AleksaMCode/WiFi-password-stealer
 
+DarkScrape. OSINT Tool For Scraping Dark Websites: https://github.com/itsmehacker/DarkScrape
+
 ----
 
 **Universal Search & AI:**
@@ -71,6 +79,8 @@ Puppeteer IDE Extension. A standalone extension to write and execute puppeteer s
 Puppeteer Cluster. Create a cluster of puppeteer workers. This library spawns a pool of Chromium instances via [Puppeteer](https://github.com/GoogleChrome/puppeteer "Puppeteer") and helps to keep track of jobs and errors. This is helpful if you want to crawl multiple pages or run tests in parallel. Puppeteer Cluster takes care of reusing Chromium and restarting the browser in case of errors: https://github.com/thomasdondorf/puppeteer-cluster
 
 Node.js wrapper for useragents.me: https://github.com/DavideViolante/useragents-me-api/
+
+Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
 
 ----
 
@@ -108,6 +118,8 @@ https://hunch.ly
 ----
 
 **New from GitHub Community:**
+
+TableCruncher. A lightweight, powerful CSV editor for macOS, Windows and Linux — with built-in JavaScript macros: https://github.com/Tablecruncher/tablecruncher
 
 Quik. The most beautiful SMS messenger for Android: https://github.com/octoshrimpy/quik
 
