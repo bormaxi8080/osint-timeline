@@ -60,17 +60,19 @@ DarkScrape. OSINT Tool For Scraping Dark Websites: https://github.com/itsmehacke
 
 BruteForceAI. Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks: https://github.com/MorDavid/BruteForceAI
 
+Detect AI. Deep AI image analysis - searching for copies of images on different websites, detect visual anomalies and statistical improbabilities, detect AI-generated content, quick google images/google fact-check buttons: https://detectai.live
+
 AgenticSeek. Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity: https://github.com/Fosowl/agenticSeek
 
 Contextual AI. This service converts PDF files into clean text, ready to be fed into neural networks. Simply upload the document, and the tool will extract the structure, sections, tables, diagrams, and images, turning them into understandable text with metadata: https://app.contextual.ai/
+
+Jina AI. Convert any URL to an LLM-friendly input with a simple prefix: https://github.com/jina-ai/reader
 
 ----
 
 **Software Development & APIs:**
 
-[Templater](https://github.com/SilentVoid13/Templater) is a template plugin for [Obsidian.md](https://obsidian.md/). It defines a templating language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions: https://github.com/SilentVoid13/Templater
-
-Obsidian Link Embed. This plugin allow you to convert URLs in your notes into embeded previews: https://github.com/Seraphli/obsidian-link-embed
+Fissure. The RF and reverse engineering framework for everyone: https://github.com/ainfosec/FISSURE
 
 nats.go. Golang client for NATS, the cloud native messaging system: https://github.com/nats-io/nats.go
 
@@ -94,6 +96,8 @@ Probe codebase of RIPE Atlas, a global network measuring Internet connectivity a
 
 [Merliot](https://merliot.io/) Hub is an AI-integrated device hub. What does that mean? It means you can control and interact with your physical devices, your security cameras, your thermometer, seamlessly using natural language from an LLM host such as [Claude Desktop](https://claude.ai/download) or [Cursor](https://cursor.com/). The hub is a gateway between AI and the physical world: https://github.com/merliot/hub
 
+Systemd Pilot. Desktop application for managing systemd services: https://github.com/mfat/systemd-pilot
+
 ----
 
 **Flipper Zero & Other Devices:**
@@ -107,6 +111,8 @@ ESP32 Bus Pirate is an open-source firmware that turns your device into a multi
 **New from CyberDetective:**
 
 Reversely. Reverse image and face search engine. Searches not bad, but in the free version it shows only part of the text from the found page (but it can be useful too): https://www.reversely.ai/
+
+Enter email to check if it is connected to some PGP key (it can then be used to gather information in document archives, leak databases, forums, etc): https://keys.openpgp.org
 
 Hunchly. It's a good old tool that's worth reminding once again:
 
@@ -124,6 +130,10 @@ https://hunch.ly
 TableCruncher. A lightweight, powerful CSV editor for macOS, Windows and Linux — with built-in JavaScript macros: https://github.com/Tablecruncher/tablecruncher
 
 Quik. The most beautiful SMS messenger for Android: https://github.com/octoshrimpy/quik
+
+[Templater](https://github.com/SilentVoid13/Templater) is a template plugin for [Obsidian.md](https://obsidian.md/). It defines a templating language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions: https://github.com/SilentVoid13/Templater
+
+Obsidian Link Embed. This plugin allow you to convert URLs in your notes into embeded previews: https://github.com/Seraphli/obsidian-link-embed
 
 ----
 ### bormaxi8080 OSINT timeline:
