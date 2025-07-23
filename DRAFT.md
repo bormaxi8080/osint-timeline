@@ -92,7 +92,7 @@ Puppeteer Cluster. Create a cluster of puppeteer workers. This library spawns a 
 
 Node.js wrapper for useragents.me: https://github.com/DavideViolante/useragents-me-api/
 
-Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
+Ultimatum is a chromium fork with web extensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
 
 ----
 
