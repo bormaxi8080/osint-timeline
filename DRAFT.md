@@ -122,6 +122,9 @@ Reversely. Reverse image and face search engine. Searches not bad, but in the fr
 
 Enter email to check if it is connected to some PGP key (it can then be used to gather information in document archives, leak databases, forums, etc): https://keys.openpgp.org
 
+GeoMastr. Huge database of unique objects for different countries on road photos. Bollards, Fuel Stations, License Plate, Post Company, Road Lines, Street Signs, Alphabet and more: https://geomastr.com/
+
+
 Hunchly. It's a good old tool that's worth reminding once again:
 
 - save the pages you visit (text, screenshots, path to opening)
