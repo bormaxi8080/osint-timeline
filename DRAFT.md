@@ -20,11 +20,19 @@ Stratir. A creative intelligence company synthesizing human ingenuity and artifi
 
 Designed for ultimate security and ease of use, Tresorit SecureCloud provides an all-in-one, customizable workspace for storing sensitive data and collaborating with your teams, clients, and partners: https://tresorit.com/
 
-Cryptee. Private & Encrypted European Cloud Storage.  https://crypt.ee/
+Cryptee. Private & Encrypted European Cloud Storage:  https://crypt.ee/
+
+GDELT. Global Database of Events, Language and Tone. Search news around the world by keyword. Filter by country, language and domain. See the density of news on the topic you are researching on the map and analyse the dynamics of their number in different periods of time: https://gdelt.github.io/
+
+Whether you're a journalist, analyst, investigator, or just OSINT-curious, having the right tools is key. This [Start.me](http://Start.me) page collects essential OSINT resources: search engines, maps, reverse image search, and privacy tools. All clearly organized into widgets and categories, so you can quickly find what you need and build your workflow. Ideal for small teams or solo researchers who want a structured start: https://start.me/p/p1Ba7E/basic-osint-tools
+
+OSINT resources for researching ransomware. List with brief explanations by Matt (OSINTme). Ransomware news & publications, Learning resources from CISA, Cryptocurrency deposit addresses, Shodan queries & filters, Ransomware related intelligence: https://www.osintme.com/index.php/2024/09/20/osint-resources-for-researching-ransomware/
 
 ----
 
 OSINT of Egypt. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://unishka.substack.com/p/osint-of-egypt
+
+Ecuador OSINT. Open Data Portals, Company Registries / Business Information, Land Records / Property Ownership, Vehicle Information, People Search, Procurement and Government Contracts, Courts, WHOIS and Domain Info, Maps, Corruption: https://unishka.substack.com/p/osint-of-ecuador
 
 Awesome OSINT Chrome Extensions. Often, much of the OSINT analyst's work is done using a browser. And sometimes it consists only of endless data search on different sites. This repository contains extensions for Chrome/Brave that will help make this process more comfortable and efficient: https://github.com/ubikron/awesome-osint-chrome-extensions
 
