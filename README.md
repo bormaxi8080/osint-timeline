@@ -19,6 +19,8 @@ If you like the projects that I do, I will be grateful for donations in private 
 ----
 ### Timelines:
 
+[bormaxi8080 OSINT Timeline (120) - 24.07.2025](./timelines/bormaxi8080-osint-timeline_120_24.07.2025.md)
+
 [bormaxi8080 OSINT Timeline (119) - 17.07.2025](./timelines/bormaxi8080-osint-timeline_119_17.07.2025.md)
 
 [bormaxi8080 OSINT Timeline (118) - 10.07.2025](./timelines/bormaxi8080-osint-timeline_118_10.07.2025.md)
