@@ -46,6 +46,8 @@ Telepipe. A simple command-line utility to send messages to Telegram: https://gi
 
 As most of email products out there, Unsend also uses Amazon SES under the hood to send emails. We provide an open and alternative way to send emails reliably and cheaply with a great dashboard. You can also use Unsend manage contacts and send bulk emails(newsletter, product updates etc): https://github.com/unsend-dev/unsend
 
+Master OSINT is a comprehensive, beginner-friendly Python toolkit designed for open source intelligence investigations. The tool supports multiple investigative methods including image geolocation, social media profiling, email breach and verification checkup, domain lookup, metadata extraction, Google dorking, Wayback Machine querying, IP geolocation with blacklist checks, reverse image search, geospatial Intelligence and phone number validation: https://github.com/techenthusiast167/Master-OSINT-Toolkit-
+
 PyLeak. Detect leaked asyncio tasks, threads, and event loop blocking with stack trace in Python. Inspired by GoLeak: https://github.com/deepankarm/pyleak
 
 APKDeepLens is a Python based tool designed to scan Android applications (APK files) for security vulnerabilities. It specifically targets the OWASP Top 10 mobile vulnerabilities, providing an easy and efficient way for developers, penetration testers, and security researchers to assess the security posture of Android apps: https://github.com/d78ui98/APKDeepLens
