@@ -7,7 +7,7 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 ----
 
-
+```OSINT of Romania```. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://substack.com/home/post/p-167581111
 
 ----
 

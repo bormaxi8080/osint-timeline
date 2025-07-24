@@ -134,9 +134,9 @@ https://hunch.ly
 
 **New from GitHub Community:**
 
-TableCruncher. A lightweight, powerful CSV editor for macOS, Windows and Linux — with built-in JavaScript macros: https://github.com/Tablecruncher/tablecruncher
+```TableCruncher```. A lightweight, powerful CSV editor for macOS, Windows and Linux — with built-in JavaScript macros: https://github.com/Tablecruncher/tablecruncher
 
-Quik. The most beautiful SMS messenger for Android: https://github.com/octoshrimpy/quik
+```Quik```. The most beautiful SMS messenger for Android: https://github.com/octoshrimpy/quik
 
 ----
 ### bormaxi8080 OSINT timeline:
