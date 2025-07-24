@@ -76,6 +76,8 @@ Contextual AI. This service converts PDF files into clean text, ready to be fed 
 
 Jina AI. Convert any URL to an LLM-friendly input with a simple prefix: https://github.com/jina-ai/reader
 
+Talo. Real-Time AI Translator for Video Calls: https://www.taloai.com/
+
 ----
 
 **Software Development & APIs:**
