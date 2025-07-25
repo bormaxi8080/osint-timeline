@@ -9,6 +9,8 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 ```OSINT of Romania```. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://substack.com/home/post/p-167581111
 
+UNISHKA's OSINT for Countries. A series of articles (constantly updated), each with dozens of tools for collecting information about people, cars, domains, companies and other objects of interest in different countries: https://substack.com/@unishkaresearchservice
+
 ----
 
 **OSINT Tools, Services and Investigations:**
