@@ -13,7 +13,7 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 **OSINT Tools, Services and Investigations:**
 
-
+Ultimatum is a chromium fork with web extensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
 
 ----
 
@@ -25,11 +25,11 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 **Software Development & APIs:**
 
+Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2: https://github.com/boto/boto3
+
 Puppeteer Cluster. Create a cluster of puppeteer workers. This library spawns a pool of Chromium instances via [Puppeteer](https://github.com/GoogleChrome/puppeteer "Puppeteer") and helps to keep track of jobs and errors. This is helpful if you want to crawl multiple pages or run tests in parallel. Puppeteer Cluster takes care of reusing Chromium and restarting the browser in case of errors: https://github.com/thomasdondorf/puppeteer-cluster
 
 Node.js wrapper for useragents.me: https://github.com/DavideViolante/useragents-me-api/
-
-Ultimatum is a chromium fork with web extensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
 
 ----
 
@@ -41,6 +41,7 @@ Ultimatum is a chromium fork with web extensions support on Android, anti-detect
 
 **Flipper Zero & Other Devices:**
 
+FlipperZero Barcode Scanner Emulator. Emulates a barcode scanner for testing cash registers: https://github.com/polarikus/flipper-zero_bc_scanner_emulator
 
 ----
 
