@@ -17,6 +17,8 @@ UNISHKA's OSINT for Countries. A series of articles (constantly updated), each w
 
 Ultimatum is a chromium fork with web extensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
 
+Awesome Puppeteer. A curated list of awesome puppeteer resources: https://github.com/transitive-bullshit/awesome-puppeteer
+
 OSINTMAILER. A robust Python-based OSINT tool designed for validating and investigating email addresses across social media platforms and known data breaches, enhancing threat intelligence and digital footprint analysis: https://github.com/techenthusiast167/OSINTMAILER-
 
 TG Auto Poster. Telegram Bot for reposting from VK: https://github.com/qwertyadrian/TG_AutoPoster
