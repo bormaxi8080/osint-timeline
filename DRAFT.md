@@ -17,11 +17,15 @@ UNISHKA's OSINT for Countries. A series of articles (constantly updated), each w
 
 Ultimatum is a chromium fork with web extensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
 
+TG Auto Poster. Telegram Bot for reposting from VK: https://github.com/qwertyadrian/TG_AutoPoster
+
 ----
 
 **Universal Search & AI:**
 
+Sokuji is a desktop application designed to provide live speech translation using OpenAI, Google Gemini, and Palabra.ai APIs. It bridges language barriers in live conversations by capturing audio input, processing it through advanced AI models, and delivering translated output in real-time: https://github.com/kizuna-ai-lab/sokuji
 
+Voice Extractor. A tool for identifying, isolating, and transcribing clean solo segments of a target speaker from multi-speaker audio recordings. Processes audio to extract only non-overlapped speech of a specific person using modern AI techniques: https://github.com/ReisCook/Voice_Extractor
 
 ----
 
