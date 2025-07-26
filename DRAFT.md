@@ -17,11 +17,15 @@ UNISHKA's OSINT for Countries. A series of articles (constantly updated), each w
 
 Ultimatum is a chromium fork with web extensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
 
+OSINTMAILER. A robust Python-based OSINT tool designed for validating and investigating email addresses across social media platforms and known data breaches, enhancing threat intelligence and digital footprint analysis: https://github.com/techenthusiast167/OSINTMAILER-
+
 TG Auto Poster. Telegram Bot for reposting from VK: https://github.com/qwertyadrian/TG_AutoPoster
 
 ----
 
 **Universal Search & AI:**
+
+Lara offers accurate, literary, and creative translation, and allows you to add context: https://laratranslate.com/translate
 
 Sokuji is a desktop application designed to provide live speech translation using OpenAI, Google Gemini, and Palabra.ai APIs. It bridges language barriers in live conversations by capturing audio input, processing it through advanced AI models, and delivering translated output in real-time: https://github.com/kizuna-ai-lab/sokuji
 
