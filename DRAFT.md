@@ -13,11 +13,27 @@ UNISHKA's OSINT for Countries. A series of articles (constantly updated), each w
 
 ----
 
-**OSINT Tools, Services and Investigations:**
+Flood Runner. An open-source framework that allows you to easily monitor your web applications, using end-to-end browser tests: https://www.floodrunner.dev/
+
+GitHub: https://github.com/FloodRunner/FloodRunner
+
+----
+
+Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD and Friends: https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907
+
+Awesome Puppeteer. A curated list of awesome puppeteer resources: https://github.com/transitive-bullshit/awesome-puppeteer
+
+Puppeteer Official Examples. Use case-driven examples for using Puppeteer and headless Chrome: https://github.com/puppeteer/examples
+
+Puppeteer example scripts for running Headless Chrome from Node from Checkly: https://github.com/checkly/puppeteer-examples
+
+Puppeteer Cluster. Create a cluster of puppeteer workers. This library spawns a pool of Chromium instances via [Puppeteer](https://github.com/GoogleChrome/puppeteer "Puppeteer") and helps to keep track of jobs and errors. This is helpful if you want to crawl multiple pages or run tests in parallel. Puppeteer Cluster takes care of reusing Chromium and restarting the browser in case of errors: https://github.com/thomasdondorf/puppeteer-cluster
 
 Ultimatum is a chromium fork with web extensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
 
-Awesome Puppeteer. A curated list of awesome puppeteer resources: https://github.com/transitive-bullshit/awesome-puppeteer
+----
+
+**OSINT Tools, Services and Investigations:**
 
 OSINTMAILER. A robust Python-based OSINT tool designed for validating and investigating email addresses across social media platforms and known data breaches, enhancing threat intelligence and digital footprint analysis: https://github.com/techenthusiast167/OSINTMAILER-
 
@@ -38,8 +54,6 @@ Voice Extractor. A tool for identifying, isolating, and transcribing clean solo 
 **Software Development & APIs:**
 
 Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2: https://github.com/boto/boto3
-
-Puppeteer Cluster. Create a cluster of puppeteer workers. This library spawns a pool of Chromium instances via [Puppeteer](https://github.com/GoogleChrome/puppeteer "Puppeteer") and helps to keep track of jobs and errors. This is helpful if you want to crawl multiple pages or run tests in parallel. Puppeteer Cluster takes care of reusing Chromium and restarting the browser in case of errors: https://github.com/thomasdondorf/puppeteer-cluster
 
 Node.js wrapper for useragents.me: https://github.com/DavideViolante/useragents-me-api/
 
