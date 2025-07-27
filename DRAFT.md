@@ -60,6 +60,10 @@ Voice Extractor. A tool for identifying, isolating, and transcribing clean solo 
 
 Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2: https://github.com/boto/boto3
 
+[Templater](https://github.com/SilentVoid13/Templater) is a template plugin for [Obsidian.md](https://obsidian.md/). It defines a templating language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions: https://github.com/SilentVoid13/Templater
+
+Obsidian Link Embed. This plugin allow you to convert URLs in your notes into embeded previews: https://github.com/Seraphli/obsidian-link-embed
+
 Node.js wrapper for useragents.me: https://github.com/DavideViolante/useragents-me-api/
 
 ----
@@ -78,15 +82,19 @@ FlipperZero Barcode Scanner Emulator. Emulates a barcode scanner for testing cas
 
 **New from CyberDetective:**
 
+Filmot. I already did a tweet about YouTube's subtitle search engine a few years ago, but since then it's very much expanded its functionality and increased its search index:
 
+1.33 billion transcripts
+1.18 billion videos
+72 million channels
+
+https://filmot.com/
 
 ----
 
 **New from GitHub Community:**
 
-[Templater](https://github.com/SilentVoid13/Templater) is a template plugin for [Obsidian.md](https://obsidian.md/). It defines a templating language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions: https://github.com/SilentVoid13/Templater
-
-Obsidian Link Embed. This plugin allow you to convert URLs in your notes into embeded previews: https://github.com/Seraphli/obsidian-link-embed
+ToolHub. All the tools you need to bring your digital visions to life. From image editing tools to text manipulation tools, we've got everything you need to enhance your digital creations: https://tools3ox.com/
 
 ----
 ### bormaxi8080 OSINT timeline:
