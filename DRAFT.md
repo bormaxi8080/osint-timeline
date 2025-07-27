@@ -1,6 +1,9 @@
 
 I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky forest. Verdun. Tin cans with nails. Optical fiber getting into flour.
 
+
+Living in a society poisoned by propaganda, sooner or later everyone will become infected.
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2800: https://github.com/bormaxi8080/osint-repos-list
