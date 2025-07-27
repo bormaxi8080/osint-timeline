@@ -35,6 +35,8 @@ Ultimatum is a chromium fork with web extensions support on Android, anti-detect
 
 **OSINT Tools, Services and Investigations:**
 
+Awesome Threat Detection and Hunting. A curated list of awesome threat detection and hunting resources: https://github.com/0x4D31/awesome-threat-detection
+
 OSINTMAILER. A robust Python-based OSINT tool designed for validating and investigating email addresses across social media platforms and known data breaches, enhancing threat intelligence and digital footprint analysis: https://github.com/techenthusiast167/OSINTMAILER-
 
 TG Auto Poster. Telegram Bot for reposting from VK: https://github.com/qwertyadrian/TG_AutoPoster
