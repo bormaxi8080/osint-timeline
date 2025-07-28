@@ -40,6 +40,8 @@ Ultimatum is a chromium fork with web extensions support on Android, anti-detect
 
 Awesome Threat Detection and Hunting. A curated list of awesome threat detection and hunting resources: https://github.com/0x4D31/awesome-threat-detection
 
+Mine. Discover where your personal data is online, in less than 30 seconds: https://www.saymine.com/mineapp
+
 User Finder. OSINT tool for finding profiles by username: https://github.com/mishakorzik/UserFinder
 
 MailFinder. OSINT tool for finding email by first and last name: https://github.com/mishakorzik/MailFinder
@@ -76,7 +78,9 @@ Node.js wrapper for useragents.me: https://github.com/DavideViolante/useragents-
 
 **Linux & DevOps:**
 
-NetBird. Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls: https://github.com/netbirdio/netbird
+NetBird. Connect your devices into a secure WireGuard-based overlay network with SSO, MFA and granular access controls: https://github.com/netbirdio/netbird
+
+OBash. Yet another Shell Obfuscation alternative: https://github.com/louigi600/obash
 
 ----
 
