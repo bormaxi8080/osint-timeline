@@ -10,9 +10,21 @@ Living in a society poisoned by propaganda, sooner or later everyone will become
 
 ----
 
+OSINT in Africa: SOCMINT Strategies Across the Continent. Detailed article by OSINT Industries* ([](https://www.linkedin.com/in/nathanielfried/)[Nathaniel F.](https://www.linkedin.com/in/ACoAABJWxOABpP9H5pTYqrHIIZf8q5BgUDZHhhk)) team. SOCMINT and OSINT in the African Context, The Dark Continent: Specific Challenges for OSINT in Africa, The Big Five: Which Platforms are Popular in Africa, On Safari: What to Look For in Emails and Phone Numbers, Exploring the Jungle: A Platform-by-Platform Approach to African OSINT, Reverse Username, Phone and Email Lookups, Legal and Ethical Considerations: https://www.osint.industries/post/osint-in-africa-socmint-strategies-across-the-continent
+
 ```OSINT of Romania```. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://substack.com/home/post/p-167581111
 
 UNISHKA's OSINT for Countries. A series of articles (constantly updated), each with dozens of tools for collecting information about people, cars, domains, companies and other objects of interest in different countries: https://substack.com/@unishkaresearchservice
+
+Atypical OSINT Guide. Introduction, Civil OSINT, EImmersive & Gamified Learning, Training & Practicing, Choosing a Pathway to Follow, Immersive & Gamified Learning, Games (b), Work (A-Z), External Data: https://github.com/OffcierCia/non-typical-OSINT-guide
+
+YouTube OSINT Tools. List by [](https://www.linkedin.com/in/darknessgate/)[Nihad Hassan](https://www.linkedin.com/in/ACoAAAs13F4BcsTD5hByvj9qpwiLZ8lK6PpzNXg): https://osint.link/social-media-intelligence-socmint/#you1
+
+Analyst Research Tools. A comprehensive suite of OSINT utilities designed for investigative research, including tools for social media, email, phone number, and domain searches, as well as username and email permutation: https://analystresearchtools.com/
+
+Impersonal Me. Perform Google searches as if they were in different countries or using different languages, providing localized search results without changing their actual location: https://impersonal.me
+
+Mine. Discover where your personal data is online, in less than 30 seconds: https://www.saymine.com/mineapp
 
 ----
 
@@ -22,25 +34,13 @@ GitHub: https://github.com/FloodRunner/FloodRunner
 
 ----
 
-Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD and Friends: https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907
-
-Awesome Puppeteer. A curated list of awesome puppeteer resources: https://github.com/transitive-bullshit/awesome-puppeteer
-
-Puppeteer Official Examples. Use case-driven examples for using Puppeteer and headless Chrome: https://github.com/puppeteer/examples
-
-Puppeteer example scripts for running Headless Chrome from Node from Checkly: https://github.com/checkly/puppeteer-examples
-
-Puppeteer Cluster. Create a cluster of puppeteer workers. This library spawns a pool of Chromium instances via [Puppeteer](https://github.com/GoogleChrome/puppeteer "Puppeteer") and helps to keep track of jobs and errors. This is helpful if you want to crawl multiple pages or run tests in parallel. Puppeteer Cluster takes care of reusing Chromium and restarting the browser in case of errors: https://github.com/thomasdondorf/puppeteer-cluster
-
-Ultimatum is a chromium fork with web extensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
-
-----
-
 **OSINT Tools, Services and Investigations:**
 
 Awesome Threat Detection and Hunting. A curated list of awesome threat detection and hunting resources: https://github.com/0x4D31/awesome-threat-detection
 
-Mine. Discover where your personal data is online, in less than 30 seconds: https://www.saymine.com/mineapp
+V2Ray Configurations Hub is a cutting-edge, fully automated platform designed to collect, process, and distribute high-quality V2Ray configurations. Powered by intelligent algorithms, it systematically gathers **Vmess**, **Vless**, **Shadowsocks**, **Trojan**, **Hysteria2**, **TUIC**, and **Reality** configurations from publicly accessible Telegram channels. The platform categorizes configurations based on open and closed ports, eliminates duplicates, resolves addresses using IP addresses, and updates configuration titles to reflect server and protocol properties, including network type, security type, IP address, port, and associated country. With over 10,000 configurations spanning 100+ countries, it ensures reliable, secure, and optimized connections for users worldwide: https://github.com/eQnz/configs-collector-v2ray
+
+Telegram Message Forwarder Bot. A telegram bot to forward messages automatically when they arrived: https://github.com/viperadnan-git/telegram-message-forwarder-bot
 
 User Finder. OSINT tool for finding profiles by username: https://github.com/mishakorzik/UserFinder
 
@@ -76,6 +76,20 @@ Node.js wrapper for useragents.me: https://github.com/DavideViolante/useragents-
 
 ----
 
+Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD and Friends: https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907
+
+Awesome Puppeteer. A curated list of awesome puppeteer resources: https://github.com/transitive-bullshit/awesome-puppeteer
+
+Puppeteer Official Examples. Use case-driven examples for using Puppeteer and headless Chrome: https://github.com/puppeteer/examples
+
+Puppeteer example scripts for running Headless Chrome from Node from Checkly: https://github.com/checkly/puppeteer-examples
+
+Puppeteer Cluster. Create a cluster of puppeteer workers. This library spawns a pool of Chromium instances via [Puppeteer](https://github.com/GoogleChrome/puppeteer "Puppeteer") and helps to keep track of jobs and errors. This is helpful if you want to crawl multiple pages or run tests in parallel. Puppeteer Cluster takes care of reusing Chromium and restarting the browser in case of errors: https://github.com/thomasdondorf/puppeteer-cluster
+
+Ultimatum is a chromium fork with web extensions support on Android, anti-detect browser capabilities, web3.0 support and much more: https://github.com/gonzazoid/Ultimatum
+
+----
+
 **Linux & DevOps:**
 
 NetBird. Connect your devices into a secure WireGuard-based overlay network with SSO, MFA and granular access controls: https://github.com/netbirdio/netbird
@@ -92,13 +106,9 @@ FlipperZero Barcode Scanner Emulator. Emulates a barcode scanner for testing cas
 
 **New from CyberDetective:**
 
-Filmot. I already did a tweet about YouTube's subtitle search engine a few years ago, but since then it's very much expanded its functionality and increased its search index:
+List of academic databases and search engines. A list of dozens of the largest online tools for finding scholarly articles in a wide variety of disciplines: https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines
 
-1.33 billion transcripts
-1.18 billion videos
-72 million channels
-
-https://filmot.com/
+Filmot. I already did a tweet about YouTube's subtitle search engine a few years ago, but since then it's very much expanded its functionality and increased its search index - 1.33 billion transcripts, 1.18 billion videos, 72 million channels: https://filmot.com/
 
 ----
 
