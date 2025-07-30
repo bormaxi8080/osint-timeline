@@ -12,7 +12,7 @@ Living in a society poisoned by propaganda, sooner or later everyone will become
 
 OSINT in Africa: SOCMINT Strategies Across the Continent. Detailed article by OSINT Industries* ([](https://www.linkedin.com/in/nathanielfried/)[Nathaniel F.](https://www.linkedin.com/in/ACoAABJWxOABpP9H5pTYqrHIIZf8q5BgUDZHhhk)) team. SOCMINT and OSINT in the African Context, The Dark Continent: Specific Challenges for OSINT in Africa, The Big Five: Which Platforms are Popular in Africa, On Safari: What to Look For in Emails and Phone Numbers, Exploring the Jungle: A Platform-by-Platform Approach to African OSINT, Reverse Username, Phone and Email Lookups, Legal and Ethical Considerations: https://www.osint.industries/post/osint-in-africa-socmint-strategies-across-the-continent
 
-```OSINT of Romania```. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://substack.com/home/post/p-167581111
+OSINT of Romania. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://substack.com/home/post/p-167581111
 
 UNISHKA's OSINT for Countries. A series of articles (constantly updated), each with dozens of tools for collecting information about people, cars, domains, companies and other objects of interest in different countries: https://substack.com/@unishkaresearchservice
 
@@ -54,7 +54,7 @@ OSINTMAILER. A robust Python-based OSINT tool designed for validating and invest
 
 TG Auto Poster. Telegram Bot for reposting from VK: https://github.com/qwertyadrian/TG_AutoPoster
 
-Free-Proxy - Alot of proxies here: https://github.com/mishakorzik/Free-Proxy
+Free-Proxy - A lot of proxies here: https://github.com/mishakorzik/Free-Proxy
 
 ----
 
