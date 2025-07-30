@@ -18,6 +18,10 @@ UNISHKA's OSINT for Countries. A series of articles (constantly updated), each w
 
 Atypical OSINT Guide. Introduction, Civil OSINT, EImmersive & Gamified Learning, Training & Practicing, Choosing a Pathway to Follow, Immersive & Gamified Learning, Games (b), Work (A-Z), External Data: https://github.com/OffcierCia/non-typical-OSINT-guide
 
+Offshore Leaks Database. A searchable database by the ICIJ containing information on over 810,000 offshore entities from investigations like the Panama Papers and Pandora Papers, aiding in financial transparency and investigative research: https://offshoreleaks.icij.org/
+
+Finra. Very large database of people related to financial markets (only by name is john more than 75 thousand people), with full names, work addresses and other details. Large database of companies (you can even search by two letters of a name): https://brokercheck.finra.org/
+
 YouTube OSINT Tools. List by [](https://www.linkedin.com/in/darknessgate/)[Nihad Hassan](https://www.linkedin.com/in/ACoAAAs13F4BcsTD5hByvj9qpwiLZ8lK6PpzNXg): https://osint.link/social-media-intelligence-socmint/#you1
 
 Analyst Research Tools. A comprehensive suite of OSINT utilities designed for investigative research, including tools for social media, email, phone number, and domain searches, as well as username and email permutation: https://analystresearchtools.com/
@@ -55,6 +59,10 @@ Free-Proxy - Alot of proxies here: https://github.com/mishakorzik/Free-Proxy
 ----
 
 **Universal Search & AI:**
+
+Most search engines show you the surface.  
+  
+[](https://www.linkedin.com/in/alireza-miryazdi/)[Alireza M.](https://www.linkedin.com/in/ACoAADICBqkBZorQ_EZyfHNLR7I_TdDQeAT8_sQ)'s EyeDex goes deeper. It’s a deep web search engine built to uncover hidden files, unlisted images, and obscure pages that traditional search tools miss: https://www.eyedex.org
 
 Lara offers accurate, literary, and creative translation, and allows you to add context: https://laratranslate.com/translate
 
