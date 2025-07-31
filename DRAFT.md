@@ -48,6 +48,8 @@ Slideshare Search. Discover presentations, documents, infographics, useful for g
 
 Talkwalker OSINT Tool. An AI-powered platform for monitoring threats, analyzing public data, and making informed decisions by tracking millions of online sources: https://www.talkwalker.com/osint-tool
 
+Maps Video. Private street view video libraries using action cameras: https://maps.video/map
+
 ----
 
 **Universal Search & AI:**
