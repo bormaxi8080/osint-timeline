@@ -10,13 +10,27 @@ Living in a society poisoned by propaganda, sooner or later everyone will become
 
 ----
 
+Hacking Nuclear Reactors using eBay and reverse engineering: cyber-physical attacks on Nuclear Power Plants (NPPs). 
+  
+Security researcher Ruben Santamarta shared his fundamental (and one-of-a-kind) research on the cybersecurity of nuclear power plants a few months ago - 138 pages of scary but fascinating findings.  
+  
+As the author wrote, the analysis and the security issues described are purely hypothetical - because it's a nuclear reactor! The mind-blowing fact for me was that someone can buy nuclear plant equipment on eBay. Crazy - and quite alarming.  
+  
+Please enjoy the read and spread the word - offensive security research has officially come to nuclear plants.  
+  
+More details:
 
+Paper. A Practical Analysis of Cyber-Physical Attacks Against Nuclear Reactors: https://drive.google.com/file/d/1qe_nBH1ACDX2ydmzcIhJnbdRGnoDvVfP/view?pli=1
+
+Presentation: When Physics Meets (Reverse) Engineering. Understanding Cyber-Physical Attacks Against Nuclear Reactors: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://2024.swisscyberstorm.com/2024/10/22/ruben-santamarta.pdf
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+The OSINT Rack. Curated intelligence resources: https://www.mariosantella.com/the-osint-rack/
 
+Slideshare Search. Discover presentations, documents, infographics, useful for gathering insights about people and companies: https://www.slideshare.net/search
 
 ----
 
