@@ -26,6 +26,20 @@ Presentation: When Physics Meets (Reverse) Engineering. Understanding Cyber-Phys
 
 ----
 
+New UNISHKA OSINT for Countries:
+
+OSINT of Belarus: https://unishka.substack.com/p/osint-of-belarus
+
+OSINT of Lebanon: https://substack.com/home/post/p-166578494
+
+OSINT of Iraq: https://unishka.substack.com/p/osint-of-iraq
+
+OSINT of Nigeria: https://unishka.substack.com/p/osint-of-nigeria
+
+OSINT of Syria: https://unishka.substack.com/p/osint-of-syria
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 The OSINT Rack. Curated intelligence resources: https://www.mariosantella.com/the-osint-rack/
