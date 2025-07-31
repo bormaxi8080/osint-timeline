@@ -32,6 +32,8 @@ The OSINT Rack. Curated intelligence resources: https://www.mariosantella.com/th
 
 Slideshare Search. Discover presentations, documents, infographics, useful for gathering insights about people and companies: https://www.slideshare.net/search
 
+Talkwalker OSINT Tool. An AI-powered platform for monitoring threats, analyzing public data, and making informed decisions by tracking millions of online sources: https://www.talkwalker.com/osint-tool
+
 ----
 
 **Universal Search & AI:**
