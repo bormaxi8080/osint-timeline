@@ -9,7 +9,7 @@ Fallen.
 
 ----
 
-```OSINT in Africa```: SOCMINT Strategies Across the Continent. Detailed article by OSINT Industries* ([](https://www.linkedin.com/in/nathanielfried/)[Nathaniel F.](https://www.linkedin.com/in/ACoAABJWxOABpP9H5pTYqrHIIZf8q5BgUDZHhhk)) team. SOCMINT and OSINT in the African Context, The Dark Continent: Specific Challenges for OSINT in Africa, The Big Five: Which Platforms are Popular in Africa, On Safari: What to Look For in Emails and Phone Numbers, Exploring the Jungle: A Platform-by-Platform Approach to African OSINT, Reverse Username, Phone and Email Lookups, Legal and Ethical Considerations: https://www.osint.industries/post/osint-in-africa-socmint-strategies-across-the-continent
+```OSINT in Africa```: SOCMINT Strategies Across the Continent. Detailed article by OSINT Industries* ([Nathaniel F.](https://www.linkedin.com/in/ACoAABJWxOABpP9H5pTYqrHIIZf8q5BgUDZHhhk)) team. SOCMINT and OSINT in the African Context, The Dark Continent: Specific Challenges for OSINT in Africa, The Big Five: Which Platforms are Popular in Africa, On Safari: What to Look For in Emails and Phone Numbers, Exploring the Jungle: A Platform-by-Platform Approach to African OSINT, Reverse Username, Phone and Email Lookups, Legal and Ethical Considerations: https://www.osint.industries/post/osint-in-africa-socmint-strategies-across-the-continent
 
 OSINT of Romania. Open Data, Company Registries / Business Info, Land & Property Records, Vehicle & Registration Info, Litigation & Regulatory, People Search & Personal Data, Procurement & Tenders: https://substack.com/home/post/p-167581111
 
@@ -21,7 +21,7 @@ OSINT of Romania. Open Data, Company Registries / Business Info, Land & Property
 
 ```Finra```. Very large database of people related to financial markets (only by name is john more than 75 thousand people), with full names, work addresses and other details. Large database of companies (you can even search by two letters of a name): https://brokercheck.finra.org/
 
-```YouTube OSINT Tools```. List by [](https://www.linkedin.com/in/darknessgate/)[Nihad Hassan](https://www.linkedin.com/in/ACoAAAs13F4BcsTD5hByvj9qpwiLZ8lK6PpzNXg): https://osint.link/social-media-intelligence-socmint/#you1
+```YouTube OSINT Tools```. List by [Nihad Hassan](https://www.linkedin.com/in/ACoAAAs13F4BcsTD5hByvj9qpwiLZ8lK6PpzNXg): https://osint.link/social-media-intelligence-socmint/#you1
 
 ```Analyst Research Tools```. A comprehensive suite of OSINT utilities designed for investigative research, including tools for social media, email, phone number, and domain searches, as well as username and email permutation: https://analystresearchtools.com/
 
