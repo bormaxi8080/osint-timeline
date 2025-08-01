@@ -58,6 +58,8 @@ Tree of Thoughts. Deliberate Problem Solving with Large Language Models: https:/
 
 Token Limit. Monitor how many tokens your code and configs consume in AI tools. Set budgets and get alerts when limits are hit: https://github.com/azat-io/token-limit
 
+Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system): https://github.com/dtyq/magic
+
 ----
 
 **Software Development & APIs:**
@@ -107,7 +109,7 @@ DuckDuckGo now has a filter to hide AI-generated images from image search result
 
 **New from GitHub Community:**
 
-Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system): https://github.com/dtyq/magic
+Barrier. Eliminate the barrier between your machines. Find [releases for windows and macOS here](https://github.com/debauchee/barrier/releases). Your distro probably already has barrier packaged for it, see [distro specific packages](https://github.com/debauchee/barrier#distro-specific-packages) below for a list. Alternatively, we also provide a [flatpak](https://github.com/flathub/com.github.debauchee.barrier) and a [snap](https://snapcraft.io/barrier).
 
 ----
 ### bormaxi8080 OSINT timeline:
