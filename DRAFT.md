@@ -54,37 +54,54 @@ Maps Video. Private street view video libraries using action cameras: https://ma
 
 **Universal Search & AI:**
 
+Tree of Thoughts. Deliberate Problem Solving with Large Language Models: https://github.com/princeton-nlp/tree-of-thought-llm
 
+Token Limit. Monitor how many tokens your code and configs consume in AI tools. Set budgets and get alerts when limits are hit: https://github.com/azat-io/token-limit
 
 ----
 
 **Software Development & APIs:**
 
+BotCommander is a simple and convenient web interface for managing multiple Python bots. Each bot is isolated in its own directory with a virtual environment (venv). The interface shows the status, CPU/RAM load, uptime, and also allows you to start, stop, restart and disable bots: https://github.com/RuinasHistori/BotCommander
 
+Telert. Command‑line and Python utility that alerts on command completion, code execution and system monitoring events: https://github.com/navig-me/telert
 
 ----
 
 **Linux & DevOps:**
 
+FakeSNI. 
 
+A program for bypassing blocking by modifying the SNI field in the TLS protocol.
+
+Currently, most Russian providers have switched to using DPI filters. In the case of connections via the HTTPS protocol, almost all exchange with the remote server is encrypted. To determine the recipient, the filter has access to two connection parameters: the IP address and the ServerName field in the ClientHello request. For a number of reasons, filtering by IP address does not work well in practice, so ServerName is usually checked as a more reliable method. Modern browsers always add SNI and, accordingly, openly send ServerName.
+
+However, the TLS 1.2 protocol allows not adding SNI to the client request at all.
+
+In this case, the server must assume a connection to one of the served sites by default. All provider filters tested by the author currently allow requests with missing SNI. Sometimes it is possible to send a fake value for better disguise.
+
+Unfortunately, it is impossible to remove or replace SNI by changing browser settings, even with the help of extensions. This program communicates with the site via connections initialized by ClientHello with a fake ServerName value.
+In order to be able to view pages, the program locally starts a web server that relays responses. Thus, the browser can communicate with the site via the address http://127.0.0.1:10000/
+
+https://github.com/stopcenz/fakesni
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+USB HID AutoFire. Simple Flipper Zero application to send left-clicks as a USB HID device: https://github.com/pbek/usb_hid_autofire
 
 ----
 
 **New from CyberDetective:**
 
-
+DuckDuckGo now has a filter to hide AI-generated images from image search results. Hopefully, this feature will soon become a standard for all search engines and for all types of searches: https://duckduckgo.com/duckduckgo-help-pages/results/how-to-filter-out-ai-images-in-duckduckgo-search-results
 
 ----
 
 **New from GitHub Community:**
 
-
+Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system): https://github.com/dtyq/magic
 
 ----
 ### bormaxi8080 OSINT timeline:
