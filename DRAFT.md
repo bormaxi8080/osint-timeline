@@ -70,6 +70,12 @@ Telert. Command‑line and Python utility that alerts on command completion, cod
 
 **Linux & DevOps:**
 
+KDiskMark is an HDD and SSD benchmark tool with a very friendly graphical user interface. KDiskMark with its presets and powerful GUI calls [Flexible I/O Tester](https://github.com/axboe/fio) and handles the output to provide an easy to view and interpret comprehensive benchmark result. The application is written in C++ with Qt and _doesn't have_ any KDE dependencies: https://github.com/JonMagon/KDiskMark
+
+Download: https://snapcraft.io/kdiskmark
+
+--
+
 FakeSNI. 
 
 A program for bypassing blocking by modifying the SNI field in the TLS protocol.
