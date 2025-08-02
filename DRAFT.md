@@ -56,6 +56,8 @@ Maps Video. Private street view video libraries using action cameras: https://ma
 
 Tree of Thoughts. Deliberate Problem Solving with Large Language Models: https://github.com/princeton-nlp/tree-of-thought-llm
 
+Volt Agent. Open Source TypeScript AI Agent Framework: https://github.com/VoltAgent/voltagent
+
 Token Limit. Monitor how many tokens your code and configs consume in AI tools. Set budgets and get alerts when limits are hit: https://github.com/azat-io/token-limit
 
 Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system): https://github.com/dtyq/magic
@@ -64,13 +66,19 @@ Magic. The first open-source all-in-one AI productivity platform (Generalist AI 
 
 **Software Development & APIs:**
 
+Palanteer. Visual Python and C++ nanosecond profiler, logger, tests enabler: https://github.com/dfeneyrou/palanteer
+
 BotCommander is a simple and convenient web interface for managing multiple Python bots. Each bot is isolated in its own directory with a virtual environment (venv). The interface shows the status, CPU/RAM load, uptime, and also allows you to start, stop, restart and disable bots: https://github.com/RuinasHistori/BotCommander
 
-Telert. Command‑line and Python utility that alerts on command completion, code execution and system monitoring events: https://github.com/navig-me/telert
+DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices: https://github.com/dosbox-staging/dosbox-staging
 
 ----
 
 **Linux & DevOps:**
+
+Telert. Command‑line and Python utility that alerts on command completion, code execution and system monitoring events: https://github.com/navig-me/telert
+
+--
 
 KDiskMark is an HDD and SSD benchmark tool with a very friendly graphical user interface. KDiskMark with its presets and powerful GUI calls [Flexible I/O Tester](https://github.com/axboe/fio) and handles the output to provide an easy to view and interpret comprehensive benchmark result. The application is written in C++ with Qt and _doesn't have_ any KDE dependencies: https://github.com/JonMagon/KDiskMark
 
@@ -104,6 +112,8 @@ USB HID AutoFire. Simple Flipper Zero application to send left-clicks as a USB H
 **New from CyberDetective:**
 
 DuckDuckGo now has a filter to hide AI-generated images from image search results. Hopefully, this feature will soon become a standard for all search engines and for all types of searches: https://duckduckgo.com/duckduckgo-help-pages/results/how-to-filter-out-ai-images-in-duckduckgo-search-results
+
+Reverse Image Searching Related Sites & Links List by UK OSINT: Reverse Image Searching, Using AI To Identify A Location Shown In An Image, Facial Reverse Image Searching On Social Media, Remove Image Background and more: https://www.uk-osint.net/reverseimagesearching.html
 
 ----
 
