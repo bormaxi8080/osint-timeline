@@ -50,11 +50,15 @@ Talkwalker OSINT Tool. An AI-powered platform for monitoring threats, analyzing 
 
 Maps Video. Private street view video libraries using action cameras: https://maps.video/map
 
+Kingfisher is a blazingly fast secret‑scanning and validation tool built in Rust: https://github.com/mongodb/kingfisher
+
 ----
 
 **Universal Search & AI:**
 
 Tree of Thoughts. Deliberate Problem Solving with Large Language Models: https://github.com/princeton-nlp/tree-of-thought-llm
+
+HASH is a self-building, open-source database which grows, structures and checks itself. HASH integrates data in (near-)realtime, and provides a powerful set of interfaces so that information can be understood and used in any context. Intelligent, autonomous agents can be deployed to grow, check, and maintain the database, integrating and structuring information from the public internet as well as your own connected private sources. And users, including those who are non-technical, are able to visually browse and manage both entities (data) and types (schemas). HASH acts as a source of truth for critical data, no matter its source, and provides a platform for high-trust, safety-assured decision-making: https://github.com/hashintel/hash
 
 Volt Agent. Open Source TypeScript AI Agent Framework: https://github.com/VoltAgent/voltagent
 
@@ -119,7 +123,9 @@ Reverse Image Searching Related Sites & Links List by UK OSINT: Reverse Image Se
 
 **New from GitHub Community:**
 
-Barrier. Eliminate the barrier between your machines. Find [releases for windows and macOS here](https://github.com/debauchee/barrier/releases). Your distro probably already has barrier packaged for it, see [distro specific packages](https://github.com/debauchee/barrier#distro-specific-packages) below for a list. Alternatively, we also provide a [flatpak](https://github.com/flathub/com.github.debauchee.barrier) and a [snap](https://snapcraft.io/barrier).
+Barrier. Eliminate the barrier between your machines: https://github.com/debauchee/barrier/releases
+
+LogoCreator. A free + OSS logo generator powered by Flux on Together AI: https://github.com/Nutlope/logocreator
 
 ----
 ### bormaxi8080 OSINT timeline:
