@@ -56,6 +56,8 @@ Talkwalker OSINT Tool. An AI-powered platform for monitoring threats, analyzing 
 
 Maps Video. Private street view video libraries using action cameras: https://maps.video/map
 
+Binwalk can identify, and optionally extract, files and data that have been embedded inside of other files: https://github.com/ReFirmLabs/binwalk
+
 Kingfisher is a blazingly fast secret‑scanning and validation tool built in Rust: https://github.com/mongodb/kingfisher
 
 ----
