@@ -64,13 +64,15 @@ Kingfisher is a blazingly fast secret‑scanning and validation tool built in Ru
 
 **Universal Search & AI:**
 
-Tree of Thoughts. Deliberate Problem Solving with Large Language Models: https://github.com/princeton-nlp/tree-of-thought-llm
+"Cursor for Design". SuperDesign is the first **open-source design agent** that lives right inside your IDE. Generate UI mockups, components, and wireframes directly from natural language prompts. Works seamlessly with Cursor, Windsurf, Claude Code, and plain VS Code: https://github.com/superdesigndev/superdesign
 
 HASH is a self-building, open-source database which grows, structures and checks itself. HASH integrates data in (near-)realtime, and provides a powerful set of interfaces so that information can be understood and used in any context. Intelligent, autonomous agents can be deployed to grow, check, and maintain the database, integrating and structuring information from the public internet as well as your own connected private sources. And users, including those who are non-technical, are able to visually browse and manage both entities (data) and types (schemas). HASH acts as a source of truth for critical data, no matter its source, and provides a platform for high-trust, safety-assured decision-making: https://github.com/hashintel/hash
 
 Volt Agent. Open Source TypeScript AI Agent Framework: https://github.com/VoltAgent/voltagent
 
 Token Limit. Monitor how many tokens your code and configs consume in AI tools. Set budgets and get alerts when limits are hit: https://github.com/azat-io/token-limit
+
+Tree of Thoughts. Deliberate Problem Solving with Large Language Models: https://github.com/princeton-nlp/tree-of-thought-llm
 
 Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system): https://github.com/dtyq/magic
 
