@@ -64,7 +64,11 @@ Kingfisher is a blazingly fast secret‑scanning and validation tool built in Ru
 
 **Universal Search & AI:**
 
+Say is a modern voice transcription app that transforms your voice into text using advanced machine learning, right in your browser. Built with React and powered by Whisper, T5 and Transformers.js, it offers a seamless experience for recording, transcribing, and managing your spoken notes: https://github.com/addyosmani/say
+
 "Cursor for Design". SuperDesign is the first **open-source design agent** that lives right inside your IDE. Generate UI mockups, components, and wireframes directly from natural language prompts. Works seamlessly with Cursor, Windsurf, Claude Code, and plain VS Code: https://github.com/superdesigndev/superdesign
+
+Resume Matcher. Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions: https://github.com/srbhr/Resume-Matcher
 
 HASH is a self-building, open-source database which grows, structures and checks itself. HASH integrates data in (near-)realtime, and provides a powerful set of interfaces so that information can be understood and used in any context. Intelligent, autonomous agents can be deployed to grow, check, and maintain the database, integrating and structuring information from the public internet as well as your own connected private sources. And users, including those who are non-technical, are able to visually browse and manage both entities (data) and types (schemas). HASH acts as a source of truth for critical data, no matter its source, and provides a platform for high-trust, safety-assured decision-making: https://github.com/hashintel/hash
 
