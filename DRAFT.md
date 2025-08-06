@@ -107,7 +107,7 @@ https://github.com/JPCERTCC/LogonTracer
 
 Say is a modern voice transcription app that transforms your voice into text using advanced machine learning, right in your browser. Built with React and powered by Whisper, T5 and Transformers.js, it offers a seamless experience for recording, transcribing, and managing your spoken notes: https://github.com/addyosmani/say
 
-"Cursor for Design". SuperDesign is the first **open-source design agent** that lives right inside your IDE. Generate UI mockups, components, and wireframes directly from natural language prompts. Works seamlessly with Cursor, Windsurf, Claude Code, and plain VS Code: https://github.com/superdesigndev/superdesign
+"Cursor for Design". SuperDesign is the first open-source design agent that lives right inside your IDE. Generate UI mockups, components, and wireframes directly from natural language prompts. Works seamlessly with Cursor, Windsurf, Claude Code, and plain VS Code: https://github.com/superdesigndev/superdesign
 
 Resume Matcher. Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions: https://github.com/srbhr/Resume-Matcher
 
