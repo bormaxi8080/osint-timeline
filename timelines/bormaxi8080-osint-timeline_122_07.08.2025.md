@@ -59,7 +59,7 @@ OSINT of Syria: https://unishka.substack.com/p/osint-of-syria
 
 ```The OSINT Rack```. Curated intelligence resources: https://www.mariosantella.com/the-osint-rack/
 
-P```entest Tools```. Online penetration testing platform offering a suite of tools for vulnerability scanning, exploitation, and reporting, designed to streamline security assessments for professionals: https://pentest-tools.com
+```Pentest Tools```. Online penetration testing platform offering a suite of tools for vulnerability scanning, exploitation, and reporting, designed to streamline security assessments for professionals: https://pentest-tools.com
 
 ```Slideshare Search```. Discover presentations, documents, infographics, useful for gathering insights about people and companies: https://www.slideshare.net/search
 
