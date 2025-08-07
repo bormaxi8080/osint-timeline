@@ -19,7 +19,7 @@ Digital Gleichschaltung.
 
 **OSINT Tools, Services and Investigations:**
 
-
+LLMFeeder. Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click: https://github.com/jatinkrmalik/LLMFeeder
 
 ----
 
@@ -43,7 +43,7 @@ Digital Gleichschaltung.
 
 **Flipper Zero & Other Devices:**
 
-
+Flipper Zero UI Application. This Python application provides a graphical user interface (GUI) that displays the UI of a Flipper Zero device and provides live viewing. It utilizes the `PyQt5` library to create the GUI and the `pyserial` library to establish communication with the Flipper Zero device: https://github.com/unofficialdxnny/FlipperZero
 
 ----
 
