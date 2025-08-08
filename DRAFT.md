@@ -55,7 +55,7 @@ Flipper Zero UI Application. This Python application provides a graphical user i
 
 **New from GitHub Community:**
 
-
+Cloudreve. Self-hosted file management and sharing system, supports multiple storage providers: https://github.com/cloudreve/Cloudreve?tab=readme-ov-file
 
 ----
 ### bormaxi8080 OSINT timeline:
