@@ -13,7 +13,7 @@ Digital Gleichschaltung.
 
 ----
 
-
+Free Proxy Server List. Browse our collection of free, tested proxy servers. All proxies are regularly checked for speed, reliability, and anonymity: https://www.proxylistfree.com/
 
 ----
 
