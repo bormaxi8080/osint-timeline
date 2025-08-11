@@ -25,19 +25,23 @@ LLMFeeder. Brower extension to convert web pages to clean Markdown and copy to c
 
 **Universal Search & AI:**
 
+All AI Tools. Browse our complete directory of AI tools with advanced filtering and discover the perfect solution for your needs: https://www.allaitools.dev/tools
 
+Space Frontiers. AI assistant* to search for answers to questions in a specific dataset. Choose one - PubMed, BioMed, Wikipedia, Telegram, Reddit or other): https://spacefrontiers.org/
 
 ----
 
 **Software Development & APIs:**
 
+Kool. From local development to the cloud: web apps development with containers made easy: https://github.com/kool-dev/kool
 
+Docker Selenium. Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale: https://github.com/SeleniumHQ/docker-selenium
 
 ----
 
 **Linux & DevOps:**
 
-
+Dockerify Android. A Dockerized Android emulator supporting multiple CPU architectures (x86 and arm64) with native performance and seamless ADB & Scrcpy Web access: https://github.com/Shmayro/dockerify-android
 
 ----
 
@@ -49,13 +53,15 @@ Flipper Zero UI Application. This Python application provides a graphical user i
 
 **New from CyberDetective:**
 
-
+Filesec. Encyclopedia of file extensions. For each file, it indicates the types of attacks and platforms for which this extension can be used. It clearly shows that almost any file can be malicious: https://filesec.io/
 
 ----
 
 **New from GitHub Community:**
 
 Cloudreve. Self-hosted file management and sharing system, supports multiple storage providers: https://github.com/cloudreve/Cloudreve?tab=readme-ov-file
+
+InvenTree. Open Source Inventory Management System: https://github.com/inventree/InvenTree
 
 ----
 ### bormaxi8080 OSINT timeline:
