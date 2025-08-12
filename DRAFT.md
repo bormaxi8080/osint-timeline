@@ -13,6 +13,14 @@ Digital Gleichschaltung.
 
 ----
 
+LangChain is an amazing framework to get LLM projects done in a matter of no time, and the ecosystem is growing fast. Here is an attempt to keep track of the initiatives around LangChain:
+
+https://awesomeagents.substack.com/
+
+GitHub: https://github.com/kyrolabs/awesome-langchain
+
+----
+
 Free Proxy Server List. Browse our collection of free, tested proxy servers. All proxies are regularly checked for speed, reliability, and anonymity: https://www.proxylistfree.com/
 
 ----
