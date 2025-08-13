@@ -13,6 +13,10 @@ Digital Gleichschaltung.
 
 ----
 
+Usmanov, Durov and the BlackMirror channel. How Putin's Politburo cleans up the Internet: https://www.youtube.com/watch?v=u5bNYTEv0FE
+
+----
+
 LangChain is an amazing framework to get LLM projects done in a matter of no time, and the ecosystem is growing fast. Here is an attempt to keep track of the initiatives around LangChain:
 
 https://awesomeagents.substack.com/
@@ -27,7 +31,25 @@ Free Proxy Server List. Browse our collection of free, tested proxy servers. All
 
 **OSINT Tools, Services and Investigations:**
 
+Albania OSINT Tools. Open Data Portals, Company Registries & Corporate Data, People Search, Land Records, Vehicle Records, Maps, Courts: https://unishka.substack.com/p/osint-of-albania
+
+Bulgaria OSINT Tools. Company registries, people search, maps, vehicles,. property, open data portals: https://substack.com/home/post/p-170001739
+
+ScamSearch UserSearch 2.0 Integration. ScamSearch - global scam database. 4M+ recorder scammers. Search by email, username, phone number, crypto address. Available in a UserSearch subscription along with dozens of other investigative tools: http://usersearch.ai
+
+InstagramPrivSniffer. View media from private Instagram accounts without login, utilizing the platform's collaboration feature to access shared content: https://github.com/obitouka/InstagramPrivSniffer
+
+Lambda.black OSINT Investigation Assistant. Interactive searchable assistant tool list that facilitates OSINT searches: https://lambda.black/osint.html
+
+Meawfy. Advanced search engine for [Mega.nz](http://mega.nz/), offering access to over 9 million indexed files, including educational materials, software, movies, and more. It employs intelligent crawling and categorization for efficient discovery: https://meawfy.com/
+
+Email OSINT - Related Links. Links to tools, sites and articles related to email OSINT collected by Neil Smith. Find email address information, create temporary emails, email validation, scam checking, Pastebin search, and more: https://www.uk-osint.net/email.html
+
+TikTok OSINT Related Sites & Links. List of tools, tips and articles: https://www.uk-osint.net/tiktok.html
+
 LLMFeeder. Brower extension to convert web pages to clean Markdown and copy to clipboard so you can feed it to your favorite LLM model as context with just 1 click: https://github.com/jatinkrmalik/LLMFeeder
+
+OONI Explorer. Open data resource on internet censorship around the world, consisting of over a billion measurements on network interference, aiding in transparency and research: https://explorer.ooni.org/
 
 ----
 
@@ -35,7 +57,22 @@ LLMFeeder. Brower extension to convert web pages to clean Markdown and copy to c
 
 All AI Tools. Browse our complete directory of AI tools with advanced filtering and discover the perfect solution for your needs: https://www.allaitools.dev/tools
 
-Space Frontiers. AI assistant* to search for answers to questions in a specific dataset. Choose one - PubMed, BioMed, Wikipedia, Telegram, Reddit or other): https://spacefrontiers.org/
+AI Models and Platforms for OSINT Research: A Comprehensive Guide for Combating Illicit Trade  
+  
+- AI Language Models for OSINT Research  
+- Specialized OSINT Platforms  
+- OPSEC Considerations for OSINT Research  
+- Government and Enterprise AI Models  
+- Physical Security & Geospatial Intelligence  
+- Investigation Workflow Automation & AI Development Tools  
+- Supply Chain & Corporate Intelligence  
+- Enhanced Financial Crime & Blockchain Intelligence
+
+https://github.com/atlas-bear/osint-ai-guide
+
+CarNet AI. AI-powered API that accurately identifies car make, model, generation, color, and angle from images, supporting over 3,100 models and offering 97%+ accuracy: https://carnet.ai/
+
+Space Frontiers. AI assistant to search for answers to questions in a specific dataset. Choose one - PubMed, BioMed, Wikipedia, Telegram, Reddit or other): https://spacefrontiers.org/
 
 ----
 
@@ -62,6 +99,16 @@ Flipper Zero UI Application. This Python application provides a graphical user i
 **New from CyberDetective:**
 
 Filesec. Encyclopedia of file extensions. For each file, it indicates the types of attacks and platforms for which this extension can be used. It clearly shows that almost any file can be malicious: https://filesec.io/
+
+Nanonets OCR. Hugging Face space for particularly heavy text recognition tasks in Images/PDFs. Good at reading tilted, blurred and other unreadable text: https://huggingface.co/spaces/MohamedRashad/Nanonets-OCR
+
+Kagi Translator
+
+- fast and high quality online translator
+- customise translation style, formality, gender preferences and context
+- 230+ languages + a lot of dialects (12 Arabic, 4 Italian etc): 
+
+https://translate.kagi.com/
 
 ----
 
