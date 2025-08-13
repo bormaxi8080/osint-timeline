@@ -39,7 +39,7 @@ GitHub: https://github.com/kyrolabs/awesome-langchain
 
 ```Meawfy```. Advanced search engine for [Mega.nz](http://mega.nz/), offering access to over 9 million indexed files, including educational materials, software, movies, and more. It employs intelligent crawling and categorization for efficient discovery: https://meawfy.com/
 
-```Email OSINT``` - Related Links. Links to tools, sites and articles related to email OSINT collected by Neil Smith. Find email address information, create temporary emails, email validation, scam checking, Pastebin search, and more: https://www.uk-osint.net/email.html
+```Email OSINT```. Related Links. Links to tools, sites and articles related to email OSINT collected by Neil Smith. Find email address information, create temporary emails, email validation, scam checking, Pastebin search, and more: https://www.uk-osint.net/email.html
 
 ```TikTok OSINT Related Sites & Links```. List of tools, tips and articles: https://www.uk-osint.net/tiktok.html
 
