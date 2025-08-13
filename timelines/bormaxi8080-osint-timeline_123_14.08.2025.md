@@ -53,7 +53,7 @@ GitHub: https://github.com/kyrolabs/awesome-langchain
 
 ```vAll AI Tools```. Browse our complete directory of AI tools with advanced filtering and discover the perfect solution for your needs: https://www.allaitools.dev/tools
 
-```vAI Models and Platforms for OSINT Research```. A Comprehensive Guide for Combating Illicit Trade  
+```AI Models and Platforms for OSINT Research```. A Comprehensive Guide for Combating Illicit Trade  
   
 - AI Language Models for OSINT Research  
 - Specialized OSINT Platforms  
