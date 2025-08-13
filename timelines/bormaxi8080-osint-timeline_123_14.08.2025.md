@@ -51,7 +51,7 @@ GitHub: https://github.com/kyrolabs/awesome-langchain
 
 **Universal Search & AI:**
 
-```vAll AI Tools```. Browse our complete directory of AI tools with advanced filtering and discover the perfect solution for your needs: https://www.allaitools.dev/tools
+```All AI Tools```. Browse our complete directory of AI tools with advanced filtering and discover the perfect solution for your needs: https://www.allaitools.dev/tools
 
 ```AI Models and Platforms for OSINT Research```. A Comprehensive Guide for Combating Illicit Trade  
   
