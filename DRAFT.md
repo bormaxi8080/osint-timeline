@@ -16,7 +16,9 @@ Digital Gleichschaltung.
 
 **OSINT Tools, Services and Investigations:**
 
+Email Linter. Easily find spam and phishing emails received at masked email addresses: https://github.com/wheelercj/email-linter
 
+Phishlets are the configuration files in **YAML** syntax for proxying a legitimate website into a phishing website. They are the building blocks of the tool named `evilginx2`: https://github.com/hash3liZer/phishlets
 
 ----
 
