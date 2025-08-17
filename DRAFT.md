@@ -10,11 +10,15 @@ Digital Gleichschaltung.
 
 ----
 
-
+OSINT Toolkit for Cuba. It includes resources on legal entities, land records and maps, procurement data, company directories, people search, and more: https://unishka.substack.com/p/osint-of-cuba?r=5ml2el&triedRedirect=true
 
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+NanoBrowser. Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator: https://github.com/nanobrowser/nanobrowser
+
+Big Search. Lately, more and more people have been complaining that it's now impossible to find anything on Google, even using the advanced search operators. But fortunately, there are hundreds of other search tools for different tasks. This Chrome and Firefox extension will help you quickly copy the highlighted word to different search engines, grouped by category: https://github.com/garywill/BigSearch
 
 Email Linter. Easily find spam and phishing emails received at masked email addresses: https://github.com/wheelercj/email-linter
 
