@@ -18,7 +18,11 @@ OSINT Toolkit for Cuba. It includes resources on legal entities, land records an
 
 NanoBrowser. Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator: https://github.com/nanobrowser/nanobrowser
 
+cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut: https://github.com/ysm-dev/cpdown
+
 Big Search. Lately, more and more people have been complaining that it's now impossible to find anything on Google, even using the advanced search operators. But fortunately, there are hundreds of other search tools for different tasks. This Chrome and Firefox extension will help you quickly copy the highlighted word to different search engines, grouped by category: https://github.com/garywill/BigSearch
+
+Wicket Keeper. A privacy-friendly, self-hostable Proof-of-Work (PoW) CAPTCHA: https://github.com/a-ve/wicketkeeper
 
 Email Linter. Easily find spam and phishing emails received at masked email addresses: https://github.com/wheelercj/email-linter
 
