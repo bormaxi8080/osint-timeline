@@ -12,6 +12,8 @@ Digital Gleichschaltung.
 
 OSINT Toolkit for Cuba. It includes resources on legal entities, land records and maps, procurement data, company directories, people search, and more: https://unishka.substack.com/p/osint-of-cuba?r=5ml2el&triedRedirect=true
 
+Morocco OSINT Tools. People search, company registries, vehicle info, maps and more: https://substack.com/home/post/p-171301059
+
 A list of blogs, websites, podcasts and YouTube channels with a wealth of news and educational OSINT information. List is created and maintained by [Kirby Plessas](https://www.linkedin.com/in/kirbyp/): https://knowledgebase.plessas.net/OSINT-Feeds-159ccea41cfa808694c2d7245be8f841
 
 ----
