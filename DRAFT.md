@@ -12,6 +12,8 @@ Digital Gleichschaltung.
 
 OSINT Toolkit for Cuba. It includes resources on legal entities, land records and maps, procurement data, company directories, people search, and more: https://unishka.substack.com/p/osint-of-cuba?r=5ml2el&triedRedirect=true
 
+A list of blogs, websites, podcasts and YouTube channels with a wealth of news and educational OSINT information. List is created and maintained by [Kirby Plessas](https://www.linkedin.com/in/kirbyp/): https://knowledgebase.plessas.net/OSINT-Feeds-159ccea41cfa808694c2d7245be8f841
+
 ----
 
 CSEUtopia, StartMe page with hundreds Google Custom Search engines. OSINT/Hacking Search, Resumes and Profiles, Facebook/Linkedin, Misc & Social, People & Email & Phone Search, Code & Dev & Tech Search Engines, Resumes & Profiles and more: https://start.me/p/EL84Km/cse-utopia
@@ -27,6 +29,8 @@ FaceSearch by [Arrests.org](http://arrests.org/). Search for individuals by faci
 Profiler. This tool claims to find info with 15+ OSINT tools just by knowing either a phone number, email, or username — and if that's not enough, try Basic Search which scans 15+ sources, or Advanced Search which scans through 1500+ sources combined using username, phone or email: https://profiler.me
 
 NanoBrowser. Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator: https://github.com/nanobrowser/nanobrowser
+
+atsame IP. Track shared IP addresses to identify connections between online accounts or digital footprints: https://atsameip.intercode.ca/
 
 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut: https://github.com/ysm-dev/cpdown
 
