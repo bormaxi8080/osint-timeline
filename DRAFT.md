@@ -46,6 +46,8 @@ Perspt. **Per**sonal **S**pectrum **P**ertaining **T**houghts – the human lens
 
 Detectify.ai. Advanced AI content detection and humanization platform. Detect AI-generated text, images, and videos with 90%+ accuracy: https://humanize-ai-guard.lovable.app/
 
+Blinko. An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript: https://github.com/blinkospace/blinko
+
 ----
 
 **Software Development & APIs:**
@@ -76,7 +78,7 @@ FlightMapper. A very simple and free online tool for quickly creating visualisat
 
 **New from GitHub Community:**
 
-
+note.md. A command-line tool to convert handwritten notes to markdown files: https://github.com/tejas-raskar/noted.md
 
 ----
 ### bormaxi8080 OSINT timeline:
