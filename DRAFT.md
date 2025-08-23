@@ -7,37 +7,41 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 ----
 
-
+Big Ass Data Broker Opt-Out List. This list, also known as BADBOOL, was started in September 2017 and was most recently updated on July 29, 2025 to reorder the list by priority. We also removed PeekYou (which has entirely aggregate data), removed notes about Verecor/Vericora limitations which no longer exist, explained how to remove more types of Radaris records, improved CheckPeople, removed IDTrue (the site has been dead for a minute), updated USA People Search, and added money to SpyFly: https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+Ferox Buster. A fast, simple, recursive content discovery tool written in Rust: https://github.com/epi052/feroxbuster
 
+Matkap is intended for educational and research purposes only. This tool is designed to help cybersecurity professionals analyze and understand Telegram bot interactions, particularly those that may pose security risks: https://github.com/0x6rss/matkap
 
 ----
 
 **Universal Search & AI:**
 
-
+Strawberry Browser. The power of AI — in your daily workflows: https://strawberrybrowser.com/
 
 ----
 
 **Software Development & APIs:**
 
+Tolgee. An open-source localization platform developers enjoy to working with: https://github.com/tolgee/tolgee-platform
 
+Python Implementation of MUVERA (Multi-Vector Retrieval via Fixed Dimensional Encodings): https://github.com/sigridjineth/muvera-py
 
 ----
 
 **Linux & DevOps:**
 
-
+NetSonar is a network diagnostics tool for pinging hosts (ICMP/TCP/UDP/HTTP), managing network interfaces, and discovering local devices/services: https://github.com/sn4k3/NetSonar
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero Animator. This script converts GIFs into 2-color frames for Flipper Zero. It resizes frames to 128x64 pixels, saves as PNG files, and generates the meta file for it. Ideal for Flipper Zero animations: https://github.com/nenomg/FlipperZeroAnimator
 
 ----
 
