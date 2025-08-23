@@ -9,6 +9,10 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 Big Ass Data Broker Opt-Out List. This list, also known as BADBOOL, was started in September 2017 and was most recently updated on July 29, 2025 to reorder the list by priority. We also removed PeekYou (which has entirely aggregate data), removed notes about Verecor/Vericora limitations which no longer exist, explained how to remove more types of Radaris records, improved CheckPeople, removed IDTrue (the site has been dead for a minute), updated USA People Search, and added money to SpyFly: https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
 
+OSINT Bookmarklets. A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app: https://github.com/paulpogoda/OSINT-Bookmarklets
+
+v3nari OSINT Bookmarks. People search, Business entity search, Charities and non-profit search, USA criminal records, SOCMINT, Darkweb, Aviation, Image search and more: https://start.me/p/1kxyw9/v3nari-bookmarks
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -21,7 +25,7 @@ Matkap is intended for educational and research purposes only. This tool is desi
 
 **Universal Search & AI:**
 
-Strawberry Browser. The power of AI — in your daily workflows: https://strawberrybrowser.com/
+
 
 ----
 
@@ -47,13 +51,13 @@ FlipperZero Animator. This script converts GIFs into 2-color frames for Flipper 
 
 **New from CyberDetective:**
 
-
+Tail Number Lookup. Free online tool for searching information by the number marked on the tail of the aircraft. Manufacturer, Number of seats, Registered owner name and address, Engine Type, and more: https://aerobasegroup.com/tail-number-lookup
 
 ----
 
 **New from GitHub Community:**
 
-
+Strawberry Browser. The power of AI  in your daily workflows: https://strawberrybrowser.com/
 
 ----
 ### bormaxi8080 OSINT timeline:
