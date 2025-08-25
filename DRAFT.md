@@ -21,11 +21,17 @@ Ferox Buster. A fast, simple, recursive content discovery tool written in Rust: 
 
 Matkap is intended for educational and research purposes only. This tool is designed to help cybersecurity professionals analyze and understand Telegram bot interactions, particularly those that may pose security risks: https://github.com/0x6rss/matkap
 
+Clear My Spam is an open source and mobile friendly Ruby on Rails app designed to declutter your Gmail inbox, with an emphasis on simplicity, usability, and security: https://github.com/jonathanchen7/clearmyspam
+
+Mindmap Generator. An intelligent document analysis tool that uses Large Language Models to generate comprehensive, hierarchical mindmaps from any text document: https://github.com/Dicklesworthstone/mindmap-generator
+
 ----
 
 **Universal Search & AI:**
 
+HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling: https://github.com/humanlayer/humanlayer
 
+ACP is the Agent Control Plane - a distributed agent scheduler optimized for simplicity, clarity, and control. It is designed for outer-loop agents that run without supervision, and make asynchronous tool calls like requesting human feedback on key operations. Full MCP support: https://github.com/humanlayer/agentcontrolplane
 
 ----
 
@@ -58,6 +64,8 @@ Tail Number Lookup. Free online tool for searching information by the number mar
 **New from GitHub Community:**
 
 Strawberry Browser. The power of AI  in your daily workflows: https://strawberrybrowser.com/
+
+4me.tools - Free Online Tools. Convert images, download videos, generate UUIDs, create passwords, check IP addresses, and convert playlists with ease. Our comprehensive suite of free online tools is designed to simplify your digital tasks: https://4me.tools/
 
 ----
 ### bormaxi8080 OSINT timeline:
