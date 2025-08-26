@@ -7,9 +7,17 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 ----
 
+How to Turn Unreadable Text into Evidence: Tips from Henk van Ess: https://gijn.org/ru/resurs/kak-prevratit-necitaemyj-tekst-v-dokazatelstva-sovety-henka-van-essa/
+
+----
+
 Big Ass Data Broker Opt-Out List. This list, also known as BADBOOL, was started in September 2017 and was most recently updated on July 29, 2025 to reorder the list by priority. We also removed PeekYou (which has entirely aggregate data), removed notes about Verecor/Vericora limitations which no longer exist, explained how to remove more types of Radaris records, improved CheckPeople, removed IDTrue (the site has been dead for a minute), updated USA People Search, and added money to SpyFly: https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List
 
+Tiledesk Design Studio. The ultimate platform for designing and implementing chatbots and conversation automations. Design your dream conversation and bring your vision to life with our intuitive drag-and-drop interface: https://tiledesk.com/design-conversation-flow-with-tiledesk-design-studio/
+
 OSINT Bookmarklets. A small collection of bookmarklets that are useful for OSINT, including ones for e-mail addresses, Facebook, extracting links and WhatsMyName.app: https://github.com/paulpogoda/OSINT-Bookmarklets
+
+**Scam Surface Mapper** is a browser bookmarklet designed for OSINT investigators, fact-checkers, and cybersecurity researchers. It analyzes web pages to identify and visualize potential scam infrastructure by mapping outgoing links, analyzing suspicious domains, tracking parameters, and presenting findings in an interactive graph interface: https://github.com/paulpogoda/Scam-Surface-Mapper
 
 v3nari OSINT Bookmarks. People search, Business entity search, Charities and non-profit search, USA criminal records, SOCMINT, Darkweb, Aviation, Image search and more: https://start.me/p/1kxyw9/v3nari-bookmarks
 
