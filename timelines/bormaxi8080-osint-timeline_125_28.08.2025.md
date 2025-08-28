@@ -20,7 +20,7 @@ I'm like a chronicle. I'm like Chthon. I've always been like this. Serebryansky 
 
 ```Scam Surface Mapper``` is a browser bookmarklet designed for OSINT investigators, fact-checkers, and cybersecurity researchers. It analyzes web pages to identify and visualize potential scam infrastructure by mapping outgoing links, analyzing suspicious domains, tracking parameters, and presenting findings in an interactive graph interface: https://github.com/paulpogoda/Scam-Surface-Mapper
 
-v```3nari OSINT Bookmarks```. People search, Business entity search, Charities and non-profit search, USA criminal records, SOCMINT, Darkweb, Aviation, Image search and more: https://start.me/p/1kxyw9/v3nari-bookmarks
+```v3nari OSINT Bookmarks```. People search, Business entity search, Charities and non-profit search, USA criminal records, SOCMINT, Darkweb, Aviation, Image search and more: https://start.me/p/1kxyw9/v3nari-bookmarks
 
 ----
 

@@ -7,13 +7,13 @@
 
 ----
 
-
+OSINT of Venezuela: https://unishka.substack.com/p/osint-of-venezuela
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+SOCIAL MEDIA INDEX. A free online tool that shows which pages and posts attracted the most audience attention yesterday. Statistics are available for the world, the US, Brazil, Mexico, Great Britain, and France: https://app.fanpagekarma.com/social-media-index
 
 ----
 
