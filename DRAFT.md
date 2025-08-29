@@ -40,7 +40,7 @@ Awesome Tunneling. List of ngrok/Cloudflare Tunnel alternatives and other tunnel
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero Bad USB Wireshark. Wireshark dissector for several BadUSB devices including Flipper Zero, Rubber Ducky etc. and ducky script reconstructor: https://github.com/agentzex/FlipperZero-BadUSB-Wireshark
 
 ----
 
