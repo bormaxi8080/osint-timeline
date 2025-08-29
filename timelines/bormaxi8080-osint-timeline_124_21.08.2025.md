@@ -8,7 +8,7 @@ Digital Gleichschaltung.
 
 ----
 
-```OSINT Toolkit for Cuba```. It includes resources on legal entities, land records and maps, procurement data, company directories, people search, and more: https://unishka.substack.com/p/osint-of-cuba?r=5ml2el&triedRedirect=true
+```OSINT Toolkit for Cuba```. It includes resources on legal entities, land records and maps, procurement data, company directories, people search, and more: https://unishka.substack.com/p/osint-of-cuba
 
 ```Morocco OSINT Tools```. People search, company registries, vehicle info, maps and more: https://substack.com/home/post/p-171301059
 
