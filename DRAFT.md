@@ -18,6 +18,8 @@ OSINT of Venezuela: https://unishka.substack.com/p/osint-of-venezuela
 
 SOCIAL MEDIA INDEX. A free online tool that shows which pages and posts attracted the most audience attention yesterday. Statistics are available for the world, the US, Brazil, Mexico, Great Britain, and France: https://app.fanpagekarma.com/social-media-index
 
+Commix. Automated All-in-One OS Command Injection Exploitation Tool: https://github.com/commixproject/commix
+
 ----
 
 **Universal Search & AI:**
@@ -46,7 +48,7 @@ FlipperZero Bad USB Wireshark. Wireshark dissector for several BadUSB devices in
 
 **New from CyberDetective:**
 
-
+OSINT Navigator. Enter the type of data you have (domain, email, username, phone number) and get a list of tools you can use to gather information based on this data: https://osint.nova-saas.com/
 
 ----
 
