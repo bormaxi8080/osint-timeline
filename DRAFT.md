@@ -18,6 +18,8 @@ OSINT of Venezuela: https://unishka.substack.com/p/osint-of-venezuela
 
 SOCIAL MEDIA INDEX. A free online tool that shows which pages and posts attracted the most audience attention yesterday. Statistics are available for the world, the US, Brazil, Mexico, Great Britain, and France: https://app.fanpagekarma.com/social-media-index
 
+Cloudproxy. Hide your scrapers IP behind the cloud. Provision proxy servers across different cloud providers to improve your scraping success: https://github.com/claffin/cloudproxy
+
 Commix. Automated All-in-One OS Command Injection Exploitation Tool: https://github.com/commixproject/commix
 
 ----
@@ -35,6 +37,8 @@ Commix. Automated All-in-One OS Command Injection Exploitation Tool: https://git
 ----
 
 **Linux & DevOps:**
+
+LogMerger. TUI utility to view multiple log files with merged timeline: https://github.com/ptmcg/logmerger
 
 Awesome Tunneling. List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting: https://github.com/anderspitman/awesome-tunneling
 
@@ -54,7 +58,7 @@ OSINT Navigator. Enter the type of data you have (domain, email, username, phone
 
 **New from GitHub Community:**
 
-
+EnChat. End-to-end encrypted, ephemeral, self-hosted terminal chat — no accounts, no history, no cloud: https://github.com/sudodevdante/enchat
 
 ----
 ### bormaxi8080 OSINT timeline:
