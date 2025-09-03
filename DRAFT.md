@@ -13,7 +13,7 @@ Path.
 
 **OSINT Tools, Services and Investigations:**
 
-
+Looking for toilets nearby? We found NearToilets, a service that will help you out when you need it most: https://neartoilets.com/map
 
 ----
 
@@ -43,7 +43,7 @@ Path.
 
 **New from CyberDetective:**
 
-
+Social Search CSE. Google Custom Search engine for searching in 17 different social media - Facebook, OK, VK, Linkedin, Telegram, TenChat and others: https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0&gsc.q=osint&gsc.sort=
 
 ----
 
