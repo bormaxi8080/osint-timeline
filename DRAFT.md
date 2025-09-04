@@ -1,9 +1,24 @@
 
 Path.
 
+The Expanse.
+
+Halo
+
+Ark
+
+Origin
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2900: https://github.com/bormaxi8080/osint-repos-list
+
+----
+
+OpenAI launched a tool that automatically selects perfectly structured prompts for any neural networks.
+It's simple: describe what you want to get, and the generator produces an optimized request that will fit any model without modifications. Copy - paste - get the result.
+The service is free.
+Link: https://platform.openai.com/chat/edit?models=gpt-5&optimize=true
 
 ----
 
@@ -25,19 +40,19 @@ Looking for toilets nearby? We found NearToilets, a service that will help you o
 
 **Software Development & APIs:**
 
-
+SlateDB. A cloud native embedded storage engine built on object storage: https://github.com/slatedb/slatedb
 
 ----
 
 **Linux & DevOps:**
 
-
+Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection: https://github.com/alexjustesen/speedtest-tracker
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero Frame. A simple script to insert a qFlipper screenshot into a Flipper Zero frame: https://github.com/oleksiikutuzov/flipperzero-frame
 
 ----
 
