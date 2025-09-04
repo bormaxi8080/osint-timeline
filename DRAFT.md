@@ -30,6 +30,8 @@ Link: https://platform.openai.com/chat/edit?models=gpt-5&optimize=true
 
 Looking for toilets nearby? We found NearToilets, a service that will help you out when you need it most: https://neartoilets.com/map
 
+Fierce is a semi-lightweight DNS reconnaissance tool in Kali Linux designed to discover non-contiguous IP spaces and subdomains associated with a target domain. It combines zone transfers, brute-forcing, and reverse lookups. Below is a guide on its usage, examples, and sample outputs: https://github.com/darksagae/Fierce
+
 ----
 
 **Universal Search & AI:**
