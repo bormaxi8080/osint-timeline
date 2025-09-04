@@ -34,7 +34,17 @@ Looking for toilets nearby? We found NearToilets, a service that will help you o
 
 **Universal Search & AI:**
 
+GoPie is an open-source platform that transforms structured datasets into AI-ready databases, enabling anyone to analyse data using natural language without technical expertise. Users can upload datasets through GoPie's simple interface, and the platform automatically sanitises the data, making it AI-ready, adds metadata, and makes it searchable through conversational queries. Users can analyse data and create visualisations just by typing questions in natural language, while the data also becomes accessible to AI agents and other AI-powered tools across the organisation.``Every dataset uploaded automatically generates documented REST APIs, allowing users to share data with partners or build applications on top of it. GoPie handles everything from small spreadsheets to massive datasets with billions of rows while maintaining fast performance. Organisations can self-host GoPie if required for complete control over their data and infrastructure, ensuring privacy and compliance. GoPie makes data analysis accessible to everyone by removing the need for SQL, Python knowledge, or any technical skills.
 
+In short, GoPie:
+
+- Transforms structured datasets (CSV, Parquet, etc.) into AI-ready, searchable databases.
+- Enables analysis & visualizations with plain language (no SQL/Python required).
+- Auto-generates REST APIs for every dataset, enabling quick integration & sharing
+
+Site: https://gopie.ai/
+
+GitHub: https://github.com/factly/gopie
 
 ----
 
