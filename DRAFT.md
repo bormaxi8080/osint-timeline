@@ -28,6 +28,8 @@ Link: https://platform.openai.com/chat/edit?models=gpt-5&optimize=true
 
 **OSINT Tools, Services and Investigations:**
 
+EDGAR is a database of corporate filings maintained by the SEC. These filings contain a wealth of quantitative and qualitative information on every legal entity that issues non-exempt securities in the United States. Whether you are looking to study the fundamentals of your favorite stocks or to track the corporate webs weaved by a person or company of interest, EDGAR is the place to do it: https://github.com/bellingcat/EDGAR
+
 Looking for toilets nearby? We found NearToilets, a service that will help you out when you need it most: https://neartoilets.com/map
 
 Fierce is a semi-lightweight DNS reconnaissance tool in Kali Linux designed to discover non-contiguous IP spaces and subdomains associated with a target domain. It combines zone transfers, brute-forcing, and reverse lookups. Below is a guide on its usage, examples, and sample outputs: https://github.com/darksagae/Fierce
