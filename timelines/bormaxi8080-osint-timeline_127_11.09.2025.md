@@ -42,6 +42,8 @@ Looking for toilets nearby? We found ```NearToilets```, a service that will help
 
 **Universal Search & AI:**
 
+```Social Search CSE```. Google Custom Search engine for searching in 17 different social media - Facebook, OK, VK, Linkedin, Telegram, TenChat and others: https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0&gsc.q=osint&gsc.sort=
+
 ```Jan-v1``` is the first release in the **Jan Family**, designed for agentic reasoning and problem-solving within the [Jan App](https://jan.ai/). Based on our [**Lucy**](https://huggingface.co/Menlo/Lucy) model, Jan-v1 achieves improved performance through model scaling: https://huggingface.co/janhq/Jan-v1-4B
 
 ```Cybersecurity AI (CAI)``` is a lightweight, open-source framework that empowers security professionals to build and deploy AI-powered offensive and defensive automation. CAI is the _de facto_ framework for AI Security, already used by thousands of individual users and hundreds of organizations. Whether you're a security researcher, ethical hacker, IT professional, or organization looking to enhance your security posture, CAI provides the building blocks to create specialized AI agents that can assist with mitigation, vulnerability discovery, exploitation, and security assessment: https://github.com/aliasrobotics/cai
@@ -82,7 +84,7 @@ GitHub: https://github.com/factly/gopie
 
 **New from CyberDetective:**
 
-```Social Search CSE```. Google Custom Search engine for searching in 17 different social media - Facebook, OK, VK, Linkedin, Telegram, TenChat and others: https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0&gsc.q=osint&gsc.sort=
+Global Environmental Crime Tracker Map. 21K+ incidents recorded since 1990. Illegal plastic waste trade, illegal refrigerant gas, illegal logging, crimes again animals and others: https://eia-international.org/global-environmental-crime-tracker/
 
 ```OSINT on X```. Uncovering Twitter Phone Numbers, Emails, and More:
 
