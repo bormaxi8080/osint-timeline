@@ -85,7 +85,7 @@ GitHub: https://github.com/factly/gopie
 
 **New from CyberDetective:**
 
-Global Environmental Crime Tracker Map. 21K+ incidents recorded since 1990. Illegal plastic waste trade, illegal refrigerant gas, illegal logging, crimes again animals and others: https://eia-international.org/global-environmental-crime-tracker/
+```Global Environmental Crime Tracker Map```. 21K+ incidents recorded since 1990. Illegal plastic waste trade, illegal refrigerant gas, illegal logging, crimes again animals and others: https://eia-international.org/global-environmental-crime-tracker/
 
 ```OSINT on X```. Uncovering Twitter Phone Numbers, Emails, and More:
 
