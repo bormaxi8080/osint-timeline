@@ -4,7 +4,7 @@ The Expanse.
 
 ----
 
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 2900: https://github.com/bormaxi8080/osint-repos-list
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3000: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
@@ -12,6 +12,7 @@ The Expanse.
 
 It's simple: describe what you want to get, and the generator produces an optimized request that will fit any model without modifications. Copy - paste - get the result.
 The service is free.
+
 Link: https://platform.openai.com/chat/edit?models=gpt-5&optimize=true
 
 ----
