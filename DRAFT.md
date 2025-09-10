@@ -33,17 +33,23 @@ OSINT Indonezia: https://unishka.substack.com/p/osint-of-indonesia
 
 EDGAR is a database of corporate filings maintained by the SEC. These filings contain a wealth of quantitative and qualitative information on every legal entity that issues non-exempt securities in the United States. Whether you are looking to study the fundamentals of your favorite stocks or to track the corporate webs weaved by a person or company of interest, EDGAR is the place to do it: https://github.com/bellingcat/EDGAR
 
-DotDotGoose is a free, open source tool to assist with manually counting objects in images: https://github.com/persts/DotDotGoose
+PPL Contact. This service makes money by selling employees' contact information from companies, but provides a lot of FREE data. It allows searching for people (97OM+ records) and companies using dozens of different filters: https://ppl.contact/
 
-Looking for toilets nearby? We found NearToilets, a service that will help you out when you need it most: https://neartoilets.com/map
+DotDotGoose is a free, open source tool to assist with manually counting objects in images: https://github.com/persts/DotDotGoose
 
 Sonarr for YouTube - a tool to periodically check various YouTube playlists and take actions when new videos are posted: https://github.com/derekantrican/subarr
 
 Fierce is a semi-lightweight DNS reconnaissance tool in Kali Linux designed to discover non-contiguous IP spaces and subdomains associated with a target domain. It combines zone transfers, brute-forcing, and reverse lookups. Below is a guide on its usage, examples, and sample outputs: https://github.com/darksagae/Fierce
 
+Digler is a tool for forensic disk analysis and file recovery. It's designed to help you unearth lost or deleted data from various disk images and raw devices: https://github.com/ostafen/digler
+
+Looking for toilets nearby? We found NearToilets, a service that will help you out when you need it most: https://neartoilets.com/map
+
 ----
 
 **Universal Search & AI:**
+
+Jan-v1 is the first release in the **Jan Family**, designed for agentic reasoning and problem-solving within the [Jan App](https://jan.ai/). Based on our [**Lucy**](https://huggingface.co/Menlo/Lucy) model, Jan-v1 achieves improved performance through model scaling: https://huggingface.co/janhq/Jan-v1-4B
 
 Cybersecurity AI (CAI) is a lightweight, open-source framework that empowers security professionals to build and deploy AI-powered offensive and defensive automation. CAI is the _de facto_ framework for AI Security, already used by thousands of individual users and hundreds of organizations. Whether you're a security researcher, ethical hacker, IT professional, or organization looking to enhance your security posture, CAI provides the building blocks to create specialized AI agents that can assist with mitigation, vulnerability discovery, exploitation, and security assessment: https://github.com/aliasrobotics/cai
 
@@ -97,7 +103,7 @@ https://www.osint.industries/post/osint-on-x-uncovering-twitter-phone-numbers-em
 
 **New from GitHub Community:**
 
-
+Lid Angle Sensor. This is a little utility that shows the angle from the sensor and, optionally, plays a wooden door creaking sound if you adjust it reeaaaaaal slowly: https://github.com/samhenrigold/LidAngleSensor/tree/main
 
 ----
 ### bormaxi8080 OSINT timeline:
