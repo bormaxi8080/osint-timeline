@@ -1,8 +1,6 @@
 
 Path.
 
-The Expanse.
-
 Halo
 
 Ark
