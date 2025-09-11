@@ -7,19 +7,27 @@ Ark
 
 Origin
 
+Disconnected
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3000: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
+Identify Weapons Services
 
+Calibre Obscura: https://www.calibreobscura.com/
+
+Sketchfab: https://sketchfab.com/
+
+Small Arms Survey - The Weapons ID Database: http://www.smallarmssurvey.org/weapons-and-markets/tools/weapons-id-database.html
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+Whatsapp-Web.js. A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app: https://github.com/pedroslopez/whatsapp-web.js
 
 ----
 
@@ -43,7 +51,7 @@ Origin
 
 **Flipper Zero & Other Devices:**
 
-
+Seader. Allows for reading credential from HID iClass, iClass SE, Desfire EV1/EV2, and Seos: https://github.com/bettse/seader
 
 ----
 
@@ -55,7 +63,7 @@ Origin
 
 **New from GitHub Community:**
 
-
+FDUPES is a program for identifying or deleting duplicate files residing within specified directories: https://github.com/adrianlopezroche/fdupes
 
 ----
 ### bormaxi8080 OSINT timeline:
