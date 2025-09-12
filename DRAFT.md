@@ -78,7 +78,11 @@ Seader. Allows for reading credential from HID iClass, iClass SE, Desfire EV1/EV
 
 **New from CyberDetective:**
 
+Multimap
 
+An online tool for comparing online maps side by side. It includes dozens of different maps, including the most up-to-date and well-known ones (Bing, OpenStreetMap), as well as local and historical maps for different countries.
+
+https://javier.jimenezshaw.com/mapas/mapas.html
 
 ----
 
