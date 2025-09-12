@@ -25,6 +25,27 @@ Small Arms Survey - The Weapons ID Database: http://www.smallarmssurvey.org/wea
 
 ----
 
+Researching Leaks:
+
+BalkanLeaks https://balkanleaks.eu
+Cryptome https://cryptome.org
+DataBreaches https://www.databreaches.net
+DDOSECRETS https://ddosecrets.com
+GLOBALLEAKS https://www.globaleaks.org
+OCCRP https://www.occrp.org
+OCCRP Data https://aleph.occrp.org
+Offshore Alert https://www.offshorealert.com
+Offshore Leak Database https://offshoreleaks.icij.org
+Offshore Leaks https://offshoreleaks.icij.org
+Public Library of US
+Diplomacy
+https://search.wikileaks.org/plusd
+Wikileaks https://wikileaks.org
+Wikileaks Advanced Search https://search.wikileaks.org/advanced
+WikiSpooks https://wikispooks.com
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Whatsapp-Web.js. A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app: https://github.com/pedroslopez/whatsapp-web.js
@@ -45,7 +66,7 @@ Whatsapp-Web.js. A WhatsApp client library for NodeJS that connects through the 
 
 **Linux & DevOps:**
 
-
+FDUPES is a program for identifying or deleting duplicate files residing within specified directories: https://github.com/adrianlopezroche/fdupes
 
 ----
 
@@ -63,7 +84,7 @@ Seader. Allows for reading credential from HID iClass, iClass SE, Desfire EV1/EV
 
 **New from GitHub Community:**
 
-FDUPES is a program for identifying or deleting duplicate files residing within specified directories: https://github.com/adrianlopezroche/fdupes
+TrackWidget. Turn your MacBook's trackpad into a precise digital weighing scale: https://github.com/KrishKrosh/TrackWeight
 
 ----
 ### bormaxi8080 OSINT timeline:
