@@ -48,19 +48,46 @@ WikiSpooks https://wikispooks.com
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT Toolkit for the Philippines. It includes resources on legal entities, land records and maps, procurement data, company directories, people search, and more: https://unishka.substack.com/p/osint-of-the-philippines?r=5ml2el&triedRedirect=true
+
+Catalyst is a self-hosted, open source incident response platform and ticket system that helps to automate alert handling and incident response processes: https://github.com/SecurityBrewery/catalyst
+
+WhoPostedWhat. Free online tool for searching Facebook post in specific time range, location or posts from/associated with user uid. Instagram posts by location/date search tool (It may not be working at the moment): https://whopostedwhat.com/
+
+In September 2025, the desktop version of Facebook stopped being able to search posts. "Provereno" presents a tool that can be used as an alternative: https://provereno.media/facebook-search-ot-provereno/#gsc.tab=0
+
+Google CSEs for Facebook
+
+A couple of days ago, I wrote about WhoPostedWhat (a tool for searching Facebook). Google's advanced search is also useful for this purpose:
+
+Images 
+https://cse.google.com/cse?cx=016621447308871563343:vylfmzjmlti#gsc.tab=0
+
+Pages & Groups
+https://cse.google.com/cse?cx=016621447308871563343:vylfmzjmlti#gsc.tab=0
+
+Posts 
+https://cse.google.com/cse?cx=95ae46262a5f2958e
+
 Whatsapp-Web.js. A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app: https://github.com/pedroslopez/whatsapp-web.js
 
 ----
 
 **Universal Search & AI:**
 
+Mobile-use is a powerful, open-source AI agent that controls your Android or IOS device using natural language. It understands your commands and interacts with the UI to perform tasks, from sending messages to navigating complex apps: https://github.com/minitap-ai/mobile-use
 
+Index-TTS. An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System: https://github.com/index-tts/index-tts
+
+MyMapAI. An online tool for drawing very beautiful Mind Maps, with a simple interface and flexible settings. Free drawing, free high quality export to png/jpeg, partly free AI text generation: https://www.mymap.ai/
 
 ----
 
 **Software Development & APIs:**
 
+D2 is a modern diagram scripting language that turns text to diagrams: https://github.com/terrastruct/d2
 
+Hexora. Static analysis of malicious Python code: https://github.com/rushter/hexora
 
 ----
 
