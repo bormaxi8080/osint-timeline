@@ -52,6 +52,22 @@ OSINT Toolkit for the Philippines. It includes resources on legal entities, land
 
 Catalyst is a self-hosted, open source incident response platform and ticket system that helps to automate alert handling and incident response processes: https://github.com/SecurityBrewery/catalyst
 
+Image OSINT Forensics. Github repository with tools for image search, face search, object search, and forensic analysis - thanks CSorza: https://github.com/CScorza/Image-OSINT-Forensics
+
+InfoTrail. Web tool to trace digital footprints. Search across domains, emails, phone numbers, IPs, and crypto addresses to map connections and investigate online identities: https://infotrail.io/
+
+OSINT Feeds. A list of blogs, websites, podcasts and YouTube channels with a wealth of news and educational OSINT information. List is created and maintained by [Kirby Plessas](https://www.linkedin.com/in/kirbyp/): https://knowledgebase.plessas.net/OSINT-Feeds-159ccea41cfa808694c2d7245be8f841
+
+----
+
+OSINTBox. A collection of several hundred OSINT tools of various categories. Email, Phone, Data leaks, Venicle/license plate, Social media, Finance, Cryptocurrencies, Flight tracking, Police data, Google Custom Search Engines and many others.  
+  
+Online directory: https://osintbox.shellwriter.com/
+
+Tools list in JSON: https://github.com/vixkram/OSINTBox-data
+
+----
+
 WhoPostedWhat. Free online tool for searching Facebook post in specific time range, location or posts from/associated with user uid. Instagram posts by location/date search tool (It may not be working at the moment): https://whopostedwhat.com/
 
 In September 2025, the desktop version of Facebook stopped being able to search posts. "Provereno" presents a tool that can be used as an alternative: https://provereno.media/facebook-search-ot-provereno/#gsc.tab=0
