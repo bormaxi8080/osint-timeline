@@ -69,23 +69,27 @@ https://cse.google.com/cse?cx=016621447308871563343:vylfmzjmlti#gsc.tab=0
 Posts 
 https://cse.google.com/cse?cx=95ae46262a5f2958e
 
-Whatsapp-Web.js. A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app: https://github.com/pedroslopez/whatsapp-web.js
-
 ----
 
 **Universal Search & AI:**
 
+Airweave lets agents search any app: https://github.com/airweave-ai/airweave
+
 Mobile-use is a powerful, open-source AI agent that controls your Android or IOS device using natural language. It understands your commands and interacts with the UI to perform tasks, from sending messages to navigating complex apps: https://github.com/minitap-ai/mobile-use
+
+MyMapAI. An online tool for drawing very beautiful Mind Maps, with a simple interface and flexible settings. Free drawing, free high quality export to png/jpeg, partly free AI text generation: https://www.mymap.ai/
 
 Index-TTS. An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System: https://github.com/index-tts/index-tts
 
-MyMapAI. An online tool for drawing very beautiful Mind Maps, with a simple interface and flexible settings. Free drawing, free high quality export to png/jpeg, partly free AI text generation: https://www.mymap.ai/
+TorchTitan. A PyTorch native platform for training generative AI models: https://github.com/pytorch/torchtitan
 
 ----
 
 **Software Development & APIs:**
 
 D2 is a modern diagram scripting language that turns text to diagrams: https://github.com/terrastruct/d2
+
+Whatsapp-Web.js. A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app: https://github.com/pedroslopez/whatsapp-web.js
 
 Hexora. Static analysis of malicious Python code: https://github.com/rushter/hexora
 
@@ -105,11 +109,9 @@ Seader. Allows for reading credential from HID iClass, iClass SE, Desfire EV1/EV
 
 **New from CyberDetective:**
 
-Multimap
+Multimap. An online tool for comparing online maps side by side. It includes dozens of different maps, including the most up-to-date and well-known ones (Bing, OpenStreetMap), as well as local and historical maps for different countries: https://javier.jimenezshaw.com/mapas/mapas.html
 
-An online tool for comparing online maps side by side. It includes dozens of different maps, including the most up-to-date and well-known ones (Bing, OpenStreetMap), as well as local and historical maps for different countries.
-
-https://javier.jimenezshaw.com/mapas/mapas.html
+The hidden OSINT goldmine: Dumping JSON data from React. Guide to collecting additional data about users in various social networks by Janhalendk: https://github.com/janhalendk/react
 
 ----
 
