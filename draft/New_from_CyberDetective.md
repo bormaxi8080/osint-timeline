@@ -1,4 +1,3 @@
-# New from CyberDetective
 
 Exa AI tool to search and crawl the web. Just describe in words what data you would like to collect with scraping and get ready Python/JavaScript code with a request to Exa API and test it in a sandbox: https://exa.ai
 

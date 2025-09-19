@@ -1,4 +1,3 @@
-# New from GitHub Community
 
 DocuSeal. Open source DocuSign alternative. Create, fill, and sign digital documents: https://github.com/docusealco/docuseal
 

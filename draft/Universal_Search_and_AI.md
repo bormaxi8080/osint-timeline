@@ -1,4 +1,3 @@
-# Universal Search and AI
 
 GPT Crawler. Crawl a site to generate knowledge files to create your own custom GPT from a URL: https://github.com/BuilderIO/gpt-crawler
 

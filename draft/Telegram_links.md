@@ -1,4 +1,3 @@
-# Telegram links
 
 Link: https://t.me/rdc_grfc/117
 

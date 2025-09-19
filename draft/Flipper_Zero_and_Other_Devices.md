@@ -1,4 +1,3 @@
-# Flipper Zero and Other Devices
 
 Alternative Infrared Remote plugin for FlipperZero: https://github.com/Hong5489/ir_remote
 

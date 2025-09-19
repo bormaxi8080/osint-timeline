@@ -1,4 +1,3 @@
-# Software Development and APIs
 
 Faiss. A library for efficient similarity search and clustering of dense vectors: https://github.com/facebookresearch/faiss
 

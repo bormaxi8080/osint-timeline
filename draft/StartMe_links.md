@@ -1,8 +1,5 @@
-# StartMe links
 
 Threat-Informed Defense Ecosystem: https://start.me/p/X25q7l/threat-informed-defense-ecosystem
-
-ICELAND OSINT. Live cams, news monitoring, Game of Thrones locations, traffic info, maps and more: https://start.me/p/RM4Xae/iceland
 
 DOCUMENT SEARCH TOOLS. Filesharing search, FTP servers search, cloud storage search, documents/files search: https://start.me/p/1kl8j9/search-engines-searchers
 
@@ -12,15 +9,11 @@ ID and other documents OSINT. List of sites for checking and searching informati
 
 Terrorism financing OSINT List by Lorando Bono. Reports, organizations info, company/charity info, sanctions lists, crypto investigations and more: https://start.me/p/1kwrGp/terrorism-financing
 
-OSINT USA. Criminal records, Government records, Bussines entity search, Charites/non-profit search, People search, Radio signals and more: https://start.me/p/GEQXv7/osint-us
-
 Asia Pacific Business OSINT Tools. Trusts & foundations, real estate, charities, wealth indicators, individuals and business entities search: https://start.me/p/3KMwaw/hbg-asia-pacific-resources
 
 Venicle OSINT. Stolen car databases, check insurance for registration numbers, licence plates search, VIN search, model recognition, road and traffic info and more: https://start.me/p/q6mmMA/17-road-transportation
 
 Companies Intelligence. List of tools for companies investigation from Shally Stecker: https://start.me/p/Bn4evw/srcn
-
-CHINA OSINT. Companies search, social networks, search engines, phone number search, ID search and more: https://start.me/p/gGvP1p/chinese-osint
 
 PEOPLE INVESTIGATIONS. Email adresses search, phone number search, data breach search, court records search, criminal records search and more: https://start.me/p/GEKMz7/poi-socmint
 
@@ -71,10 +64,6 @@ Phone Number Business Registries 48 links to phone business directories for diff
 Advanced Search Tools - regional search engines, privacy search engines, search engines dorking, fact checking tools, database search tools and more: https://start.me/p/nRADzL/advanced-search-tools
 
 OSINT & Intel by @mikiminoru: https://start.me/p/5vzB9A/osint-intel
-
-OSINT4All start.me Dashboard: https://start.me/p/L1rEYQ/osint4all
-
-India OSINT. Search engines, maps, transport, criminal records, court records and more: https://start.me/p/vjR5wL/osint-india
 
 MEDIA MAP. A very large list of news sites for different countries and regions: https://start.me/p/lLaoXv/07-world
 
