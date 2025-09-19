@@ -19,6 +19,8 @@ Origin
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT of Nepal: https://unishka.substack.com/p/osint-of-nepal
+
 Pakistan Sim Details Cnic Records. Find Pakistani SIM and CNIC details, and track Pakistani mobile numbers with ease: https://pakistandatabase.com/index.php
 
 BuiltWith. Website profiler that reveals the tech stack behind any domain. Identify CMS, analytics, hosting, frameworks, and more — useful for OSINT, pentesting prep, and market intelligence: https://builtwith.com/
