@@ -19,7 +19,11 @@ Origin
 
 **OSINT Tools, Services and Investigations:**
 
+Pakistan Sim Details Cnic Records. Find Pakistani SIM and CNIC details, and track Pakistani mobile numbers with ease: https://pakistandatabase.com/index.php
 
+BuiltWith. Website profiler that reveals the tech stack behind any domain. Identify CMS, analytics, hosting, frameworks, and more — useful for OSINT, pentesting prep, and market intelligence: https://builtwith.com/
+
+InfoTrail. Web tool to trace digital footprints. Search across domains, emails, phone numbers, IPs, and crypto addresses to map connections and investigate online identities: https://infotrail.io/
 
 ----
 
@@ -49,7 +53,9 @@ Origin
 
 **New from CyberDetective:**
 
+MegaGladys. Free online tools for in-depth analysis of people's pages on Wikipedia. Gossip Machine, Biography Builder, Associated Persons, PeopleLinx Affiliations Lookup and others: https://megagladys.com/
 
+PreverseTube. A free online tool that allows you to save copies of YouTube videos to an archive, search for videos and channels saved by other users: https://preservetube.com/
 
 ----
 
