@@ -19,7 +19,13 @@ Origin
 
 **OSINT Tools, Services and Investigations:**
 
+Canada-related OSINT Tools. A list of several hundred websites for investigations related to the provinces and territories of Canada. Business Registries, physician search, courts records, public directories, newspapers archives and more: https://start.me/p/aLe0vp/osint-resources-in-canada
+
+Local Search America. Free online tools for searching news channels, government websites, and other sources of information for gathering information in different parts of the United States. You can even search by areas with a radius of several dozen kilometres, Local News TV, Local Search America, CivicRadius Search: https://localsearchamerica.com/
+
 OSINT of Nepal: https://unishka.substack.com/p/osint-of-nepal
+
+PPL Contact. Platform to find verified business contacts and company details. Search by name, role, or organization — available via web interface or API, useful for OSINT and digital investigations: https://ppl.contact/
 
 Pakistan Sim Details Cnic Records. Find Pakistani SIM and CNIC details, and track Pakistani mobile numbers with ease: https://pakistandatabase.com/index.php
 
@@ -37,7 +43,7 @@ InfoTrail. Web tool to trace digital footprints. Search across domains, emails, 
 
 **Software Development & APIs:**
 
-
+Clime. A beautiful and feature-rich Command Line Interface library for Go that makes building stunning terminal applications effortless: https://github.com/alperdrsnn/clime
 
 ----
 
@@ -49,7 +55,7 @@ InfoTrail. Web tool to trace digital footprints. Search across domains, emails, 
 
 **Flipper Zero & Other Devices:**
 
-
+Evil portal app for the flipper zero + WiFi dev board, Works on OFW, better on RM: https://github.com/RogueMaster/flipperzero-evil-portal
 
 ----
 
