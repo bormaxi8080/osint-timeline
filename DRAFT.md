@@ -13,19 +13,19 @@ Origin
 
 ----
 
+Local Search America. Free online tools for searching news channels, government websites, and other sources of information for gathering information in different parts of the United States. You can even search by areas with a radius of several dozen kilometres, Local News TV, Local Search America, CivicRadius Search: https://localsearchamerica.com/
 
+Canada-related OSINT Tools. A list of several hundred websites for investigations related to the provinces and territories of Canada. Business Registries, physician search, courts records, public directories, newspapers archives and more: https://start.me/p/aLe0vp/osint-resources-in-canada
+
+OSINT of Nepal: https://unishka.substack.com/p/osint-of-nepal
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-Canada-related OSINT Tools. A list of several hundred websites for investigations related to the provinces and territories of Canada. Business Registries, physician search, courts records, public directories, newspapers archives and more: https://start.me/p/aLe0vp/osint-resources-in-canada
-
-Local Search America. Free online tools for searching news channels, government websites, and other sources of information for gathering information in different parts of the United States. You can even search by areas with a radius of several dozen kilometres, Local News TV, Local Search America, CivicRadius Search: https://localsearchamerica.com/
-
-OSINT of Nepal: https://unishka.substack.com/p/osint-of-nepal
-
 PPL Contact. Platform to find verified business contacts and company details. Search by name, role, or organization — available via web interface or API, useful for OSINT and digital investigations: https://ppl.contact/
+
+Legendary Crypto. A resource full of Crypto/OSINT tools, techniques and training courses for CTI, AML, and forensic investigations: https://github.com/K2SOsint/Legendary_Crypto
 
 Pakistan Sim Details Cnic Records. Find Pakistani SIM and CNIC details, and track Pakistani mobile numbers with ease: https://pakistandatabase.com/index.php
 
@@ -37,7 +37,7 @@ InfoTrail. Web tool to trace digital footprints. Search across domains, emails, 
 
 **Universal Search & AI:**
 
-
+Chatterbox. Leading Open Source Voice Cloning AI Model, Now Multilingual: https://www.resemble.ai/chatterbox/
 
 ----
 
@@ -49,7 +49,7 @@ Clime. A beautiful and feature-rich Command Line Interface library for Go that m
 
 **Linux & DevOps:**
 
-
+Qtap. An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes: https://github.com/qpoint-io/qtap
 
 ----
 
@@ -69,7 +69,7 @@ PreverseTube. A free online tool that allows you to save copies of YouTube video
 
 **New from GitHub Community:**
 
-
+Looking for toilets nearby? We found ```NearToilets```, a service that will help you out when you need it most: https://neartoilets.com/map
 
 ----
 ### bormaxi8080 OSINT timeline:

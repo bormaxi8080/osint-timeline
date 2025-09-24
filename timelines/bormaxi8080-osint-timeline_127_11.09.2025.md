@@ -37,8 +37,6 @@ Link: https://platform.openai.com/chat/edit?models=gpt-5&optimize=true
 
 ```Digler``` is a tool for forensic disk analysis and file recovery. It's designed to help you unearth lost or deleted data from various disk images and raw devices: https://github.com/ostafen/digler
 
-Looking for toilets nearby? We found ```NearToilets```, a service that will help you out when you need it most: https://neartoilets.com/map
-
 ----
 
 **Universal Search & AI:**
