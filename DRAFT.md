@@ -11,7 +11,11 @@ Ark
 
 ----
 
+Another quarter, another drop - Kali 2025.3 is now here! Bringing you another round of updates, new features and introducing some new tools - pushing Kali further.
+  
+Packer & Vagrant - HashiCorp’s products have had a refresh Nexmon Support - Monitor mode and injection for Raspberry Pi’s in-built Wi-Fi 10 New Tools - As always, various new packages added (as well as updates) HashiCorp: Packer & Vagrant Kali has been using two HashiCorp products, which go hand-in-hand with each other.
 
+https://www.kali.org/blog/kali-linux-2025-3-release/
 
 ----
 
@@ -23,7 +27,7 @@ Ark
 
 **Universal Search & AI:**
 
-
+DiffMem is a lightweight, git-based memory backend designed for AI agents and conversational systems. It uses Markdown files for human-readable storage, Git for tracking temporal evolution through differentials, and an in-memory BM25 index for fast, explainable retrieval. This project is a proof-of-concept (PoC) exploring how version control systems can serve as a foundation for efficient, scalable memory in AI applications: https://github.com/Growth-Kinetics/DiffMem
 
 ----
 
