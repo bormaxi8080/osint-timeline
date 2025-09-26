@@ -21,11 +21,13 @@ https://www.kali.org/blog/kali-linux-2025-3-release/
 
 **OSINT Tools, Services and Investigations:**
 
-
+Business OSINT tools. A short list of OSINT tools for finding information about companies and their owners. Many are for the USA, but there are also some for Canada, the UK and the rest of the world: https://osint.link/#business
 
 ----
 
 **Universal Search & AI:**
+
+Praxim. The Agentic Word Editor: https://praxim.ai/
 
 DiffMem is a lightweight, git-based memory backend designed for AI agents and conversational systems. It uses Markdown files for human-readable storage, Git for tracking temporal evolution through differentials, and an in-memory BM25 index for fast, explainable retrieval. This project is a proof-of-concept (PoC) exploring how version control systems can serve as a foundation for efficient, scalable memory in AI applications: https://github.com/Growth-Kinetics/DiffMem
 
@@ -39,7 +41,9 @@ DiffMem is a lightweight, git-based memory backend designed for AI agents and co
 
 **Linux & DevOps:**
 
+Uncloud. A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes: https://github.com/psviderski/uncloud
 
+Pinguem. Web interface based on Vue for async checking of the availability of the selected hosts or subnet using the node-ping library: https://github.com/Lifailon/pinguem
 
 ----
 
