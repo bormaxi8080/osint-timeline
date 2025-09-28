@@ -49,13 +49,15 @@ Pinguem. Web interface based on Vue for async checking of the availability of th
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZero Protobuf. This repository contains Flipper Zero RPC protocol protobuf description: https://github.com/flipperdevices/flipperzero-protobuf
 
 ----
 
 **New from CyberDetective:**
 
+8 Tips to Improve Your Reverse Image Search Results. Enhance Image Quality, Crop and Focus, Remove Backgrounds, Leverage Metadata for Context, Combine Multiple Search Engines, Utilize Face Recognition Tools, Use Google Dorks: https://medium.com/the-first-digit/8-tips-to-improve-your-reverse-image-search-results-6841cd828b89
 
+Legendary OSINT by K2OSINT. Github repo with with hundreds of OSINT tools in different categories: people search, aviation, reverse image search, dark web etc.: https://github.com/K2SOsint/Legendary_OSINT
 
 ----
 
