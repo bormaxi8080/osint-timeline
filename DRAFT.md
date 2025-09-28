@@ -21,6 +21,8 @@ https://www.kali.org/blog/kali-linux-2025-3-release/
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT of El Salvador: https://substack.com/home/post/p-174320618
+
 Business OSINT tools. A short list of OSINT tools for finding information about companies and their owners. Many are for the USA, but there are also some for Canada, the UK and the rest of the world: https://osint.link/#business
 
 ----
