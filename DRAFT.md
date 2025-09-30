@@ -11,6 +11,10 @@ Ark
 
 ----
 
+The black market of drugs and precursors is something really special. I contributed as an investigator to a new BBC investigation exposing how chemical precursors from China reach the Russian market and are used for industrial production of mephedrone distributed through darkweb. Traced key routes through Vladivostok and Kazakhstan, documented nearly a ton of seized precursors, and identified typical masking tactics — from false customs declarations to re-registration via shell companies. The findings show that flows remain industrial in scale, while authorities deliberately look the other way: https://www.youtube.com/watch?v=Y5wajKa4iz8&feature=youtu.be
+
+----
+
 Another quarter, another drop - Kali 2025.3 is now here! Bringing you another round of updates, new features and introducing some new tools - pushing Kali further.
   
 Packer & Vagrant - HashiCorp’s products have had a refresh Nexmon Support - Monitor mode and injection for Raspberry Pi’s in-built Wi-Fi 10 New Tools - As always, various new packages added (as well as updates) HashiCorp: Packer & Vagrant Kali has been using two HashiCorp products, which go hand-in-hand with each other.
@@ -22,6 +26,8 @@ https://www.kali.org/blog/kali-linux-2025-3-release/
 **OSINT Tools, Services and Investigations:**
 
 OSINT of El Salvador: https://substack.com/home/post/p-174320618
+
+OSINT Tools and Resources Handbook. An index of OSINT tools and resources curated by the team at [i-Intelligence GmbH](https://i-intelligence.eu/): https://www.osinthandbook.com/
 
 Ubikron List of List of OSINT Tools: https://github.com/ubikron/Awesome-OSINT-Lists
 
@@ -35,6 +41,8 @@ Business OSINT tools. A short list of OSINT tools for finding information about 
 
 CheckFirst. AI scheduling software for audit & inspection teams. Plan faster, reschedule smarter, and boost auditor utilization without spreadsheets or manual firefighting: https://www.checkfirst.ai/
 
+AionAI. Free, local, open-source GUI app for Gemini CLI - Better Chat UI, File Management, AI image editing, multi-agent support, multi-LLMs & apikey polling, code diff view & more: https://github.com/iOfficeAI/AionUi
+
 Praxim. The Agentic Word Editor: https://praxim.ai/
 
 DiffMem is a lightweight, git-based memory backend designed for AI agents and conversational systems. It uses Markdown files for human-readable storage, Git for tracking temporal evolution through differentials, and an in-memory BM25 index for fast, explainable retrieval. This project is a proof-of-concept (PoC) exploring how version control systems can serve as a foundation for efficient, scalable memory in AI applications: https://github.com/Growth-Kinetics/DiffMem
@@ -43,7 +51,7 @@ DiffMem is a lightweight, git-based memory backend designed for AI agents and co
 
 **Software Development & APIs:**
 
-
+Agentic Design Patterns from Google: https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic#heading=h.pxcur8v2qagu
 
 ----
 
@@ -71,7 +79,7 @@ Legendary OSINT by K2OSINT. Github repo with with hundreds of OSINT tools in dif
 
 **New from GitHub Community:**
 
-
+Every PDF. A powerful, all-in-one desktop PDF toolkit to edit, convert, merge, and secure your documents. Built with Electron, Next.js, and Python: https://github.com/DDULDDUCK/every-pdf
 
 ----
 ### bormaxi8080 OSINT timeline:
