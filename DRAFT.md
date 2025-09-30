@@ -23,11 +23,17 @@ https://www.kali.org/blog/kali-linux-2025-3-release/
 
 OSINT of El Salvador: https://substack.com/home/post/p-174320618
 
+Ubikron List of List of OSINT Tools: https://github.com/ubikron/Awesome-OSINT-Lists
+
+The French Open Source Intelligence Survival Kit — Tips, Tools, Techniques, & the Ultimate Website Directory for France-Focused Investigators: https://osintteam.blog/fr-osint-unleashed-5eec0ef4f2a7
+
 Business OSINT tools. A short list of OSINT tools for finding information about companies and their owners. Many are for the USA, but there are also some for Canada, the UK and the rest of the world: https://osint.link/#business
 
 ----
 
 **Universal Search & AI:**
+
+CheckFirst. AI scheduling software for audit & inspection teams. Plan faster, reschedule smarter, and boost auditor utilization without spreadsheets or manual firefighting: https://www.checkfirst.ai/
 
 Praxim. The Agentic Word Editor: https://praxim.ai/
 
