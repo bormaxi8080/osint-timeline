@@ -31,13 +31,15 @@ OSINT Tools and Resources Handbook. An index of OSINT tools and resources curate
 
 Ubikron List of List of OSINT Tools: https://github.com/ubikron/Awesome-OSINT-Lists
 
+Ubikron Advanced Enrichments List. One of Ubikron's many useful features is the ability to extract well-known entities from web pages, use it as input, and send it to a range of online tools. For example, Ubikron extracts emails, phone numbers, and usernames from web pages and generates links to quickly search on IntelX, Epieos and others. And... users can also add their own extractions (using regular expressions) and enrichments (using URLs with GET parameters). With this in mind, we finally finished building this page. It's a huge additional enrichments for Ubikron and can be found at this repository: https://github.com/ubikron/Advanced-Enrichments
+
 The French Open Source Intelligence Survival Kit — Tips, Tools, Techniques, & the Ultimate Website Directory for France-Focused Investigators: https://osintteam.blog/fr-osint-unleashed-5eec0ef4f2a7
 
 Business OSINT tools. A short list of OSINT tools for finding information about companies and their owners. Many are for the USA, but there are also some for Canada, the UK and the rest of the world: https://osint.link/#business
 
 Image Intelligence. Face Search Engines, Browser addons, Extract metadata, Investigating metadata guide, Remove Background, Translate text from photos, Deepfakes detection: https://start.me/p/gyEalK/06-imint-vi-geoint
 
-ollama-scanner. Python scanner that discovers & catalogues publicly exposed Ollama instances via Shodan. Extracts models, versions and geo-info, stores results in SQLite — useful for research into exposed LLM deployments (requires Shodan access/cookie). Use responsibly — for research only: 
+ollama-scanner. Python scanner that discovers & catalogues publicly exposed Ollama instances via Shodan. Extracts models, versions and geo-info, stores results in SQLite — useful for research into exposed LLM deployments (requires Shodan access/cookie). Use responsibly — for research only: https://github.com/TheDoctor0/ollama-scanner
 
 ----
 
