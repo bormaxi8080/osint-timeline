@@ -11,7 +11,7 @@ Ark
 
 ----
 
-The black market of drugs and precursors is something really special. I contributed as an investigator to a new BBC investigation exposing how chemical precursors from China reach the Russian market and are used for industrial production of mephedrone distributed through darkweb. Traced key routes through Vladivostok and Kazakhstan, documented nearly a ton of seized precursors, and identified typical masking tactics — from false customs declarations to re-registration via shell companies. The findings show that flows remain industrial in scale, while authorities deliberately look the other way: https://www.youtube.com/watch?v=Y5wajKa4iz8&feature=youtu.be
+The black market of drugs and precursors is something really special. Ilya Shumanov contributed as an investigator to a new BBC investigation exposing how chemical precursors from China reach the Russian market and are used for industrial production of mephedrone distributed through darkweb. He traced key routes through Vladivostok and Kazakhstan, documented nearly a ton of seized precursors, and identified typical masking tactics — from false customs declarations to re-registration via shell companies. The findings show that flows remain industrial in scale, while authorities deliberately look the other way: https://www.youtube.com/watch?v=Y5wajKa4iz8&feature=youtu.be
 
 ----
 
@@ -34,6 +34,10 @@ Ubikron List of List of OSINT Tools: https://github.com/ubikron/Awesome-OSINT-Li
 The French Open Source Intelligence Survival Kit — Tips, Tools, Techniques, & the Ultimate Website Directory for France-Focused Investigators: https://osintteam.blog/fr-osint-unleashed-5eec0ef4f2a7
 
 Business OSINT tools. A short list of OSINT tools for finding information about companies and their owners. Many are for the USA, but there are also some for Canada, the UK and the rest of the world: https://osint.link/#business
+
+Image Intelligence. Face Search Engines, Browser addons, Extract metadata, Investigating metadata guide, Remove Background, Translate text from photos, Deepfakes detection: https://start.me/p/gyEalK/06-imint-vi-geoint
+
+ollama-scanner. Python scanner that discovers & catalogues publicly exposed Ollama instances via Shodan. Extracts models, versions and geo-info, stores results in SQLite — useful for research into exposed LLM deployments (requires Shodan access/cookie). Use responsibly — for research only: 
 
 ----
 
