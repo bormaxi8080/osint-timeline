@@ -14,7 +14,7 @@ Ark
 
 **OSINT Tools, Services and Investigations:**
 
-
+BF Database Search. A service that lets you search nicknames/usernames in the data of BreachForums, one of the most notorious underground forums that replaced RaidForums. The database contains accounts, posts, and activity that can provide valuable context during investigations. This can be especially useful when - Tracing threat actors across platforms, Identifying reused nicknames in underground communities, Spotting connections between forum activity and other leaked datasets: https://bf.based.re/
 
 ----
 
@@ -26,13 +26,13 @@ Ark
 
 **Software Development & APIs:**
 
-
+POML. Prompt Orchestration Markup Language: https://github.com/microsoft/poml
 
 ----
 
 **Linux & DevOps:**
 
-
+Port Kill helps you find and free ports blocking your dev work: https://github.com/kagehq/port-kill
 
 ----
 
@@ -50,7 +50,7 @@ Ark
 
 **New from GitHub Community:**
 
-
+YN. A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macro replacement: https://github.com/purocean/yn
 
 ----
 ### bormaxi8080 OSINT timeline:
