@@ -30,6 +30,8 @@ BF Database Search. A service that lets you search nicknames/usernames in the da
 
 Doxcord. OSINT tool designed to scan Discord servers for social media links containing tracking parameters. The tool can identify Instagram, TikTok, and Facebook links that include tracking identifiers, and organize them by user and server: https://github.com/boringthegod/doxcord
 
+3x-ui. Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP): https://github.com/MHSanaei/3x-ui
+
 RSS Gizmos. List of tools for creating, finding and using RSS Feeds: https://rssgizmos.com/
 
 Privacy Tools. Provides services, tools and privacy guides to counter global mass surveillance. Established in 2015 after Edward Snowden's revelations: https://www.privacytools.io/
