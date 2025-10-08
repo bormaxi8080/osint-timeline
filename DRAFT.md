@@ -12,7 +12,7 @@ Ark
 
 **OSINT Tools, Services and Investigations:**
 
-
+Canada-related OSINT Tools. A list of several hundred websites for investigations related to the provinces and territories of Canada. Business Registries, physician search, courts records, public directories, newspapers archives and more: https://start.me/p/aLe0vp/osint-resources-in-canada
 
 ----
 
