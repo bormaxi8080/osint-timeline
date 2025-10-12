@@ -6,7 +6,7 @@ Ark
 
 ----
 
-
+OSINT Italy from Unishka Research Service: https://unishka.substack.com/p/osint-of-italy
 
 ----
 
@@ -15,6 +15,12 @@ Ark
 Canada-related OSINT Tools. A list of several hundred websites for investigations related to the provinces and territories of Canada. Business Registries, physician search, courts records, public directories, newspapers archives and more: https://start.me/p/aLe0vp/osint-resources-in-canada
 
 Genealogy and History OSINT. Start me page by Cshellshelley123. Genealogy websites, AI tools for genealogy, military records, newspapers, history book collections, search engines, other tools and more: https://start.me/p/ek1bpw/genealogy
+
+HyperBrowser. Cloud Browser for your AI Agents. Supercharge your AI agents with lightning-fast cloud browsers. Seamlessly connect your AI to the entire web — no limits, no compromises: https://www.hyperbrowser.ai/
+
+Spotify Downloader. Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found): https://github.com/spotDL/spotify-downloader
+
+GrowChief. The Ultimate all-in social media automation (outreach) tool: https://github.com/growchief/growchief
 
 ----
 
@@ -40,7 +46,9 @@ YCS - YouTube Comment Search Chrome Extension: https://chromewebstore.google.com
 
 **Software Development & APIs:**
 
+How to Build Coding Agent. A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode: https://github.com/ghuntley/how-to-build-a-coding-agent
 
+Patchright is a patched and undetected version of the Playwright Testing and Automation Framework. It can be used as a drop-in replacement for Playwright: https://github.com/Kaliiiiiiiiii-Vinyzu/patchright
 
 ----
 
