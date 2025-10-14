@@ -6,17 +6,21 @@ Ark
 
 ----
 
-OSINT Italy from Unishka Research Service: https://unishka.substack.com/p/osint-of-italy
+The LinkedIn OSINT Investigation Guide: https://blog.pagefreezer.com/linkedin-osint-investigation-guide
 
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+OSINT Italy from Unishka Research Service: https://unishka.substack.com/p/osint-of-italy
 
 Canada-related OSINT Tools. A list of several hundred websites for investigations related to the provinces and territories of Canada. Business Registries, physician search, courts records, public directories, newspapers archives and more: https://start.me/p/aLe0vp/osint-resources-in-canada
 
 Genealogy and History OSINT. Start me page by Cshellshelley123. Genealogy websites, AI tools for genealogy, military records, newspapers, history book collections, search engines, other tools and more: https://start.me/p/ek1bpw/genealogy
 
 HyperBrowser. Cloud Browser for your AI Agents. Supercharge your AI agents with lightning-fast cloud browsers. Seamlessly connect your AI to the entire web — no limits, no compromises: https://www.hyperbrowser.ai/
+
+Telegram Reporter Tool. Tool to automate the process of reporting and many more functions (+43 functions). No coding skills required and very easy to use: https://github.com/Telegram-Reporter/Telegram-Reporter-Tool
 
 Spotify Downloader. Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found): https://github.com/spotDL/spotify-downloader
 
