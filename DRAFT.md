@@ -8,6 +8,8 @@ Ark
 
 The LinkedIn OSINT Investigation Guide: https://blog.pagefreezer.com/linkedin-osint-investigation-guide
 
+A new community project dedicated to Adversarial Prompts called PromptIntel: https://blog.securitybreak.io/introducing-promptintel-1624d03045a3
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -17,6 +19,10 @@ OSINT Italy from Unishka Research Service: https://unishka.substack.com/p/osint-
 Canada-related OSINT Tools. A list of several hundred websites for investigations related to the provinces and territories of Canada. Business Registries, physician search, courts records, public directories, newspapers archives and more: https://start.me/p/aLe0vp/osint-resources-in-canada
 
 Genealogy and History OSINT. Start me page by Cshellshelley123. Genealogy websites, AI tools for genealogy, military records, newspapers, history book collections, search engines, other tools and more: https://start.me/p/ek1bpw/genealogy
+
+Malfrat's OSINT Map: https://map.malfrats.industries/
+
+Serach Dorks. Search Engine Dorks Generator for OSINT Research: https://kriztalz.sh/search-dorks/
 
 HyperBrowser. Cloud Browser for your AI Agents. Supercharge your AI agents with lightning-fast cloud browsers. Seamlessly connect your AI to the entire web — no limits, no compromises: https://www.hyperbrowser.ai/
 
