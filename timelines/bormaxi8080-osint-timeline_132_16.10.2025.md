@@ -32,7 +32,7 @@ A new community project dedicated to Adversarial Prompts called ```PromptIntel``
 
 ```Malfrat's OSINT Map```: https://map.malfrats.industries/
 
-```Serach Dorks```. Search Engine Dorks Generator for OSINT Research: https://kriztalz.sh/search-dorks/
+```Search Dorks```. Search Engine Dorks Generator for OSINT Research: https://kriztalz.sh/search-dorks/
 
 ```HyperBrowser```. Cloud Browser for your AI Agents. Supercharge your AI agents with lightning-fast cloud browsers. Seamlessly connect your AI to the entire web — no limits, no compromises: https://www.hyperbrowser.ai/
 
