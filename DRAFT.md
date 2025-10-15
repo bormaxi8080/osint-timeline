@@ -6,6 +6,8 @@ Ark
 
 ----
 
+Epstein Archive. Jeffrey Epstein case related files. The site was created by enthusiasts from Reddit. The data requires additional verification but can be used to develop hypotheses. 8175 AI processed documents, 5709 organizations, 12243 people, 3211 locations: https://epstein-docs.github.io/
+
 The LinkedIn OSINT Investigation Guide: https://blog.pagefreezer.com/linkedin-osint-investigation-guide
 
 A new community project dedicated to Adversarial Prompts called PromptIntel: https://blog.securitybreak.io/introducing-promptintel-1624d03045a3
@@ -17,6 +19,8 @@ A new community project dedicated to Adversarial Prompts called PromptIntel: htt
 OSINT Italy from Unishka Research Service: https://unishka.substack.com/p/osint-of-italy
 
 Canada-related OSINT Tools. A list of several hundred websites for investigations related to the provinces and territories of Canada. Business Registries, physician search, courts records, public directories, newspapers archives and more: https://start.me/p/aLe0vp/osint-resources-in-canada
+
+Brazilian OSINT: https://start.me/p/QLDxrJ/asm-fontes-abertas
 
 Genealogy and History OSINT. Start me page by Cshellshelley123. Genealogy websites, AI tools for genealogy, military records, newspapers, history book collections, search engines, other tools and more: https://start.me/p/ek1bpw/genealogy
 
@@ -57,6 +61,8 @@ YCS - YouTube Comment Search Chrome Extension: https://chromewebstore.google.com
 How to Build Coding Agent. A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode: https://github.com/ghuntley/how-to-build-a-coding-agent
 
 Whisper Live Kit. Real-time speech transcription directly to your browser, with a ready-to-use backend+server and a simple frontend: https://github.com/QuentinFuxa/WhisperLiveKit
+
+YouStitch. Free and very simple online tool for creating panoramas from videos and photos. Just capture frames and put on canvas: https://www.youstitch.it/
 
 YouTu Agent. A simple yet powerful agent framework that delivers with open-source models: https://github.com/TencentCloudADP/youtu-agent
 
