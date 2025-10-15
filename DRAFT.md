@@ -20,7 +20,11 @@ OSINT Italy from Unishka Research Service: https://unishka.substack.com/p/osint-
 
 Canada-related OSINT Tools. A list of several hundred websites for investigations related to the provinces and territories of Canada. Business Registries, physician search, courts records, public directories, newspapers archives and more: https://start.me/p/aLe0vp/osint-resources-in-canada
 
-Brazilian OSINT: https://start.me/p/QLDxrJ/asm-fontes-abertas
+Brazilian OSINT by ASM Advocados: https://start.me/p/QLDxrJ/asm-fontes-abertas
+
+OSINT India by D4rK: https://start.me/p/vjR5wL/osint-india
+
+OSINT China by Pangar-ban: https://start.me/p/7kLY9R/osint-chine
 
 Genealogy and History OSINT. Start me page by Cshellshelley123. Genealogy websites, AI tools for genealogy, military records, newspapers, history book collections, search engines, other tools and more: https://start.me/p/ek1bpw/genealogy
 
