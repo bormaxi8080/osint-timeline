@@ -10,49 +10,55 @@ Body
 
 ----
 
+Winning with misinformation: New research identifies link between endorsing easily disproven claims and prioritizing symbolic strength: https://theconversation.com/winning-with-misinformation-new-research-identifies-link-between-endorsing-easily-disproven-claims-and-prioritizing-symbolic-strength-265652
 
+Open Source Guide to Investigating Chinese Companies: https://gijn.org/resource/asia-focus-open-source-guide-investigating-chinese-companies/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT of Algeria by Unishka Research Service: https://substack.com/home/post/p-176147114
 
+RSSHub is the world's largest RSS network, consisting of over 5,000 global instances. RSSHub delivers millions of contents aggregated from all kinds of sources, our vibrant open source community is ensuring the deliver of RSSHub's new routes, new features and bug fixes: https://github.com/DIYgod/RSSHub
+
+MediaInfo. Convenient unified display of the most relevant technical and tag data for video and audio files: https://github.com/MediaArea/MediaInfo
 
 ----
 
 **Universal Search & AI:**
 
-
+AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents: https://github.com/activepieces/activepieces
 
 ----
 
 **Software Development & APIs:**
 
-
+WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go): https://github.com/devlikeapro/waha
 
 ----
 
 **Linux & DevOps:**
 
-
+Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities: https://github.com/Termix-SSH/Termix
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+AirMon. Flipper Zero air quality monitoring application: https://github.com/3cky/flipperzero-airmon
 
 ----
 
 **New from CyberDetective:**
 
-
+Awesome AI OSINT Github repo by Ubikron - AI image search/identification, ChatGPT based online tools, AI GEOINT, Google Dorks AI tools, Contacts search/leads generation, AI generated content detection, Multitask AI tools, Articles and videos: https://github.com/ubikron/Awesome-AI-OSINT
 
 ----
 
 **New from GitHub Community:**
 
-
+ZUSE is an irc client for the terminal made in Go with Bubbletea: https://github.com/babycommando/zuse
 
 ----
 ### bormaxi8080 OSINT timeline:
