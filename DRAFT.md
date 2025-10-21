@@ -8,7 +8,7 @@ Breath
 
 ----
 
-
+Your questions, answered by Cybernews: Does Facebook delete accounts or just hide them: https://cybernews.com/privacy/facebook-account-deletion-meta-data/
 
 ----
 
