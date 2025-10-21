@@ -20,6 +20,14 @@ Open Source Guide to Investigating Chinese Companies: https://gijn.org/resource/
 
 OSINT of Algeria by Unishka Research Service: https://substack.com/home/post/p-176147114
 
+OSINT for countries by x.com/wdd_adk: https://github.com/wddadk/OSINT-for-countries
+
+The Oceans Investigations Guide by GIJN. Ship’s Criminal History, Resources for Tracking Ships, Seafood Companies Information, Universal investigation tips and resources: https://gijn.org/resource/the-oceans-investigations-guide/
+
+SAWEST Public Sources 2024. Websites with open data for different countries - National portal, ministries and government organizations, Registers, Public Records, Statistics, Laws/Legislation, News, TV/Radio, Social networks, forums: https://sawest.eu
+
+Open Source Intelligence: Free Satellite Services for Investigations. Detailed article with technical specifications and limitations by _aircorridor_ for Hackers Arise. NASA Earth, EOSDA, Copernicus and Google Earth: https://hackers-arise.com/open-source-intelligence-free-satellite-services-for-investigations/
+
 RSSHub is the world's largest RSS network, consisting of over 5,000 global instances. RSSHub delivers millions of contents aggregated from all kinds of sources, our vibrant open source community is ensuring the deliver of RSSHub's new routes, new features and bug fixes: https://github.com/DIYgod/RSSHub
 
 MediaInfo. Convenient unified display of the most relevant technical and tag data for video and audio files: https://github.com/MediaArea/MediaInfo
@@ -53,6 +61,8 @@ AirMon. Flipper Zero air quality monitoring application: https://github.com/3cky
 **New from CyberDetective:**
 
 Awesome AI OSINT Github repo by Ubikron - AI image search/identification, ChatGPT based online tools, AI GEOINT, Google Dorks AI tools, Contacts search/leads generation, AI generated content detection, Multitask AI tools, Articles and videos: https://github.com/ubikron/Awesome-AI-OSINT
+
+Do you remember Usersearch OneScan, which allows you to search OSINTIndustries, Epieos, Predicta Search, and Castrick clues simultaneously? Now there is OneScan for images too! FaceCheck + Picarta + Tineye + Search4faces + Camgirlfinder: https://usersearch.ai
 
 ----
 
