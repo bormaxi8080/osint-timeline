@@ -22,6 +22,10 @@ OSINT of Algeria by Unishka Research Service: https://substack.com/home/post/p-1
 
 OSINT for countries by x.com/wdd_adk: https://github.com/wddadk/OSINT-for-countries
 
+Search Engine Searchers by Bohdan Taranenko: https://start.me/p/1kl8j9/search-engines-searchers
+
+Sussex Global Analysis start.me collection: https://start.me/p/ADypgr/intelligence-subject-matter
+
 The Oceans Investigations Guide by GIJN. Ship’s Criminal History, Resources for Tracking Ships, Seafood Companies Information, Universal investigation tips and resources: https://gijn.org/resource/the-oceans-investigations-guide/
 
 SAWEST Public Sources 2024. Websites with open data for different countries - National portal, ministries and government organizations, Registers, Public Records, Statistics, Laws/Legislation, News, TV/Radio, Social networks, forums: https://sawest.eu
@@ -69,6 +73,8 @@ Do you remember Usersearch OneScan, which allows you to search OSINTIndustries, 
 **New from GitHub Community:**
 
 ZUSE is an irc client for the terminal made in Go with Bubbletea: https://github.com/babycommando/zuse
+
+Trilium Notes is a free and open-source, cross-platform hierarchical note taking application with focus on building large personal knowledge bases: https://github.com/TriliumNext/Trilium
 
 ----
 ### bormaxi8080 OSINT timeline:
