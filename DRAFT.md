@@ -14,7 +14,11 @@ Your questions, answered by Cybernews: Does Facebook delete accounts or just hid
 
 **OSINT Tools, Services and Investigations:**
 
+Social Media Search Tools. "How to" guides, Facebook search, Instagram search, People search engines, Username search, TikTok search, Telegram channels search, VK, Linkedin, Tumblr and other social media: https://start.me/p/RMKeQv/search-social-media
 
+Maps for OSINT. Traffic, Cameras, Flight, Maritime, Wildfire/Disaster and others: https://start.me/p/8ykwnj/mappy
+
+A brutally honest WhatsApp Web analyzer (Chrome extension). It quietly monitors group chat dynamics, analyzing reactions and replies to uncover social gravity, influence, favoritism, and marginalization patterns between members: https://github.com/markrai/whatsthat
 
 ----
 
