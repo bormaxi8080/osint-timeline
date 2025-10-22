@@ -2,13 +2,15 @@
 Breath
 
 
+
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3000: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
-Your questions, answered by Cybernews: Does Facebook delete accounts or just hide them: https://cybernews.com/privacy/facebook-account-deletion-meta-data/
+Does Facebook delete accounts or just hide them: https://cybernews.com/privacy/facebook-account-deletion-meta-data/
 
 ----
 

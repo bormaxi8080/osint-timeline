@@ -30,7 +30,7 @@ Open Source Guide to Investigating ```Chinese Companies```: https://gijn.org/res
 
 ```Search Engine Searchers``` by Bohdan Taranenko: https://start.me/p/1kl8j9/search-engines-searchers
 
-```Sussex Global Analysis```v start.me collection: https://start.me/p/ADypgr/intelligence-subject-matter
+```Sussex Global Analysis``` start.me collection: https://start.me/p/ADypgr/intelligence-subject-matter
 
 ```SAWEST Public Sources 2024```. Websites with open data for different countries - National portal, ministries and government organizations, Registers, Public Records, Statistics, Laws/Legislation, News, TV/Radio, Social networks, forums: https://sawest.eu
 
