@@ -20,6 +20,8 @@ Social Media Search Tools. "How to" guides, Facebook search, Instagram search, P
 
 Maps for OSINT. Traffic, Cameras, Flight, Maritime, Wildfire/Disaster and others: https://start.me/p/8ykwnj/mappy
 
+FollowTheMoney. This repository contains a pragmatic data model for the entities most commonly used in investigative reporting and financial crime investigations: people, companies, assets, payments, ownership relations, court cases, etc.: https://github.com/opensanctions/followthemoney
+
 A brutally honest WhatsApp Web analyzer (Chrome extension). It quietly monitors group chat dynamics, analyzing reactions and replies to uncover social gravity, influence, favoritism, and marginalization patterns between members: https://github.com/markrai/whatsthat
 
 ----
