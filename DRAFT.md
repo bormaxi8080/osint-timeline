@@ -26,25 +26,29 @@ A brutally honest WhatsApp Web analyzer (Chrome extension). It quietly monitors 
 
 **Universal Search & AI:**
 
-
+CensysGPT beta simplifies building queries and empowers users to conduct efficient and effective reconnaissance operations. The tool enables users to quickly and easily gain insights into hosts on the internet, streamlining the process and allowing for more proactive threat hunting and attack surface management: https://gpt.censys.io/
 
 ----
 
 **Software Development & APIs:**
 
-
+AICommit2. A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral, and other AI: https://github.com/tak-bro/aicommit2
 
 ----
 
 **Linux & DevOps:**
 
-
+pgBackRest is a reliable backup and restore solution for PostgreSQL that seamlessly scales up to the largest databases and workloads: https://github.com/pgbackrest/pgbackrest
 
 ----
 
 **Flipper Zero & Other Devices:**
 
+Flipper Zero IR Xbox Controller: https://github.com/gebeto/flipper-xbox-controller
 
+KIISU V4B Development Board. The Card-Sized Alternative to Flipper Zero: https://kiisu.io/
+
+GitHub: https://github.com/kiisu-io/kiisu4
 
 ----
 
