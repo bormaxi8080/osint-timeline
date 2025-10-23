@@ -30,11 +30,15 @@ A brutally honest WhatsApp Web analyzer (Chrome extension). It quietly monitors 
 
 CensysGPT beta simplifies building queries and empowers users to conduct efficient and effective reconnaissance operations. The tool enables users to quickly and easily gain insights into hosts on the internet, streamlining the process and allowing for more proactive threat hunting and attack surface management: https://gpt.censys.io/
 
+AICommit2. A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral, and other AI: https://github.com/tak-bro/aicommit2
+
 ----
 
 **Software Development & APIs:**
 
-AICommit2. A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral, and other AI: https://github.com/tak-bro/aicommit2
+Rigour. Data cleaning and validation functions for processing various types of text emanating and describing the business world. This applies to human and company names, language, territory and country codes, corporate and tax identifiers, etc.: https://rigour.followthemoney.tech/
+
+GitHub: https://github.com/opensanctions/rigour
 
 ----
 
