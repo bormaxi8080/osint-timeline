@@ -16,9 +16,13 @@ Does Facebook delete accounts or just hide them: https://cybernews.com/privacy/f
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT of Australia from Unishka Research Service: https://substack.com/home/post/p-176717979
+
 Social Media Search Tools. "How to" guides, Facebook search, Instagram search, People search engines, Username search, TikTok search, Telegram channels search, VK, Linkedin, Tumblr and other social media: https://start.me/p/RMKeQv/search-social-media
 
 Maps for OSINT. Traffic, Cameras, Flight, Maritime, Wildfire/Disaster and others: https://start.me/p/8ykwnj/mappy
+
+Public Records OSINT (USA focused). Court records, government records, vital records, unclaimed property, campaign data and more: https://start.me/p/b5Aow7/asint_collection
 
 FollowTheMoney. This repository contains a pragmatic data model for the entities most commonly used in investigative reporting and financial crime investigations: people, companies, assets, payments, ownership relations, court cases, etc.: https://github.com/opensanctions/followthemoney
 
