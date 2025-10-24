@@ -52,6 +52,8 @@ GitHub: https://github.com/opensanctions/rigour
 
 **Linux & DevOps:**
 
+Alerta monitoring system released: https://github.com/alerta/alerta
+
 pgBackRest is a reliable backup and restore solution for PostgreSQL that seamlessly scales up to the largest databases and workloads: https://github.com/pgbackrest/pgbackrest
 
 ----
