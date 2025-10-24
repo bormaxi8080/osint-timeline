@@ -36,6 +36,10 @@ AICommit2. A Reactive CLI that generates commit messages for Git and Jujutsu wit
 
 **Software Development & APIs:**
 
+Depyler. A Python-to-Rust transpiler with semantic verification and memory safety analysis. Depyler translates annotated Python code into idiomatic Rust, preserving program semantics while providing compile-time safety guarantees: https://github.com/paiml/depyler
+
+git-crypt enables transparent encryption and decryption of files in a git repository. Files which you choose to protect are encrypted when committed, and decrypted when checked out. git-crypt lets you freely share a repository containing a mix of public and private content. git-crypt gracefully degrades, so developers without the secret key can still clone and commit to a repository with encrypted files. This lets you store your secret material (such as keys or passwords) in the same repository as your code, without requiring you to lock down your entire repository: https://github.com/AGWA/git-crypt
+
 Rigour. Data cleaning and validation functions for processing various types of text emanating and describing the business world. This applies to human and company names, language, territory and country codes, corporate and tax identifiers, etc.: https://rigour.followthemoney.tech/
 
 GitHub: https://github.com/opensanctions/rigour
@@ -60,13 +64,13 @@ GitHub: https://github.com/kiisu-io/kiisu4
 
 **New from CyberDetective:**
 
-
+Cold Relation. Online OSINT toolkit. Domain dossier, exif viewer, cryptocurrency addresses info search, social media search tools, Chine social media search tools and more: https://coldrelation.com/
 
 ----
 
 **New from GitHub Community:**
 
-
+Gramax. Embrace a docs-as-code approach to build, version, and publish Git-driven documentation sites using Markdown and a visual editor: https://github.com/Gram-ax/gramax
 
 ----
 ### bormaxi8080 OSINT timeline:
