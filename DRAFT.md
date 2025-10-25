@@ -26,6 +26,10 @@ Public Records OSINT (USA focused). Court records, government records, vital rec
 
 FollowTheMoney. This repository contains a pragmatic data model for the entities most commonly used in investigative reporting and financial crime investigations: people, companies, assets, payments, ownership relations, court cases, etc.: https://github.com/opensanctions/followthemoney
 
+Nomenklatura. Framework and command-line tools for integrating FollowTheMoney data streams from multiple sources: https://github.com/opensanctions/nomenklatura
+
+Yante. API for OpenSanctions with support for entity search and bulk matching of data collections. Supports Reconciliation API spec: https://github.com/opensanctions/yente
+
 A brutally honest WhatsApp Web analyzer (Chrome extension). It quietly monitors group chat dynamics, analyzing reactions and replies to uncover social gravity, influence, favoritism, and marginalization patterns between members: https://github.com/markrai/whatsthat
 
 ----
@@ -41,6 +45,8 @@ AICommit2. A Reactive CLI that generates commit messages for Git and Jujutsu wit
 **Software Development & APIs:**
 
 Depyler. A Python-to-Rust transpiler with semantic verification and memory safety analysis. Depyler translates annotated Python code into idiomatic Rust, preserving program semantics while providing compile-time safety guarantees: https://github.com/paiml/depyler
+
+Naturaltime. Go library for parsing natural language time expressions with exceptional range support: https://github.com/Sho0pi/naturaltime
 
 git-crypt enables transparent encryption and decryption of files in a git repository. Files which you choose to protect are encrypted when committed, and decrypted when checked out. git-crypt lets you freely share a repository containing a mix of public and private content. git-crypt gracefully degrades, so developers without the secret key can still clone and commit to a repository with encrypted files. This lets you store your secret material (such as keys or passwords) in the same repository as your code, without requiring you to lock down your entire repository: https://github.com/AGWA/git-crypt
 
