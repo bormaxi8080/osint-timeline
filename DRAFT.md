@@ -10,7 +10,9 @@ Sunrise
 
 ----
 
-Does Facebook delete accounts or just hide them: https://cybernews.com/privacy/facebook-account-deletion-meta-data/
+Does Facebook delete accounts or just hide them? https://cybernews.com/privacy/facebook-account-deletion-meta-data/
+
+Understanding Telegram for OSINT research: https://www.authentic8.com/blog/telegram-osint-research
 
 ----
 
@@ -22,7 +24,15 @@ Social Media Search Tools. "How to" guides, Facebook search, Instagram search, P
 
 Maps for OSINT. Traffic, Cameras, Flight, Maritime, Wildfire/Disaster and others: https://start.me/p/8ykwnj/mappy
 
+Nadir.Space. Track satellites in real time. A simple, fast way to see what’s above you. Open the tracker, pick an object, and watch it move: https://nadir.space/
+
+AntiPublic. Historical tool and database offering lookup services for billions of compromised credentials (email/password pairs) sourced from public data breaches: https://antipublic.net
+
+Darknet & Clearnet search engines. StartMe page with very long list of different search engines (some links are very old, but some still work today): https://start.me/p/BP8Xbw/search-engines-darkweb-and-clear
+
 Public Records OSINT (USA focused). Court records, government records, vital records, unclaimed property, campaign data and more: https://start.me/p/b5Aow7/asint_collection
+
+Telegram Automation & Safety Tool. Telegram automation utility built with Telethon, designed for username validation, group member extraction, and controlled message sending with built-in anti-spam safety, rate limiting, and randomized delays: 
 
 FollowTheMoney. This repository contains a pragmatic data model for the entities most commonly used in investigative reporting and financial crime investigations: people, companies, assets, payments, ownership relations, court cases, etc.: https://github.com/opensanctions/followthemoney
 
@@ -39,6 +49,8 @@ A brutally honest WhatsApp Web analyzer (Chrome extension). It quietly monitors 
 CensysGPT beta simplifies building queries and empowers users to conduct efficient and effective reconnaissance operations. The tool enables users to quickly and easily gain insights into hosts on the internet, streamlining the process and allowing for more proactive threat hunting and attack surface management: https://gpt.censys.io/
 
 AICommit2. A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral, and other AI: https://github.com/tak-bro/aicommit2
+
+Krep. Fast text search tool with advanced algorithms, SIMD acceleration, multi-threading, and regex support. Designed for rapid, large-scale pattern matching with memory-mapped I/O and hardware optimizations: https://github.com/davidesantangelo/krep
 
 ----
 
