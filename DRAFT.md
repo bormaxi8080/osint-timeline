@@ -42,6 +42,8 @@ Yante. API for OpenSanctions with support for entity search and bulk matching of
 
 A brutally honest WhatsApp Web analyzer (Chrome extension). It quietly monitors group chat dynamics, analyzing reactions and replies to uncover social gravity, influence, favoritism, and marginalization patterns between members: https://github.com/markrai/whatsthat
 
+Notifuse is an open-source & modern emailing platform: https://github.com/Notifuse/notifuse
+
 ----
 
 **Universal Search & AI:**
