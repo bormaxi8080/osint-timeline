@@ -54,11 +54,17 @@ Image Optimizer. A powerful desktop application for performant batch image compr
 
 Forensic Timeliner. A high-speed forensic timeline engine for Windows forensic artifact CSV output built for DFIR investigators. Quickly consolidate CSV output from processed triage evidence for Eric Zimmerman (EZ Tools) Kape, Axiom, Hayabusa, Chainsaw and Nirsoft into a unified timeline: https://github.com/acquiredsecurity/forensic-timeliner
 
+Kanvas. A simple-to-use IR (incident response) case management tool for tracking and documenting investigations: https://github.com/WithSecureLabs/Kanvas
+
 ----
 
 **Universal Search & AI:**
 
+OpenAI Academy. Unlock the opportunities of the AI era by equipping yourself with the knowledge and skills to harness artificial intelligence effectively: https://academy.openai.com/
+
 OpenAI Prompt Packs - ChatGPT for any Role: https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c
+
+AIDEFEND. An AI-focused defensive countermeasures knowledge base: https://edward-playground.github.io/aidefense-framework/
 
 CensysGPT beta simplifies building queries and empowers users to conduct efficient and effective reconnaissance operations. The tool enables users to quickly and easily gain insights into hosts on the internet, streamlining the process and allowing for more proactive threat hunting and attack surface management: https://gpt.censys.io/
 
