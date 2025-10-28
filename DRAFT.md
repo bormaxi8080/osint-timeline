@@ -14,6 +14,8 @@ Does Facebook delete accounts or just hide them? https://cybernews.com/privacy/f
 
 Understanding Telegram for OSINT research: https://www.authentic8.com/blog/telegram-osint-research
 
+GSplatLoc. Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization: https://gsplatloc.github.io/
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -38,17 +40,29 @@ FollowTheMoney. This repository contains a pragmatic data model for the entities
 
 Nomenklatura. Framework and command-line tools for integrating FollowTheMoney data streams from multiple sources: https://github.com/opensanctions/nomenklatura
 
+UTMStack. Enterprise-ready SIEM, SOAR and Compliance powered by real-time correlation and threat intelligence: https://github.com/utmstack/UTMStack
+
 Yante. API for OpenSanctions with support for entity search and bulk matching of data collections. Supports Reconciliation API spec: https://github.com/opensanctions/yente
 
 A brutally honest WhatsApp Web analyzer (Chrome extension). It quietly monitors group chat dynamics, analyzing reactions and replies to uncover social gravity, influence, favoritism, and marginalization patterns between members: https://github.com/markrai/whatsthat
 
 Notifuse is an open-source & modern emailing platform: https://github.com/Notifuse/notifuse
 
+Xodon Tools - A bridging utility for seamless transmission between X and Mastodon: https://github.com/makalin/Xodon-Tools
+
+Image Optimizer. A powerful desktop application for performant batch image compression and optimization. Reduce file sizes without sacrificing quality: https://github.com/MogensenJesse/image-optimizer
+
+Forensic Timeliner. A high-speed forensic timeline engine for Windows forensic artifact CSV output built for DFIR investigators. Quickly consolidate CSV output from processed triage evidence for Eric Zimmerman (EZ Tools) Kape, Axiom, Hayabusa, Chainsaw and Nirsoft into a unified timeline: https://github.com/acquiredsecurity/forensic-timeliner
+
 ----
 
 **Universal Search & AI:**
 
+OpenAI Prompt Packs - ChatGPT for any Role: https://academy.openai.com/public/tags/prompt-packs-6849a0f98c613939acef841c
+
 CensysGPT beta simplifies building queries and empowers users to conduct efficient and effective reconnaissance operations. The tool enables users to quickly and easily gain insights into hosts on the internet, streamlining the process and allowing for more proactive threat hunting and attack surface management: https://gpt.censys.io/
+
+Naturaltime. Go library for parsing natural language time expressions with exceptional range support: https://github.com/Sho0pi/naturaltime
 
 AICommit2. A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral, and other AI: https://github.com/tak-bro/aicommit2
 
@@ -60,9 +74,11 @@ Krep. Fast text search tool with advanced algorithms, SIMD acceleration, multi-t
 
 Depyler. A Python-to-Rust transpiler with semantic verification and memory safety analysis. Depyler translates annotated Python code into idiomatic Rust, preserving program semantics while providing compile-time safety guarantees: https://github.com/paiml/depyler
 
-Naturaltime. Go library for parsing natural language time expressions with exceptional range support: https://github.com/Sho0pi/naturaltime
+Greenmask. PostgreSQL database anonymization and synthetic data generation tool: https://github.com/GreenmaskIO/greenmask
 
 git-crypt enables transparent encryption and decryption of files in a git repository. Files which you choose to protect are encrypted when committed, and decrypted when checked out. git-crypt lets you freely share a repository containing a mix of public and private content. git-crypt gracefully degrades, so developers without the secret key can still clone and commit to a repository with encrypted files. This lets you store your secret material (such as keys or passwords) in the same repository as your code, without requiring you to lock down your entire repository: https://github.com/AGWA/git-crypt
+
+VSort is a lightning-fast sorting library that harnesses the unique architecture of Apple Silicon processors to deliver exceptional performance: https://github.com/davidesantangelo/vsort
 
 Rigour. Data cleaning and validation functions for processing various types of text emanating and describing the business world. This applies to human and company names, language, territory and country codes, corporate and tax identifiers, etc.: https://rigour.followthemoney.tech/
 
