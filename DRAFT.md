@@ -88,7 +88,9 @@ GitHub: https://github.com/opensanctions/rigour
 
 **Linux & DevOps:**
 
-Alerta monitoring system released: https://github.com/alerta/alerta
+The Alerta monitoring tool was developed with the following aims in mind - distributed and de-coupled so that it is SCALABLE, minimal CONFIGURATION that easily accepts alerts from any source, quick at-a-glance VISUALISATION with drill-down to detail: https://github.com/alerta/alerta
+
+Fluentd collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on. Fluentd helps you unify your logging infrastructure: https://github.com/fluent/fluentd
 
 pgBackRest is a reliable backup and restore solution for PostgreSQL that seamlessly scales up to the largest databases and workloads: https://github.com/pgbackrest/pgbackrest
 
