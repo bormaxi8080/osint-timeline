@@ -16,6 +16,28 @@ Understanding Telegram for OSINT research: https://www.authentic8.com/blog/teleg
 
 GSplatLoc. Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization: https://gsplatloc.github.io/
 
+----
+
+Henk Van Ess OSINT Guides  
+
+Social Search Techniques Using Facebook  
+  
+Social Search Techniques Using Instagram  
+  
+Social Search Techniques Using LinkedIn  
+  
+Social Search Techniques Using Twitter/X  
+  
+Social Search Techniques Using TikTok and Telegram  
+  
+Facial Recognition Made Easy  
+  
+12 Tips for Verification  
+  
+Video: So You Think You Can Google? – Workshop With Henk van Ess:
+
+https://gijn.org/resource/online-research-guide-with-henk-van-ess/
+
 ---
 
 Depix - Recovers Passwords From Pixelized Screenshots: https://www.geeksforgeeks.org/linux-unix/depix-recovers-passwords-from-pixelized-screenshots/
