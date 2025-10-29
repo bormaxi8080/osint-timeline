@@ -46,6 +46,8 @@ GitHub: https://github.com/spipm/Depixelization_poc
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT of Colombia by Unishka Research Service: https://substack.com/home/post/p-177371563
+
 FollowTheMoney. This repository contains a pragmatic data model for the entities most commonly used in investigative reporting and financial crime investigations: people, companies, assets, payments, ownership relations, court cases, etc.: https://github.com/opensanctions/followthemoney
 
 Nomenklatura. Framework and command-line tools for integrating FollowTheMoney data streams from multiple sources: https://github.com/opensanctions/nomenklatura

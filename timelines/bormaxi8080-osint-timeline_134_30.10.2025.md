@@ -16,7 +16,7 @@
 
 ----
 
-```OSINT of Australia``` from Unishka Research Service: https://substack.com/home/post/p-176717979
+```OSINT of Australia``` by Unishka Research Service: https://substack.com/home/post/p-176717979
 
 ```OSINT HUB FR```. OSINT Resources, OSINT Community, OSINT Courses, OSINT Jobs: https://github.com/Anadema/OSINT-HUB-FR
 
