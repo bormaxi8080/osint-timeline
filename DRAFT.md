@@ -16,11 +16,19 @@ Understanding Telegram for OSINT research: https://www.authentic8.com/blog/teleg
 
 GSplatLoc. Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization: https://gsplatloc.github.io/
 
+---
+
+Depix - Recovers Passwords From Pixelized Screenshots: https://www.geeksforgeeks.org/linux-unix/depix-recovers-passwords-from-pixelized-screenshots/
+
+GitHub: https://github.com/spipm/Depixelization_poc
+
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 OSINT of Australia from Unishka Research Service: https://substack.com/home/post/p-176717979
+
+OSINT HUB FR. OSINT Resources, OSINT Community, OSINT Courses, OSINT Jobs: https://github.com/Anadema/OSINT-HUB-FR
 
 Social Media Search Tools. "How to" guides, Facebook search, Instagram search, People search engines, Username search, TikTok search, Telegram channels search, VK, Linkedin, Tumblr and other social media: https://start.me/p/RMKeQv/search-social-media
 
@@ -55,6 +63,8 @@ Image Optimizer. A powerful desktop application for performant batch image compr
 Forensic Timeliner. A high-speed forensic timeline engine for Windows forensic artifact CSV output built for DFIR investigators. Quickly consolidate CSV output from processed triage evidence for Eric Zimmerman (EZ Tools) Kape, Axiom, Hayabusa, Chainsaw and Nirsoft into a unified timeline: https://github.com/acquiredsecurity/forensic-timeliner
 
 Kanvas. A simple-to-use IR (incident response) case management tool for tracking and documenting investigations: https://github.com/WithSecureLabs/Kanvas
+
+Receive SMS Online. Temporary phone numbers from 50+ countries: https://receive-smss.com/
 
 ----
 
@@ -115,6 +125,8 @@ GitHub: https://github.com/kiisu-io/kiisu4
 **New from CyberDetective:**
 
 Cold Relation. Online OSINT toolkit. Domain dossier, exif viewer, cryptocurrency addresses info search, social media search tools, Chine social media search tools and more: https://coldrelation.com/
+
+Spottr. An online tool for finding specific objects in videos. Simply describe what you want to find in words and receive timecodes where it appears: https://usespottr.com/
 
 ----
 
