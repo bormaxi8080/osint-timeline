@@ -66,7 +66,9 @@ Receive SMS Online. Temporary phone numbers from 50+ countries: https://receive-
 
 **Universal Search & AI:**
 
+WebCleaner. Search engine designed for efficiency. It allows users to query the top Internet search engines simultaneously from a single, clean interface: https://www.webcleaner.com/
 
+PrompTessor. Evaluate, Improve, and Optimize Your AI Prompts: https://promptessor.com/
 
 ----
 
@@ -78,13 +80,13 @@ Receive SMS Online. Temporary phone numbers from 50+ countries: https://receive-
 
 **Linux & DevOps:**
 
-
+Dockpeek is a lightweight, self-hosted Docker dashboard for quick access to your containers. Open web interfaces, view logs, monitor ports, and update images — all from one clean, intuitive interface. It automatically detects Traefik labels and works out of the box with zero configuration: https://github.com/dockpeek/dockpeek
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+Flipper RAW RFID. A python library for reading and analyzing Flipper Zero raw RFID files: https://github.com/hnesk/flipper-raw-rfid
 
 ----
 
