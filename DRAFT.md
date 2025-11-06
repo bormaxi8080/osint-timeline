@@ -21,6 +21,12 @@ https://www.tesari.ai
 
 ----
 
+Open Education Resources (OER) make knowledge accessible to everyone. Wherever you live and whatever your budget, you can learn from leading universities and trusted platforms. Explore free courses, textbooks, and tools that empower lifelong learning: https://start.me/p/6rj7EL/oer-bookmarks
+
+Google OSINT: Using Google Profiles in OSINT Investigations by OSINT Industries: https://www.osint.industries/post/google-osint-using-google-profiles-in-osint-investigations
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Depix - Recovers Passwords From Pixelized Screenshots: https://www.geeksforgeeks.org/linux-unix/depix-recovers-passwords-from-pixelized-screenshots/
@@ -74,7 +80,9 @@ Receive SMS Online. Temporary phone numbers from 50+ countries: https://receive-
 
 **New from CyberDetective:**
 
+Demystifying online tracking for OSINT researchers Article by Nihad A. Hassan. Online tracking techniques, Cookies, Tracking pixel, Browser fingerprinting, Device identifiers, Location tracking, Protecting your research from online trackers: https://authentic8.com/blog/demystifying-online-tracking-osint-researchers
 
+WhereIsThisPhoto. Another online service for approximate geolocation of photos using AI. Partly free: https://www.whereisthisphoto.com/
 
 ----
 
