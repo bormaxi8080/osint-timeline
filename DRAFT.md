@@ -26,7 +26,9 @@ https://www.tesari.ai
 
 Open Education Resources (OER) make knowledge accessible to everyone. Wherever you live and whatever your budget, you can learn from leading universities and trusted platforms. Explore free courses, textbooks, and tools that empower lifelong learning: https://start.me/p/6rj7EL/oer-bookmarks
 
-Google OSINT: Using Google Profiles in OSINT Investigations by OSINT Industries: https://www.osint.industries/post/google-osint-using-google-profiles-in-osint-investigations
+Google OSINT. Using Google Profiles in OSINT Investigations by OSINT Industries: https://www.osint.industries/post/google-osint-using-google-profiles-in-osint-investigations
+
+AI browsers can bypass media paywalls, study finds: https://cybernews.com/ai-news/ai-browser-media-paywall/
 
 ----
 
@@ -37,9 +39,9 @@ GitHub: https://github.com/spipm/Depixelization_poc
 
 Xodon Tools - A bridging utility for seamless transmission between X and Mastodon: https://github.com/makalin/Xodon-Tools
 
-Helium. The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise: https://github.com/imputnet/helium
-
 Image Optimizer. A powerful desktop application for performant batch image compression and optimization. Reduce file sizes without sacrificing quality: https://github.com/MogensenJesse/image-optimizer
+
+THEORG. Firstly, it is a huge database of information about companies. You can search by industry, country, number of employees and stage of the life cycle. Secondly, a huge database of company employees. Search with dozens of different filters. Thirdly, a huge database of job vacancies (again with numerous filters): https://theorg.com/
 
 Unhype. Browser extension to unhype/neutralise headers on the web: https://github.com/av/unhype
 
@@ -87,11 +89,13 @@ Demystifying online tracking for OSINT researchers Article by Nihad A. Hassan. O
 
 WhereIsThisPhoto. Another online service for approximate geolocation of photos using AI. Partly free: https://www.whereisthisphoto.com/
 
+OPENLEI. Global Legal Entity Identifier records search engine, Search by LEI, company/entity name, registration number, part of address or other keywords, Filter by country, legal form and LOU (Local Operating Units): https://openleis.com
+
 ----
 
 **New from GitHub Community:**
 
-
+Helium. The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise: https://github.com/imputnet/helium
 
 ----
 ### bormaxi8080 OSINT timeline:
