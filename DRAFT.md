@@ -37,6 +37,8 @@ AI browsers can bypass media paywalls, study finds: https://cybernews.com/ai-new
 Depix - Recovers Passwords From Pixelized Screenshots: https://www.geeksforgeeks.org/linux-unix/depix-recovers-passwords-from-pixelized-screenshots/
 GitHub: https://github.com/spipm/Depixelization_poc
 
+OSINT International. Links to online resources for gathering information about more than 50 countries around the world: https://start.me/p/7kDabv/osint-international
+
 Xodon Tools - A bridging utility for seamless transmission between X and Mastodon: https://github.com/makalin/Xodon-Tools
 
 Image Optimizer. A powerful desktop application for performant batch image compression and optimization. Reduce file sizes without sacrificing quality: https://github.com/MogensenJesse/image-optimizer
@@ -44,6 +46,8 @@ Image Optimizer. A powerful desktop application for performant batch image compr
 THEORG. Firstly, it is a huge database of information about companies. You can search by industry, country, number of employees and stage of the life cycle. Secondly, a huge database of company employees. Search with dozens of different filters. Thirdly, a huge database of job vacancies (again with numerous filters): https://theorg.com/
 
 Unhype. Browser extension to unhype/neutralise headers on the web: https://github.com/av/unhype
+
+Telegram Hidden Messages Decoder: https://github.com/rawrdcore/tg-hidden-messages-decoder
 
 Forensic Timeliner. A high-speed forensic timeline engine for Windows forensic artifact CSV output built for DFIR investigators. Quickly consolidate CSV output from processed triage evidence for Eric Zimmerman (EZ Tools) Kape, Axiom, Hayabusa, Chainsaw and Nirsoft into a unified timeline: https://github.com/acquiredsecurity/forensic-timeliner
 
