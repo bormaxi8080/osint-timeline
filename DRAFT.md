@@ -55,35 +55,31 @@ TGConvertor. Convert Telegram session files between Pyrogram, Kurigram, Telethon
 
 Kanvas. A simple-to-use IR (incident response) case management tool for tracking and documenting investigations: https://github.com/WithSecureLabs/Kanvas
 
-MedPack. A powerful Rust-based tool for processing and organizing medical documents from Telegram chat exports into structured PDF documents with automatic OCR, metadata extraction, and comprehensive table of contents generation: https://github.com/vtvz/medpack
-
-Mohmal is a temporary email (aka. temp mail) that expires after the validity time finish and you can use it during that time: https://www.mohmal.com
-
 Receive SMS Online. Temporary phone numbers from 50+ countries: https://receive-smss.com/
 
 ----
 
 **Universal Search & AI:**
 
-
+Open Source Face Recognition SDK. The world's 1st open source face recognition SDK for Windows and Linux (Face detection, Face landmark extraction, Face feature extraction, Face template mathcing): https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK
 
 ----
 
 **Software Development & APIs:**
 
-
+Botasaurus. The All in One Framework to Build Undefeatable Scrapers: https://github.com/omkarcloud/botasaurus
 
 ----
 
 **Linux & DevOps:**
 
-
+Mohmal is a temporary email (aka. temp mail) that expires after the validity time finish and you can use it during that time: https://www.mohmal.com
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+HoneyPot for FlipperZero CC1101 Sub-1 GHz attacks. Requires a CC1101 Antenna that is connected to a PC/Rasberry Pi, etc. Any idiot that connects their FlipperZero to this honeypot will receive insane amount of data with a message that says "Go Fuck Your self!" Hopefully freezing the FlipperZero or fill up it's memory: https://github.com/LynxGeekNYC/FlipperZero-CC1101-HoneyPot
 
 ----
 
@@ -100,6 +96,8 @@ OPENLEI. Global Legal Entity Identifier records search engine, Search by LEI, co
 **New from GitHub Community:**
 
 Helium. The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise: https://github.com/imputnet/helium
+
+MedPack. A powerful Rust-based tool for processing and organizing medical documents from Telegram chat exports into structured PDF documents with automatic OCR, metadata extraction, and comprehensive table of contents generation: https://github.com/vtvz/medpack
 
 ----
 ### bormaxi8080 OSINT timeline:
