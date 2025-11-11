@@ -63,6 +63,8 @@ Receive SMS Online. Temporary phone numbers from 50+ countries: https://receive-
 
 Open Source Face Recognition SDK. The world's 1st open source face recognition SDK for Windows and Linux (Face detection, Face landmark extraction, Face feature extraction, Face template mathcing): https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK
 
+Xandi AI. A simple chrome extension to interact directly with LLMs and Ollama from any tab on your browser: https://github.com/XandAI-project/XandAI-Extension
+
 ----
 
 **Software Development & APIs:**
