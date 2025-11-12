@@ -63,11 +63,11 @@ https://www.tesari.ai
 
 
 ----
-### bormaxi8080 OSINT timeline:
+### OSINTech's timeline:
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 
-LinkedIn: [bormaxi8080 OSINT Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
+LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
 You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
 
