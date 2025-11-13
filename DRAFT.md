@@ -24,7 +24,7 @@ https://www.tesari.ai
 
 **OSINT Tools, Services and Investigations:**
 
-
+Hitomi Downloader. Desktop utility to download images/videos/music/text from various websites, and more: https://github.com/KurtBestor/Hitomi-Downloader
 
 ----
 
