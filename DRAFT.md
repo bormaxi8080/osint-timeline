@@ -30,7 +30,7 @@ https://www.tesari.ai
 
 **Universal Search & AI:**
 
-
+TaskWing integrates directly with Claude Code, Cursor, and other AI tools via the Model Context Protocol. Manage tasks from your terminal or let AI handle it for you: https://github.com/josephgoksu/TaskWing
 
 ----
 
@@ -42,7 +42,7 @@ https://www.tesari.ai
 
 **Linux & DevOps:**
 
-
+Ivory is designed to simplify and visualise work with Postgres clusters. It provides patroni management ui and postgres query builder: https://github.com/veegres/ivory
 
 ----
 
