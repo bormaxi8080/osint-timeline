@@ -20,6 +20,10 @@ https://www.tesari.ai
 
 From centralized control to distributed intelligence: https://www.linkedin.com/pulse/from-centralized-control-distributed-intelligence-tesari-ai-vwpde/
 
+Investigationg on Signal. Signal architecture, Inspecting Signal user profiles, Inspecting the Signal phone number, Advanced Signal phone number investigation techniques, Inspecting Signal username, Users behavioral pattern analysis, Start a new chat by username, Inspecting the Signal profile icon, Signal groups, Advanced group investigation techniques, Operational security for an OSINT analyst when inspecting Signal: https://www.authentic8.com/blog/investigating-signal
+
+Maritime intelligence tips from OSINT expert Rae Baker. OSINT tips for investigating maritime vessels, OSINT tips for investigating ports: https://www.authentic8.com/blog/maritime-osint-rae-baker
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -28,7 +32,9 @@ OSINT of Algeria from Unishka Research Service: https://unishka.substack.com/p/o
 
 OSINT of Russia from Unishka Research Service: https://unishka.substack.com/p/osint-of-russia
 
-Pano Date. A simple tool to determine the exact time a google maps pano was taken: https://pano-date.emily.bz/
+LetsData leverages semantic analysis rather than keyword-based monitoring, identifying coded language, coordination patterns, and narrative shifts that are often missed by traditional solutions—especially important in detecting campaigns on platforms like Telegram, TikTok, and other social media platforms, which are often outside the scope of standard monitoring: https://letsdata.net/
+
+Where Is This Photo? A free AI Photo Locator and Image Location Finder that uses advanced AI to analyze visual elements (landmarks, architecture, vegetation) and determine where any photo was taken, even without GPS metadata: https://www.whereisthisphoto.com/
 
 Hitomi Downloader. Desktop utility to download images/videos/music/text from various websites, and more: https://github.com/KurtBestor/Hitomi-Downloader
 
@@ -39,6 +45,14 @@ N-Mail. GENERATE TEMPORARY EMAIL ADDRESSES & RECEIVE MESSAGES: https://github.co
 N-TRACE. IP -TRACKER | IP-PHISH | RANDOM-IP-GENARATOR: https://github.com/Nabil-Official/N-TRACE
 
 OSINT Toolkit - Wayback Collector & URL Checker: https://github.com/Frib1t/osint-wayback-collector
+
+Waf-Stressor. Production-grade Web Application Firewall testing tool. Detects Cloudflare, AWS WAF, Akamai & more. Identifies bypass vectors via URL normalization. Perfect for bug bounty & pentesting: https://github.com/theghostshinobi/waf-stressor
+
+F5Bot. A free monitoring service that emails users when their chosen keywords are mentioned on popular developer-centric communities like Reddit, Hacker News, and Lobsters: https://f5bot.com/
+
+Pano Date. A simple tool to determine the exact time a google maps pano was taken: https://pano-date.emily.bz/
+
+Potato Mesh. A simple Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether: https://github.com/Bandicoot/l5yth-potato-mesh
 
 ----
 
