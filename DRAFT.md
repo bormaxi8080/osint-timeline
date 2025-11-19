@@ -27,6 +27,8 @@ https://www.tesari.ai
 
 **OSINT Tools, Services and Investigations:**
 
+ViewDNS.info. Unlock the Power of Domain & IP Intelligence. Comprehensive data for domains, IPs, and more. Enhance your capabilities with powerful insights at your fingertips.: https://viewdns.info/
+
 N-ANOM is a tool to send sms anonymously: https://github.com/Nabil-Official/N-ANOM
 
 N-Mail. GENERATE TEMPORARY EMAIL ADDRESSES & RECEIVE MESSAGES: https://github.com/Nabil-Official/N-MAIL
@@ -41,7 +43,7 @@ Potato Mesh. A simple Meshtastic-powered node dashboard for your local community
 
 **Universal Search & AI:**
 
-
+iAsk. Just a good free AI search engine that works without registration. I sometimes use it primarily because of its function to search for answers only on forums (Reddit, etc.) and because of its function to simplify the text of the answer: https://iask.ai/
 
 ----
 
@@ -67,7 +69,7 @@ Lapce. Lightning-fast and Powerful Code Editor written in Rust: https://github.c
 
 **New from CyberDetective:**
 
-
+ESPACENET. An excellent system for searching for patent-related information. Over 160 million documents from around the world. A huge number of parameters and filters for advanced search (by inventor name, country, language, publication date, etc.): https://worldwide.espacenet.com/
 
 ----
 

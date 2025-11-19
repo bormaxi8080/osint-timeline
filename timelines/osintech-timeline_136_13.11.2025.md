@@ -112,7 +112,7 @@ Image Optimizer. A powerful desktop application for performant batch image compr
 ```MedPack```. A powerful Rust-based tool for processing and organizing medical documents from Telegram chat exports into structured PDF documents with automatic OCR, metadata extraction, and comprehensive table of contents generation: https://github.com/vtvz/medpack
 
 ----
-### OSINTech's timeline:
+### OSINTech's Timeline:
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 

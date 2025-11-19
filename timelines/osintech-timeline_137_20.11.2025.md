@@ -40,7 +40,7 @@ https://www.tesari.ai
 
 ```Where Is This Photo?``` A free AI Photo Locator and Image Location Finder that uses advanced AI to analyze visual elements (landmarks, architecture, vegetation) and determine where any photo was taken, even without GPS metadata: https://www.whereisthisphoto.com/
 
-```OSINT Toolkit``` - Wayback Collector & URL Checker: https://github.com/Frib1t/osint-wayback-collector
+```OSINT Toolkit```. Wayback Collector & URL Checker: https://github.com/Frib1t/osint-wayback-collector
 
 ```Waf-Stressor```. Production-grade Web Application Firewall testing tool. Detects Cloudflare, AWS WAF, Akamai & more. Identifies bypass vectors via URL normalization. Perfect for bug bounty & pentesting: https://github.com/theghostshinobi/waf-stressor
 
@@ -97,7 +97,7 @@ Official specification for Token-Oriented Object Notation: https://github.com/to
 ```FileSync```. Send files from one device to many in real-time: https://github.com/polius/FileSync
 
 ----
-### OSINTech's timeline:
+### OSINTech's Timeline:
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 
