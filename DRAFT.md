@@ -37,8 +37,6 @@ N-TRACE. IP -TRACKER | IP-PHISH | RANDOM-IP-GENARATOR: https://github.com/Nabil-
 
 Pano Date. A simple tool to determine the exact time a google maps pano was taken: https://pano-date.emily.bz/
 
-Potato Mesh. A simple Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether: https://github.com/Bandicoot/l5yth-potato-mesh
-
 ----
 
 **Universal Search & AI:**
@@ -63,7 +61,7 @@ Lapce. Lightning-fast and Powerful Code Editor written in Rust: https://github.c
 
 **Flipper Zero & Other Devices:**
 
-
+A Flipper Zero app for comparing NFC cards. Quickly check and match physical and digital NFC cards by UID, protocol, and data: https://github.com/acegoal07/FlipperZero_NFC_Comparator
 
 ----
 
@@ -71,11 +69,15 @@ Lapce. Lightning-fast and Powerful Code Editor written in Rust: https://github.c
 
 ESPACENET. An excellent system for searching for patent-related information. Over 160 million documents from around the world. A huge number of parameters and filters for advanced search (by inventor name, country, language, publication date, etc.): https://worldwide.espacenet.com/
 
+GITDB. A tool for searching Github repositories. It differs from the standard search in that it displays data in a more compact format and allows sorting by Monthly grow, Weekly grow and Daily grow: https://gitdb.net
+
 ----
 
 **New from GitHub Community:**
 
 Hitomi Downloader. Desktop utility to download images/videos/music/text from various websites, and more: https://github.com/KurtBestor/Hitomi-Downloader
+
+Potato Mesh. A simple Meshtastic-powered node dashboard for your local community. No MQTT clutter, just local LoRa aether: https://github.com/Bandicoot/l5yth-potato-mesh
 
 ----
 ### OSINTech's timeline:
