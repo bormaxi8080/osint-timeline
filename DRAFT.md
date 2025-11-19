@@ -56,6 +56,8 @@ Waf-Stressor. Production-grade Web Application Firewall testing tool. Detects Cl
 
 Canoscrape. Know before you scrape. Analyze any website's anti-bot protections in seconds: https://github.com/ZA1815/caniscrape
 
+HeadlessX. A lightweight, self-hosted headless browser automation platform. Designed as an alternative to Browserless, built for speed, privacy, and scalability: https://github.com/saifyxpro/HeadlessX
+
 F5Bot. A free monitoring service that emails users when their chosen keywords are mentioned on popular developer-centric communities like Reddit, Hacker News, and Lobsters: https://f5bot.com/
 
 Pano Date. A simple tool to determine the exact time a google maps pano was taken: https://pano-date.emily.bz/
@@ -76,6 +78,10 @@ TaskWing integrates directly with Claude Code, Cursor, and other AI tools via th
 
 **Software Development & APIs:**
 
+Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK: https://github.com/toon-format/toon
+
+Official specification for Token-Oriented Object Notation: https://github.com/toon-format/spec
+
 It-tools. Collection of handy online tools for developers, with great UX: https://github.com/CorentinTh/it-tools
 
 Lapce. Lightning-fast and Powerful Code Editor written in Rust: https://github.com/lapce/lapce
@@ -85,6 +91,8 @@ Lapce. Lightning-fast and Powerful Code Editor written in Rust: https://github.c
 **Linux & DevOps:**
 
 prom2grafana. Convert Prometheus metrics to Grafana dashboards and alert rules using AI: https://github.com/mr-karan/prom2grafana
+
+httptap. Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output: https://github.com/ozeranskii/httptap
 
 Ivory is designed to simplify and visualise work with Postgres clusters. It provides patroni management ui and postgres query builder: https://github.com/veegres/ivory
 
