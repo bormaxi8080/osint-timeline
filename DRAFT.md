@@ -9,9 +9,7 @@ Jesus
 
 ----
 
-Tesari.AI Open call for applications to join the first 100 early adopters, access thousands of mapped global sources, including extensive research in regions like China and Russia.
-
-Tesari is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks.
+```Tesari``` is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks
 
 https://www.tesari.ai
 
@@ -21,7 +19,9 @@ https://www.tesari.ai
 
 ----
 
+How to Background Check an Italian Company in 10 Minutes by Mario Santella: https://www.mariosantella.com/how-to-background-check-an-italian-company-in-10-minutes/
 
+Velocity is a timeless, **modernist** theme for Obsidian. Bold and _opinionated_, the theme is subtle on the surface, but dares to reimagine what the Obsidian user interface experience can be: https://github.com/Gonzalo-D-Sales/obsidian-velocity
 
 ----
 
