@@ -25,9 +25,17 @@ Black Swans in OSINT. Why We Keep Missing the Impossible: https://www.dutchosint
 
 Data Cleaning Tools and Techniques for Non-Coders by GIJN: https://gijn.org/stories/data-cleaning-tools-and-techniques-for-non-coders/
 
+Timestamping the Web. Resources to timestamp assets that makes up a webpage (including HTML, CSS, JS and media files): https://github.com/ubikron/Timestamping-the-web
+
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+StartMe page as a practical dashboard for Stable Diffusion workflows, model indexes, image/video generators, and expert contributors: https://start.me/p/xb4Npa/ai
+
+RESEARCHCLINIC by Paul Myers: https://researchclinic.net/
+
+OSINT of Armenia from Unishka Research Service: https://substack.com/home/post/p-179278636
 
 ViewDNS.info. Unlock the Power of Domain & IP Intelligence. Comprehensive data for domains, IPs, and more. Enhance your capabilities with powerful insights at your fingertips.: https://viewdns.info/
 
