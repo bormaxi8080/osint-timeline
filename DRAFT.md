@@ -21,13 +21,19 @@ https://www.tesari.ai
 
 How to Background Check an Italian Company in 10 Minutes by Mario Santella: https://www.mariosantella.com/how-to-background-check-an-italian-company-in-10-minutes/
 
-Velocity is a timeless, **modernist** theme for Obsidian. Bold and _opinionated_, the theme is subtle on the surface, but dares to reimagine what the Obsidian user interface experience can be: https://github.com/Gonzalo-D-Sales/obsidian-velocity
+Black Swans in OSINT. Why We Keep Missing the Impossible: https://www.dutchosintguy.com/post/black-swans-in-osint-why-we-keep-missing-the-impossible
+
+Data Cleaning Tools and Techniques for Non-Coders by GIJN: https://gijn.org/stories/data-cleaning-tools-and-techniques-for-non-coders/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 ViewDNS.info. Unlock the Power of Domain & IP Intelligence. Comprehensive data for domains, IPs, and more. Enhance your capabilities with powerful insights at your fingertips.: https://viewdns.info/
+
+Velocity is a timeless, **modernist** theme for Obsidian. Bold and _opinionated_, the theme is subtle on the surface, but dares to reimagine what the Obsidian user interface experience can be: https://github.com/Gonzalo-D-Sales/obsidian-velocity
+
+Hostagram is a powerful OSINT tool for Instagram, designed to extract and monitor as much information as possible from any public (or accessible) Instagram account: https://github.com/banaxou/hostagram
 
 N-ANOM is a tool to send sms anonymously: https://github.com/Nabil-Official/N-ANOM
 
@@ -40,6 +46,10 @@ Pano Date. A simple tool to determine the exact time a google maps pano was take
 ----
 
 **Universal Search & AI:**
+
+Awesome Generative AI Guide. A one stop repository for generative AI research updates, interview resources, notebooks and much more: https://github.com/aishwaryanr/awesome-generative-ai-guide
+
+n8n. Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations: https://github.com/n8n-io/n8n
 
 iAsk. Just a good free AI search engine that works without registration. I sometimes use it primarily because of its function to search for answers only on forums (Reddit, etc.) and because of its function to simplify the text of the answer: https://iask.ai/
 
