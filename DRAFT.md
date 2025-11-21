@@ -65,7 +65,7 @@ Lapce. Lightning-fast and Powerful Code Editor written in Rust: https://github.c
 
 **Linux & DevOps:**
 
-
+Nightingale is to monitoring and alerting what Grafana is to visualization: https://github.com/ccfos/nightingale
 
 ----
 
