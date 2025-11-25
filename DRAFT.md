@@ -27,9 +27,17 @@ Data Cleaning Tools and Techniques for Non-Coders by GIJN: https://gijn.org/stor
 
 Timestamping the Web. Resources to timestamp assets that makes up a webpage (including HTML, CSS, JS and media files): https://github.com/ubikron/Timestamping-the-web
 
+12 Best Telegram Search Engines (Find TG Channels & Groups): https://techtactician.com/find-telegram-channels-best-search-engines/
+
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+Bipolar Research -  typically navigate complex health and behavioral research: https://start.me/p/nR6oqL/bipolar-research
+
+A museum for bullets and a goldmine for OSINTers: https://cartrology.com
+
+CTI Digest. Threat Intelligence Aggregator. Collects, centralizes, and organizes the latest public information, tools, and reports across the CTI and OSINT communities: https://ctidigest.com/
 
 StartMe page as a practical dashboard for Stable Diffusion workflows, model indexes, image/video generators, and expert contributors: https://start.me/p/xb4Npa/ai
 
@@ -58,6 +66,8 @@ Pano Date. A simple tool to determine the exact time a google maps pano was take
 Awesome Generative AI Guide. A one stop repository for generative AI research updates, interview resources, notebooks and much more: https://github.com/aishwaryanr/awesome-generative-ai-guide
 
 n8n. Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations: https://github.com/n8n-io/n8n
+
+noScribe. Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification): https://github.com/kaixxx/noScribe
 
 iAsk. Just a good free AI search engine that works without registration. I sometimes use it primarily because of its function to search for answers only on forums (Reddit, etc.) and because of its function to simplify the text of the answer: https://iask.ai/
 
