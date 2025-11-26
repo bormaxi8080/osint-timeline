@@ -14,7 +14,7 @@ https://www.tesari.ai
 
 ----
 
-How to Background Check an ```Italian``` Company in 10 Minutes by Mario Santella: https://www.mariosantella.com/how-to-background-check-an-italian-company-in-10-minutes/
+How to Background Check an ```Italian Company``` in 10 Minutes by Mario Santella: https://www.mariosantella.com/how-to-background-check-an-italian-company-in-10-minutes/
 
 ```Black Swans in OSINT```. Why We Keep Missing the Impossible: https://www.dutchosintguy.com/post/black-swans-in-osint-why-we-keep-missing-the-impossible
 
@@ -40,9 +40,9 @@ StartMe page as a practical dashboard for ```Stable Diffusion workflows```, mode
 
 ```Research Clinic``` by Paul Myers: https://researchclinic.net/
 
-```OSINT of Armenia``` from Unishka Research Service: https://substack.com/home/post/p-179278636
+```OSINT of Armenia``` by Unishka Research Service: https://substack.com/home/post/p-179278636
 
-```ViewDNS.info```. Unlock the Power of Domain & IP Intelligence. Comprehensive data for domains, IPs, and more. Enhance your capabilities with powerful insights at your fingertips.: https://viewdns.info/
+```ViewDNS.info```. Unlock the Power of Domain & IP Intelligence. Comprehensive data for domains, IPs, and more. Enhance your capabilities with powerful insights at your fingertips: https://viewdns.info/
 
 ```Velocity``` is a timeless, modernist theme for Obsidian. Bold and _opinionated_, the theme is subtle on the surface, but dares to reimagine what the Obsidian user interface experience can be: https://github.com/Gonzalo-D-Sales/obsidian-velocity
 
