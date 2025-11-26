@@ -33,21 +33,23 @@ Timestamping the Web. Resources to timestamp assets that makes up a webpage (inc
 
 **OSINT Tools, Services and Investigations:**
 
-Bipolar Research -  typically navigate complex health and behavioral research: https://start.me/p/nR6oqL/bipolar-research
-
-A museum for bullets and a goldmine for OSINTers: https://cartrology.com
+StartMe page as a practical dashboard for Stable Diffusion workflows, model indexes, image/video generators, and expert contributors: https://start.me/p/xb4Npa/ai
 
 CTI Digest. Threat Intelligence Aggregator. Collects, centralizes, and organizes the latest public information, tools, and reports across the CTI and OSINT communities: https://ctidigest.com/
 
-StartMe page as a practical dashboard for Stable Diffusion workflows, model indexes, image/video generators, and expert contributors: https://start.me/p/xb4Npa/ai
+Airplanes OSINT. List of tools from I-Intelligence for gathering information about aircraft: https://www.osinthandbook.com/researching-airplanes
 
-RESEARCHCLINIC by Paul Myers: https://researchclinic.net/
+A museum for bullets and a goldmine for OSINTers: https://cartrology.com
+
+Bipolar Research. Typically navigate complex health and behavioral research: https://start.me/p/nR6oqL/bipolar-research
+
+Research Clinic by Paul Myers: https://researchclinic.net/
 
 OSINT of Armenia from Unishka Research Service: https://substack.com/home/post/p-179278636
 
 ViewDNS.info. Unlock the Power of Domain & IP Intelligence. Comprehensive data for domains, IPs, and more. Enhance your capabilities with powerful insights at your fingertips.: https://viewdns.info/
 
-Velocity is a timeless, **modernist** theme for Obsidian. Bold and _opinionated_, the theme is subtle on the surface, but dares to reimagine what the Obsidian user interface experience can be: https://github.com/Gonzalo-D-Sales/obsidian-velocity
+Velocity is a timeless, modernist theme for Obsidian. Bold and _opinionated_, the theme is subtle on the surface, but dares to reimagine what the Obsidian user interface experience can be: https://github.com/Gonzalo-D-Sales/obsidian-velocity
 
 Hostagram is a powerful OSINT tool for Instagram, designed to extract and monitor as much information as possible from any public (or accessible) Instagram account: https://github.com/banaxou/hostagram
 
@@ -84,6 +86,8 @@ Lapce. Lightning-fast and Powerful Code Editor written in Rust: https://github.c
 **Linux & DevOps:**
 
 Nightingale is to monitoring and alerting what Grafana is to visualization: https://github.com/ccfos/nightingale
+
+ECCM: Ethernet Cable Connection Manager. A lightweight, browser-based tool for mapping Ethernet connections. Create switches, patch panels, wall ports, routers, etc. Assign ports, connect them, and visualise how your network is wired: https://github.com/bijomaru78/eccm
 
 ----
 
