@@ -77,6 +77,8 @@ iAsk. Just a good free AI search engine that works without registration. I somet
 
 **Software Development & APIs:**
 
+chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser. It acts as a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis: https://github.com/ChromeDevTools/chrome-devtools-mcp
+
 It-tools. Collection of handy online tools for developers, with great UX: https://github.com/CorentinTh/it-tools
 
 Lapce. Lightning-fast and Powerful Code Editor written in Rust: https://github.com/lapce/lapce
