@@ -19,6 +19,8 @@ If you like the projects that I do, I will be grateful for donations in private 
 ----
 ### Timelines:
 
+[OSINTech's Timeline (138) - 27.11.2025](osintech-timeline_138_27.11.2025.md)
+
 [OSINTech's Timeline (137) - 20.11.2025](osintech-timeline_137_20.11.2025.md)
 
 [OSINTech's Timeline (136) - 13.11.2025](osintech-timeline_136_13.11.2025.md)
