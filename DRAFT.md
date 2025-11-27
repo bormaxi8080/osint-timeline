@@ -22,31 +22,31 @@ https://www.tesari.ai
 
 **OSINT Tools, Services and Investigations:**
 
-
+iHunt OSINT Framework. Intelligence FRAMEWORK which contains a large number of resources: https://nitinpandey.in/ihunt/
 
 ----
 
 **Universal Search & AI:**
 
-
+AI-Researcher introduces a revolutionary breakthrough in Automated Scientific Discovery: https://github.com/HKUDS/AI-Researcher
 
 ----
 
 **Software Development & APIs:**
 
-
+MCP Pointer. Point to browser DOM elements for agentic coding tools via MCP: https://github.com/etsd-tech/mcp-pointer
 
 ----
 
 **Linux & DevOps:**
 
-
+NGinx Igition. An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually: https://github.com/lucasdillmann/nginx-ignition
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+FDXB-Calc. Converts hexadecimal data stored on FDX-B microchips to human readable information: https://github.com/UndedInside/FDXB-calc
 
 ----
 
@@ -58,7 +58,7 @@ https://www.tesari.ai
 
 **New from GitHub Community:**
 
-
+OpenDataLoader-PDF converts PDFs into JSON, Markdown or Html — ready to feed into modern AI stacks (LLMs, vector search, and RAG): https://github.com/opendataloader-project/opendataloader-pdf
 
 ----
 ### OSINTech's timeline:
