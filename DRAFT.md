@@ -24,11 +24,15 @@ https://www.tesari.ai
 
 iHunt OSINT Framework. Intelligence FRAMEWORK which contains a large number of resources: https://nitinpandey.in/ihunt/
 
+CloudRIP. A tool that helps you find the real IP addresses hiding behind Cloudflare by checking subdomains: https://github.com/moscovium-mc/CloudRip
+
 ----
 
 **Universal Search & AI:**
 
 AI-Researcher introduces a revolutionary breakthrough in Automated Scientific Discovery: https://github.com/HKUDS/AI-Researcher
+
+Pollinations.AI is an open-source gen AI startup based in Berlin, providing the most easy-to-use, free text and image generation API available. No signups or API keys required. We prioritize your privacy with zero data storage and completely anonymous usage: https://github.com/pollinations/pollinations
 
 ----
 
@@ -52,7 +56,7 @@ FDXB-Calc. Converts hexadecimal data stored on FDX-B microchips to human readabl
 
 **New from CyberDetective:**
 
-
+Aircraft Perfomance Database. Database with detailed info about 398 aircrafts: Type of Aircraft, Recognition, Supplementary, Technical Performance: https://learningzone.eurocontrol.int/ilp/customs/ATCPFDB/default.aspx
 
 ----
 
