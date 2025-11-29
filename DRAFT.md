@@ -30,6 +30,10 @@ CloudRIP. A tool that helps you find the real IP addresses hiding behind Cloudfl
 
 **Universal Search & AI:**
 
+Blades is a Go-based multimodal AI Agent framework: https://github.com/go-kratos/blades
+
+Code World Model (CWM) is a 32-billion-parameter open-weights LLM, to advance research on code generation with world models: https://github.com/facebookresearch/cwm
+
 AI-Researcher introduces a revolutionary breakthrough in Automated Scientific Discovery: https://github.com/HKUDS/AI-Researcher
 
 Pollinations.AI is an open-source gen AI startup based in Berlin, providing the most easy-to-use, free text and image generation API available. No signups or API keys required. We prioritize your privacy with zero data storage and completely anonymous usage: https://github.com/pollinations/pollinations
@@ -37,6 +41,8 @@ Pollinations.AI is an open-source gen AI startup based in Berlin, providing the 
 ----
 
 **Software Development & APIs:**
+
+Meriyah. 100% compliant, self-hosted javascript parser with high focus on both performance and stability: https://github.com/meriyah/meriyah
 
 MCP Pointer. Point to browser DOM elements for agentic coding tools via MCP: https://github.com/etsd-tech/mcp-pointer
 
