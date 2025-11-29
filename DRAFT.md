@@ -4,6 +4,15 @@ Hive
 
 Jesus
 
+
+Mantis
+
+
+Apocalypse Now
+
+
+Father Frost
+
 ----
 
 ```Tesari``` is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks
@@ -12,7 +21,7 @@ https://www.tesari.ai
 
 ----
 
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3000: https://github.com/bormaxi8080/osint-repos-list
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3100: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
