@@ -81,6 +81,8 @@ FDXB-Calc. Converts hexadecimal data stored on FDX-B microchips to human readabl
 
 Aircraft Perfomance Database. Database with detailed info about 398 aircrafts: Type of Aircraft, Recognition, Supplementary, Technical Performance: https://learningzone.eurocontrol.int/ilp/customs/ATCPFDB/default.aspx
 
+Wayback Machine Alternatives. Many of the tools in the list are primarily aimed at preserving pages. However, you can try searching for data saved by others using Google: "keyword site:pagefreezer.com" (similarly for other tools domains): https://www.link-assistant.com/news/wayback-machine-alternatives.html
+
 ----
 
 **New from GitHub Community:**
