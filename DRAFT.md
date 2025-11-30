@@ -25,7 +25,7 @@ https://www.tesari.ai
 
 ----
 
-
+OSINT of Sudan form Unishka Research Service: https://unishka.substack.com/p/osint-of-sudan
 
 ----
 
@@ -33,13 +33,21 @@ https://www.tesari.ai
 
 iHunt OSINT Framework. Intelligence FRAMEWORK which contains a large number of resources: https://nitinpandey.in/ihunt/
 
+Mxface Face Comparison. AI API that focuses on Face Comparison (1:1 matching), checking subtle facial details between two images to determine if they belong to the same person, returning a trust score: https://mxface.ai/face-comparing
+
 CloudRIP. A tool that helps you find the real IP addresses hiding behind Cloudflare by checking subdomains: https://github.com/moscovium-mc/CloudRip
+
+FindME is a CLI tool for searching social media and online profiles linked to a username. It’s ideal for reconnaissance, digital footprint verification, or checking username availability: https://github.com/0xSaikat/findme
+
+BounceBack. Stealth redirector for your red team operation security: https://github.com/D00Movenok/BounceBack
 
 ----
 
 **Universal Search & AI:**
 
 Blades is a Go-based multimodal AI Agent framework: https://github.com/go-kratos/blades
+
+The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe: https://github.com/agentic-commerce-protocol/agentic-commerce-protocol
 
 Code World Model (CWM) is a 32-billion-parameter open-weights LLM, to advance research on code generation with world models: https://github.com/facebookresearch/cwm
 
