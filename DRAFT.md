@@ -67,7 +67,9 @@ MCP Pointer. Point to browser DOM elements for agentic coding tools via MCP: htt
 
 **Linux & DevOps:**
 
-NGinx Igition. An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually: https://github.com/lucasdillmann/nginx-ignition
+tun2socks - powered by gVisor TCP/IP stack: https://github.com/xjasonlyu/tun2socks
+
+NGinx Ignition. An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually: https://github.com/lucasdillmann/nginx-ignition
 
 ----
 
@@ -86,6 +88,8 @@ Wayback Machine Alternatives. Many of the tools in the list are primarily aimed 
 ----
 
 **New from GitHub Community:**
+
+Foxel. A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search: https://github.com/DrizzleTime/Foxel
 
 OpenDataLoader-PDF converts PDFs into JSON, Markdown or Html — ready to feed into modern AI stacks (LLMs, vector search, and RAG): https://github.com/opendataloader-project/opendataloader-pdf
 
