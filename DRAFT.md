@@ -39,6 +39,8 @@ CloudRIP. A tool that helps you find the real IP addresses hiding behind Cloudfl
 
 FindME is a CLI tool for searching social media and online profiles linked to a username. It’s ideal for reconnaissance, digital footprint verification, or checking username availability: https://github.com/0xSaikat/findme
 
+IPLocation.IO. IP Address Lookup tool that checks the location of any public IP using multiple Geo IP data providers (IP2Location, DB IP, IPInfo, Criminal IP). It provides country, city, coordinates, ISP, ASN, and even threat data (VPN, Tor, Proxy status): https://iplocation.io/
+
 BounceBack. Stealth redirector for your red team operation security: https://github.com/D00Movenok/BounceBack
 
 ----
@@ -76,6 +78,8 @@ MCP Pointer. Point to browser DOM elements for agentic coding tools via MCP: htt
 tun2socks - powered by gVisor TCP/IP stack: https://github.com/xjasonlyu/tun2socks
 
 NGinx Ignition. An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually: https://github.com/lucasdillmann/nginx-ignition
+
+Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected: https://github.com/DigitalRuby/IPBan
 
 ----
 
