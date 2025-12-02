@@ -45,6 +45,12 @@ BounceBack. Stealth redirector for your red team operation security: https://git
 
 **Universal Search & AI:**
 
+Google Antigravity's IDE view offers tab autocompletion, natural language code commands, and a configurable, and context-aware configurable agent: https://antigravity.google/
+
+Warp. The terminal with agents built in. From prompt to production, Warp is where developers build enduring software: https://www.warp.dev/
+
+Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization: https://github.com/TM9657/flow-like
+
 The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe: https://github.com/agentic-commerce-protocol/agentic-commerce-protocol
 
 Code World Model (CWM) is a 32-billion-parameter open-weights LLM, to advance research on code generation with world models: https://github.com/facebookresearch/cwm
