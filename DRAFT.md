@@ -25,6 +25,8 @@ https://www.tesari.ai
 
 ----
 
+8 People Search Engines for Finding Anyone: https://www.lifewire.com/search-engines-that-top-the-web-3482269
+
 OSINT of Sudan form Unishka Research Service: https://unishka.substack.com/p/osint-of-sudan
 
 ----
@@ -33,7 +35,11 @@ OSINT of Sudan form Unishka Research Service: https://unishka.substack.com/p/osi
 
 iHunt OSINT Framework. Intelligence FRAMEWORK which contains a large number of resources: https://nitinpandey.in/ihunt/
 
-Mxface Face Comparison. AI API that focuses on Face Comparison (1:1 matching), checking subtle facial details between two images to determine if they belong to the same person, returning a trust score: https://mxface.ai/face-comparing
+SkyTruth Cerulean. A powerful satellite-powered platform by SkyTruth that detects and tracks ocean pollution, including oil spills and bilge dumping, using AI and remote sensing: https://cerulean.skytruth.org/
+
+Cold Relation. All-in-one OSINT investigation platform covering diverse domains. Features include advanced SOCMINT (Telegram, VK, TikTok, X), dedicated China Suite tools, a Crypto Search engine, News Viewer, and essential utilities like the EXIF Metadata Viewer: https://coldrelation.com/login
+
+MxFace Face Comparison. AI API that focuses on Face Comparison (1:1 matching), checking subtle facial details between two images to determine if they belong to the same person, returning a trust score: https://mxface.ai/face-comparing
 
 CloudRIP. A tool that helps you find the real IP addresses hiding behind Cloudflare by checking subdomains: https://github.com/moscovium-mc/CloudRip
 
