@@ -1,7 +1,4 @@
 
-Hive
-
-
 Jesus
 
 
@@ -25,91 +22,49 @@ https://www.tesari.ai
 
 ----
 
-8 People Search Engines for Finding Anyone: https://www.lifewire.com/search-engines-that-top-the-web-3482269
 
-OSINT of Sudan form Unishka Research Service: https://unishka.substack.com/p/osint-of-sudan
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-iHunt OSINT Framework. Intelligence FRAMEWORK which contains a large number of resources: https://nitinpandey.in/ihunt/
 
-SkyTruth Cerulean. A powerful satellite-powered platform by SkyTruth that detects and tracks ocean pollution, including oil spills and bilge dumping, using AI and remote sensing: https://cerulean.skytruth.org/
-
-Cold Relation. All-in-one OSINT investigation platform covering diverse domains. Features include advanced SOCMINT (Telegram, VK, TikTok, X), dedicated China Suite tools, a Crypto Search engine, News Viewer, and essential utilities like the EXIF Metadata Viewer: https://coldrelation.com/login
-
-MxFace Face Comparison. AI API that focuses on Face Comparison (1:1 matching), checking subtle facial details between two images to determine if they belong to the same person, returning a trust score: https://mxface.ai/face-comparing
-
-CloudRIP. A tool that helps you find the real IP addresses hiding behind Cloudflare by checking subdomains: https://github.com/moscovium-mc/CloudRip
-
-FindME is a CLI tool for searching social media and online profiles linked to a username. It’s ideal for reconnaissance, digital footprint verification, or checking username availability: https://github.com/0xSaikat/findme
-
-IPLocation.IO. IP Address Lookup tool that checks the location of any public IP using multiple Geo IP data providers (IP2Location, DB IP, IPInfo, Criminal IP). It provides country, city, coordinates, ISP, ASN, and even threat data (VPN, Tor, Proxy status): https://iplocation.io/
-
-BounceBack. Stealth redirector for your red team operation security: https://github.com/D00Movenok/BounceBack
 
 ----
 
 **Universal Search & AI:**
 
-Google Antigravity's IDE view offers tab autocompletion, natural language code commands, and a configurable, and context-aware configurable agent: https://antigravity.google/
 
-Warp. The terminal with agents built in. From prompt to production, Warp is where developers build enduring software: https://www.warp.dev/
-
-Flow-Like: Strongly Typed Enterprise Scale Workflows. Built for scalability, speed, seamless AI integration and rich customization: https://github.com/TM9657/flow-like
-
-The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe: https://github.com/agentic-commerce-protocol/agentic-commerce-protocol
-
-Code World Model (CWM) is a 32-billion-parameter open-weights LLM, to advance research on code generation with world models: https://github.com/facebookresearch/cwm
-
-AI-Researcher introduces a revolutionary breakthrough in Automated Scientific Discovery: https://github.com/HKUDS/AI-Researcher
-
-Blades is a Go-based multimodal AI Agent framework: https://github.com/go-kratos/blades
-
-Pollinations.AI is an open-source gen AI startup based in Berlin, providing the most easy-to-use, free text and image generation API available. No signups or API keys required. We prioritize your privacy with zero data storage and completely anonymous usage: https://github.com/pollinations/pollinations
 
 ----
 
 **Software Development & APIs:**
 
-Meriyah. 100% compliant, self-hosted javascript parser with high focus on both performance and stability: https://github.com/meriyah/meriyah
 
-MCP Pointer. Point to browser DOM elements for agentic coding tools via MCP: https://github.com/etsd-tech/mcp-pointer
 
 ----
 
 **Linux & DevOps:**
 
-tun2socks - powered by gVisor TCP/IP stack: https://github.com/xjasonlyu/tun2socks
 
-NGinx Ignition. An user interface for the nginx web server, aimed at developers and enthusiasts that don't want to manage configuration files manually: https://github.com/lucasdillmann/nginx-ignition
-
-Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected: https://github.com/DigitalRuby/IPBan
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-FDXB-Calc. Converts hexadecimal data stored on FDX-B microchips to human readable information: https://github.com/UndedInside/FDXB-calc
+
 
 ----
 
 **New from CyberDetective:**
 
-Aircraft Perfomance Database. Database with detailed info about 398 aircrafts: Type of Aircraft, Recognition, Supplementary, Technical Performance: https://learningzone.eurocontrol.int/ilp/customs/ATCPFDB/default.aspx
 
-Wayback Machine Alternatives. Many of the tools in the list are primarily aimed at preserving pages. However, you can try searching for data saved by others using Google: "keyword site:pagefreezer.com" (similarly for other tools domains): https://www.link-assistant.com/news/wayback-machine-alternatives.html
-
-OSINT Investigation's Toolkit by intell_on_chain. Blockchain Tools, Google Dorking, Image Analysis, IP & Network, Data Breaches, Geolocation, Social Media, Metadata, Phone Numbers, Web Scraping: https://osint.intelligenceonchain.com/
 
 ----
 
 **New from GitHub Community:**
 
-Foxel. A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search: https://github.com/DrizzleTime/Foxel
 
-OpenDataLoader-PDF converts PDFs into JSON, Markdown or Html — ready to feed into modern AI stacks (LLMs, vector search, and RAG): https://github.com/opendataloader-project/opendataloader-pdf
 
 ----
 ### OSINTech's timeline:
