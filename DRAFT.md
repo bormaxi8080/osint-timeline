@@ -101,6 +101,8 @@ Aircraft Perfomance Database. Database with detailed info about 398 aircrafts: T
 
 Wayback Machine Alternatives. Many of the tools in the list are primarily aimed at preserving pages. However, you can try searching for data saved by others using Google: "keyword site:pagefreezer.com" (similarly for other tools domains): https://www.link-assistant.com/news/wayback-machine-alternatives.html
 
+OSINT Investigation's Toolkit by intell_on_chain. Blockchain Tools, Google Dorking, Image Analysis, IP & Network, Data Breaches, Geolocation, Social Media, Metadata, Phone Numbers, Web Scraping: https://osint.intelligenceonchain.com/
+
 ----
 
 **New from GitHub Community:**
