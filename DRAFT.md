@@ -62,7 +62,7 @@ Top 10 Company Research Tools to Find Prospect Information: https://www.saleshan
 
 **New from CyberDetective:**
 
-
+X NoteTracker Dashboard. A tool for searching tweets with community notes by keywords. Filter results by notes statuses ("Helpful", "Not Helpful", "No Consensus", "Insufficient Ratings") and view statistics: https://notetracker.socialmedialab.ca
 
 ----
 
