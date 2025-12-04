@@ -22,6 +22,8 @@ https://www.tesari.ai
 
 ----
 
+Open Source Guide to Investigating Chinese Companies: https://gijn.org/resource/asia-focus-open-source-guide-investigating-chinese-companies/
+
 Five tools to detect, analyze and counter disinformation: https://latamjournalismreview.org/articles/five-tools-to-detect-analyze-and-counter-disinformation/
 
 8 People Search Engines for Finding Anyone: https://www.lifewire.com/search-engines-that-top-the-web-3482269
