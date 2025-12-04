@@ -34,6 +34,8 @@ Top 10 Company Research Tools to Find Prospect Information: https://www.saleshan
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT of Argentina by Unishka Research Service: https://substack.com/home/post/p-180637655
+
 Telegram Sync for Obsidian. Transfer messages and files from [Telegram](https://telegram.org/) to your [Obsidian](https://obsidian.md/plugins?id=telegram-sync) vault. You can easily save text, voice transcripts, images, and other files from your Telegram chats to Obsidian for further processing and organization. This plugin is only available for desktops and would never be available on mobile platforms: https://github.com/soberhacker/obsidian-telegram-sync
 
 ----
