@@ -32,7 +32,7 @@ Top 10 Company Research Tools to Find Prospect Information: https://www.saleshan
 
 **OSINT Tools, Services and Investigations:**
 
-
+Telegram Sync for Obsidian. Transfer messages and files from [Telegram](https://telegram.org/) to your [Obsidian](https://obsidian.md/plugins?id=telegram-sync) vault. You can easily save text, voice transcripts, images, and other files from your Telegram chats to Obsidian for further processing and organization. This plugin is only available for desktops and would never be available on mobile platforms: https://github.com/soberhacker/obsidian-telegram-sync
 
 ----
 
@@ -50,13 +50,13 @@ Surfface. An AI-powered reverse face search and OSINT platform that helps verify
 
 **Linux & DevOps:**
 
-
+Backrest is a web-accessible backup solution built on top of [restic](https://restic.net/). Backrest provides a WebUI which wraps the restic CLI and makes it easy to create repos, browse snapshots, and restore files. Additionally, Backrest can run in the background and take an opinionated approach to scheduling snapshots and orchestrating repo health operations: https://github.com/garethgeorge/backrest
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+Work with LoRa radio communication signals. Now you can interact with LoRa transmissions using the Flipper Zero. Basic tasks such as sniffing and injection are available, making it easy to perform activities such as analysis, error detection and configuration of new peripherals to the network: https://github.com/ElectronicCats/flipper-SX1262-LoRa
 
 ----
 
@@ -68,7 +68,7 @@ X NoteTracker Dashboard. A tool for searching tweets with community notes by key
 
 **New from GitHub Community:**
 
-
+BookGraph helps you discover hidden links between your favorite reads. Search, collect, analyze and visualize how your books connect to each other: https://bookgraph.lovable.app/
 
 ----
 ### OSINTech's timeline:
