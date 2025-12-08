@@ -38,17 +38,33 @@ OSINT of Argentina by Unishka Research Service: https://substack.com/home/post/p
 
 Telegram Sync for Obsidian. Transfer messages and files from [Telegram](https://telegram.org/) to your [Obsidian](https://obsidian.md/plugins?id=telegram-sync) vault. You can easily save text, voice transcripts, images, and other files from your Telegram chats to Obsidian for further processing and organization. This plugin is only available for desktops and would never be available on mobile platforms: https://github.com/soberhacker/obsidian-telegram-sync
 
+Vibetest MCP - automated QA testing using Browser-Use agents: https://github.com/browser-use/vibetest-use/
+
+Free proxy scraper written in python. It is pypi library - free to use: https://github.com/jundymek/free-proxy?tab=readme-ov-file
+
+DocuFinder is an external attack surface monitoring (EASM) tool that automates traditional OSINT techniques to find externally accessible documents within a target domain. Protect your organization, improve your penetration tests, increase your bug bounty revenue, & more: https://github.com/ndr-repo/DocuFinderJS
+
+CredenShow. Identify your compromised login credentials before others do: https://credenshow.com/home
+
 ----
 
 **Universal Search & AI:**
 
+DorkGPT. Generate Google Dorks with AI: https://www.dorkgpt.com/
+
+Heretic: Fully automatic censorship removal for language models: https://github.com/p-e-w/heretic
+
+CAgent. A powerful, easy-to-use, customizable multi-agent runtime that orchestrates AI agents with specialized capabilities and tools, and the interactions between agents: https://github.com/docker/cagent
+
 Surfface. An AI-powered reverse face search and OSINT platform that helps verify identities, reconnect with people, or investigate digital footprints—using only publicly available data and non-biometric facial analysis: https://surfface.com/
+
+Thunderbit. The Next Gen AI Web Scraper. Scrape leads & other data in just 2-clicks.: https://thunderbit.com/
 
 ----
 
 **Software Development & APIs:**
 
-
+Gemini 3 Pro Developers Guide from Google: https://ai.google.dev/gemini-api/docs/gemini-3?hl=ru&thinking=high
 
 ----
 
@@ -67,6 +83,8 @@ Work with LoRa radio communication signals. Now you can interact with LoRa trans
 **New from CyberDetective:**
 
 X NoteTracker Dashboard. A tool for searching tweets with community notes by keywords. Filter results by notes statuses ("Helpful", "Not Helpful", "No Consensus", "Insufficient Ratings") and view statistics: https://notetracker.socialmedialab.ca
+
+The Ultimate OSINT Guide: Essential Tools for Phone Number Investigation by eRRor. Global Verification and Lookup Tools, Data Breach Analysis, Carrier, SIM, and Porting Intelligence, Phone Number Intelligence & Caller ID, Social Media and Username: https://medium.com/@eRRoR_/the-ultimate-osint-guide-essential-tools-for-phone-number-investigation-be1924ddf578
 
 ----
 
