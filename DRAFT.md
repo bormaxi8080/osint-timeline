@@ -38,6 +38,14 @@ OSINT of Argentina by Unishka Research Service: https://substack.com/home/post/p
 
 Telegram Sync for Obsidian. Transfer messages and files from [Telegram](https://telegram.org/) to your [Obsidian](https://obsidian.md/plugins?id=telegram-sync) vault. You can easily save text, voice transcripts, images, and other files from your Telegram chats to Obsidian for further processing and organization. This plugin is only available for desktops and would never be available on mobile platforms: https://github.com/soberhacker/obsidian-telegram-sync
 
+Traccar is an open source GPS tracking system. This repository contains Java-based back-end service. It supports more than 200 GPS protocols and more than 2000 models of GPS tracking devices. Traccar can be used with any major SQL database system. It also provides easy to use REST API: https://github.com/traccar/traccar
+
+GeoGate is an opensource tracking GPS/AIS framework to implement GTS applications: https://github.com/fulup-bzh/GeoGate
+
+GpsdTracking is an opensource server for various GPS tracking devices: https://github.com/mark-sch/GpsdTracking
+
+NavTrack. GPS tracking system based on .NET and React: https://github.com/navtrack/navtrack
+
 Vibetest MCP - automated QA testing using Browser-Use agents: https://github.com/browser-use/vibetest-use/
 
 Free proxy scraper written in python. It is pypi library - free to use: https://github.com/jundymek/free-proxy?tab=readme-ov-file
@@ -59,6 +67,8 @@ CAgent. A powerful, easy-to-use, customizable multi-agent runtime that orchestra
 Surfface. An AI-powered reverse face search and OSINT platform that helps verify identities, reconnect with people, or investigate digital footprints—using only publicly available data and non-biometric facial analysis: https://surfface.com/
 
 Thunderbit. The Next Gen AI Web Scraper. Scrape leads & other data in just 2-clicks.: https://thunderbit.com/
+
+Handy. A free, open source, and extensible speech-to-text application that works completely offline: https://github.com/cjpais/Handy
 
 ----
 
