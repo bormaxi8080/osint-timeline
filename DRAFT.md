@@ -30,6 +30,8 @@ Five tools to detect, analyze and counter disinformation: https://latamjournalis
 
 Top 10 Company Research Tools to Find Prospect Information: https://www.saleshandy.com/blog/company-research-tools/
 
+Awesome Telegram Resources: https://github.com/ebertti/awesome-telegram
+
 ----
 
 **OSINT Tools, Services and Investigations:**
