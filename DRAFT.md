@@ -19,13 +19,19 @@ https://www.tesari.ai
 
 ----
 
+ChatGPT 5.2 now available: https://openai.com/index/introducing-gpt-5-2/
 
+Threat Actor Username Scrap. A collection of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, LeakBase, & more: https://github.com/spmedia/Threat-Actor-Usernames-Scrape
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT of Uzbekistan by Unishka Research Service: https://substack.com/home/post/p-181038164
 
+GeoIntel using Google's Gemini API to uncover the location where photos were taken through AI-powered geo-location analysis: https://geointelligence.vercel.app/
+
+User Scanner. Scan a username across multiple social, developer, gaming and creator platforms to see if it’s available. Perfect for finding a unique username for your personal profile or business across GitHub, Twitter, Reddit, Instagram, Telegram, Minecraft, Roblox and more, all in one command: https://github.com/kaifcodec/user-scanner
 
 ----
 
@@ -43,13 +49,13 @@ https://www.tesari.ai
 
 **Linux & DevOps:**
 
-
+pg_activity is a top like application for PostgreSQL server activity monitoring: https://github.com/dalibo/pg_activity
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+Flipperscope. Attempt at an oscilloscope application for the flipper zero. Measures voltage and frequency: https://github.com/anfractuosity/flipperscope
 
 ----
 
