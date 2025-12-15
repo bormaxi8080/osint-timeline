@@ -21,6 +21,10 @@ https://www.tesari.ai
 
 ChatGPT 5.2 now available: https://openai.com/index/introducing-gpt-5-2/
 
+OSINT Chilie: https://github.com/0xSS3K/OSINT-CHILE
+
+BotBrowser. Advanced Privacy Browser Core with Unified Fingerprint Defense: Cloudflare, Akamai, Kasada, Shape, DataDome, PerimeterX, hCaptcha, FunCaptcha, Imperva, reCAPTCHA, ThreatMetrix, Adscore: https://github.com/botswin/BotBrowser
+
 Building a public LLM tool for open source researchers, including the [Bellingcat](https://www.linkedin.com/company/bellingcat/) community. ETA April 2026. The inference model will have access to the Bellingcat toolkit, an OSINT knowledge base, and documentation for all of the resources listed. It'll be open-access to help all researchers work faster with less friction: https://huggingface.co/spaces/tomvaillant/osint-llm
 
 Threat Actor Username Scrap. A collection of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, LeakBase, & more: https://github.com/spmedia/Threat-Actor-Usernames-Scrape
