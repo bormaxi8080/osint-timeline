@@ -27,11 +27,11 @@ ChatGPT 5.2 now available: https://openai.com/index/introducing-gpt-5-2/
 
 **OSINT Tools, Services and Investigations:**
 
-Building a public LLM tool for open source researchers, including the [Bellingcat](https://www.linkedin.com/company/bellingcat/) community. ETA April 2026. The inference model will have access to the Bellingcat toolkit, an OSINT knowledge base, and documentation for all of the resources listed. It'll be open-access to help all researchers work faster with less friction: https://huggingface.co/spaces/tomvaillant/osint-llm
+Building a public LLM tool for open source researchers, including the Bellingcat community. ETA April 2026. The inference model will have access to the Bellingcat toolkit, an OSINT knowledge base, and documentation for all of the resources listed. It'll be open-access to help all researchers work faster with less friction: https://huggingface.co/spaces/tomvaillant/osint-llm
 
 OSINT of Uzbekistan by Unishka Research Service: https://substack.com/home/post/p-181038164
 
-OSINT Chilie Collection: https://github.com/0xSS3K/OSINT-CHILE
+OSINT Chile Collection: https://github.com/0xSS3K/OSINT-CHILE
 
 HaveIBeenRansomed. A free OSINT service that alerts users if their email or personal data appears in infostealer logs—malware-collected credentials and browser artifacts often dumped on underground forums or ransomware leak sites: https://haveibeenransom.com/
 
@@ -43,15 +43,17 @@ Device Activity Tracker. A phone number can reveal whether a device is active, i
 
 Threat Actor Username Scrap. A collection of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, LeakBase, & more: https://github.com/spmedia/Threat-Actor-Usernames-Scrape
 
-Strix are autonomous AI agents that act just like real hackers - they run your code dynamically, find vulnerabilities, and validate them through actual proof-of-concepts. Built for developers and security teams who need fast, accurate security testing without the overhead of manual pentesting or the false positives of static analysis tools: https://github.com/usestrix/strix
-
 ----
 
 **Universal Search & AI:**
 
 GeoIntel using Google's Gemini API to uncover the location where photos were taken through AI-powered geo-location analysis: https://geointelligence.vercel.app/
 
+Intrace AI. Accelerate Investigations with the First AI-Native OSINT Platform: https://www.intrace.ai/
+
 Logics-Parsing is a powerful, end-to-end document parsing model built upon a general Vision-Language Model (VLM) through Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL). It excels at accurately analyzing and structuring highly complex documents: https://github.com/alibaba/Logics-Parsing
+
+Strix are autonomous AI agents that act just like real hackers - they run your code dynamically, find vulnerabilities, and validate them through actual proof-of-concepts. Built for developers and security teams who need fast, accurate security testing without the overhead of manual pentesting or the false positives of static analysis tools: https://github.com/usestrix/strix
 
 ----
 
@@ -69,7 +71,7 @@ pg_activity is a top like application for PostgreSQL server activity monitoring:
 
 **Flipper Zero & Other Devices:**
 
-Flipperscope. Attempt at an oscilloscope application for the flipper zero. Measures voltage and frequency: https://github.com/anfractuosity/flipperscope
+Flipperscope. Attempt at an oscilloscope application for the Flipper Zero. Measures voltage and frequency: https://github.com/anfractuosity/flipperscope
 
 ----
 
