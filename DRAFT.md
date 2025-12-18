@@ -28,7 +28,7 @@ https://www.tesari.ai
 
 **Universal Search & AI:**
 
-
+Shannon. Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark: https://github.com/KeygraphHQ/shannon
 
 ----
 
@@ -40,19 +40,21 @@ https://www.tesari.ai
 
 **Linux & DevOps:**
 
-
+Tracee. Linux Runtime Security and Forensics using eBPF: https://github.com/aquasecurity/tracee
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+Flipper Zero Master Class. Don't just scratch the surface. Complete technical guide: Firmware, Sub-GHz, RFID/NFC, IR, BadUSB, iButton and GPIO: https://offensive-intelligence.com/tout-sur-le-flipper-zero.html
 
 ----
 
 **New from CyberDetective:**
 
+4.7 billion+ domain database. Enter IP/IP range/domain to find associated domains and subdomains. You also may just do GET-requests from command line: https://ip.thc.org/
 
+GlobalBuildingAtlas: an open global and complete dataset of building polygons, heights and LoD1 3D models: https://github.com/zhu-xlab/GlobalBuildingAtlas
 
 ----
 
