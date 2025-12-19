@@ -16,13 +16,15 @@ https://www.tesari.ai
 
 ----
 
-
+OSINT Analytical Framework for Learning Open Source Targeting Like Intelligence Agencies: https://osintteam.blog/osint-conduct-open-source-targeting-like-the-cia-dddc14769d3b
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+THINKPOL OSINT Tools directory. A directory of hundreds of OSINT tools, created with the support of Thinkpol, a tool for searching and in-depth analysis of information about Reddit users: https://think-pol.com
 
+CScorza Intelligence. InstaOSINT, SOCMIntelligence, Digital Forensic Analysis, Corporate Intelligence and many others: https://cscorza.github.io/CScorza/
 
 ----
 
