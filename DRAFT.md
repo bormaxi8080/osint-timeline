@@ -38,6 +38,8 @@ Open Scouts. AI-powered web monitoring platform. Create automated scouts that se
 
 bhgrep is a blazing-fast command-line tool that lets you search through your browser history across Chrome, Firefox, Safari, and Edge with fuzzy matching, regex support, and an interactive TUI: https://github.com/jondot/bhgrep
 
+Whats-reader. Browse WhatsApp chat exports offline with AI-powered voice transcription. Privacy-first desktop/web app with bookmarks, search, and statistics. Built with SvelteKit and Electron: https://github.com/rodrigogs/whats-reader
+
 ----
 
 **Universal Search & AI:**
