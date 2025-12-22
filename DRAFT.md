@@ -18,13 +18,25 @@ https://www.tesari.ai
 
 OSINT Analytical Framework for Learning Open Source Targeting Like Intelligence Agencies: https://osintteam.blog/osint-conduct-open-source-targeting-like-the-cia-dddc14769d3b
 
+Guide. How to use Facebook for OSINT investigations: https://www.authentic8.com/blog/guide-facebook-osint
+
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT of Tanzania by Unishka Research Service: https://unishka.substack.com/p/osint-of-tanzania
+
 THINKPOL OSINT Tools directory. A directory of hundreds of OSINT tools, created with the support of Thinkpol, a tool for searching and in-depth analysis of information about Reddit users: https://think-pol.com
 
 CScorza Intelligence. InstaOSINT, SOCMIntelligence, Digital Forensic Analysis, Corporate Intelligence and many others: https://cscorza.github.io/CScorza/
+
+Satellite map Wayback - ArcGIS Living Atlas. The satellite time machine: Satellite and map time machine from Esri that lets you explore historical imagery and geographic changes across decades: https://livingatlas.arcgis.com/wayback/
+
+Trace Labs OSINT VM: https://github.com/tracelabs/tlosint-vm
+
+Open Scouts. AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for: https://github.com/firecrawl/open-scouts
+
+bhgrep is a blazing-fast command-line tool that lets you search through your browser history across Chrome, Firefox, Safari, and Edge with fuzzy matching, regex support, and an interactive TUI: https://github.com/jondot/bhgrep
 
 ----
 
@@ -44,6 +56,8 @@ Shannon. Fully autonomous AI hacker to find actual exploits in your web apps. Sh
 
 Tracee. Linux Runtime Security and Forensics using eBPF: https://github.com/aquasecurity/tracee
 
+Proxy Admin. A convenient web panel on FastAPI for monitoring the system and managing proxies (including pproxy) directly from your browser: https://github.com/MishaSok/proxy-admin-app
+
 ----
 
 **Flipper Zero & Other Devices:**
@@ -57,6 +71,8 @@ Flipper Zero Master Class. Don't just scratch the surface. Complete technical gu
 4.7 billion+ domain database. Enter IP/IP range/domain to find associated domains and subdomains. You also may just do GET-requests from command line: https://ip.thc.org/
 
 GlobalBuildingAtlas: an open global and complete dataset of building polygons, heights and LoD1 3D models: https://github.com/zhu-xlab/GlobalBuildingAtlas
+
+PicDetective. New reverse image search engine. Good in exact matches searches: https://picdetective.com/
 
 ----
 
