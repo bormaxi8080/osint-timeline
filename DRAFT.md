@@ -40,6 +40,8 @@ bhgrep is a blazing-fast command-line tool that lets you search through your br
 
 Whats-reader. Browse WhatsApp chat exports offline with AI-powered voice transcription. Privacy-first desktop/web app with bookmarks, search, and statistics. Built with SvelteKit and Electron: https://github.com/rodrigogs/whats-reader
 
+Whisper Bot allows users to send hidden messages ("whispers") in public Telegram groups. The content of the message is hidden behind a button and can only be viewed by the sender and the specified recipient: https://github.com/salatcs/whisper-telegram
+
 ----
 
 **Universal Search & AI:**
