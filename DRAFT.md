@@ -85,12 +85,6 @@ PicDetective. New reverse image search engine. Good in exact matches searches: h
 Financial OSINT. Guide to tracing corporate assets & networks. Foundational theory and ethical-legal framework, Applied methodology: step-by-step practical implementation, Verification and analysis for reporting, Practice and resources: https://spotlight.ebu.ch/p/guide-tracing-corporate-assets
 
 ----
-
-**New from GitHub Community:**
-
-
-
-----
 ### OSINTech's timeline:
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
