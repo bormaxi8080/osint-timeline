@@ -306,6 +306,7 @@ If you like the projects that I do, I will be grateful for donations in private 
 ----
 ### All article covers in [LinkedIn](https://www.linkedin.com/in/osintech/details/featured/):
 
+![alt text](./img/133-138.png)
 ![alt text](./img/127-132.png)
 ![alt text](./img/121-126.png)
 ![alt text](./img/115-120.png)
