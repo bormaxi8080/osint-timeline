@@ -20,19 +20,21 @@ OSINT Analytical Framework for Learning Open Source Targeting Like Intelligence
 
 Guide. How to use Facebook for OSINT investigations: https://www.authentic8.com/blog/guide-facebook-osint
 
+Trace Labs OSINT VM: https://github.com/tracelabs/tlosint-vm
+
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 OSINT of Tanzania by Unishka Research Service: https://unishka.substack.com/p/osint-of-tanzania
 
+Nationsonline. A website with profiles of over 200 countries. You can find lots of useful information about each one for research purposes (or just for travelling). Official Sites. Political system, Maps, News sites, Arts & culture, Business & economics, Well-known brands, History: https://nationsonline.org/
+
 THINKPOL OSINT Tools directory. A directory of hundreds of OSINT tools, created with the support of Thinkpol, a tool for searching and in-depth analysis of information about Reddit users: https://think-pol.com
 
 CScorza Intelligence. InstaOSINT, SOCMIntelligence, Digital Forensic Analysis, Corporate Intelligence and many others: https://cscorza.github.io/CScorza/
 
 Satellite map Wayback - ArcGIS Living Atlas. The satellite time machine: Satellite and map time machine from Esri that lets you explore historical imagery and geographic changes across decades: https://livingatlas.arcgis.com/wayback/
-
-Trace Labs OSINT VM: https://github.com/tracelabs/tlosint-vm
 
 Open Scouts. AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for: https://github.com/firecrawl/open-scouts
 
@@ -52,7 +54,9 @@ Shannon. Fully autonomous AI hacker to find actual exploits in your web apps. Sh
 
 **Software Development & APIs:**
 
+Scrape Websites with Python & NoSQL. Learn how to scrape websites with Python, Selenium, Requests HTML, Celery, FastAPI, & NoSQL with Cassandra via AstraDB: https://github.com/codingforentrepreneurs/Scrape-Websites-with-Python-FastAPI-Celery-NoSQL
 
+WindMouse. Human-like mouse movement library implementing the WindMouse algorithm for bot detection avoidance: https://github.com/AsfhtgkDavid/windmouse
 
 ----
 
@@ -74,9 +78,11 @@ Flipper Zero Master Class. Don't just scratch the surface. Complete technical gu
 
 4.7 billion+ domain database. Enter IP/IP range/domain to find associated domains and subdomains. You also may just do GET-requests from command line: https://ip.thc.org/
 
-GlobalBuildingAtlas: an open global and complete dataset of building polygons, heights and LoD1 3D models: https://github.com/zhu-xlab/GlobalBuildingAtlas
+Global Building Atlas. An open global and complete dataset of building polygons, heights and LoD1 3D models: https://github.com/zhu-xlab/GlobalBuildingAtlas
 
 PicDetective. New reverse image search engine. Good in exact matches searches: https://picdetective.com/
+
+Financial OSINT. Guide to tracing corporate assets & networks. Foundational theory and ethical-legal framework, Applied methodology: step-by-step practical implementation, Verification and analysis for reporting, Practice and resources: https://spotlight.ebu.ch/p/guide-tracing-corporate-assets
 
 ----
 
