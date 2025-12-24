@@ -20,7 +20,7 @@ OSINT Analytical Framework for Learning Open Source Targeting Like Intelligence
 
 Guide. How to use Facebook for OSINT investigations: https://www.authentic8.com/blog/guide-facebook-osint
 
-Trace Labs OSINT VM: https://github.com/tracelabs/tlosint-vm
+Trace Labs OSINT VM released: https://github.com/tracelabs/tlosint-vm
 
 ----
 
@@ -30,7 +30,7 @@ OSINT of Tanzania by Unishka Research Service: https://unishka.substack.com/p/os
 
 Nationsonline. A website with profiles of over 200 countries. You can find lots of useful information about each one for research purposes (or just for travelling). Official Sites. Political system, Maps, News sites, Arts & culture, Business & economics, Well-known brands, History: https://nationsonline.org/
 
-THINKPOL OSINT Tools directory. A directory of hundreds of OSINT tools, created with the support of Thinkpol, a tool for searching and in-depth analysis of information about Reddit users: https://think-pol.com
+THINKPOL OSINT Tools Directory. A directory of hundreds of OSINT tools, created with the support of Thinkpol, a tool for searching and in-depth analysis of information about Reddit users: https://think-pol.com
 
 CScorza Intelligence. InstaOSINT, SOCMIntelligence, Digital Forensic Analysis, Corporate Intelligence and many others: https://cscorza.github.io/CScorza/
 
@@ -83,6 +83,8 @@ Global Building Atlas. An open global and complete dataset of building polygons,
 PicDetective. New reverse image search engine. Good in exact matches searches: https://picdetective.com/
 
 Financial OSINT. Guide to tracing corporate assets & networks. Foundational theory and ethical-legal framework, Applied methodology: step-by-step practical implementation, Verification and analysis for reporting, Practice and resources: https://spotlight.ebu.ch/p/guide-tracing-corporate-assets
+
+Tracking digital footprints with username and alias correlation. Initial scan (Username enumeration), Visual correlation (Profile picture pivot), Content/pattern analysis (Digital footprinting), Data visualization, AI Assistance in analysis: https://spotlight.ebu.ch/p/tracking-digital-footprints-with
 
 ----
 ### OSINTech's timeline:
