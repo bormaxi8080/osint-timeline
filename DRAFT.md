@@ -93,7 +93,7 @@ God-Eye. AI-powered subdomain enumeration tool with local LLM analysis via Ollam
 
 **Software Development & APIs:**
 
-
+Stealth Browser MCP. The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat: https://github.com/0xSojalSec/stealth-browser-mcp
 
 ----
 
