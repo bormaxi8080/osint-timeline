@@ -83,6 +83,8 @@ osintr. OSINT tool for researching targets based on Email Address or Username us
 
 GhostIG. A lightweight and efficient command-line tool for gathering publicly available Instagram profile intelligence: https://github.com/fawadqureshi007/ghostig
 
+Waybien. Search Inside Messengers: https://waybien.com
+
 ----
 
 **Universal Search & AI:**
