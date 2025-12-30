@@ -15,7 +15,7 @@ https://www.tesari.ai
 
 ----
 
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3100: https://github.com/bormaxi8080/osint-repos-list
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3200: https://github.com/bormaxi8080/osint-repos-list
 
 ----
 
