@@ -1,6 +1,9 @@
 
 Father Frost
 
+
+pip install hapiness
+
 ----
 
 ```Tesari``` is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks
@@ -41,7 +44,7 @@ Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache
 
 **Universal Search & AI:**
 
-
+Abbreviationfinder.org provides definitions of over 70,000 acronyms. These abbreviations cover 12 industries, including business, electronics, finance, science, computer, agriculture, internet, automobile, education, real estate, sports, and transportation: https://www.abbreviationfinder.org/
 
 ----
 
@@ -59,13 +62,21 @@ JAuth. Lightweight SSL/TLS reverse proxy with authorization(via Telegram and SSH
 
 **Flipper Zero & Other Devices:**
 
-
+Flipper Zero Hex Editor - an application for emergency (no phone) file editing: https://github.com/dunaevai135/flipper-zero-hex_editor
 
 ----
 
 **New from CyberDetective:**
 
+OSINT Investigation Reports Templates (FREE)
 
+- breach analysis report
+- network reconnaissance
+- communication patterns
+- domain website
+- individual investigation
+
+https://github.com/JambaAcademy/OSINT/tree/main/osint-templates/investigation-reports
 
 ----
 ### OSINTech's timeline:
