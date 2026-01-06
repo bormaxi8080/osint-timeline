@@ -58,6 +58,8 @@ ArkhamMirror. Offline investigative assistant that uses local AI to turn the cha
 
 AbbreviationFinder provides definitions of over 70,000 acronyms. These abbreviations cover 12 industries, including business, electronics, finance, science, computer, agriculture, internet, automobile, education, real estate, sports, and transportation: https://www.abbreviationfinder.org/
 
+LiteLLM. Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM): https://github.com/BerriAI/litellm
+
 ----
 
 **Software Development & APIs:**
@@ -71,6 +73,8 @@ OxyMouse is a Python library for generating mouse movements. It is designed to w
 **Linux & DevOps:**
 
 JAuth. Lightweight SSL/TLS reverse proxy with authorization(via Telegram and SSH) for self-hosted apps: https://github.com/Jipok/Jauth
+
+Colima - container runtimes on macOS (and Linux) with minimal setup: https://github.com/abiosoft/colima
 
 ----
 
