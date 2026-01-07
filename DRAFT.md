@@ -60,6 +60,8 @@ AbbreviationFinder provides definitions of over 70,000 acronyms. These abbreviat
 
 LiteLLM. Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM): https://github.com/BerriAI/litellm
 
+Video2x. A machine learning-based video super resolution and frame interpolation framework: https://github.com/k4yt3x/video2x
+
 ----
 
 **Software Development & APIs:**
@@ -95,6 +97,12 @@ OSINT Investigation Reports Templates (FREE)
 - individual investigation
 
 https://github.com/JambaAcademy/OSINT/tree/main/osint-templates/investigation-reports
+
+WHOISFREAKS
+
+Reverse Whois search using owner name, company name, owner's email, or domain keyword
+
+https://whoisfreaks.com/tools/user/whois/reverse/search
 
 ----
 ### OSINTech's timeline:
