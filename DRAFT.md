@@ -19,7 +19,7 @@ https://www.tesari.ai
 
 **OSINT Tools, Services and Investigations:**
 
-
+Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research: https://github.com/virattt/dexter
 
 ----
 
