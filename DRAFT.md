@@ -13,7 +13,13 @@ https://www.tesari.ai
 
 ----
 
+Inside Discord: An OSINT Guide to Servers, Search and OPSEC:
 
+https://www.osintcombine.com/post/inside-discord-an-osint-guide-to-servers-search-and-opsec
+
+JA4 Fingerprinting Against AI Scrapers: A Practical Guide:
+
+https://webdecoy.com/blog/ja4-fingerprinting-ai-scrapers-practical-guide/
 
 ----
 
