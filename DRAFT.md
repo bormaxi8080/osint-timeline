@@ -31,6 +31,7 @@ LiteLLM. Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (
 
 **Software Development & APIs:**
 
+Pyrefly. A fast type checker and language server for Python with powerful IDE features: https://github.com/facebook/pyrefly
 
 ----
 
