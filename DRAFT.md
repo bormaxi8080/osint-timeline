@@ -27,6 +27,8 @@ https://webdecoy.com/blog/ja4-fingerprinting-ai-scrapers-practical-guide/
 
 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research: https://github.com/virattt/dexter
 
+SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Support restrict saving content and files beyond telegram: https://github.com/krau/SaveAny-Bot/
+
 ----
 
 **Universal Search & AI:**
