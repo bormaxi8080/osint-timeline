@@ -13,6 +13,16 @@ https://www.tesari.ai
 
 ----
 
+# [Satellite Hacking](https://www.blackhillsinfosec.com/satellite-hacking/)
+
+Satellite Hacking blog by Austin Kaiser: 
+
+https://www.blackhillsinfosec.com/satellite-hacking/
+
+OSINT on X: Uncovering Twitter Phone Numbers, Emails, and More:
+
+https://www.osint.industries/post/osint-on-x-uncovering-twitter-phone-numbers-emails-and-more
+
 Inside Discord: An OSINT Guide to Servers, Search and OPSEC:
 
 https://www.osintcombine.com/post/inside-discord-an-osint-guide-to-servers-search-and-opsec
@@ -42,6 +52,8 @@ Merge: https://pdfguru.com/app/merge-pdf
 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research: https://github.com/virattt/dexter
 
 Osinton is an open-source OSINT (Open Source Intelligence) tool designed to perform structured investigations on individuals using publicly available information: https://github.com/elvonferen/Osinton
+
+Archivarix. Wayback Machine downloader that restores fully functional copies of archived websites from the Internet Archive (other sources) with CMS-like features. Lets you rebuild sites with optimized HTML, cleaned trackers, and internal link normalization, ideal for OSINT, evidence preservation, or site recovery: https://archivarix.com/en/
 
 SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Support restrict saving content and files beyond telegram: https://github.com/krau/SaveAny-Bot/
 
