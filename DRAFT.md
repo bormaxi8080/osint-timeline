@@ -63,11 +63,13 @@ Pyrefly. A fast type checker and language server for Python with powerful IDE fe
 
 Colima - container runtimes on macOS (and Linux) with minimal setup: https://github.com/abiosoft/colima
 
+Lunalytics. Open source monitoring tool built with Node.js & React: https://github.com/KSJaay/Lunalytics
+
 ----
 
 **Flipper Zero & Other Devices:**
 
-
+IR Blaster for Flipper Zero This application allows you to guess the IR remote control codes for devices. It is useful in the absence of the original remote control: https://github.com/mateusz-szafraniec/flipperzero-IR_Blaster
 
 ----
 
