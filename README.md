@@ -1,12 +1,12 @@
-# bormaxi8080 OSINT Timeline
+# OSINTech's Timeline
 
-Welcome to bormaxi8080 OSINT Timeline weekly newsletter with collection of tools, services and investigations!
+Welcome to OSINT Timeline Weekly Newsletter with collection of tools, services and investigations!
 
 ![alt text](logo.png)
 
 GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
 
-LinkedIn: [bormaxi8080 OSINT Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
+LinkedIn: [ OSINTech's Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
 You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
 
