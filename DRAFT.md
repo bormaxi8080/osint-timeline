@@ -61,13 +61,21 @@ Merge: https://pdfguru.com/app/merge-pdf
 
 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research: https://github.com/virattt/dexter
 
+Cyabra is leading the fight against disinformation. Our AI shields corporations and the public sector by uncovering fake profiles, harmful narratives, GenAI content, and deepfakes: https://cyabra.com/
+
 People Search Resources. A large list of resources for finding information about people in different countries: https://analystresearchtools.com/resources
+
+IMS Toucan is a toolkit for training, using, and teaching state-of-the-art Text-to-Speech Synthesis, developed at the **Institute for Natural Language Processing (IMS), University of Stuttgart, Germany**, official home of the massively multilingual ToucanTTS system. Our system is fast, controllable, and doesn't require a ton of compute: https://github.com/0xSojalSec/IMS-Toucan/
 
 Osinton is an open-source OSINT (Open Source Intelligence) tool designed to perform structured investigations on individuals using publicly available information: https://github.com/elvonferen/Osinton
 
 Archivarix. Wayback Machine downloader that restores fully functional copies of archived websites from the Internet Archive (other sources) with CMS-like features. Lets you rebuild sites with optimized HTML, cleaned trackers, and internal link normalization, ideal for OSINT, evidence preservation, or site recovery: https://archivarix.com/en/
 
 Awesome list for Whisper - an open-source AI-powered speech recognition system developed by OpenAI: https://github.com/sindresorhus/awesome-whisper/
+
+Gofis is a lightweight, high-performance command-line utility built in Go for searching files across your system. It leverages Go's native concurrency model to walk directory trees rapidly, making it significantly faster than traditional single-threaded search tools: https://github.com/demensdeum/gofis
+
+TelegramReceiver is a production-ready Go 1.25+ library for consuming Telegram bot updates with resilience features. Supports both **webhook** and **long polling** modes: https://github.com/prilive-com/telegramreceiver
 
 SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Support restrict saving content and files beyond telegram: https://github.com/krau/SaveAny-Bot/
 
@@ -91,6 +99,8 @@ Colima - container runtimes on macOS (and Linux) with minimal setup: https://git
 
 Lunalytics. Open source monitoring tool built with Node.js & React: https://github.com/KSJaay/Lunalytics
 
+Python Scripts. This repository consists of a list of more than 60 Python scripts, primarily those which automate a specific task. Each folder contains one or more .py files and a README to explain what that specific Python script needs to run. These scripts are free to use as long as long as the original contributor is credited: https://github.com/wasmerio/Python-Scripts
+
 ----
 
 **Flipper Zero & Other Devices:**
@@ -101,11 +111,9 @@ IR Blaster for Flipper Zero This application allows you to guess the IR remote c
 
 **New from CyberDetective:**
 
-WHOISFREAKS
+RageCheck. Free online tool to identify engagement bait, fear-mongering, and manipulation patterns in news and social media instantly. Just copy link or upload screenshot: https://www.ragecheck.com/
 
-Reverse Whois search using owner name, company name, owner's email, or domain keyword
-
-https://whoisfreaks.com/tools/user/whois/reverse/search
+WHoIsFreaks. Reverse Whois search using owner name, company name, owner's email, or domain keyword: https://whoisfreaks.com/tools/user/whois/reverse/search
 
 ----
 ### OSINTech's timeline:
