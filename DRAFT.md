@@ -13,7 +13,17 @@ https://www.tesari.ai
 
 ----
 
-# [Satellite Hacking](https://www.blackhillsinfosec.com/satellite-hacking/)
+Parrot OS 7.0 "Echo" is out. This is massive.
+
+They rewrote the entire system. Not an update, a rebuild from scratch.
+
+MATE is gone. KDE Plasma 6 on Wayland is the new default. And yes, they made it lightweight. Classic terminal green theme across everything.
+
+The big shift: Debian 13 base with Linux kernel 6.12 LTS.
+
+https://parrotsec.org/
+
+---
 
 Satellite Hacking blog by Austin Kaiser: 
 
@@ -51,9 +61,13 @@ Merge: https://pdfguru.com/app/merge-pdf
 
 Dexter is an autonomous financial research agent that thinks, plans, and learns as it works. It performs analysis using task planning, self-reflection, and real-time market data. Think Claude Code, but built specifically for financial research: https://github.com/virattt/dexter
 
+People Search Resources. A large list of resources for finding information about people in different countries: https://analystresearchtools.com/resources
+
 Osinton is an open-source OSINT (Open Source Intelligence) tool designed to perform structured investigations on individuals using publicly available information: https://github.com/elvonferen/Osinton
 
 Archivarix. Wayback Machine downloader that restores fully functional copies of archived websites from the Internet Archive (other sources) with CMS-like features. Lets you rebuild sites with optimized HTML, cleaned trackers, and internal link normalization, ideal for OSINT, evidence preservation, or site recovery: https://archivarix.com/en/
+
+Awesome list for Whisper - an open-source AI-powered speech recognition system developed by OpenAI: https://github.com/sindresorhus/awesome-whisper/
 
 SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Support restrict saving content and files beyond telegram: https://github.com/krau/SaveAny-Bot/
 
