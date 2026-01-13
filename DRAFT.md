@@ -41,6 +41,10 @@ JA4 Fingerprinting Against AI Scrapers: A Practical Guide:
 
 https://webdecoy.com/blog/ja4-fingerprinting-ai-scrapers-practical-guide/
 
+WeChat OSINT: Open Source Intelligence on China’s Super-App:
+
+https://www.osint.industries/post/wechat-osint-open-source-intelligence-on-chinas-super-app
+
 ----
 
 PDF Documents Analysis Tools
@@ -63,7 +67,7 @@ Dexter is an autonomous financial research agent that thinks, plans, and learns 
 
 Cyabra is leading the fight against disinformation. Our AI shields corporations and the public sector by uncovering fake profiles, harmful narratives, GenAI content, and deepfakes: https://cyabra.com/
 
-IMS Toucan is a toolkit for training, using, and teaching state-of-the-art Text-to-Speech Synthesis, developed at the **Institute for Natural Language Processing (IMS), University of Stuttgart, Germany**, official home of the massively multilingual ToucanTTS system. Our system is fast, controllable, and doesn't require a ton of compute: https://github.com/0xSojalSec/IMS-Toucan/
+IMS Toucan is a toolkit for training, using, and teaching state-of-the-art Text-to-Speech Synthesis, developed at the Institute for Natural Language Processing (IMS), University of Stuttgart, Germany, official home of the massively multilingual ToucanTTS system. Our system is fast, controllable, and doesn't require a ton of compute: https://github.com/0xSojalSec/IMS-Toucan/
 
 Osinton is an open-source OSINT (Open Source Intelligence) tool designed to perform structured investigations on individuals using publicly available information: https://github.com/elvonferen/Osinton
 
@@ -90,6 +94,8 @@ BentoPDF is a powerful, privacy-first, client-side PDF toolkit that is self hos
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
 YouFundThis. For anyone into research, investigations, or OSINT, this tool is a gem. It’s a searchable database of government grants, loans, and subsidies, showing exactly which businesses received funding from gas stations to restaurants, and beyond. Filter by business, state, funding type, or amount and uncover patterns, connections, and insights that aren’t obvious at first glance. A clean, simple way to follow the money and turn public data into actionable intelligence: https://youfundthis.com/
+
+Bndcamp Parser. A bot for automatic monitoring of new music releases on Bandcamp by specified tags and sending notifications to Telegram: https://github.com/andrey-rodionov/bandcamp-parser
 
 ----
 
