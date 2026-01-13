@@ -63,27 +63,43 @@ Dexter is an autonomous financial research agent that thinks, plans, and learns 
 
 Cyabra is leading the fight against disinformation. Our AI shields corporations and the public sector by uncovering fake profiles, harmful narratives, GenAI content, and deepfakes: https://cyabra.com/
 
-People Search Resources. A large list of resources for finding information about people in different countries: https://analystresearchtools.com/resources
-
 IMS Toucan is a toolkit for training, using, and teaching state-of-the-art Text-to-Speech Synthesis, developed at the **Institute for Natural Language Processing (IMS), University of Stuttgart, Germany**, official home of the massively multilingual ToucanTTS system. Our system is fast, controllable, and doesn't require a ton of compute: https://github.com/0xSojalSec/IMS-Toucan/
 
 Osinton is an open-source OSINT (Open Source Intelligence) tool designed to perform structured investigations on individuals using publicly available information: https://github.com/elvonferen/Osinton
 
-Archivarix. Wayback Machine downloader that restores fully functional copies of archived websites from the Internet Archive (other sources) with CMS-like features. Lets you rebuild sites with optimized HTML, cleaned trackers, and internal link normalization, ideal for OSINT, evidence preservation, or site recovery: https://archivarix.com/en/
+World Bank Group Maps. 2156 datasets containing vast amounts of economic, demographic, and other data on various countries around the world: https://maps.worldbank.org/projects?status=active
 
-Awesome list for Whisper - an open-source AI-powered speech recognition system developed by OpenAI: https://github.com/sindresorhus/awesome-whisper/
+Awesome list for Whisper. An open-source AI-powered speech recognition system developed by OpenAI: https://github.com/sindresorhus/awesome-whisper/
 
 Gofis is a lightweight, high-performance command-line utility built in Go for searching files across your system. It leverages Go's native concurrency model to walk directory trees rapidly, making it significantly faster than traditional single-threaded search tools: https://github.com/demensdeum/gofis
 
-TelegramReceiver is a production-ready Go 1.25+ library for consuming Telegram bot updates with resilience features. Supports both **webhook** and **long polling** modes: https://github.com/prilive-com/telegramreceiver
+Quickly identifiy the technologies powering any website including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks via automated artifact detection in HTML, headers, and scripts: https://whatcms.org
+
+Facebook Toolkit. A tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit: https://github.com/warifp/FacebookToolkit
+
+TelegramReceiver is a production-ready Go 1.25+ library for consuming Telegram bot updates with resilience features. Supports both webhook and long polling modes: https://github.com/prilive-com/telegramreceiver
 
 SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Support restrict saving content and files beyond telegram: https://github.com/krau/SaveAny-Bot/
+
+leaker is a leak discovery tool that returns valid credential leaks for emails, using passive online sources: https://github.com/vflame6/leaker
+
+CommonForms. Open models to auto-detect PDF form fields: https://github.com/jbarrow/commonforms
+
+BentoPDF is a powerful, privacy-first, client-side PDF toolkit that is self hostable and allows you to manipulate, edit, merge, and process PDF files directly in your browser. No server-side processing is required, ensuring your files remain secure and private: https://github.com/alam00000/bentopdf
+
+Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
 ----
 
 **Universal Search & AI:**
 
+People Search Resources. A large list of resources for finding information about people in different countries: https://analystresearchtools.com/resources
+
 LiteLLM. Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM): https://github.com/BerriAI/litellm
+
+Archivarix. Wayback Machine downloader that restores fully functional copies of archived websites from the Internet Archive (other sources) with CMS-like features. Lets you rebuild sites with optimized HTML, cleaned trackers, and internal link normalization, ideal for OSINT, evidence preservation, or site recovery: https://archivarix.com/en/
+
+Anna's Archive. Access Rare Books & Papers. Some books and scientific papers are no longer easy to access. They’re out of print, archived, or scattered across multiple sources. Anna’s Archive brings them together. It’s one of the largest open catalogs of books and scientific materials, combining data from multiple libraries and sources in one place: https://annas-archive.li/
 
 ----
 
