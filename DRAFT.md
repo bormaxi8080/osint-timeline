@@ -87,6 +87,8 @@ Facebook Toolkit. A tool to get Facebook data, and some Facebook bots, and extra
 
 TelegramReceiver is a production-ready Go 1.25+ library for consuming Telegram bot updates with resilience features. Supports both webhook and long polling modes: https://github.com/prilive-com/telegramreceiver
 
+Telephasma - Telegram Gift Network Analyzer. A powerful OSINT tool for analyzing Telegram gift-giving networks and channel ownership relationships. Telephasma scans Telegram groups/channels to discover users, map their gift transactions, and identify channel owners through bio analysis: https://github.com/vxshellew/Telephasma
+
 SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Support restrict saving content and files beyond telegram: https://github.com/krau/SaveAny-Bot/
 
 leaker is a leak discovery tool that returns valid credential leaks for emails, using passive online sources: https://github.com/vflame6/leaker
@@ -115,6 +117,8 @@ Archivarix. Wayback Machine downloader that restores fully functional copies of 
 
 Anna's Archive. Access Rare Books & Papers. Some books and scientific papers are no longer easy to access. They’re out of print, archived, or scattered across multiple sources. Anna’s Archive brings them together. It’s one of the largest open catalogs of books and scientific materials, combining data from multiple libraries and sources in one place: https://annas-archive.li/
 
+HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities: https://github.com/havij13/Hexstrike-AI
+
 ----
 
 **Software Development & APIs:**
@@ -129,7 +133,13 @@ Colima - container runtimes on macOS (and Linux) with minimal setup: https://git
 
 Lunalytics. Open source monitoring tool built with Node.js & React: https://github.com/KSJaay/Lunalytics
 
+xyOps is a next-generation system for job scheduling, workflow automation, server monitoring, alerting, and incident response -- all combined into a single, cohesive platform. It's built for developers and operations teams who want to control their automation stack without surrendering data, freedom, or visibility. xyOps doesn't hide features behind paywalls or push telemetry back to anyone. It's open, extensible, and designed to run anywhere: https://github.com/pixlcore/xyops
+
 Python Scripts. This repository consists of a list of more than 60 Python scripts, primarily those which automate a specific task. Each folder contains one or more .py files and a README to explain what that specific Python script needs to run. These scripts are free to use as long as long as the original contributor is credited: https://github.com/wasmerio/Python-Scripts
+
+By auto-discovering services on your systems, portracker provides a live, accurate map of your network. It helps eliminate manual tracking in spreadsheets and prevents deployment failures caused by port conflicts: https://github.com/Mostafa-Wahied/portracker
+
+Pingerr. A comprehensive DNS benchmarking tool that tests 60+ public DNS servers to find the fastest and most reliable DNS resolver for your network: https://github.com/Panchajanya1999/pingerr
 
 ----
 
