@@ -93,7 +93,7 @@ SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Su
 
 leaker is a leak discovery tool that returns valid credential leaks for emails, using passive online sources: https://github.com/vflame6/leaker
 
-CommonForms. Open models to auto-detect PDF form fields: https://github.com/jbarrow/commonforms
+Dump Browser Secrets. Extracts browser-stored data such as refresh tokens, cookies, saved credentials, credit cards, autofill entries, browsing history, and bookmarks from modern Chromium-based and Gecko-based browsers (Chrome, Microsoft Edge, Firefox, Opera, Opera GX, and Vivaldi): https://github.com/Maldev-Academy/DumpBrowserSecrets
 
 BentoPDF is a powerful, privacy-first, client-side PDF toolkit that is self hostable and allows you to manipulate, edit, merge, and process PDF files directly in your browser. No server-side processing is required, ensuring your files remain secure and private: https://github.com/alam00000/bentopdf
 
@@ -124,6 +124,8 @@ HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, G
 **Software Development & APIs:**
 
 Pyrefly. A fast type checker and language server for Python with powerful IDE features: https://github.com/facebook/pyrefly
+
+CommonForms. Open models to auto-detect PDF form fields: https://github.com/jbarrow/commonforms
 
 ----
 
