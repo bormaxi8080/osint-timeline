@@ -45,6 +45,10 @@ WeChat OSINT: Open Source Intelligence on China’s Super-App:
 
 https://www.osint.industries/post/wechat-osint-open-source-intelligence-on-chinas-super-app
 
+Guidelines for Public Interest OSINT Investigations by ObSINT:
+
+https://obsint.eu/guidelines-for-public-interest-osint-investigations/
+
 ----
 
 PDF Documents Analysis Tools
@@ -96,6 +100,8 @@ Complience Check Lite. An information and analytical tool for identifying formal
 YouFundThis. For anyone into research, investigations, or OSINT, this tool is a gem. It’s a searchable database of government grants, loans, and subsidies, showing exactly which businesses received funding from gas stations to restaurants, and beyond. Filter by business, state, funding type, or amount and uncover patterns, connections, and insights that aren’t obvious at first glance. A clean, simple way to follow the money and turn public data into actionable intelligence: https://youfundthis.com/
 
 Bndcamp Parser. A bot for automatic monitoring of new music releases on Bandcamp by specified tags and sending notifications to Telegram: https://github.com/andrey-rodionov/bandcamp-parser
+
+DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 ----
 
