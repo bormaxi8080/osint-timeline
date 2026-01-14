@@ -4,19 +4,17 @@ pip install hapiness
 
 ----
 
-```Tesari``` is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks
-
-https://www.tesari.ai
-
-----
-
-```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3200: https://github.com/bormaxi8080/osint-repos-list
+An unusually clear assessment of Iran from a former [Central Intelligence Agency](https://www.linkedin.com/company/central-intelligence-agency/) Senior Executive and [Tesari AI](https://www.tesari.ai) advisor: https://substack.com/inbox/post/184486249?r=2dsxev&triedRedirect=true
 
 ----
 
 [STRATEGIC INTELLIGENCE BRIEF Iran’s Escalating Internal Crisis: State Violence, Civil Resistance, and Implications for International Security](https://ajmals.substack.com/p/strategic-intelligence-brief-irans)
 
 A Comprehensive Report on the Unrest, Human Rights Violations, and Escalating Violence in Iran (December 2025 – January 2026)
+
+----
+
+```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3200: https://github.com/bormaxi8080/osint-repos-list
 
 ---
 
