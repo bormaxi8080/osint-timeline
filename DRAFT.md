@@ -26,6 +26,24 @@ https://obsint.eu/guidelines-for-public-interest-osint-investigations/
 
 ----
 
+BROWSER SANDBOXES  
+  
+There are situations when you want to visit a website, but you are not sure about its reliability, or you do not want to share your unique browser fingerprinting with the site, or simply something is not working in your browser and you want to try if it will work in another one.  
+  
+In this case, you can visit the website in a browser sandbox. Here are a few examples of such services (some of them are free and some are partially free)
+
+https://www.browserling.com/
+
+https://www.wannabrowser.net/
+
+https://browser.lol/
+
+https://browser.networkchuck.com/
+
+https://www.testmu.ai/cross-browser-testing/
+
+---
+
 PDF Documents Analysis Tools
 
 A short list of tools for AI document analysis:
@@ -41,6 +59,8 @@ Merge: https://pdfguru.com/app/merge-pdf
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+Stealth Browser MCP. The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat: https://github.com/vibheksoni/stealth-browser-mcp
 
 Quickly identifiy the technologies powering any website including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks via automated artifact detection in HTML, headers, and scripts: https://whatcms.org
 
@@ -88,7 +108,15 @@ Pingerr. A comprehensive DNS benchmarking tool that tests 60+ public DNS servers
 
 **New from CyberDetective:**
 
+OpenRouter
 
+600+ LLM online.
+
+A lot of free (after registration). 
+
+You can filter models by input content (video, audio, files, images, text):
+
+https://openrouter.ai/models
 
 ----
 ### OSINTech's timeline:

@@ -14,6 +14,12 @@ https://www.tesari.ai
 
 ----
 
+[STRATEGIC INTELLIGENCE BRIEF Iran’s Escalating Internal Crisis: State Violence, Civil Resistance, and Implications for International Security](https://ajmals.substack.com/p/strategic-intelligence-brief-irans)
+
+A Comprehensive Report on the Unrest, Human Rights Violations, and Escalating Violence in Iran (December 2025 – January 2026)
+
+---
+
 ```Parrot OS 7.0 "Echo" is out. This is massive.```
 
 They rewrote the entire system. Not an update, a rebuild from scratch.
