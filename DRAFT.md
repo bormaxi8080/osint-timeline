@@ -118,15 +118,9 @@ Pingerr. A comprehensive DNS benchmarking tool that tests 60+ public DNS servers
 
 **New from CyberDetective:**
 
-OpenRouter
+OpenRouter. 600+ LLM online. A lot of free (after registration). You can filter models by input content (video, audio, files, images, text): https://openrouter.ai/models
 
-600+ LLM online.
-
-A lot of free (after registration). 
-
-You can filter models by input content (video, audio, files, images, text):
-
-https://openrouter.ai/models
+Argus Labs. Free online tool for graph based investigation. No data is stored on third-party servers; only the browser's local storage is used. Import gtaphs from other tools (Maltego, OSINTracker, Predicta Graph etc): https://argus-labs.fr/en
 
 ----
 ### OSINTech's timeline:
