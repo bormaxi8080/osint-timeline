@@ -38,7 +38,7 @@ https://www.blackhillsinfosec.com/satellite-hacking/
 
 https://www.osint.industries/post/osint-on-x-uncovering-twitter-phone-numbers-emails-and-more
 
-```Inside Discord```: An OSINT Guide to Servers, Search and OPSEC:
+```Inside Discord```. An OSINT Guide to Servers, Search and OPSEC:
 
 https://www.osintcombine.com/post/inside-discord-an-osint-guide-to-servers-search-and-opsec
 
@@ -58,7 +58,7 @@ https://webdecoy.com/blog/ja4-fingerprinting-ai-scrapers-practical-guide/
 
 ```Osinton``` is an open-source OSINT (Open Source Intelligence) tool designed to perform structured investigations on individuals using publicly available information: https://github.com/elvonferen/Osinton
 
-World Bank Group Maps. 2156 datasets containing vast amounts of economic, demographic, and other data on various countries around the world: https://maps.worldbank.org/projects?status=active
+```World Bank Group Maps```. 2156 datasets containing vast amounts of economic, demographic, and other data on various countries around the world: https://maps.worldbank.org/projects?status=active
 
 ```TelegramReceiver``` is a production-ready Go 1.25+ library for consuming Telegram bot updates with resilience features. Supports both webhook and long polling modes: https://github.com/prilive-com/telegramreceiver
 
@@ -66,7 +66,7 @@ World Bank Group Maps. 2156 datasets containing vast amounts of economic, demogr
 
 ```Dump Browser Secrets```. Extracts browser-stored data such as refresh tokens, cookies, saved credentials, credit cards, autofill entries, browsing history, and bookmarks from modern Chromium-based and Gecko-based browsers (Chrome, Microsoft Edge, Firefox, Opera, Opera GX, and Vivaldi): https://github.com/Maldev-Academy/DumpBrowserSecrets
 
-Gofis is a lightweight, high-performance command-line utility built in Go for searching files across your system. It leverages Go's native concurrency model to walk directory trees rapidly, making it significantly faster than traditional single-threaded search tools: https://github.com/demensdeum/gofis
+```Gofis``` is a lightweight, high-performance command-line utility built in Go for searching files across your system. It leverages Go's native concurrency model to walk directory trees rapidly, making it significantly faster than traditional single-threaded search tools: https://github.com/demensdeum/gofis
 
 ```Facebook Toolkit```. A tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit: https://github.com/warifp/FacebookToolkit
 
