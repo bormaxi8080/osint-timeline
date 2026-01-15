@@ -22,11 +22,11 @@ https://substack.com/home/post/p-184486249
 
 ----
 
-AI Hallucination Fix: 5 Methods That Reduce Errors 90%:
+AI Hallucination Fix. 5 Methods That Reduce Errors 90%:
 
 https://substack.com/home/post/p-183804692
 
-WeChat OSINT: Open Source Intelligence on China’s Super-App:
+WeChat OSINT. Open Source Intelligence on China’s Super-App:
 
 https://www.osint.industries/post/wechat-osint-open-source-intelligence-on-chinas-super-app
 
