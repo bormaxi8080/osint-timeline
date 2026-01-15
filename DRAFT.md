@@ -96,7 +96,7 @@ HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, G
 
 **Software Development & APIs:**
 
-
+BERTopic is a topic modeling technique that leverages transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions: https://maartengr.github.io/BERTopic/index.html
 
 ----
 
@@ -112,7 +112,7 @@ Pingerr. A comprehensive DNS benchmarking tool that tests 60+ public DNS servers
 
 **Flipper Zero & Other Devices:**
 
-
+FlipperZeroAnnoying Apple: https://github.com/h0e4a0r1t/FlipperZero_Annoying_Apple
 
 ----
 
