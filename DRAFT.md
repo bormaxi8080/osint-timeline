@@ -10,11 +10,21 @@ It Seemed
 
 https://www.tesari.ai
 
+---
+
+An unusually clear assessment of Iran from a former Central Intelligence Agency (CIA) Senior Executive and [tesari.ai](http://tesari.ai/) advisor:
+
+https://substack.com/home/post/p-184486249
+
 ----
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3200: https://github.com/bormaxi8080/osint-repos-list
 
 ----
+
+AI Hallucination Fix: 5 Methods That Reduce Errors 90%:
+
+https://substack.com/home/post/p-183804692
 
 WeChat OSINT: Open Source Intelligence on China’s Super-App:
 
