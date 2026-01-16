@@ -1,6 +1,7 @@
 
-ICE
+# DRAFT
 
+ICE
 
 It Seemed
 
@@ -10,7 +11,7 @@ It Seemed
 
 https://www.tesari.ai
 
----
+----
 
 An unusually clear assessment of Iran from a former Central Intelligence Agency (CIA) Senior Executive and [tesari.ai](http://tesari.ai/) advisor:
 
@@ -38,7 +39,7 @@ https://obsint.eu/guidelines-for-public-interest-osint-investigations/
 
 AIWhisperer. Shrink massive PDFs to fit AI upload limits. Sanitize before uploading to reduce risk of exposing sensitive data: https://github.com/voelspriet/aiwhisperer
 
----
+----
 
 BROWSER SANDBOXES  
   
@@ -56,7 +57,7 @@ https://browser.networkchuck.com/
 
 https://www.testmu.ai/cross-browser-testing/
 
----
+----
 
 PDF Documents Analysis Tools
 
@@ -135,19 +136,12 @@ OpenRouter. 600+ LLM online. A lot of free (after registration). You can filter
 Argus Labs. Free online tool for graph based investigation. No data is stored on third-party servers; only the browser's local storage is used. Import gtaphs from other tools (Maltego, OSINTracker, Predicta Graph etc): https://argus-labs.fr/en
 
 ----
-### OSINTech's timeline:
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+### OSINTech's Timeline
 
 LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 

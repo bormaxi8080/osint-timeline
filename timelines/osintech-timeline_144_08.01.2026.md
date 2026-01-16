@@ -1,6 +1,6 @@
 ![alt text](img/144.jpg)
 
-**Father Frost**
+Father Frost
 
 ----
 
@@ -93,19 +93,12 @@ Async Parser for ```Telegra.ph```: https://github.com/Ladvix/telegraph-parser
 https://github.com/JambaAcademy/OSINT/tree/main/osint-templates/investigation-reports
 
 ----
-### OSINTech's timeline:
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+### OSINTech's Timeline
 
 LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 

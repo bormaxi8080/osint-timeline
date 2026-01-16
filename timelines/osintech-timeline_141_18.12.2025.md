@@ -1,6 +1,6 @@
 ![alt text](img/141.jpg)
 
-**Mantis**
+Mantis
 
 ----
 
@@ -81,19 +81,12 @@ OSINT ```Chile``` Collection: https://github.com/0xSS3K/OSINT-CHILE
 ```Media Downloader``` is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books: https://github.com/mhogomchungu/media-downloader
 
 ----
-### OSINTech's timeline:
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+### OSINTech's Timeline
 
 LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 

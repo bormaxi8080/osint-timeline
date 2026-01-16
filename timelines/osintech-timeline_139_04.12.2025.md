@@ -1,6 +1,6 @@
 ![alt text](img/139.jpg)
 
-**Hive**
+Hive
 
 ----
 
@@ -101,19 +101,12 @@ Since 2011, ```IPBan``` is the worlds most trusted, free security software to bl
 ```OpenDataLoader-PDF``` converts PDFs into JSON, Markdown or Html — ready to feed into modern AI stacks (LLMs, vector search, and RAG): https://github.com/opendataloader-project/opendataloader-pdf
 
 ----
-### OSINTech's timeline:
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+### OSINTech's Timeline
 
 LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 

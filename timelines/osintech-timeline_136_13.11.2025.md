@@ -1,10 +1,10 @@
 ![alt text](img/136.jpg)
 
-Spring promises to be long 
+Spring promises to be long
 
-The arable land awaits the choicest grain 
+The arable land awaits the choicest grain
 
-And we live on the good land, 
+And we live on the good land,
 
 But we are gone, we are gone, we are gone, we are gone!
 
@@ -112,19 +112,12 @@ Image Optimizer. A powerful desktop application for performant batch image compr
 ```MedPack```. A powerful Rust-based tool for processing and organizing medical documents from Telegram chat exports into structured PDF documents with automatic OCR, metadata extraction, and comprehensive table of contents generation: https://github.com/vtvz/medpack
 
 ----
-### OSINTech's Timeline:
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+### OSINTech's Timeline
 
-LinkedIn: [bormaxi8080 OSINT Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
+LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 

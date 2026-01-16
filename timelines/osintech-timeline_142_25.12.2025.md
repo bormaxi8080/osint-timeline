@@ -1,6 +1,6 @@
 ![alt text](img/142.jpg)
 
-**Apocalypse Now**
+Apocalypse Now
 
 ----
 
@@ -85,19 +85,12 @@ Guide. ```How to use Facebook``` for OSINT investigations: https://www.authentic
 ```Tracking digital footprints``` with username and alias correlation. Initial scan (Username enumeration), Visual correlation (Profile picture pivot), Content/pattern analysis (Digital footprinting), Data visualization, AI Assistance in analysis: https://spotlight.ebu.ch/p/tracking-digital-footprints-with
 
 ----
-### OSINTech's timeline:
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+### OSINTech's Timeline
 
 LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 

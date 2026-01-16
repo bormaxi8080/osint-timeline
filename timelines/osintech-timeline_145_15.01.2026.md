@@ -16,7 +16,7 @@ A Comprehensive Report on the Unrest, Human Rights Violations, and Escalating Vi
 
 ```OSINT Repos List```, Repository with gathered from GitHub utilities for OSINT, Development and DevOps. The number of artifacts in the repository exceeded 3200: https://github.com/bormaxi8080/osint-repos-list
 
----
+----
 
 ```Parrot OS 7.0 "Echo" is out. This is massive.```
 
@@ -28,9 +28,9 @@ The big shift: Debian 13 base with Linux kernel 6.12 LTS.
 
 https://parrotsec.org/
 
----
+----
 
-```Satellite Hacking blog``` by Austin Kaiser: 
+```Satellite Hacking blog``` by Austin Kaiser:
 
 https://www.blackhillsinfosec.com/satellite-hacking/
 
@@ -117,19 +117,12 @@ https://webdecoy.com/blog/ja4-fingerprinting-ai-scrapers-practical-guide/
 ```WhoIsFreaks```. Reverse Whois search using owner name, company name, owner's email, or domain keyword: https://whoisfreaks.com/tools/user/whois/reverse/search
 
 ----
-### OSINTech's timeline:
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+### OSINTech's Timeline
 
 LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 

@@ -1,6 +1,6 @@
 ![alt text](img/143.jpg)
 
-**Christmas**
+Christmas
 
 ----
 
@@ -88,23 +88,13 @@ https://www.molfar.institute/en/analytics/registers/
 ```OSINT Using AI Vision```. Extracting Secrets From Screenshots. What is AI Vision OSINT and Why It Matters, What Kind of Intelligence Exists in Screenshots, Screenshot Hack That Paid Off, Tools for AI Vision OSINT, Putting It All Together ,  A Screenshot OSINT Case Study, Practical Tips For OSINT With AI Vision: https://thehackerslog.substack.com/p/osint-using-ai-vision-extracting
 
 ----
-### OSINTech's timeline:
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+### OSINTech's Timeline
 
 LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 
 WARNING! All tools, programs and techniques published in this article and repository are used for informational, educational purposes or for information security purposes. The authors are not responsible for the activities that users of these tools and techniques may carry out, and urge them not to use them to carry out harmful or destructive activities directed against other users or groups on the Internet.
-
-
-

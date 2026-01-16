@@ -1,6 +1,6 @@
 ![alt text](img/140.jpg)
 
-**Jesus**
+Jesus
 
 ----
 
@@ -103,19 +103,12 @@ Awesome Telegram Resources: https://github.com/ebertti/awesome-telegram
 ```BookGraph``` helps you discover hidden links between your favorite reads. Search, collect, analyze and visualize how your books connect to each other: https://bookgraph.lovable.app/
 
 ----
-### OSINTech's timeline:
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+### OSINTech's Timeline
 
 LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 

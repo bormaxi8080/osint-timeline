@@ -4,313 +4,307 @@ Welcome to OSINT Timeline Weekly Newsletter with collection of tools, services a
 
 ![alt text](logo.png)
 
-GitHub: [https://github.com/bormaxi8080/osint-timeline](https://github.com/bormaxi8080/osint-timeline)
+LinkedIn: [OSINTech's Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-LinkedIn: [ OSINTech's Timeline](https://www.linkedin.com/in/osintech/details/featured/)
-
-You can see Systematized list of my [GitHub Starred OSINT Repositories](https://github.com/bormaxi8080/osint-repos-list)
-
-and contact me on SubStack: [https://osintech.substack.com](https://osintech.substack.com)
+SubStack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 
-If you like the projects that I do, I will be grateful for donations in private dialogue.
+## Timelines
+
+[OSINTech's Timeline (145) - 15.01.2026](./timelines/osintech-timeline_145_15.01.2026.md)
+
+[OSINTech's Timeline (144) - 08.01.2026](./timelines/osintech-timeline_144_08.01.2026.md)
+
+[OSINTech's Timeline (143) - 31.12.2025](./timelines/osintech-timeline_143_31.12.2025.md)
+
+[OSINTech's Timeline (142) - 25.12.2025](./timelines/osintech-timeline_142_25.12.2025.md)
+
+[OSINTech's Timeline (141) - 18.12.2025](./timelines/osintech-timeline_141_18.12.2025.md)
+
+[OSINTech's Timeline (140) - 11.12.2025](./timelines/osintech-timeline_140_11.12.2025.md)
+
+[OSINTech's Timeline (139) - 04.12.2025](./timelines/osintech-timeline_139_04.12.2025.md)
+
+[OSINTech's Timeline (138) - 27.11.2025](./timelines/osintech-timeline_138_27.11.2025.md)
+
+[OSINTech's Timeline (137) - 20.11.2025](./timelines/osintech-timeline_137_20.11.2025.md)
+
+[OSINTech's Timeline (136) - 13.11.2025](./timelines/osintech-timeline_136_13.11.2025.md)
+
+[OSINTech's Timeline (135) - 06.11.2025](./timelines/osintech-timeline_135_06.11.2025.md)
+
+[OSINTech's Timeline (134) - 30.10.2025](./timelines/osintech-timeline_134_30.10.2025.md)
+
+[OSINTech's Timeline (133) - 23.10.2025](./timelines/osintech-timeline_133_23.10.2025.md)
+
+[OSINTech's Timeline (132) - 16.10.2025](./timelines/osintech-timeline_132_16.10.2025.md)
+
+[OSINTech's Timeline (131) - 09.10.2025](./timelines/osintech-timeline_131_09.10.2025.md)
+
+[OSINTech's Timeline (130) - 02.10.2025](./timelines/osintech-timeline_130_02.10.2025.md)
+
+[OSINTech's Timeline (129) - 25.09.2025](./timelines/osintech-timeline_129_25.09.2025.md)
+
+[OSINTech's Timeline (128) - 18.09.2025](./timelines/osintech-timeline_128_18.09.2025.md)
+
+[OSINTech's Timeline (127) - 11.09.2025](./timelines/osintech-timeline_127_11.09.2025.md)
+
+[OSINTech's Timeline (126) - 04.09.2025](./timelines/osintech-timeline_126_04.09.2025.md)
+
+[OSINTech's Timeline (125) - 28.08.2025](./timelines/osintech-timeline_125_28.08.2025.md)
+
+[OSINTech's Timeline (124) - 21.08.2025](./timelines/osintech-timeline_124_21.08.2025.md)
+
+[OSINTech's Timeline (123) - 14.08.2025](./timelines/osintech-timeline_123_14.08.2025.md)
+
+[OSINTech's Timeline (122) - 07.08.2025](./timelines/osintech-timeline_122_07.08.2025.md)
+
+[OSINTech's Timeline (121) - 31.07.2025](./timelines/osintech-timeline_121_31.07.2025.md)
+
+[OSINTech's Timeline (120) - 24.07.2025](./timelines/osintech-timeline_120_24.07.2025.md)
+
+[OSINTech's Timeline (119) - 17.07.2025](./timelines/osintech-timeline_119_17.07.2025.md)
+
+[OSINTech's Timeline (118) - 10.07.2025](./timelines/osintech-timeline_118_10.07.2025.md)
+
+[OSINTech's Timeline (117) - 03.07.2025](./timelines/osintech-timeline_117_03.07.2025.md)
+
+[OSINTech's Timeline (116) - 26.06.2025](./timelines/osintech-timeline_116_26.06.2025.md)
+
+[OSINTech's Timeline (115) - 19.06.2025](./timelines/osintech-timeline_115_19.06.2025.md)
+
+[OSINTech's Timeline (114) - 12.06.2025](./timelines/osintech-timeline_114_12.06.2025.md)
+
+[OSINTech's Timeline (113) - 05.06.2025](./timelines/osintech-timeline_113_05.06.2025.md)
+
+[OSINTech's Timeline (112) - 29.05.2025](./timelines/osintech-timeline_112_29.05.2025.md)
+
+[OSINTech's Timeline (111) - 22.05.2025](./timelines/osintech-timeline_111_22.05.2025.md)
+
+[OSINTech's Timeline (110) - 15.05.2025](./timelines/osintech-timeline_110_15.05.2025.md)
+
+[OSINTech's Timeline (109) - 08.05.2025](./timelines/osintech-timeline_109_08.05.2025.md)
+
+[OSINTech's Timeline (108) - 01.05.2025](./timelines/osintech-timeline_108_01.05.2025.md)
+
+[OSINTech's Timeline (107) - 24.04.2025](./timelines/osintech-timeline_107_24.04.2025.md)
+
+[OSINTech's Timeline (106) - 17.04.2025](./timelines/osintech-timeline_106_17.04.2025.md)
+
+[OSINTech's Timeline (105) - 10.04.2025](./timelines/osintech-timeline_105_10.04.2025.md)
+
+[OSINTech's Timeline (104) - 03.04.2025](./timelines/osintech-timeline_104_03.04.2025.md)
+
+[OSINTech's Timeline (103) - 27.03.2025](./timelines/osintech-timeline_103_27.03.2025.md)
+
+[OSINTech's Timeline (102) - 20.03.2025](./timelines/osintech-timeline_102_20.03.2025.md)
+
+[OSINTech's Timeline (101) - 13.03.2025](./timelines/osintech-timeline_101_13.03.2025.md)
+
+[OSINTech's Timeline (100) - 06.03.2025](./timelines/osintech-timeline_100_06.03.2025.md)
+
+[OSINTech's Timeline (99) - 27.02.2025](./timelines/osintech-timeline_99_27.02.2025.md)
+
+[OSINTech's Timeline (98) - 20.02.2025](./timelines/osintech-timeline_98_20.02.2025.md)
+
+[OSINTech's Timeline (97) - 13.02.2025](./timelines/osintech-timeline_97_13.02.2025.md)
+
+[OSINTech's Timeline (96) - 06.02.2025](./timelines/osintech-timeline_96_06.02.2025.md)
+
+[OSINTech's Timeline (95) - 30.01.2025](./timelines/osintech-timeline_95_30.01.2025.md)
+
+[OSINTech's Timeline (94) - 23.01.2025](./timelines/osintech-timeline_94_23.01.2025.md)
+
+[OSINTech's Timeline (93) - 16.01.2025](./timelines/osintech-timeline_93_16.01.2025.md)
+
+[OSINTech's Timeline (92) - 09.01.2025](./timelines/osintech-timeline_92_09.01.2025.md)
+
+[OSINTech's Timeline (91) - 02.01.2025](./timelines/osintech-timeline_91_02.01.2025.md)
+
+[OSINTech's Timeline (90) - 26.12.2024](./timelines/osintech-timeline_90_26.12.2024.md)
+
+[OSINTech's Timeline (89) - 19.12.2024](./timelines/osintech-timeline_89_19.12.2024.md)
+
+[OSINTech's Timeline (88) - 12.12.2024](./timelines/osintech-timeline_88_12.12.2024.md)
+
+[OSINTech's Timeline (87) - 05.12.2024](./timelines/osintech-timeline_87_05.12.2024.md)
+
+[OSINTech's Timeline (86) - 28.11.2024](./timelines/osintech-timeline_86_28.11.2024.md)
+
+[OSINTech's Timeline (85) - 21.11.2024](./timelines/osintech-timeline_85_21.11.2024.md)
+
+[OSINTech's Timeline (84) - 14.11.2024](./timelines/osintech-timeline_84_14.11.2024.md)
+
+[OSINTech's Timeline (83) - 07.11.2024](./timelines/osintech-timeline_83_07.11.2024.md)
+
+[OSINTech's Timeline (82) - 31.10.2024](./timelines/osintech-timeline_82_31.10.2024.md)
+
+[OSINTech's Timeline (81) - 24.10.2024](./timelines/osintech-timeline_81_24.10.2024.md)
+
+[OSINTech's Timeline (80) - 17.10.2024](./timelines/osintech-timeline_80_17.10.2024.md)
+
+[OSINTech's Timeline (79) - 10.10.2024](./timelines/osintech-timeline_79_10.10.2024.md)
+
+[OSINTech's Timeline (78) - 03.10.2024](./timelines/osintech-timeline_78_03.10.2024.md)
+
+[OSINTech's Timeline (77) - 26.09.2024](./timelines/osintech-timeline_77_26.09.2024.md)
+
+[OSINTech's Timeline (76) - 19.09.2024](./timelines/osintech-timeline_76_19.09.2024.md)
+
+[OSINTech's Timeline (75) - 12.09.2024](./timelines/osintech-timeline_75_12.09.2024.md)
+
+[OSINTech's Timeline (74) - 05.09.2024](./timelines/osintech-timeline_74_05.09.2024.md)
+
+[OSINTech's Timeline (73) - 29.08.2024](./timelines/osintech-timeline_73_29.08.2024.md)
+
+[OSINTech's Timeline (72) - 22.08.2024](./timelines/osintech-timeline_72_22.08.2024.md)
+
+[OSINTech's Timeline (71) - 15.08.2024](./timelines/osintech-timeline_71_15.08.2024.md)
+
+[OSINTech's Timeline (70) - 08.08.2024](./timelines/osintech-timeline_70_08.08.2024.md)
+
+[OSINTech's Timeline (69) - 01.08.2024](./timelines/osintech-timeline_69_01.08.2024.md)
+
+[OSINTech's Timeline (68) - 25.07.2024](./timelines/osintech-timeline_68_25.07.2024.md)
+
+[OSINTech's Timeline (67) - 18.07.2024](./timelines/osintech-timeline_67_18.07.2024.md)
+
+[OSINTech's Timeline (66) - 11.07.2024](./timelines/osintech-timeline_66_11.07.2024.md)
+
+[OSINTech's Timeline (65) - 04.07.2024](./timelines/osintech-timeline_65_04.07.2024.md)
+
+[OSINTech's Timeline (64) - 27.06.2024](./timelines/osintech-timeline_64_27.06.2024.md)
+
+[OSINTech's Timeline (63) - 20.06.2024](./timelines/osintech-timeline_63_20.06.2024.md)
+
+[OSINTech's Timeline (62) - 13.06.2024](./timelines/osintech-timeline_62_13.06.2024.md)
+
+[OSINTech's Timeline (61) - 06.06.2024](./timelines/osintech-timeline_61_06.06.2024.md)
+
+[OSINTech's Timeline (60) - 30.05.2024](./timelines/osintech-timeline_60_30.05.2024.md)
+
+[OSINTech's Timeline (59) - 23.05.2024](./timelines/osintech-timeline_59_23.05.2024.md)
+
+[OSINTech's Timeline (58) - 16.05.2024](./timelines/osintech-timeline_58_16.05.2024.md)
+
+[OSINTech's Timeline (57) - 09.05.2024](./timelines/osintech-timeline_57_09.05.2024.md)
+
+[OSINTech's Timeline (56) - 02.05.2024](./timelines/osintech-timeline_56_02.05.2024.md)
+
+[OSINTech's Timeline (55) - 25.04.2024](./timelines/osintech-timeline_55_25.04.2024.md)
+
+[OSINTech's Timeline (54) - 18.04.2024](./timelines/osintech-timeline_54_18.04.2024.md)
+
+[OSINTech's Timeline (53) - 11.04.2024](./timelines/osintech-timeline_53_11.04.2024.md)
+
+[OSINTech's Timeline (52) - 04.04.2024](./timelines/osintech-timeline_52_04.04.2024.md)
+
+[OSINTech's Timeline (51) - 28.03.2024](./timelines/osintech-timeline_51_28.03.2024.md)
+
+[OSINTech's Timeline (50) - 21.03.2024](./timelines/osintech-timeline_50_21.03.2024.md)
+
+[OSINTech's Timeline (49) - 14.03.2024](./timelines/osintech-timeline_49_14.03.2024.md)
+
+[OSINTech's Timeline (48) - 07.03.2024](./timelines/osintech-timeline_48_07.03.2024.md)
+
+[OSINTech's Timeline (47) - 29.02.2024](./timelines/osintech-timeline_47_29.02.2024.md)
+
+[OSINTech's Timeline (46) - 21.02.2024](./timelines/osintech-timeline_46_21.02.2024.md)
+
+[OSINTech's Timeline (45) - 15.02.2024](./timelines/osintech-timeline_45_15.02.2024.md)
+
+[OSINTech's Timeline (44) - 08.02.2024](./timelines/osintech-timeline_44_08.02.2024.md)
+
+[OSINTech's Timeline (43) - 01.02.2024](./timelines/osintech-timeline_43_01.02.2024.md)
+
+[OSINTech's Timeline (42) - 25.01.2024](./timelines/osintech-timeline_42_25.01.2024.md)
+
+[OSINTech's Timeline (41) - 18.01.2024](./timelines/osintech-timeline_41_18.01.2024.md)
+
+[OSINTech's Timeline (40) - 11.01.2024](./timelines/osintech-timeline_40_11.01.2024.md)
+
+[OSINTech's Timeline (39) - 28.12.2023](./timelines/osintech-timeline_39_28.12.2023.md)
+
+[OSINTech's Timeline (38) - 21.12.2023](./timelines/osintech-timeline_38_21.12.2023.md)
+
+[OSINTech's Timeline (37) - 14.12.2023](./timelines/osintech-timeline_37_14.12.2023.md)
+
+[OSINTech's Timeline (36) - 07.12.2023](./timelines/osintech-timeline_36_07.12.2023.md)
+
+[OSINTech's Timeline (35) - 30.11.2023](./timelines/osintech-timeline_35_30.11.2023.md)
+
+[OSINTech's Timeline (34) - 23.11.2023](./timelines/osintech-timeline_34_23.11.2023.md)
+
+[OSINTech's Timeline (33) - 16.11.2023](./timelines/osintech-timeline_33_16.11.2023.md)
+
+[OSINTech's Timeline (32) - 09.11.2023](./timelines/osintech-timeline_32_09.11.2023.md)
+
+[OSINTech's Timeline (31) - 02.11.2023](./timelines/osintech-timeline_31_02.11.2023.md)
+
+[OSINTech's Timeline (30) - 26.10.2023](./timelines/osintech-timeline_30_26.10.2023.md)
+
+[OSINTech's Timeline (29) - 19.10.2023](./timelines/osintech-timeline_29_19.10.2023.md)
+
+[OSINTech's Timeline (28) - 12.10.2023](./timelines/osintech-timeline_28_12.10.2023.md)
+
+[OSINTech's Timeline (27) - 05.10.2023](./timelines/osintech-timeline_27_05.10.2023.md)
+
+[OSINTech's Timeline (26) - 28.09.2023](./timelines/osintech-timeline_26_28.09.2023.md)
+
+[OSINTech's Timeline (25) - 21.09.2023](./timelines/osintech-timeline_25_21.09.2023.md)
+
+[OSINTech's Timeline (24) - 14.09.2023](./timelines/osintech-timeline_24_14.09.2023.md)
+
+[OSINTech's Timeline (23) - 07.09.2023](./timelines/osintech-timeline_23_07.09.2023.md)
+
+[OSINTech's Timeline (22) - 31.08.2023](./timelines/osintech-timeline_22_31.08.2023.md)
+
+[OSINTech's Timeline (21) - 24.08.2023](./timelines/osintech-timeline_21_24.08.2023.md)
+
+[OSINTech's Timeline (20) - 17.08.2023](./timelines/osintech-timeline_20_17.08.2023.md)
+
+[OSINTech's Timeline (19) - 10.08.2023](./timelines/osintech-timeline_19_10.08.2023.md)
+
+[OSINTech's Timeline (18) - 03.08.2023](./timelines/osintech-timeline_18_03.08.2023.md)
+
+[OSINTech's Timeline (17) - 27.07.2023](./timelines/osintech-timeline_17_27.07.2023.md)
+
+[OSINTech's Timeline (16) - 20.07.2023](./timelines/osintech-timeline_16_20.07.2023.md)
+
+[OSINTech's Timeline (15) - 13.07.2023](./timelines/osintech-timeline_15_13.07.2023.md)
+
+[OSINTech's Timeline (14) - 06.07.2023](./timelines/osintech-timeline_14_06.07.2023.md)
+
+[OSINTech's Timeline (13) - 29.06.2023](./timelines/osintech-timeline_13_29.06.2023.md)
+
+[OSINTech's Timeline (12) - 22.06.2023](./timelines/osintech-timeline_12_22.06.2023.md)
+
+[OSINTech's Timeline (11) - 15.06.2023](./timelines/osintech-timeline_11_15.06.2023.md)
+
+[OSINTech's Timeline (10) - 09.06.2023](./timelines/osintech-timeline_10_09.06.2023.md)
+
+[OSINTech's Timeline (09) - 01.06.2023](./timelines/osintech-timeline_09_01.06.2023.md)
+
+[OSINTech's Timeline (08) - 26.05.2023](./timelines/osintech-timeline_08_26.05.2023.md)
+
+[OSINTech's Timeline (07) - 17.05.2023](./timelines/osintech-timeline_07_17.05.2023.md)
+
+[OSINTech's Timeline (06) - 11.05.2023](./timelines/osintech-timeline_06_11.05.2023.md)
+
+[OSINTech's Timeline (05) - 04.05.2023](./timelines/osintech-timeline_05_04.05.2023.md)
+
+[OSINTech's Timeline (04) - 27.04.2023](./timelines/osintech-timeline_04_27.04.2023.md)
+
+[OSINTech's Timeline (03) - 20.04.2023](./timelines/osintech-timeline_03_20.04.2023.md)
+
+[OSINTech's Timeline (02) - 13.04.2023](./timelines/osintech-timeline_02_13.04.2023.md)
+
+[OSINTech's Timeline (01) - 06.04.2023](./timelines/osintech-timeline_01_06.04.2023.md)
 
 ----
-### Timelines:
 
-[OSINTech's Timeline (145) - 15.01.2026](osintech-timeline_145_15.01.2026.md)
-
-[OSINTech's Timeline (144) - 08.01.2026](osintech-timeline_144_08.01.2026.md)
-
-[OSINTech's Timeline (143) - 31.12.2025](osintech-timeline_143_31.12.2025.md)
-
-[OSINTech's Timeline (142) - 25.12.2025](osintech-timeline_142_25.12.2025.md)
-
-[OSINTech's Timeline (141) - 18.12.2025](osintech-timeline_141_18.12.2025.md)
-
-[OSINTech's Timeline (140) - 11.12.2025](osintech-timeline_140_11.12.2025.md)
-
-[OSINTech's Timeline (139) - 04.12.2025](osintech-timeline_139_04.12.2025.md)
-
-[OSINTech's Timeline (138) - 27.11.2025](osintech-timeline_138_27.11.2025.md)
-
-[OSINTech's Timeline (137) - 20.11.2025](osintech-timeline_137_20.11.2025.md)
-
-[OSINTech's Timeline (136) - 13.11.2025](osintech-timeline_136_13.11.2025.md)
-
-[bormaxi8080 OSINT Timeline (135) - 06.11.2025](./timelines/bormaxi8080-osint-timeline_135_06.11.2025.md)
-
-[bormaxi8080 OSINT Timeline (134) - 30.10.2025](./timelines/bormaxi8080-osint-timeline_134_30.10.2025.md)
-
-[bormaxi8080 OSINT Timeline (133) - 23.10.2025](./timelines/bormaxi8080-osint-timeline_133_23.10.2025.md)
-
-[bormaxi8080 OSINT Timeline (132) - 16.10.2025](./timelines/bormaxi8080-osint-timeline_132_16.10.2025.md)
-
-[bormaxi8080 OSINT Timeline (131) - 09.10.2025](./timelines/bormaxi8080-osint-timeline_131_09.10.2025.md)
-
-[bormaxi8080 OSINT Timeline (130) - 02.10.2025](./timelines/bormaxi8080-osint-timeline_130_02.10.2025.md)
-
-[bormaxi8080 OSINT Timeline (129) - 25.09.2025](./timelines/bormaxi8080-osint-timeline_129_25.09.2025.md)
-
-[bormaxi8080 OSINT Timeline (128) - 18.09.2025](./timelines/bormaxi8080-osint-timeline_128_18.09.2025.md)
-
-[bormaxi8080 OSINT Timeline (127) - 11.09.2025](./timelines/bormaxi8080-osint-timeline_127_11.09.2025.md)
-
-[bormaxi8080 OSINT Timeline (126) - 04.09.2025](./timelines/bormaxi8080-osint-timeline_126_04.09.2025.md)
-
-[bormaxi8080 OSINT Timeline (125) - 28.08.2025](./timelines/bormaxi8080-osint-timeline_125_28.08.2025.md)
-
-[bormaxi8080 OSINT Timeline (124) - 21.08.2025](./timelines/bormaxi8080-osint-timeline_124_21.08.2025.md)
-
-[bormaxi8080 OSINT Timeline (123) - 14.08.2025](./timelines/bormaxi8080-osint-timeline_123_14.08.2025.md)
-
-[bormaxi8080 OSINT Timeline (122) - 07.08.2025](./timelines/bormaxi8080-osint-timeline_122_07.08.2025.md)
-
-[bormaxi8080 OSINT Timeline (121) - 31.07.2025](./timelines/bormaxi8080-osint-timeline_121_31.07.2025.md)
-
-[bormaxi8080 OSINT Timeline (120) - 24.07.2025](./timelines/bormaxi8080-osint-timeline_120_24.07.2025.md)
-
-[bormaxi8080 OSINT Timeline (119) - 17.07.2025](./timelines/bormaxi8080-osint-timeline_119_17.07.2025.md)
-
-[bormaxi8080 OSINT Timeline (118) - 10.07.2025](./timelines/bormaxi8080-osint-timeline_118_10.07.2025.md)
-
-[bormaxi8080 OSINT Timeline (117) - 03.07.2025](./timelines/bormaxi8080-osint-timeline_117_03.07.2025.md)
-
-[bormaxi8080 OSINT Timeline (116) - 26.06.2025](./timelines/bormaxi8080-osint-timeline_116_26.06.2025.md)
-
-[bormaxi8080 OSINT Timeline (115) - 19.06.2025](./timelines/bormaxi8080-osint-timeline_115_19.06.2025.md)
-
-[bormaxi8080 OSINT Timeline (114) - 12.06.2025](./timelines/bormaxi8080-osint-timeline_114_12.06.2025.md)
-
-[bormaxi8080 OSINT Timeline (113) - 05.06.2025](./timelines/bormaxi8080-osint-timeline_113_05.06.2025.md)
-
-[bormaxi8080 OSINT Timeline (112) - 29.05.2025](./timelines/bormaxi8080-osint-timeline_112_29.05.2025.md)
-
-[bormaxi8080 OSINT Timeline (111) - 22.05.2025](./timelines/bormaxi8080-osint-timeline_111_22.05.2025.md)
-
-[bormaxi8080 OSINT Timeline (110) - 15.05.2025](./timelines/bormaxi8080-osint-timeline_110_15.05.2025.md)
-
-[bormaxi8080 OSINT Timeline (109) - 08.05.2025](./timelines/bormaxi8080-osint-timeline_109_08.05.2025.md)
-
-[bormaxi8080 OSINT Timeline (108) - 01.05.2025](./timelines/bormaxi8080-osint-timeline_108_01.05.2025.md)
-
-[bormaxi8080 OSINT Timeline (107) - 24.04.2025](./timelines/bormaxi8080-osint-timeline_107_24.04.2025.md)
-
-[bormaxi8080 OSINT Timeline (106) - 17.04.2025](./timelines/bormaxi8080-osint-timeline_106_17.04.2025.md)
-
-[bormaxi8080 OSINT Timeline (105) - 10.04.2025](./timelines/bormaxi8080-osint-timeline_105_10.04.2025.md)
-
-[bormaxi8080 OSINT Timeline (104) - 03.04.2025](./timelines/bormaxi8080-osint-timeline_104_03.04.2025.md)
-
-[bormaxi8080 OSINT Timeline (103) - 27.03.2025](./timelines/bormaxi8080-osint-timeline_103_27.03.2025.md)
-
-[bormaxi8080 OSINT Timeline (102) - 20.03.2025](./timelines/bormaxi8080-osint-timeline_102_20.03.2025.md)
-
-[bormaxi8080 OSINT Timeline (101) - 13.03.2025](./timelines/bormaxi8080-osint-timeline_101_13.03.2025.md)
-
-[bormaxi8080 OSINT Timeline (100) - 06.03.2025](./timelines/bormaxi8080-osint-timeline_100_06.03.2025.md)
-
-[bormaxi8080 OSINT Timeline (99) - 27.02.2025](./timelines/bormaxi8080-osint-timeline_99_27.02.2025.md)
-
-[bormaxi8080 OSINT Timeline (98) - 20.02.2025](./timelines/bormaxi8080-osint-timeline_98_20.02.2025.md)
-
-[bormaxi8080 OSINT Timeline (97) - 13.02.2025](./timelines/bormaxi8080-osint-timeline_97_13.02.2025.md)
-
-[bormaxi8080 OSINT Timeline (96) - 06.02.2025](./timelines/bormaxi8080-osint-timeline_96_06.02.2025.md)
-
-[bormaxi8080 OSINT Timeline (95) - 30.01.2025](./timelines/bormaxi8080-osint-timeline_95_30.01.2025.md)
-
-[bormaxi8080 OSINT Timeline (94) - 23.01.2025](./timelines/bormaxi8080-osint-timeline_94_23.01.2025.md)
-
-[bormaxi8080 OSINT Timeline (93) - 16.01.2025](./timelines/bormaxi8080-osint-timeline_93_16.01.2025.md)
-
-[bormaxi8080 OSINT Timeline (92) - 09.01.2025](./timelines/bormaxi8080-osint-timeline_92_09.01.2025.md)
-
-[bormaxi8080 OSINT Timeline (91) - 02.01.2025](./timelines/bormaxi8080-osint-timeline_91_02.01.2025.md)
-
-[bormaxi8080 OSINT Timeline (90) - 26.12.2024](./timelines/bormaxi8080-osint-timeline_90_26.12.2024.md)
-
-[bormaxi8080 OSINT Timeline (89) - 19.12.2024](./timelines/bormaxi8080-osint-timeline_89_19.12.2024.md)
-
-[bormaxi8080 OSINT Timeline (88) - 12.12.2024](./timelines/bormaxi8080-osint-timeline_88_12.12.2024.md)
-
-[bormaxi8080 OSINT Timeline (87) - 05.12.2024](./timelines/bormaxi8080-osint-timeline_87_05.12.2024.md)
-
-[bormaxi8080 OSINT Timeline (86) - 28.11.2024](./timelines/bormaxi8080-osint-timeline_86_28.11.2024.md)
-
-[bormaxi8080 OSINT Timeline (85) - 21.11.2024](./timelines/bormaxi8080-osint-timeline_85_21.11.2024.md)
-
-[bormaxi8080 OSINT Timeline (84) - 14.11.2024](./timelines/bormaxi8080-osint-timeline_84_14.11.2024.md)
-
-[bormaxi8080 OSINT Timeline (83) - 07.11.2024](./timelines/bormaxi8080-osint-timeline_83_07.11.2024.md)
-
-[bormaxi8080 OSINT Timeline (82) - 31.10.2024](./timelines/bormaxi8080-osint-timeline_82_31.10.2024.md)
-
-[bormaxi8080 OSINT Timeline (81) - 24.10.2024](./timelines/bormaxi8080-osint-timeline_81_24.10.2024.md)
-
-[bormaxi8080 OSINT Timeline (80) - 17.10.2024](./timelines/bormaxi8080-osint-timeline_80_17.10.2024.md)
-
-[bormaxi8080 OSINT Timeline (79) - 10.10.2024](./timelines/bormaxi8080-osint-timeline_79_10.10.2024.md)
-
-[bormaxi8080 OSINT Timeline (78) - 03.10.2024](./timelines/bormaxi8080-osint-timeline_78_03.10.2024.md)
-
-[bormaxi8080 OSINT Timeline (77) - 26.09.2024](./timelines/bormaxi8080-osint-timeline_77_26.09.2024.md)
-
-[bormaxi8080 OSINT Timeline (76) - 19.09.2024](./timelines/bormaxi8080-osint-timeline_76_19.09.2024.md)
-
-[bormaxi8080 OSINT Timeline (75) - 12.09.2024](./timelines/bormaxi8080-osint-timeline_75_12.09.2024.md)
-
-[bormaxi8080 OSINT Timeline (74) - 05.09.2024](./timelines/bormaxi8080-osint-timeline_74_05.09.2024.md)
-
-[bormaxi8080 OSINT Timeline (73) - 29.08.2024](./timelines/bormaxi8080-osint-timeline_73_29.08.2024.md)
-
-[bormaxi8080 OSINT Timeline (72) - 22.08.2024](./timelines/bormaxi8080-osint-timeline_72_22.08.2024.md)
-
-[bormaxi8080 OSINT Timeline (71) - 15.08.2024](./timelines/bormaxi8080-osint-timeline_71_15.08.2024.md)
-
-[bormaxi8080 OSINT Timeline (70) - 08.08.2024](./timelines/bormaxi8080-osint-timeline_70_08.08.2024.md)
-
-[bormaxi8080 OSINT Timeline (69) - 01.08.2024](./timelines/bormaxi8080-osint-timeline_69_01.08.2024.md)
-
-[bormaxi8080 OSINT Timeline (68) - 25.07.2024](./timelines/bormaxi8080-osint-timeline_68_25.07.2024.md)
-
-[bormaxi8080 OSINT Timeline (67) - 18.07.2024](./timelines/bormaxi8080-osint-timeline_67_18.07.2024.md)
-
-[bormaxi8080 OSINT Timeline (66) - 11.07.2024](./timelines/bormaxi8080-osint-timeline_66_11.07.2024.md)
-
-[bormaxi8080 OSINT Timeline (65) - 04.07.2024](./timelines/bormaxi8080-osint-timeline_65_04.07.2024.md)
-
-[bormaxi8080 OSINT Timeline (64) - 27.06.2024](./timelines/bormaxi8080-osint-timeline_64_27.06.2024.md)
-
-[bormaxi8080 OSINT Timeline (63) - 20.06.2024](./timelines/bormaxi8080-osint-timeline_63_20.06.2024.md)
-
-[bormaxi8080 OSINT Timeline (62) - 13.06.2024](./timelines/bormaxi8080-osint-timeline_62_13.06.2024.md)
-
-[bormaxi8080 OSINT Timeline (61) - 06.06.2024](./timelines/bormaxi8080-osint-timeline_61_06.06.2024.md)
-
-[bormaxi8080 OSINT Timeline (60) - 30.05.2024](./timelines/bormaxi8080-osint-timeline_60_30.05.2024.md)
-
-[bormaxi8080 OSINT Timeline (59) - 23.05.2024](./timelines/bormaxi8080-osint-timeline_59_23.05.2024.md)
-
-[bormaxi8080 OSINT Timeline (58) - 16.05.2024](./timelines/bormaxi8080-osint-timeline_58_16.05.2024.md)
-
-[bormaxi8080 OSINT Timeline (57) - 09.05.2024](./timelines/bormaxi8080-osint-timeline_57_09.05.2024.md)
-
-[bormaxi8080 OSINT Timeline (56) - 02.05.2024](./timelines/bormaxi8080-osint-timeline_56_02.05.2024.md)
-
-[bormaxi8080 OSINT Timeline (55) - 25.04.2024](./timelines/bormaxi8080-osint-timeline_55_25.04.2024.md)
-
-[bormaxi8080 OSINT Timeline (54) - 18.04.2024](./timelines/bormaxi8080-osint-timeline_54_18.04.2024.md)
-
-[bormaxi8080 OSINT Timeline (53) - 11.04.2024](./timelines/bormaxi8080-osint-timeline_53_11.04.2024.md)
-
-[bormaxi8080 OSINT Timeline (52) - 04.04.2024](./timelines/bormaxi8080-osint-timeline_52_04.04.2024.md)
-
-[bormaxi8080 OSINT Timeline (51) - 28.03.2024](./timelines/bormaxi8080-osint-timeline_51_28.03.2024.md)
-
-[bormaxi8080 OSINT Timeline (50) - 21.03.2024](./timelines/bormaxi8080-osint-timeline_50_21.03.2024.md)
-
-[bormaxi8080 OSINT Timeline (49) - 14.03.2024](./timelines/bormaxi8080-osint-timeline_49_14.03.2024.md)
-
-[bormaxi8080 OSINT Timeline (48) - 07.03.2024](./timelines/bormaxi8080-osint-timeline_48_07.03.2024.md)
-
-[bormaxi8080 OSINT Timeline (47) - 29.02.2024](./timelines/bormaxi8080-osint-timeline_47_29.02.2024.md)
-
-[bormaxi8080 OSINT Timeline (46) - 21.02.2024](./timelines/bormaxi8080-osint-timeline_46_21.02.2024.md)
-
-[bormaxi8080 OSINT Timeline (45) - 15.02.2024](./timelines/bormaxi8080-osint-timeline_45_15.02.2024.md)
-
-[bormaxi8080 OSINT Timeline (44) - 08.02.2024](./timelines/bormaxi8080-osint-timeline_44_08.02.2024.md)
-
-[bormaxi8080 OSINT Timeline (43) - 01.02.2024](./timelines/bormaxi8080-osint-timeline_43_01.02.2024.md)
-
-[bormaxi8080 OSINT Timeline (42) - 25.01.2024](./timelines/bormaxi8080-osint-timeline_42_25.01.2024.md)
-
-[bormaxi8080 OSINT Timeline (41) - 18.01.2024](./timelines/bormaxi8080-osint-timeline_41_18.01.2024.md)
-
-[bormaxi8080 OSINT Timeline (40) - 11.01.2024](./timelines/bormaxi8080-osint-timeline_40_11.01.2024.md)
-
-[bormaxi8080 OSINT Timeline (39) - 28.12.2023](./timelines/bormaxi8080-osint-timeline_39_28.12.2023.md)
-
-[bormaxi8080 OSINT Timeline (38) - 21.12.2023](./timelines/bormaxi8080-osint-timeline_38_21.12.2023.md)
-
-[bormaxi8080 OSINT Timeline (37) - 14.12.2023](./timelines/bormaxi8080-osint-timeline_37_14.12.2023.md)
-
-[bormaxi8080 OSINT Timeline (36) - 07.12.2023](./timelines/bormaxi8080-osint-timeline_36_07.12.2023.md)
-
-[bormaxi8080 OSINT Timeline (35) - 30.11.2023](./timelines/bormaxi8080-osint-timeline_35_30.11.2023.md)
-
-[bormaxi8080 OSINT Timeline (34) - 23.11.2023](./timelines/bormaxi8080-osint-timeline_34_23.11.2023.md)
-
-[bormaxi8080 OSINT Timeline (33) - 16.11.2023](./timelines/bormaxi8080-osint-timeline_33_16.11.2023.md)
-
-[bormaxi8080 OSINT Timeline (32) - 09.11.2023](./timelines/bormaxi8080-osint-timeline_32_09.11.2023.md)
-
-[bormaxi8080 OSINT Timeline (31) - 02.11.2023](./timelines/bormaxi8080-osint-timeline_31_02.11.2023.md)
-
-[bormaxi8080 OSINT Timeline (30) - 26.10.2023](./timelines/bormaxi8080-osint-timeline_30_26.10.2023.md)
-
-[bormaxi8080 OSINT Timeline (29) - 19.10.2023](./timelines/bormaxi8080-osint-timeline_29_19.10.2023.md)
-
-[bormaxi8080 OSINT Timeline (28) - 12.10.2023](./timelines/bormaxi8080-osint-timeline_28_12.10.2023.md)
-
-[bormaxi8080 OSINT Timeline (27) - 05.10.2023](./timelines/bormaxi8080-osint-timeline_27_05.10.2023.md)
-
-[bormaxi8080 OSINT Timeline (26) - 28.09.2023](./timelines/bormaxi8080-osint-timeline_26_28.09.2023.md)
-
-[bormaxi8080 OSINT Timeline (25) - 21.09.2023](./timelines/bormaxi8080-osint-timeline_25_21.09.2023.md)
-
-[bormaxi8080 OSINT Timeline (24) - 14.09.2023](./timelines/bormaxi8080-osint-timeline_24_14.09.2023.md)
-
-[bormaxi8080 OSINT Timeline (23) - 07.09.2023](./timelines/bormaxi8080-osint-timeline_23_07.09.2023.md)
-
-[bormaxi8080 OSINT Timeline (22) - 31.08.2023](./timelines/bormaxi8080-osint-timeline_22_31.08.2023.md)
-
-[bormaxi8080 OSINT Timeline (21) - 24.08.2023](./timelines/bormaxi8080-osint-timeline_21_24.08.2023.md)
-
-[bormaxi8080 OSINT Timeline (20) - 17.08.2023](./timelines/bormaxi8080-osint-timeline_20_17.08.2023.md)
-
-[bormaxi8080 OSINT Timeline (19) - 10.08.2023](./timelines/bormaxi8080-osint-timeline_19_10.08.2023.md)
-
-[bormaxi8080 OSINT Timeline (18) - 03.08.2023](./timelines/bormaxi8080-osint-timeline_18_03.08.2023.md)
-
-[bormaxi8080 OSINT Timeline (17) - 27.07.2023](./timelines/bormaxi8080-osint-timeline_17_27.07.2023.md)
-
-[bormaxi8080 OSINT Timeline (16) - 20.07.2023](./timelines/bormaxi8080-osint-timeline_16_20.07.2023.md)
-
-[bormaxi8080 OSINT Timeline (15) - 13.07.2023](./timelines/bormaxi8080-osint-timeline_15_13.07.2023.md)
-
-[bormaxi8080 OSINT Timeline (14) - 06.07.2023](./timelines/bormaxi8080-osint-timeline_14_06.07.2023.md)
-
-[bormaxi8080 OSINT Timeline (13) - 29.06.2023](./timelines/bormaxi8080-osint-timeline_13_29.06.2023.md)
-
-[bormaxi8080 OSINT Timeline (12) - 22.06.2023](./timelines/bormaxi8080-osint-timeline_12_22.06.2023.md)
-
-[bormaxi8080 OSINT Timeline (11) - 15.06.2023](./timelines/bormaxi8080-osint-timeline_11_15.06.2023.md)
-
-[bormaxi8080 OSINT Timeline (10) - 09.06.2023](./timelines/bormaxi8080-osint-timeline_10_09.06.2023.md)
-
-[bormaxi8080 OSINT Timeline (09) - 01.06.2023](./timelines/bormaxi8080-osint-timeline_09_01.06.2023.md)
-
-[bormaxi8080 OSINT Timeline (08) - 26.05.2023](./timelines/bormaxi8080-osint-timeline_08_26.05.2023.md)
-
-[bormaxi8080 OSINT Timeline (07) - 17.05.2023](./timelines/bormaxi8080-osint-timeline_07_17.05.2023.md)
-
-[bormaxi8080 OSINT Timeline (06) - 11.05.2023](./timelines/bormaxi8080-osint-timeline_06_11.05.2023.md)
-
-[bormaxi8080 OSINT Timeline (05) - 04.05.2023](./timelines/bormaxi8080-osint-timeline_05_04.05.2023.md)
-
-[bormaxi8080 OSINT Timeline (04) - 27.04.2023](./timelines/bormaxi8080-osint-timeline_04_27.04.2023.md)
-
-[bormaxi8080 OSINT Timeline (03) - 20.04.2023](./timelines/bormaxi8080-osint-timeline_03_20.04.2023.md)
-
-[bormaxi8080 OSINT Timeline (02) - 13.04.2023](./timelines/bormaxi8080-osint-timeline_02_13.04.2023.md)
-
-[bormaxi8080 OSINT Timeline (01) - 06.04.2023](./timelines/bormaxi8080-osint-timeline_01_06.04.2023.md)
-
-----
-### All article covers in [LinkedIn](https://www.linkedin.com/in/osintech/details/featured/):
+## All article covers in [LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
 ![alt text](./img/133-138.png)
 ![alt text](./img/127-132.png)
@@ -335,10 +329,6 @@ If you like the projects that I do, I will be grateful for donations in private 
 ![alt text](./img/13-18.png)
 ![alt text](./img/07-12.png)
 ![alt text](./img/01-06.png)
-
-----
-
-If you like the projects that I do, I will be grateful for donations in private dialogue.
 
 ----
 
