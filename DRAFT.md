@@ -36,6 +36,10 @@ https://obsint.eu/guidelines-for-public-interest-osint-investigations/
 
 ----
 
+AIWhisperer. Shrink massive PDFs to fit AI upload limits. Sanitize before uploading to reduce risk of exposing sensitive data: https://github.com/voelspriet/aiwhisperer
+
+---
+
 BROWSER SANDBOXES  
   
 There are situations when you want to visit a website, but you are not sure about its reliability, or you do not want to share your unique browser fingerprinting with the site, or simply something is not working in your browser and you want to try if it will work in another one.  
@@ -84,7 +88,13 @@ YouFundThis. For anyone into research, investigations, or OSINT, this tool is a 
 
 Bndcamp Parser. A bot for automatic monitoring of new music releases on Bandcamp by specified tags and sending notifications to Telegram: https://github.com/andrey-rodionov/bandcamp-parser
 
+Google Maps API Scanner. Used for determining whether a leaked/found Google Maps API Key is vulnerable to unauthorized access by other applications or not: https://github.com/ozguralp/gmapsapiscanner
+
+Whatomate is an open-source WhatsApp integration: https://github.com/shridarpatil/whatomate
+
 DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
+
+Basalt. TUI Application to manage Obsidian notes directly from the terminal: https://github.com/erikjuhani/basalt
 
 ----
 
@@ -107,6 +117,8 @@ Python Scripts. This repository consists of a list of more than 60 Python script
 By auto-discovering services on your systems, portracker provides a live, accurate map of your network. It helps eliminate manual tracking in spreadsheets and prevents deployment failures caused by port conflicts: https://github.com/Mostafa-Wahied/portracker
 
 Pingerr. A comprehensive DNS benchmarking tool that tests 60+ public DNS servers to find the fastest and most reliable DNS resolver for your network: https://github.com/Panchajanya1999/pingerr
+
+NetScan Pro. An interactive Bash-based network scanning tool that provides live host discovery, port scanning, traceroute, and ping tests, featuring visually appealing ASCII banners and fun messages: https://github.com/niladri-1/NetScan-Pro
 
 ----
 
