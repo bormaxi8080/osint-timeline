@@ -100,6 +100,8 @@ Basalt. TUI Application to manage Obsidian notes directly from the terminal: htt
 
 DEDSEC_WI-FIDAR is a Linux-based Wi-Fi mapping tool designed for network analysis. It scans available Wi-Fi networks in your area and calculates the collected data to estimate the distance of each network: https://github.com/0xbitx/DEDSEC_WI-FIDAR/tree/main
 
+Darkfox. CTI Cyber Threat Intelligence OSINT Dark Web Deep Web Research. Ransomware gang information gathering tool: https://github.com/aryanguenthner/darkfox
+
 ----
 
 **Universal Search & AI:**
