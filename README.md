@@ -4,9 +4,9 @@ Welcome to OSINT Timeline Weekly Newsletter with collection of tools, services a
 
 ![alt text](logo.png)
 
-LinkedIn: [OSINTech's Timeline](https://www.linkedin.com/in/osintech/details/featured/)
+LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
 
-SubStack: [OSINTech's Substack](https://osintech.substack.com)
+Substack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 
