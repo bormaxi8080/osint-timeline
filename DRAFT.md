@@ -78,6 +78,8 @@ Stealth Browser MCP. The only browser automation that bypasses anti-bot systems.
 
 Quickly identifiy the technologies powering any website including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks via automated artifact detection in HTML, headers, and scripts: https://whatcms.org
 
+Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
+
 SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Support restrict saving content and files beyond telegram: https://github.com/krau/SaveAny-Bot/
 
 BentoPDF is a powerful, privacy-first, client-side PDF toolkit that is self hostable and allows you to manipulate, edit, merge, and process PDF files directly in your browser. No server-side processing is required, ensuring your files remain secure and private: https://github.com/alam00000/bentopdf
@@ -96,6 +98,8 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 Basalt. TUI Application to manage Obsidian notes directly from the terminal: https://github.com/erikjuhani/basalt
 
+DEDSEC_WI-FIDAR is a Linux-based Wi-Fi mapping tool designed for network analysis. It scans available Wi-Fi networks in your area and calculates the collected data to estimate the distance of each network: https://github.com/0xbitx/DEDSEC_WI-FIDAR/tree/main
+
 ----
 
 **Universal Search & AI:**
@@ -107,6 +111,8 @@ HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, G
 **Software Development & APIs:**
 
 BERTopic is a topic modeling technique that leverages transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions: https://maartengr.github.io/BERTopic/index.html
+
+Codeflow. Ever opened a new codebase and felt completely lost? **CodeFlow** turns any GitHub repository into an interactive architecture map in seconds: https://github.com/braedonsaunders/codeflow
 
 ----
 
