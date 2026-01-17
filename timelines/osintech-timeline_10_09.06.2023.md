@@ -18,11 +18,11 @@ About cracks in the supports of the Crimean bridge: https://twitter.com/chebykin
 
 ### Tools
 
-```AccountAnalisys``` - is used to perform OSINT research with a focus on Twitter. It produces a report that is a bird’s eye view of an account’s public information, including its followers and followed accounts, frequency of tweets, number of interactions, times of greatest activity, most used hashtags and many more: https://accountanalysis.app/ (GitHub: https://github.com/hrbrmstr/account-analysis)
+```AccountAnalisys``` is used to perform OSINT research with a focus on Twitter. It produces a report that is a bird’s eye view of an account’s public information, including its followers and followed accounts, frequency of tweets, number of interactions, times of greatest activity, most used hashtags and many more: https://accountanalysis.app/ (GitHub: https://github.com/hrbrmstr/account-analysis)
 
 ```GitOSINT``` is a Discord bot that helps to find information on GitHub user: https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot
 
-```Sourcemapper``` - Extract JavaScript source trees from Sourcemap files: https://github.com/denandz/sourcemapper
+```Sourcemapper```. Extract JavaScript source trees from Sourcemap files: https://github.com/denandz/sourcemapper
 
 ```Hackerwasii``` is an information collection tool (OSINT) which aims to carry out research on a French, Swiss, Luxembourgish or Belgian person. It provides various modules that allow efficient searches. Hackerwasii does not require an API key or login ID. you Can Run This Tool ON command Port Linux & Termux: https://github.com/evildevill/Hackerwasi
 

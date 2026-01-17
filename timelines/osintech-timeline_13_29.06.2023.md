@@ -4,11 +4,11 @@
 
 ----
 
-```Masha and the millions``` - Maria Borodunova means nothing. But this Latvian citizen turns out to hold an impressive real estate portfolio in several European countries, linked to Kremlin favourite and sanctioned Russian billionaire Arkady Rotenberg: https://en.rebaltica.lv/2023/06/masha-and-the-millions/
+```Masha and the millions```. Maria Borodunova means nothing. But this Latvian citizen turns out to hold an impressive real estate portfolio in several European countries, linked to Kremlin favourite and sanctioned Russian billionaire Arkady Rotenberg: https://en.rebaltica.lv/2023/06/masha-and-the-millions/
 
 Kazakhstan, Kyrgyzstan and Russia agreed on the exchange of personal data of citizens: https://doxa.team/news/2023-06-21-personal-data
 
-Looking Ahead: The Bizarre Reality of the Internet in North Korea: https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/742834/
+Looking Ahead. The Bizarre Reality of the Internet in North Korea: https://habr-com.cdn.ampproject.org/c/s/habr.com/ru/amp/post/742834/
 
 ----
 

@@ -35,9 +35,9 @@ If you want to investigate flights, http://radarbox.com helps you track flight 
 
 ```Savant``` is a Python Computer Vision & Video Analytics Framework With Batteries Included: https://github.com/insight-platform/Savant
 
-```Gopher.js``` - A compiler from Go to JavaScript for running Go code in a browser: https://github.com/gopherjs/gopherjs
+```Gopher.js```. A compiler from Go to JavaScript for running Go code in a browser: https://github.com/gopherjs/gopherjs
 
-```Deduplicator``` - Filter, Sort & Delete Duplicate Files Recursively: https://github.com/sreedevk/deduplicator
+```Deduplicator```. Filter, Sort & Delete Duplicate Files Recursively: https://github.com/sreedevk/deduplicator
 
 ```trurl``` is a command line tool for URL parsing and manipulation: https://github.com/curl/trurl
 

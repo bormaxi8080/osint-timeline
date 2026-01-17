@@ -18,15 +18,15 @@ https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-sh
 
 ### ChatGPT
 
-Instant Plugins for ChatGPT: Introducing the Wolfram ChatGPT Plugin Kit: https://writings.stephenwolfram.com/2023/04/instant-plugins-for-chatgpt-introducing-the-wolfram-chatgpt-plugin-kit/
+Instant Plugins for ChatGPT. Introducing the Wolfram ChatGPT Plugin Kit: https://writings.stephenwolfram.com/2023/04/instant-plugins-for-chatgpt-introducing-the-wolfram-chatgpt-plugin-kit/
 
-PentestGPT - a GPT-empowered penetration testing tool: https://github.com/GreyDGL/PentestGPT
+PentestGPT.  GPT-empowered penetration testing tool: https://github.com/GreyDGL/PentestGPT
 
 ----
 
 ### Platforms
 
-```Ethos``` - the OT-centric, open-source platform for sharing anonymous early warning threat information: https://www.ethos-org.io/
+```Ethos```. The OT-centric, open-source platform for sharing anonymous early warning threat information: https://www.ethos-org.io/
 
 ----
 

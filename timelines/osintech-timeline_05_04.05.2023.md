@@ -14,12 +14,12 @@ Regarding the analysis of data and the analysis of disinformation in social netw
 
 To have at least some idea of the complexity of the technique that is used for such analysis, you can see a recent article on hate speech analysis in Telegram by Benjamin Strick ( https://www.linkedin.com/in/bendobrown/ )
 
-Incitement to Kill: Tracking hate speech targeting Ukrainians during Russia’s war in Ukraine, tyts: https://www.info-res.org/post/incitement-to-kill-tracking-hate-speech-targeting-ukrainians-during-russia-s-war-in-ukraine
+Incitement to Kill. Tracking hate speech targeting Ukrainians during Russia’s war in Ukraine, tyts: https://www.info-res.org/post/incitement-to-kill-tracking-hate-speech-targeting-ukrainians-during-russia-s-war-in-ukraine
 
 In order to work with such, you need a lot of experience and even more great awareness.
 Well, a couple of thousands of utilities with which such data is collected.
 
-```Telegram Keyword Trends``` - an analysis tool to explore the emergence of hatespeech, disinformation, and narratives of interest on the Telegram chat platform. Please use this tool with caution as it does not have content moderation or filtering. You are responsible for the content that may be exported: https://github.com/thomasjjj/tg-keyword-trends
+```Telegram Keyword Trends```. An analysis tool to explore the emergence of hatespeech, disinformation, and narratives of interest on the Telegram chat platform. Please use this tool with caution as it does not have content moderation or filtering. You are responsible for the content that may be exported: https://github.com/thomasjjj/tg-keyword-trends
 
 ```Gephi```: https://gephi.org/
 

@@ -36,9 +36,9 @@ Do you want to leverage shadows in geolocation investigations? You can benefit
 
 ```Image investigation tools``` on Malfrat's OSINT Map: https://map.malfrats.industries/
 
-http://leonardo.ai: AI graphic Swiss Army knife: Image generation (dozens of models) Canvas generation Texture generation Partly free, but very powerfull toolkit.
+http://leonardo.ai. AI graphic Swiss Army knife: Image generation (dozens of models), Canvas generation, Texture generation. Partly free, but very powerfull toolkit.
 
-More than Mountaineering: Using ```PeakVisor``` for Geolocation: https://www.bellingcat.com/resources/2023/07/13/more-than-mountaineering-using-peakvisor-for-geolocation
+More than Mountaineering. Using ```PeakVisor``` for Geolocation: https://www.bellingcat.com/resources/2023/07/13/more-than-mountaineering-using-peakvisor-for-geolocation
 
 ----
 
@@ -50,15 +50,15 @@ An n-gram is a collection of n successive items in a text document that may incl
 
 ```HackBrowserData``` is a command-line tool for decrypting and exporting browser data ( passwords, history, cookies, bookmarks, credit cards, download records, localStorage and extension ) from the browser. It supports the most popular browsers on the market and runs on Windows, macOS and Linux.: https://github.com/moonD4rk/HackBrowserData
 
-```WhatsApp Spy``` - logs online/offline events from ANYONE in the world: https://github.com/jasperan/whatsapp-osint
+```WhatsApp Spy```. Logs online/offline events from ANYONE in the world: https://github.com/jasperan/whatsapp-osint
 
-```zbox-fs``` - Zero-details, privacy-focused in-app file system: https://github.com/zboxfs/zbox
+```zbox-fs```. Zero-details, privacy-focused in-app file system: https://github.com/zboxfs/zbox
 
-```Lupo``` -  Malware IOC Extractor. Debugging module for Malware Analysis Automation: https://github.com/malienist/lupo
+```Lupo```. Malware IOC Extractor. Debugging module for Malware Analysis Automation: https://github.com/malienist/lupo
 
 ```ADCSKiller``` is a Python-based tool designed to automate the process of discovering and exploiting Active Directory Certificate Services (ADCS) vulnerabilities. It leverages features of Certipy and Coercer to simplify the process of attacking ADCS infrastructure: https://github.com/grimlockx/ADCSKiller
 
-```netspionage``` - Network Forensics CLI utility that performs Network Scanning, OSINT, and Attack Detection: https://github.com/ANG13T/netspionage
+```netspionage```. Network Forensics CLI utility that performs Network Scanning, OSINT, and Attack Detection: https://github.com/ANG13T/netspionage
 
 ```BucketLoot``` is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exposed storage buckets by scanning files that store data in plain-text: https://github.com/redhuntlabs/BucketLoot
 

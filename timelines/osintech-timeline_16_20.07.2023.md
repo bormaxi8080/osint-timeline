@@ -10,7 +10,7 @@ Belarus abducts thousands of Ukrainian children. Alexander Lukashenko implicated
 
 ```Wireshark```, an industry-leading network packet analyzer, has released version 4.0.7, which includes defect fixes, protocol updates, and a few enhancements. It continues to be an extensively utilized and popular network protocol analysis tool: https://cybersecuritynews.com/wireshark-4-0-7/
 
-```Google Reverse Image Search Fix```:
+```Google Reverse Image Search Fix```
 
 Google lens is not too user friendly for investigations. But this tool will help you get back to the old Google Image Search (in case of problems, upload images to Postimages.org): https://googlelens.imagesniper.eu/
 
@@ -18,7 +18,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 
 ```Must-Follow OSINT Newsletters```: https://www.linkedin.com/feed/update/urn:li:activity:7086821012016685056/
 
-```Counter-OSINT``` - a guide to privacy and protecting your data online: https://github.com/soxoj/counter-osint-guide-ru
+```Counter-OSINT```. A guide to privacy and protecting your data online: https://github.com/soxoj/counter-osint-guide-ru
 
 Mainly YouTube, tools, techniques & tradecraft OSINT resources: https://github.com/cqcore/YouTube-Video-OSINT
 
