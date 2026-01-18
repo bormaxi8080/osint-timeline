@@ -32,17 +32,17 @@ A curated list of bugbounty writeups (Bug type wise): https://github.com/devansh
 
 ----
 
-```Armitage``` - Cyber Attack Management for Metasploit: https://github.com/xxgrunge/armitage
+```Armitage```. Cyber Attack Management for Metasploit: https://github.com/xxgrunge/armitage
 
-```Valid8Proxy``` - Tool designed for fetching, validating, and storing working proxies: https://github.com/spyboy-productions/Valid8Proxy
+```Valid8Proxy```. Tool designed for fetching, validating, and storing working proxies: https://github.com/spyboy-productions/Valid8Proxy
 
-```YouTube MPV``` - A dmenu script for quick loading of URL's with mpv: https://github.com/oliverkwebb/ytmpv
+```YouTube MPV```. A dmenu script for quick loading of URL's with mpv: https://github.com/oliverkwebb/ytmpv
 
-```Hashcat``` - World's fastest and most advanced password recovery utility: https://github.com/hashcat/hashcat
+```Hashcat```. World's fastest and most advanced password recovery utility: https://github.com/hashcat/hashcat
 
 ```SubDominator``` helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty: https://github.com/sanjai-AK47/Subdominator
 
-```SmuggleFuzz``` - A customizable and rapid HTTP downgrade smuggling scanner written in Go: https://github.com/Moopinger/smugglefuzz
+```SmuggleFuzz```. A customizable and rapid HTTP downgrade smuggling scanner written in Go: https://github.com/Moopinger/smugglefuzz
 
 ----
 

@@ -16,7 +16,7 @@ How Yandex is sinking under the Combine of bots: https://habr.com/ru/articles/81
 
 ----
 
-```Adana```: Analytical DAshboard (for NArratives) by Soxoj: https://github.com/soxoj/bellingcat-hackathon-watchcats
+```Adana```. Analytical DAshboard (for NArratives) by Soxoj: https://github.com/soxoj/bellingcat-hackathon-watchcats
 
 Analytical tool to extract insights (shown on a simple dashboard) from social media posts about narratives, sentiments, initiators, influencers and clusters of accounts. It should be applicable for studying disinformation campaigns, analysing public opinion, and assessing risks related to some topics.
 
@@ -28,19 +28,19 @@ It's a project created by team Watch Cats during participation in [Bellingcat's
 
 ```Favicons``` are small icons in modern web applications that could be very useful for us in our day-to-day hunting activities, especially when we combine these icons with modern search engines to find assets on the internet. FaviHunter project aims to help a security professional find assets on the internet using favicon hashes on search engines such as [FOFA](https://en.fofa.info/), [Shodan](https://www.shodan.io/), [Censys](https://search.censys.io/), [Zoomeye](https://www.zoomeye.org/), [Criminal IP](https://www.criminalip.io/), and [ODIN](https://getodin.com/). The program returns a table with the custom queries of each search engine and their shortened URL with the query applied: https://github.com/eremit4/favihunter
 
-```OSINTMachineGuide``` - Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy configuration, and advanced attack prevention measures: https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide
+```OSINTMachineGuide```. Step-by-step guide to building a custom machine for OSINT activities. The Basic Package includes a robust LINUX system strengthening process, Tor browser setup, firewall installation, rotating proxy configuration, and advanced attack prevention measures: https://github.com/AmazoniaLeaksOficial/OSINTMachineGuide
 
-```Internet OSINT``` - Cast your OSINT net further a field and see what else you can discover on the Internet: https://github.com/cqcore/Internet-OSINT
+```Internet OSINT```. Cast your OSINT net further a field and see what else you can discover on the Internet: https://github.com/cqcore/Internet-OSINT
 
-```Creep Detector``` - the Jupyter Notebook script identifies MAC addresses following you between different locations using wardriving data: https://github.com/skickar/CreepDetector
+```Creep Detector```. The Jupyter Notebook script identifies MAC addresses following you between different locations using wardriving data: https://github.com/skickar/CreepDetector
 
-```Colly``` - Elegant Scraper and Crawler Framework for Golang: https://github.com/gocolly/colly
+```Colly```. Elegant Scraper and Crawler Framework for Golang: https://github.com/gocolly/colly
 
-```ZMap Proxy Scanner``` - a Thread Safe fast way to find proxies. Find 2000-5000 working http,socks4, socks5 proxies in one scan: https://github.com/Yariya/Zmap-ProxyScanner
+```ZMap Proxy Scanner```. A Thread Safe fast way to find proxies. Find 2000-5000 working http,socks4, socks5 proxies in one scan: https://github.com/Yariya/Zmap-ProxyScanner
 
-```Headless Recorder``` - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script: https://github.com/checkly/headless-recorder
+```Headless Recorder```. Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script: https://github.com/checkly/headless-recorder
 
-```Ladder``` - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL: https://github.com/everywall/ladder
+```Ladder```. Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL: https://github.com/everywall/ladder
 
 ```LeakSearch``` is a simple tool to search and parse plain text passwords using ProxyNova COMB (Combination Of Many Breaches) over the Internet. You can define a custom proxy and you can also use your own password file, to search using different keywords: such as user, domain or password: https://github.com/JoelGMSec/LeakSearch
 
@@ -58,7 +58,7 @@ It's a project created by team Watch Cats during participation in [Bellingcat's
 
 **AI:**
 
-```Crawl4AI``` - Open-source LLM Friendly Web Crawler & Scrapper: https://github.com/unclecode/crawl4ai
+```Crawl4AI```. Open-source LLM Friendly Web Crawler & Scrapper: https://github.com/unclecode/crawl4ai
 
 ```Lumina-T2X``` is a unified framework for Text to Any Modality Generation: https://github.com/Alpha-VLLM/Lumina-T2X
 
@@ -68,35 +68,35 @@ Apps that utilize the astounding power of ChatGPT or enhance its UX: https://git
 
 **Software Development:**
 
-```Awesome Celery``` - a curated list of awesome things related to Celery: https://github.com/svfat/awesome-celery
+```Awesome Celery```. A curated list of awesome things related to Celery: https://github.com/svfat/awesome-celery
 
-```Celery Director``` - Simple and rapid framework to build workflows with Celery: https://github.com/ovh/celery-director
+```Celery Director```. A Simple and rapid framework to build workflows with Celery: https://github.com/ovh/celery-director
 
-```GoCelery``` - Celery Distributed Task Queue in Go: https://github.com/gocelery/gocelery
+```GoCelery```. Celery Distributed Task Queue in Go: https://github.com/gocelery/gocelery
 
-```django-webhook``` - Django webhooks triggered on model changes: https://github.com/danihodovic/django-webhook
+```django-webhook```. Django webhooks triggered on model changes: https://github.com/danihodovic/django-webhook
 
-```proxy.py``` - a lightweight single file HTTP proxy server on Python: https://github.com/abhinavsingh/proxy.py
+```proxy.py```. A lightweight single file HTTP proxy server on Python: https://github.com/abhinavsingh/proxy.py
 
 ```Cerberus``` is a lightweight and extensible data validation library for Python: https://github.com/pyeve/cerberus
 
-```Otto``` - a JavaScript interpreter in Go: https://github.com/robertkrimen/otto
+```Otto```. JavaScript interpreter in Go: https://github.com/robertkrimen/otto
 
 ```The Web Traversal Library (WTL)``` is a Python library for abstracting web interactions on top of a base execution layer such as Selenium: https://github.com/klarna-incubator/webtraversallibrary
 
-```Omniscient.js``` - a library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js: https://github.com/omniscientjs/omniscient
+```Omniscient.js```. A library providing an abstraction for React components that allows for fast top-down rendering embracing immutable data for js: https://github.com/omniscientjs/omniscient
 
 ----
 
 **Linux & DevOps:**
 
-```Django Health Check``` - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc: https://github.com/revsys/django-health-check
+```Django Health Check```. A pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc: https://github.com/revsys/django-health-check
 
-```Celery Exporter``` - a Prometheus exporter for Celery metrics: https://github.com/danihodovic/celery-exporter
+```Celery Exporter```. A Prometheus exporter for Celery metrics: https://github.com/danihodovic/celery-exporter
 
-```krr``` - Prometheus-based Kubernetes Resource Recommendations: https://github.com/robusta-dev/krr
+```krr```. Prometheus-based Kubernetes Resource Recommendations: https://github.com/robusta-dev/krr
 
-```RRFuzz``` - Fuzz anything with Program Environment Fuzzing: https://github.com/GJDuck/RRFuzz
+```RRFuzz```. Fuzz anything with Program Environment Fuzzing: https://github.com/GJDuck/RRFuzz
 
 ----
 
@@ -104,9 +104,9 @@ Apps that utilize the astounding power of ChatGPT or enhance its UX: https://git
 
 ```Flipper Zero firmware source code```: https://github.com/flipperdevices/flipperzero-firmware
 
-```Flipper Application Catalog``` - a public repository for community developed applications for Flipper Zero: https://github.com/flipperdevices/flipper-application-catalog
+```Flipper Application Catalog```. Public repository for community developed applications for Flipper Zero: https://github.com/flipperdevices/flipper-application-catalog
 
-```Awesome Flipper Zeo``` - a collection of awesome resources for the Flipper Zero device: https://github.com/djsime1/awesome-flipperzero
+```Awesome Flipper Zeo```. A collection of awesome resources for the Flipper Zero device: https://github.com/djsime1/awesome-flipperzero
 
 ```A Collection of Flipper Zero``` Scripts / Applications / etc: https://github.com/FroggMaster/FlipperZero
 

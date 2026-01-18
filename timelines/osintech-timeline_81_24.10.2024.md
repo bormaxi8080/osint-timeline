@@ -26,17 +26,17 @@ The main ethical problem of modern recruitment: business must become social.
 
 ```Bellingcat Filename Finder Extension``` that shows the filenames of Google Maps photos. Sometimes they allow to find out the exact date of the photo, and sometimes other details like the user's name or phone model: https://chromewebstore.google.com/detail/bellingcat-filename-finde/fdhodjpkigpaachejkipcghppfnnfdmp
 
-```VK Visualizer``` - Visualization of geo points from photos from vk profile: https://github.com/lmsecure/vk_visualizer
+```VK Visualizer```. Visualization of geo points from photos from vk profile: https://github.com/lmsecure/vk_visualizer
 
 ```ytui``` is a TUI tool that allows users to query videos on youtube and play them in their local player: https://github.com/Banh-Canh/ytui
 
-```BruteCMS``` - Multi-threaded CMS BruteForcer to WordPress, Joomla, Drupal, OpenCart: https://github.com/OffXec/brutecms
+```BruteCMS```. Multi-threaded CMS BruteForcer to WordPress, Joomla, Drupal, OpenCart: https://github.com/OffXec/brutecms
 
 ```Efficient and lightweight Golang-based tool for validating email addresses``` with syntax checks and domain verification: https://github.com/zeeshanahmad0201/email_verification_tool
 
-```OSINTR``` - OSINT tool for researching individuals based on user input such as email, username, name or company. OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape) via SerperDev and Firecrawl: https://github.com/0SINTr/osintr
+```OSINTR```. OSINT tool for researching individuals based on user input such as email, username, name or company. OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape) via SerperDev and Firecrawl: https://github.com/0SINTr/osintr
 
-```Video Transcoder Go``` - fficiently scalable video transcoding service, designed for seamless conversion across multiple formats, ensuring high performance and loose coupling between cloud-based components: https://github.com/harsh082ip/Video-transcoder_Go
+```Video Transcoder Go```. Efficiently scalable video transcoding service, designed for seamless conversion across multiple formats, ensuring high performance and loose coupling between cloud-based components: https://github.com/harsh082ip/Video-transcoder_Go
 
 ```Any Video Converter``` is an All-in-One video converting tool with an easy-to-use graphical interface, fast converting speed and excellent video quality. Any Video Converter supports all popular video formats and converts your videos to different video formats including MP4, MOV, MKV, M2TS, M4V, MPEG, AVI, WMV, ASF, OGV, WEBM, and more. It supports converting videos to customized percent (50%, 100%, 200%, and more) or resolution (480p, 720p, 1080p, 4K, and more); It supports encoding videos into x264, x265, h263p, xvid, mpeg, wmv, and more: https://www.neowin.net/software/any-video-converter-free-90/
 
@@ -52,7 +52,7 @@ The main ethical problem of modern recruitment: business must become social.
 
 **Software Development:**
 
-```StatsD``` - Daemon for easy but powerful stats aggregation: https://github.com/statsd/statsd
+```StatsD```. Daemon for easy but powerful stats aggregation: https://github.com/statsd/statsd
 
 ----
 
@@ -60,9 +60,9 @@ The main ethical problem of modern recruitment: business must become social.
 
 ```nwipe``` is a fork of the dwipe command originally used by Darik's Boot and Nuke (DBAN). nwipe was created out of a need to run the DBAN dwipe command outside of DBAN, in order to allow its use with any host distribution, thus giving better hardware support: https://github.com/martijnvanbrummelen/nwipe
 
-```Kubewall``` - A single binary kubernetes dashboard to manage your multiple clusters: https://github.com/kubewall/kubewall
+```Kubewall```. A single binary kubernetes dashboard to manage your multiple clusters: https://github.com/kubewall/kubewall
 
-```Wasted``` - Lock a device and wipe its data on emergency: https://github.com/x13a/Wasted
+```Wasted```. Lock a device and wipe its data on emergency: https://github.com/x13a/Wasted
 
 ----
 

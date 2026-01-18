@@ -14,7 +14,7 @@ How to install and run ```Telegram``` on Kali Linux: https://spy-soft.net/telegr
 
 ```Shadow Analysis```. 5 Examples of Using SunCalc: https://teletype.in/@secur_researcher/shadow_investigations
 
-```OSINT Bookmark``` - A curated list of OSINT tools for company research, internet scanning, DNS, and Whois lookups, organized for easy access. Ideal for analysts, researchers, and cybersecurity professionals: https://github.com/neospl0it/osint-bookmark
+```OSINT Bookmark```. A curated list of OSINT tools for company research, internet scanning, DNS, and Whois lookups, organized for easy access. Ideal for analysts, researchers, and cybersecurity professionals: https://github.com/neospl0it/osint-bookmark
 
 ```Shodan Dorks```. This GitHub repository provides a range of search queries, known as "dorks," for Shodan, a powerful tool used to search for Internet-connected devices. The dorks are designed to help security researchers discover potential vulnerabilities and configuration issues in various types of devices such as webcams, routers, and servers. This resource is helpful for those interested in exploring network security and conducting vulnerability scanning, including both beginners and experienced information security professionals. By leveraging this repository, users can improve the security of their own networks and protect against potential attacks: https://github.com/nullfuzz-pentest/shodan-dorks
 
@@ -40,33 +40,33 @@ A good script from [@dutch_osintguy](https://x.com/dutch_osintguy) to build inve
 
 ```Gephi``` is an award-winning open-source platform for visualizing and manipulating large graphs: https://github.com/gephi/gephi
 
-```isBot``` - Detect bots/crawlers/spiders using the user agent string: https://github.com/omrilotan/isbot
+```isBot```. Detect bots/crawlers/spiders using the user agent string: https://github.com/omrilotan/isbot
 
-```SpoofMAC``` - Change your MAC address for debugging: https://github.com/feross/SpoofMAC
+```SpoofMAC```. Change your MAC address for debugging: https://github.com/feross/SpoofMAC
 
-```Getcontact``` - Find info about user by phone number using GetContact API: https://github.com/kovinevmv/getcontact
+```Getcontact```. Find info about user by phone number using GetContact API: https://github.com/kovinevmv/getcontact
 
-```Findsploit``` - Find exploits in local and online databases instantly: https://github.com/1N3/Findsploit
+```Findsploit```. Find exploits in local and online databases instantly: https://github.com/1N3/Findsploit
 
-```LampScan``` - Automated security assessment tool for LAMP/WordPress servers using Nmap, featuring detailed scans, IPv6 support detection and logging of results: https://github.com/IntuitionAmiga/lampscan
+```LampScan```. Automated security assessment tool for LAMP/WordPress servers using Nmap, featuring detailed scans, IPv6 support detection and logging of results: https://github.com/IntuitionAmiga/lampscan
 
-```iSniff-GPS``` - Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices: https://github.com/hubert3/iSniff-GPS
+```iSniff-GPS```. Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices: https://github.com/hubert3/iSniff-GPS
 
-```open-source-web-scanners``` - A list of open source web security scanners on GitHub and GitLab, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools: https://github.com/psiinon/open-source-web-scanners
+```open-source-web-scanners```. A list of open source web security scanners on GitHub and GitLab, ordered by Stars. It does not provide in-depth analysis - for more analysis or a wider range of tools: https://github.com/psiinon/open-source-web-scanners
 
 ----
 
 **AI:**
 
-```GPT4o Captcha Bypass``` - a CLI tool for testing various types of captchas including puzzle, text, complicated text, and reCAPTCHA using Python and Selenium. The tool also uses OpenAI GPT-4 to help solve the captchas: https://github.com/aydinnyunus/gpt4-captcha-bypass
+```GPT4o Captcha Bypass```. A CLI tool for testing various types of captchas including puzzle, text, complicated text, and reCAPTCHA using Python and Selenium. The tool also uses OpenAI GPT-4 to help solve the captchas: https://github.com/aydinnyunus/gpt4-captcha-bypass
 
 ----
 
 **Software Development:**
 
-```Antares``` - A modern, fast and productivity driven SQL client with a focus in UX: https://github.com/antares-sql/antares
+```Antares```. A modern, fast and productivity driven SQL client with a focus in UX: https://github.com/antares-sql/antares
 
-```Lightgraph.js``` - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently: https://github.com/jagenjo/litegraph.js
+```Lightgraph.js```. A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently: https://github.com/jagenjo/litegraph.js
 
 ```DuckDB-powered Postgres``` for high performance apps & analytics: https://github.com/duckdb/pg_duckdb
 
@@ -76,13 +76,13 @@ A good script from [@dutch_osintguy](https://x.com/dutch_osintguy) to build inve
 
 **Linux & DevOps:**
 
-```Dozzle``` - Realtime log viewer for docker containers: https://github.com/amir20/dozzle#
+```Dozzle```. Realtime log viewer for docker containers: https://github.com/amir20/dozzle#
 
-```NetAlertX``` - WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found: https://github.com/jokob-sk/NetAlertX
+```NetAlertX```. WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found: https://github.com/jokob-sk/NetAlertX
 
-```WireGuard obfuscator``` - simple obfuscator for WireGuard. Usefull if your ISP/government blocks WireGuard traffic: https://github.com/ClusterM/wg-obfuscator
+```WireGuard obfuscator```. Simple obfuscator for WireGuard. Usefull if your ISP/government blocks WireGuard traffic: https://github.com/ClusterM/wg-obfuscator
 
-```Coolify``` - An open-source & self-hostable Heroku / Netlify / Vercel alternative: https://github.com/coollabsio/coolify
+```Coolify```. An open-source & self-hostable Heroku / Netlify / Vercel alternative: https://github.com/coollabsio/coolify
 
 ----
 
@@ -96,8 +96,6 @@ Spoof temperature sensor with HackRF/FlipperZero: https://github.com/rgerganov/s
 
 **New from CyberDetective:**
 
-```OSINT Methods for Image Investigations```. A detailed overview of 22 image tools for investigative imaging: search engines, location finders, photo forensics, and more: https://redteamrecipe.com/osint-methods-for-image-investigations
-
 ```All text in NYC```. Interesting example of a text search service for inscriptions on the walls of Brooklyn. It is a pity that there is no such service for all cities of the world (Overpass Turbo only allows to find a small portion): http://alltext.nyc
 
 ```Secret Files Exposed: How to Find Hidden Documents on the Web```. A short Guide by Nina Maelainine on how to search for sensitive files using Google and analyse their metadata: https://medium.com/@ninamaelainine/curiosity-got-you-heres-how-to-find-hidden-docs-online-0a7d0f1e8397
@@ -108,7 +106,7 @@ Spoof temperature sensor with HackRF/FlipperZero: https://github.com/rgerganov/s
 
 **New from GitHub Community:**
 
-```Rotato``` - Compresses video by 90% while maintaining quality. Works in browser, free and without watermarks: https://tools.rotato.app/compress
+```Rotato```. Compresses video by 90% while maintaining quality. Works in browser, free and without watermarks: https://tools.rotato.app/compress
 
 ----
 

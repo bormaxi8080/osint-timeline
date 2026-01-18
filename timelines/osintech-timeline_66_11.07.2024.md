@@ -22,7 +22,7 @@ Aggregated wordlist pulled from commonly used tools for discovery, enumeration, 
 
 **OSINT Tools, Services and Investigations:**
 
-```bash-dungeon``` - An educational dungeon crawler in the shell: https://github.com/wolandark/bash-dungeon
+```bash-dungeon```. An educational dungeon crawler in the shell: https://github.com/wolandark/bash-dungeon
 
 ```Sasori``` is a dynamic web crawler powered by Puppeteer, designed for lightning-fast endpoint discovery: https://github.com/karthikuj/sasori
 
@@ -40,7 +40,7 @@ Aggregated wordlist pulled from commonly used tools for discovery, enumeration, 
 
 **Software Development:**
 
-```Pongo``` - Mongo but on Postgres and with strong consistency benefits: https://github.com/event-driven-io/Pongo
+```Pongo```. Mongo but on Postgres and with strong consistency benefits: https://github.com/event-driven-io/Pongo
 
 ```Chronicle Queue``` is a persisted low-latency messaging framework for high performance applications: https://github.com/OpenHFT/Chronicle-Queue
 
@@ -78,7 +78,7 @@ A self-service engineering platform, [Meshery](https://meshery.io/), is the ope
 
 **New from GitHub Community:**
 
-```Bearer``` - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks: https://github.com/Bearer/bearer#golang
+```Bearer```. Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks: https://github.com/Bearer/bearer
 
 ----
 

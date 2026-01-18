@@ -14,7 +14,7 @@ Sberbank GigaIDE ```contains a stolen code``` from Intellij Idea Ultimate: https
 
 ```Mirror:``` A Universal Framework for Various Information Extraction Tasks.
 
-- Named Entity Recognition- Entity Relationship Extraction (Triplet Extraction)
+- Named Entity Recognition / Entity Relationship Extraction (Triplet Extraction)
 
 - Event Extraction
 
@@ -38,7 +38,7 @@ GitHub: https://github.com/Spico197/Mirror
 
 ```Hound``` is a simple and light tool for information gathering and capture exact GPS coordinates: https://github.com/techchipnet/hound
 
-```httpstat``` - Imitation is the sincerest form of flattery: https://github.com/davecheney/httpstat
+```httpstat```. Imitation is the sincerest form of flattery: https://github.com/davecheney/httpstat
 
 ----
 
@@ -50,9 +50,9 @@ GitHub: https://github.com/Spico197/Mirror
 
 **Linux & DevOps:**
 
-```ImHex``` - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM: https://github.com/WerWolv/ImHex
+```ImHex```. A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM: https://github.com/WerWolv/ImHex
 
-```Semaphore``` - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi: https://github.com/semaphoreui/semaphore
+```Semaphore```. Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi: https://github.com/semaphoreui/semaphore
 
 ----
 
@@ -64,7 +64,7 @@ GitHub: https://github.com/Spico197/Mirror
 
 **New from CyberDetective:**
 
-[urldna.io](https://urldna.io) - Free online tool for gathering info about URL: screenshot, SSL certificates, IP addresses, title/body text, cookies, technologies, http requests, headers, console messages, metatags and more.
+[urldna.io](https://urldna.io). Free online tool for gathering info about URL: screenshot, SSL certificates, IP addresses, title/body text, cookies, technologies, http requests, headers, console messages, metatags and more.
 
 Online tools to identify a location from an uploaded photo using AI:
 [geospy.web.app](https://geospy.web.app)
@@ -78,7 +78,7 @@ GeoGuessr GPT  https://chatgpt.com/g/g-brlHi7t2R-geoguessr-gpt
 
 **New from GitHub Community:**
 
-```tsuru``` - Open source and extensible Platform as a Service (PaaS): https://github.com/tsuru/tsuru
+```tsuru```. Open source and extensible Platform as a Service (PaaS): https://github.com/tsuru/tsuru
 
 ----
 

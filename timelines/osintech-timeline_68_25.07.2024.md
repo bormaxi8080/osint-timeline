@@ -8,37 +8,35 @@ If everyone is lying around and sell, instead of doing things, this means that t
 
 ----
 
-```OSINT Methodology```: How to Investigate Illegal Content in Telegram Chats: https://soxoj.substack.com/p/osint-methodology-how-to-investigate
+```OSINT Methodology```. How to Investigate Illegal Content in Telegram Chats: https://soxoj.substack.com/p/osint-methodology-how-to-investigate
 
-```BigDomainData``` - collection of WHOIS databases and domain name investigation tools: http://bigdomaindata.com
+```BigDomainData```. Collection of WHOIS databases and domain name investigation tools: http://bigdomaindata.com
 
 ```A 26 years old International Directory of Search Engines```, you can check specific country's search engines and web directories: https://searchenginecolossus.com
 
 ```OSINT4All``` start.me Dashboard: https://start.me/p/L1rEYQ/osint4all
 
-```BEST SQLI METHODLOGY``` BY COFFIN: https://github.com/coffinxp/BSQLi
-
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-```Name Variant Search``` from Bellingcat - A tool for searching common variations of a human name: https://github.com/bellingcat/name-variant-search
+```Name Variant Search``` from Bellingcat. A tool for searching common variations of a human name: https://github.com/bellingcat/name-variant-search
 
-```Instagram story viewer``` - Watch profiles, stories, followers, tags anonymously: https://greatfon.com/
+```Instagram story viewer```. Watch profiles, stories, followers, tags anonymously: https://greatfon.com/
 
 ```Gideon``` - Simple tool for searching and collection information: https://github.com/YouVBeenHacked/gideon
 
 ```Respotter``` is a Responder honeypot! Catch attackers and red teams as soon as they spin up Responder in your environment: https://github.com/lawndoc/Respotter
 
-```Horus``` - An OSINT / digital forensics tool built in Python: https://github.com/6abd/horus
+```Horus```. An OSINT / digital forensics tool built in Python: https://github.com/6abd/horus
 
 ```Number Parser``` is a simple library that allows you to convert numbers written in the natural language to it's equivalent numeric forms. It currently supports cardinal numbers in the following languages - English, Hindi, Spanish, Ukrainian and Russian and ordinal numbers in English: https://github.com/scrapinghub/number-parser
 
-```Gain``` - Web crawling framework for everyone: https://github.com/elliotgao2/gain
+```Gain```. Web crawling framework for everyone: https://github.com/elliotgao2/gain
 
-```PSpider``` - A simple web spider frame written by Python, which needs Python3.8+: https://github.com/xianhu/PSpider
+```PSpider```. A simple web spider frame written by Python, which needs Python3.8+: https://github.com/xianhu/PSpider
 
-```Ruia``` - Async Python 3.6+ web scraping micro-framework based on asyncio: https://github.com/howie6879/ruia
+```Ruia```. Async Python 3.6+ web scraping micro-framework based on asyncio: https://github.com/howie6879/ruia
 
 ```Brownant``` is a lightweight web data extracting framework: https://github.com/douban/brownant
 
@@ -58,7 +56,7 @@ Quickly and easily transcribe audio files into text with OpenAI's state-of-the-a
 
 ```Skewy``` tries to prevent eavesdropping and access of your phone with ultrasonic signals (see references at bottom). Eavesdropping prevention is done by masking your conversation with sound. Ultrasonic signals are jammed with the built-in detection method which can emit its own distortion ultrasonic signal: https://github.com/skewyapp/skewyapp
 
-```Semantic-SAM```: Segment and Recognize Anything at Any Granularity: https://github.com/UX-Decoder/Semantic-SAM
+```Semantic-SAM```. Segment and Recognize Anything at Any Granularity: https://github.com/UX-Decoder/Semantic-SAM
 
 ----
 
@@ -76,9 +74,9 @@ Quickly and easily transcribe audio files into text with OpenAI's state-of-the-a
 
 ```Containerd``` is an industry-standard container runtime with an emphasis on simplicity, robustness, and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc: https://github.com/containerd/containerd
 
-```http4k``` - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services: https://github.com/http4k/http4k
+```http4k```. The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services: https://github.com/http4k/http4k
 
-```ZFoo``` - Extremely fast enterprise server framework, can be used in RPC, game server, web server: https://github.com/zfoo-project/zfoo#
+```ZFoo```. Extremely fast enterprise server framework, can be used in RPC, game server, web server: https://github.com/zfoo-project/zfoo#
 
 [Zipkin](https://zipkin.io/) is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data: https://github.com/openzipkin/zipkin
 

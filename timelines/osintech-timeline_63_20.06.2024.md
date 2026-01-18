@@ -21,7 +21,7 @@ Fake Chrome errors are used to launch PowerShell scripts: https://xakep.ru/2024/
 
 ```Mechanize``` is a ruby library that makes automated web interaction easy: https://github.com/sparklemotion/mechanize
 
-```Nokogiri``` (鋸) makes it easy and painless to work with XML and HTML from Ruby: https://github.com/sparklemotion/nokogiri
+```Nokogiri``` makes it easy and painless to work with XML and HTML from Ruby: https://github.com/sparklemotion/nokogiri
 
 ```Cobweb``` is a web crawler with very flexible crawling options. Can either use standalone or can be used with resque to perform clustered crawls: https://github.com/stewartmckee/cobweb
 
@@ -35,15 +35,15 @@ Fake Chrome errors are used to launch PowerShell scripts: https://xakep.ru/2024/
 
 ```BadJPG``` is a Python script allows you to hide a payload within a JPG image using steganography techniques. It uses the `stegano` library to encode and decode messages within the least significant bit (LSB) of the image pixels: https://github.com/basicW/badjpg
 
-```sqlmc``` - Official Kali Linux tool to check all urls of a domain for SQL injections: https://github.com/malvads/sqlmc
+```sqlmc```. Official Kali Linux tool to check all urls of a domain for SQL injections: https://github.com/malvads/sqlmc
 
-```Matano``` - Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS: https://github.com/matanolabs/matano
+```Matano```. Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS: https://github.com/matanolabs/matano
 
 ----
 
 **AI:**
 
-```Verba```: The Golden RAGtriever, an open-source application designed to offer an end-to-end, streamlined, and user-friendly interface for Retrieval-Augmented Generation (RAG) out of the box. In just a few easy steps, explore your datasets and extract insights with ease, either locally with HuggingFace and Ollama or through LLM providers such as OpenAI, Cohere, and Google: https://github.com/weaviate/Verba
+```Verba```. The Golden RAGtriever, an open-source application designed to offer an end-to-end, streamlined, and user-friendly interface for Retrieval-Augmented Generation (RAG) out of the box. In just a few easy steps, explore your datasets and extract insights with ease, either locally with HuggingFace and Ollama or through LLM providers such as OpenAI, Cohere, and Google: https://github.com/weaviate/Verba
 
 ```ScrapeGraphAI``` is a web scraping Python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.): https://github.com/VinciGit00/Scrapegraph-ai
 
@@ -51,9 +51,9 @@ Fake Chrome errors are used to launch PowerShell scripts: https://xakep.ru/2024/
 
 **Software Development:**
 
-```Frida``` - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. Learn more at [frida.re](https://frida.re/): https://github.com/frida/frida
+```Frida```. Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. Learn more at [frida.re](https://frida.re/): https://github.com/frida/frida
 
-```Neosync``` - Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments: https://github.com/nucleuscloud/neosync
+```Neosync```. Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments: https://github.com/nucleuscloud/neosync
 
 ----
 
@@ -61,9 +61,9 @@ Fake Chrome errors are used to launch PowerShell scripts: https://xakep.ru/2024/
 
 ```Project Calico``` is an open-source project with an active development and user community. Calico Open Source has grown to be the most widely adopted solution for container networking and security, powering 8M+ nodes daily across 166 countries: https://github.com/projectcalico/calico
 
-```gpslogger``` - Lightweight GPS Logging Application For Android: https://github.com/mendhak/gpslogger
+```gpslogger```. Lightweight GPS Logging Application For Android: https://github.com/mendhak/gpslogger
 
-```Maltrail``` - Malicious traffic detection system: https://github.com/stamparm/maltrail
+```Maltrail```. Malicious traffic detection system: https://github.com/stamparm/maltrail
 
 ```GoTo``` is a simple terminal SSH manager that provides you with an easy access to the list of your favorite SSH servers. Binaries included: https://github.com/grafviktor/goto
 
@@ -91,7 +91,7 @@ Fake Chrome errors are used to launch PowerShell scripts: https://xakep.ru/2024/
 
 **New from GitHub Community:**
 
-Glance - A self-hosted dashboard that puts all your feeds in one place: https://github.com/glanceapp/glance
+Glance. A self-hosted dashboard that puts all your feeds in one place: https://github.com/glanceapp/glance
 
 ----
 

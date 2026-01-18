@@ -56,9 +56,9 @@ And they went underground.
 
 **Linux & DevOps:**
 
-```Awesome Sysadmin``` - A curated list of amazingly awesome open-source sysadmin resources: https://github.com/awesome-foss/awesome-sysadmin
+```Awesome Sysadmin```. A curated list of amazingly awesome open-source sysadmin resources: https://github.com/awesome-foss/awesome-sysadmin
 
-```Zapper``` - Zaps arguments and environment from the process list: https://github.com/hackerschoice/zapper
+```Zapper```. Zaps arguments and environment from the process list: https://github.com/hackerschoice/zapper
 
 ----
 
@@ -70,7 +70,7 @@ And they went underground.
 
 **New from CyberDetective:**
 
-```Cluthch․co```  - major site for finding various services for business (350K+ service providers in 157 countries). This simple tool allows to collect data from it into a CSV file in a couple of clicks: https://thewebscrapingguy.com/free-tools/clutch-scraper
+```Cluthch․co```. Major site for finding various services for business (350K+ service providers in 157 countries). This simple tool allows to collect data from it into a CSV file in a couple of clicks: https://thewebscrapingguy.com
 
 ```British Newspaper Archive```. 85,470,487 newspaper's pages from the 1700s. England, Scotland, Ireland and Wales: https://www.britishnewspaperarchive.co.uk/
 

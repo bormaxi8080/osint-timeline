@@ -14,23 +14,23 @@ Link: https://bellingcat.gitbook.io/toolkit
 
 ----
 
-```War Of Words``` - Russian TV Propaganda AI Monitoring Portal: https://warofwords.info
+```War Of Words```. Russian TV Propaganda AI Monitoring Portal: https://warofwords.info
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-```Tenai``` - Uncover some followers of a private instagram account: https://github.com/novitae/Tenai
+```Tenai```. Uncover some followers of a private instagram account: https://github.com/novitae/Tenai
 
 ```urlDNA``` is a powerful tool for comprehensive URL analysis, advanced brand monitoring, phishing detection, and custom query capabilities. This Python package allows users to interact with the urlDNA API seamlessly through Python: https://github.com/urldna/urldna
 
-```IP_Rover``` - An Excellent OSINT tool to get information of any ip address. All details are explained in below screenshot: https://github.com/Cyber-Dioxide/IP_Rover
+```IP_Rover```. An Excellent OSINT tool to get information of any ip address. All details are explained in below screenshot: https://github.com/Cyber-Dioxide/IP_Rover
 
 ----
 
 **AI:**
 
-```Firecrawl``` - Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API: https://github.com/mendableai/firecrawl
+```Firecrawl```. Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API: https://github.com/mendableai/firecrawl
 
 ----
 
@@ -40,19 +40,19 @@ Link: https://bellingcat.gitbook.io/toolkit
 
 ```Skytable``` is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences: https://github.com/skytable/skytable
 
-```FrostDB``` - Coolest database around Embeddable column database written in Go: https://github.com/polarsignals/frostdb
+```FrostDB```. Coolest database around Embeddable column database written in Go: https://github.com/polarsignals/frostdb
 
 ----
 
 **Linux & DevOps:**
 
-```GhostTunnel``` - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services: https://github.com/ghostunnel/ghostunnel
+```GhostTunnel```. A simple SSL/TLS proxy with mutual authentication for securing non-TLS services: https://github.com/ghostunnel/ghostunnel
 
 ----
 
 **Flipper Zero:**
 
-```FlipperZero UFBT``` - Compact tool for building and debugging applications for Flipper Zero: https://github.com/flipperdevices/flipperzero-ufbt
+```FlipperZero UFBT```. Compact tool for building and debugging applications for Flipper Zero: https://github.com/flipperdevices/flipperzero-ufbt
 
 ----
 

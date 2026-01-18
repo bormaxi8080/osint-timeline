@@ -16,11 +16,11 @@ How To Use Bellingcat's Telegram Phone Number Checker from Bellingcat: https://w
 
 ```Python for OSINT Tooling PDF```: https://hakin9.org/download/python-for-osint-tooling-preview/
 
-```awesome-appsec``` - A curated list of resources for learning about application security: https://github.com/paragonie/awesome-appsec
+```awesome-appsec```. A curated list of resources for learning about application security: https://github.com/paragonie/awesome-appsec
 
 ----
 
-```Risor``` - Fast and flexible scripting for Go developers and DevOps: https://github.com/risor-io/risor
+```Risor```. Fast and flexible scripting for Go developers and DevOps: https://github.com/risor-io/risor
 
 ```Lexido``` is an innovative assistant for the Linux command line, designed to boost your productivity and efficiency. Powered by Gemini Pro 1.0 and utilizing the free API, Lexido offers smart suggestions for commands based on your prompts and importantly **your current environment**. Whether you're installing software, managing files, or configuring system settings, Lexido streamlines the process, making it faster and more intuitive: https://github.com/micr0-dev/lexido
 
@@ -28,11 +28,11 @@ How To Use Bellingcat's Telegram Phone Number Checker from Bellingcat: https://w
 
 ```MinIO``` is a high-performance, S3 compatible object store. It is built forlarge scale AI/ML, data lake and database workloads. It is software-definedand runs on any cloud or on-premises infrastructure: https://min.io/
 
-```Gitea``` - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD: https://github.com/go-gitea/gitea
+```Gitea```. Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD: https://github.com/go-gitea/gitea
 
-```Planka``` - The realtime kanban board for workgroups built with React and Redux: https://github.com/plankanban/planka
+```Planka```. The realtime kanban board for workgroups built with React and Redux: https://github.com/plankanban/planka
 
-```img2pdf``` - Losslessly convert raster images to PDF. The file size will not unnecessarily increase. It can for example be used to create a PDF document from a number of scans that are only available in JPEG format. Existing solutions would either re-encode the input JPEG files (leading to quality loss) or store them in the zip/flate format which results into the PDF becoming unnecessarily large in terms of its file size: https://github.com/myollie/img2pdf
+```img2pdf```. Losslessly convert raster images to PDF. The file size will not unnecessarily increase. It can for example be used to create a PDF document from a number of scans that are only available in JPEG format. Existing solutions would either re-encode the input JPEG files (leading to quality loss) or store them in the zip/flate format which results into the PDF becoming unnecessarily large in terms of its file size: https://github.com/myollie/img2pdf
 
 ```Web2pdf``` is a command line tool that converts webpages to Beautifully formatted pdfs: https://github.com/dvcoolarun/web2pdf
 
@@ -40,7 +40,7 @@ How To Use Bellingcat's Telegram Phone Number Checker from Bellingcat: https://w
 
 ```DetectDee``` - Hunt down social media accounts by username, email or phone across social networks: https://github.com/piaolin/DetectDee
 
-```Briefbox email-archiver``` - **This project is currently still in early development and lacks proper authentication.** It is **NOT** recommended to expose this application to the public as you will be providing the world your emails. Use at your own discretion and only in a controlled environment for now: https://github.com/bandundu/email-archiver
+```Briefbox email-archiver```. This project is currently still in early development and lacks proper authentication. It is **NOT** recommended to expose this application to the public as you will be providing the world your emails. Use at your own discretion and only in a controlled environment for now: https://github.com/bandundu/email-archiver
 
 ```PrivatePing``` is a secure messaging application built on Python's Django framework, providing end-to-end encryption for messages exchanged between users: https://github.com/princekhunt/privateping
 
@@ -50,11 +50,11 @@ How To Use Bellingcat's Telegram Phone Number Checker from Bellingcat: https://w
 
 ```Protocol Buffers``` (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data: https://github.com/protocolbuffers/protobuf
 
-```nvtop``` - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm: https://github.com/Syllo/nvtop
+```nvtop```. GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm: https://github.com/Syllo/nvtop
 
-```EyeSpy```: Real-time Human Detection and Surveillance with Flutter and TensorFlow Lite: https://github.com/Major-Project-Human-Surveillance/Eye-Spy
+```EyeSpy```. Real-time Human Detection and Surveillance with Flutter and TensorFlow Lite: https://github.com/Major-Project-Human-Surveillance/Eye-Spy
 
-```SiCat``` - The useful exploit finder: https://github.com/justakazh/sicat
+```SiCat```. The useful exploit finder: https://github.com/justakazh/sicat
 
 ----
 

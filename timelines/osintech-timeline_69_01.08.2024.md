@@ -26,7 +26,7 @@ by oryon-osint: https://github.com/oryon-osint/investigation-templates
 
 ----
 
-```Awesome Crawler``` - A collection of awesome web crawlers, spiders in different languages: https://github.com/BruceDone/awesome-crawler
+```Awesome Crawler```. A collection of awesome web crawlers, spiders in different languages: https://github.com/BruceDone/awesome-crawler
 
 ```Meta OSINT```. A tool to quickly identify relevant, publicly-available open source intelligence ("OSINT") tools and resources, saving valuable time during investigations, research, and analysis: https://metaosint.github.io/table
 
@@ -50,7 +50,7 @@ by oryon-osint: https://github.com/oryon-osint/investigation-templates
 
 ```Skinfer``` is a tool for inferring and merging JSON schemas: https://github.com/scrapinghub/skinfer
 
-```SquatSquasher``` - A tool to find domains (by primary domain name) that can be used for type squatting and other phishing attacks: https://github.com/Stuub/SquatSquasher
+```SquatSquasher```. A tool to find domains (by primary domain name) that can be used for type squatting and other phishing attacks: https://github.com/Stuub/SquatSquasher
 
 Discover more subdomains during your recon by extracting subdomains from TLS certificates. Integrate ```Cero``` into your recon automation for better results: https://github.com/glebarez/cero
 
@@ -64,9 +64,9 @@ Discover more subdomains during your recon by extracting subdomains from TLS cer
 
 **Software Development:**
 
-```Autologin``` is a library that makes it easier for web spiders to **crawl websites that require login**. Provide it with credentials and a URL or the html source of a page (normally the homepage), and it will attempt to login for you. Cookies are returned to be used by your spider: https://github.com/scrapinghub/autologin
+```Autologin``` is a library that makes it easier for web spiders to crawl websites that require login. Provide it with credentials and a URL or the html source of a page (normally the homepage), and it will attempt to login for you. Cookies are returned to be used by your spider: https://github.com/scrapinghub/autologin
 
-```XAdmin``` - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap: https://github.com/sshwsfc/xadmin
+```XAdmin```. Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap: https://github.com/sshwsfc/xadmin
 
 ```Woodpecker``` is a simple yet powerful CI/CD engine with great extensibility: https://github.com/woodpecker-ci/woodpecker
 
@@ -82,7 +82,7 @@ Discover more subdomains during your recon by extracting subdomains from TLS cer
 
 **Linux & DevOps:**
 
-```Pi.Alert``` - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a "always connected" device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated: https://github.com/leiweibau/Pi.Alert
+```Pi.Alert```. Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a "always connected" device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated: https://github.com/leiweibau/Pi.Alert
 
 ```Kapitan``` aims to be your _one-stop tool_ to help you manage the ever growing complexity of your configurations.: https://github.com/kapicorp/kapitan
 
@@ -98,19 +98,19 @@ A collection of awesome resources for the Flipper Zero device with repository st
 
 ```How to use robots.txt for OSINT```: What is a robots.txt File, Importance of robots.txt for OSINT & Cybersecurity Professionals, How to find a Robot.txt file on a website, How to Find Hidden Information in robots.txt: https://osintteam.blog/robots-txt-a-file-we-all-better-know-a-bit-about-218794b6c1c7
 
-```Bitcoin Tracking for Law Enforcement``` - A Guide to Crypto Investigations by twitter.com/ervin_zubic: Bitcoin Addresses Explained, How Bitcoin Transactions Work, Following Bitcoin on the Blockchain, Identifying Change Addresses, Visualization Tools and more: https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement
-
-```Canadian OSINT```: business and corporate info, archives and genealogy, legal and court info, people search and more (dozens of resources): https://github.com/S3V3N11S/Canadian-OSINT-
+```Bitcoin Tracking for Law Enforcement```. A Guide to Crypto Investigations by twitter.com/ervin_zubic. Bitcoin Addresses Explained, How Bitcoin Transactions Work, Following Bitcoin on the Blockchain, Identifying Change Addresses, Visualization Tools and more: https://www.acfcs.org/acfcs-contributor-report-bitcoin-tracking-for-law-enforcement
 
 ```Awesome Dutch OSINT```. Companies, People, Laws, Geo-information, Airspace, Cars and more: https://github.com/wvanderp/awesome-dutch-osint
 
-```Browser Autofill Phishing```. A very, very old trick, but still relevant. Live demo https://anttiviljami.github.io/browser-autofill-phishing/ - see the data you can pass to sites during form autocompletion via the developer console). Github repo https://github.com/anttiviljami/browser-autofill-phishing
+```Browser Autofill Phishing```. A very, very old trick, but still relevant. Live demo https://anttiviljami.github.io/browser-autofill-phishing/ 
+See the data you can pass to sites during form autocompletion via the developer console.
+Github repo https://github.com/anttiviljami/browser-autofill-phishing
 
 ----
 
 **New from GitHub Community:**
 
-```Saladict``` - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching: https://github.com/crimx/ext-saladict#?tab=readme-ov-file
+```Saladict```. All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching: https://github.com/crimx/ext-saladict#?tab=readme-ov-file
 
 ----
 

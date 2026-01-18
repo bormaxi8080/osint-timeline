@@ -68,7 +68,7 @@ https://www.dutchosintguy.com/post/osint-emotions-under-the-mircoscope
 
 **New from GitHub Community:**
 
-```PyMacroRecord``` - Free and Open Source Macro Recorder with a modern GUI using Python: https://github.com/LOUDO56/PyMacroRecord
+```PyMacroRecord```. Free and Open Source Macro Recorder with a modern GUI using Python: https://github.com/LOUDO56/PyMacroRecord
 
 ----
 

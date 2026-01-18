@@ -30,13 +30,13 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 ```MyMapAI``` An online tool for drawing very beautiful Mind Maps, with a simple interface and flexible settings. Free drawing, free high quality export to png/jpeg, partly free AI text generation: https://mymap.ai
 
-```Babelfish.AI``` - A realtime live transcription and translation app built with Huggingface Transformer.js and Supabase Realtime: https://github.com/supabase-community/babelfish.ai
+```Babelfish.AI```. A realtime live transcription and translation app built with Huggingface Transformer.js and Supabase Realtime: https://github.com/supabase-community/babelfish.ai
 
 ----
 
 **Software Development:**
 
-```Teable``` - The Next Gen Airtable Alternative. No-Code Postgres: https://github.com/teableio/teable
+```Teable```. The Next Gen Airtable Alternative. No-Code Postgres: https://github.com/teableio/teable
 
 ```swagger-codegen``` contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition: https://github.com/swagger-api/swagger-codegen
 
@@ -44,13 +44,13 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 **Linux & DevOps:**
 
-```Oryx``` - TUI for sniffing network traffic using eBPF on Linux: https://github.com/pythops/oryx
+```Oryx```. TUI for sniffing network traffic using eBPF on Linux: https://github.com/pythops/oryx
 
 ----
 
 **Flipper Zero:**
 
-```Flipper Zero Mayhem``` - Perfect companion for your Flipper Zero. ESP32 with WiFi, BT/BLE, micro-SD, camera+PSRAM, flashlight and extras: NRF24/CC1101, 3V/5V sensors: https://github.com/eried/flipperzero-mayhem
+```Flipper Zero Mayhem```. Perfect companion for your Flipper Zero. ESP32 with WiFi, BT/BLE, micro-SD, camera+PSRAM, flashlight and extras: NRF24/CC1101, 3V/5V sensors: https://github.com/eried/flipperzero-mayhem
 
 ----
 
@@ -66,7 +66,7 @@ All that will remain of us is organic matter, lymph, mixed with broken glass.
 
 ```Plumb``` a PDF for detailed information about each char, rectangle, line, et cetera - and easily extract text and tables: https://github.com/jsvine/pdfplumber
 
-```Go Dupfinder``` - Duplicate File Finder: https://github.com/mrinjamul/go-dupfinder
+```Go Dupfinder```. Duplicate File Finder: https://github.com/mrinjamul/go-dupfinder
 
 ----
 

@@ -4,9 +4,9 @@ At first there won't be time. Then we won't exit.
 
 ----
 
-```OSHIT: Seven Deadly Sins of Bad Open Source Research```: https://www.bellingcat.com/resources/2024/04/25/oshit-seven-deadly-sins-of-bad-open-source-research/
+```OSHIT. Seven Deadly Sins of Bad Open Source Research```: https://www.bellingcat.com/resources/2024/04/25/oshit-seven-deadly-sins-of-bad-open-source-research/
 
-```Threat Hunting - Suspicious User Agents```: https://detect.fyi/threat-hunting-suspicious-user-agents-3dd764470bd0
+```Threat Hunting. Suspicious User Agents```: https://detect.fyi/threat-hunting-suspicious-user-agents-3dd764470bd0
 
 ```The Ultimate Guide / CheatSheet to Flipper Zero```: https://infosecwriteups.com/the-ultimate-guide-cheatsheet-to-flipper-zero-d4c42d79d32c
 
@@ -16,15 +16,15 @@ At first there won't be time. Then we won't exit.
 
 ```Skytrack``` is a planespotting and aircraft OSINT tool made using Python: https://github.com/ANG13T/skytrack
 
-```Ominis-OSINT``` - This Python script is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Secure Web-History Search." It performs online information gathering by querying Google for search results related to a user-inputted query. The tool extracts relevant information such as titles, URLs, and potential mentions of the query in the results: https://github.com/AnonCatalyst/Ominis-Osint
+```Ominis-OSINT```. This Python script is an OSINT (Open Source Intelligence) tool called "Ominis OSINT - Secure Web-History Search." It performs online information gathering by querying Google for search results related to a user-inputted query. The tool extracts relevant information such as titles, URLs, and potential mentions of the query in the results: https://github.com/AnonCatalyst/Ominis-Osint
 
-```Google Recaptcha Solver``` - Solve Google reCAPTCHA in less than 5 seconds: https://github.com/sarperavci/GoogleRecaptchaBypass
+```Google Recaptcha Solver```. Solve Google reCAPTCHA in less than 5 seconds: https://github.com/sarperavci/GoogleRecaptchaBypass
 
-```Mailcat``` - Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job: https://github.com/sharsil/mailcat
+```Mailcat```. Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job: https://github.com/sharsil/mailcat
 
 ```Close-Circuit Telegram Vision``` revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings: https://github.com/IvanGlinkin/CCTV
 
-```Lsassy``` - Python tool to remotely extract credentials on a set of hosts: https://github.com/login-securite/lsassy
+```Lsassy```. Python tool to remotely extract credentials on a set of hosts: https://github.com/login-securite/lsassy
 
 ```Certina``` is an OSINT tool for red teamers and bug hunters to discover subdomains from web certificate data: https://github.com/n0mi1k/certina
 
@@ -38,29 +38,29 @@ At first there won't be time. Then we won't exit.
 
 ```ChatGPT API Free Reverse Proxy```, offering free self-hosted API access to ChatGPT (`gpt-3.5-turbo`) with OpenAI's familiar structure, so no code changes are needed: https://github.com/PawanOsman/ChatGPT
 
-```OpenVoice``` - Instant voice cloning by MyShell: https://github.com/myshell-ai/OpenVoice
+```OpenVoice```. Instant voice cloning by MyShell: https://github.com/myshell-ai/OpenVoice
 
-```MeloTTS``` - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean: https://github.com/myshell-ai/MeloTTS
+```MeloTTS```. High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean: https://github.com/myshell-ai/MeloTTS
 
-```AIlice``` is a fully **autonomous, general-purpose AI agent**. This project aims to create a standalone artificial intelligence assistant, similar to JARVIS, based on the open-source LLM. AIlice achieves this goal by building a "text computer" that uses a Large Language Model (LLM) as its core processor. Currently, AIlice demonstrates proficiency in a range of tasks, including **thematic research, coding, system management, literature reviews, and complex hybrid tasks** that go beyond these basic capabilities: https://github.com/myshell-ai/AIlice
+```AIlice``` is a fully autonomous, general-purpose AI agent. This project aims to create a standalone artificial intelligence assistant, similar to JARVIS, based on the open-source LLM. AIlice achieves this goal by building a "text computer" that uses a Large Language Model (LLM) as its core processor. Currently, AIlice demonstrates proficiency in a range of tasks, including **thematic research, coding, system management, literature reviews, and complex hybrid tasks** that go beyond these basic capabilities: https://github.com/myshell-ai/AIlice
 
 ----
 
 **Software Development:**
 
-```Bruno``` - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia: https://github.com/usebruno/bruno
+```Bruno```. Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia: https://github.com/usebruno/bruno
 
 ----
 
 **Linux & DevOps:**
 
-```AppAgent``` - Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps: https://github.com/mnotgod96/AppAgent
+```AppAgent```. Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps: https://github.com/mnotgod96/AppAgent
 
 ----
 
 **New from CyberDetective:**
 
-OSINT: ```Persistent Threat Monitoring with Google Programmable Search Engines``` (by twitter.com/ervin_zubic )
+OSINT. ```Persistent Threat Monitoring with Google Programmable Search Engines``` (by twitter.com/ervin_zubic )
 
 - Using PSE for Persistent Threat Monitoring
 
@@ -78,7 +78,7 @@ A map marking the places where people have gone missing. For each marker there i
 
 **New from GitHub Community:**
 
-```DataQA Extractor``` - App to extract structured fields into a spreadsheet from unstructured text: https://github.com/dataqa/extractor
+```DataQA Extractor```. App to extract structured fields into a spreadsheet from unstructured text: https://github.com/dataqa/extractor
 
 ----
 

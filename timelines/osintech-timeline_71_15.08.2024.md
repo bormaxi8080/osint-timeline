@@ -38,29 +38,29 @@ China has built more than 50 new settlements along its disputed borders and paid
 
 ```Predicta Search``` unearths digital footprints of phone numbers and emails. Predicta has a free tier, paid subscription tier and an API for flexibility. It generates detailed reports in csv format (spreadsheet) so you can export it and use the data in multiple different ways — such as visualizing in Cosmograph: https://www.predictasearch.com/overview
 
-```Cosmograph``` - Make sense of your graph and machine learning data: https://cosmograph.app/
+```Cosmograph```. Make sense of your graph and machine learning data: https://cosmograph.app/
 
 ```Signalhire``` searches and displays phone numbers, emails, and social media profiles like LinkedIn, Facebook, and Twitter, all in one place: https://www.signalhire.com/
 
-```TeleParser``` - Simple parser for Telegram chats and channels with lemmatizer. Writes data in JSON, CSV and MongoDB: https://github.com/artmih24/TeleParser
+```TeleParser```. Simple parser for Telegram chats and channels with lemmatizer. Writes data in JSON, CSV and MongoDB: https://github.com/artmih24/TeleParser
 
-```TelAnalysis``` - Telegram Analysis tool: https://github.com/krakodjaba/telanalysis
+```TelAnalysis```. Telegram Analysis tool: https://github.com/krakodjaba/telanalysis
 
-```Raven``` - This app uses APIs and web scraping to fetch news articles: https://github.com/ksh-b/raven
+```Raven```. This app uses APIs and web scraping to fetch news articles: https://github.com/ksh-b/raven
 
-```Aduana``` - Frontera backend to guide a crawl using PageRank, HITS or other ranking algorithms based on the link structure of the web graph, even when making big crawls (one billion pages): https://github.com/scrapinghub/aduana
+```Aduana```. Frontera backend to guide a crawl using PageRank, HITS or other ranking algorithms based on the link structure of the web graph, even when making big crawls (one billion pages): https://github.com/scrapinghub/aduana
 
 ```Mails/Phones/Any Bulk Scrape & Extractor Pro``` is a powerful tool that allows you to bulk extract email and phone numbers from various social media platforms including Facebook, Twitter, Instagram, LinkedIn, Youtube, Pinterest, TikTok, Tumblr, Dribbble, VK, Discord, ok.ru, Line, Snapchat and any website: https://github.com/peoslsodo/Emails-Phones-Any-Bulk-Scrape-Extractor
 
-```Tik-Spyder``` - A Python command-line tool designed to collect TikTok data from Google's search results using SerpAPI: https://github.com/estebanpdl/tik-spyder
+```Tik-Spyder```. A Python command-line tool designed to collect TikTok data from Google's search results using SerpAPI: https://github.com/estebanpdl/tik-spyder
 
 ```TikTok Scraper Selenium``` - Quick and dirty script that uses selenium and a webdriver binary to scrape public TikTok profiles: https://github.com/slouchd/tiktok-scraper-selenium
 
-```TikTok Crawler``` - A custom Python crawler written in Selenium for downloading Tiktok videos as mp4 files along with their metadata in a json file (author, tags, captions, etc.): https://github.com/jeppbautista/tiktok-crawler
+```TikTok Crawler```. A custom Python crawler written in Selenium for downloading Tiktok videos as mp4 files along with their metadata in a json file (author, tags, captions, etc.): https://github.com/jeppbautista/tiktok-crawler
 
-```Zefoy``` - Bot likes, followers, shares and views on TikTok: https://github.com/drakyanerlanggarizkiwardhana/zefoy
+```Zefoy```. Bot likes, followers, shares and views on TikTok: https://github.com/drakyanerlanggarizkiwardhana/zefoy
 
-```TikTok Hashtag Analysis``` - Analyze hashtags within posts scraped from TikTok: https://github.com/rly0nheart/tiktok-hashtag-analysis
+```TikTok Hashtag Analysis```. Analyze hashtags within posts scraped from TikTok: https://github.com/rly0nheart/tiktok-hashtag-analysis
 
 ```Elyzer``` is an email header analyzer, written in python, capable of detecting potential spoofing attempts: https://github.com/B0lg0r0v/Elyzer
 
@@ -68,15 +68,15 @@ China has built more than 50 new settlements along its disputed borders and paid
 
 ```W3b0s1nt (WebOSINT)``` is a Python tool/script for passive Domain Intelligence gathering: https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 
-```Hookchain``` - In the current digital security ecosystem, where threats evolve rapidly and with complexity, companies developing Endpoint Detection and Response (EDR) solutions are in constant search for innovations that not only keep up but also anticipate emerging attack vectors: https://github.com/helviojunior/hookchain
+```Hookchain```. In the current digital security ecosystem, where threats evolve rapidly and with complexity, companies developing Endpoint Detection and Response (EDR) solutions are in constant search for innovations that not only keep up but also anticipate emerging attack vectors: https://github.com/helviojunior/hookchain
 
 ----
 
 **AI:**
 
-```MindSearch``` - An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT): https://github.com/InternLM/MindSearch
+```MindSearch```.  An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT): https://github.com/InternLM/MindSearch
 
-```Frigate``` - NVR with realtime local object detection for IP cameras: https://github.com/blakeblackshear/frigate
+```Frigate```. NVR with realtime local object detection for IP cameras: https://github.com/blakeblackshear/frigate
 
 ---
 
@@ -84,11 +84,11 @@ China has built more than 50 new settlements along its disputed borders and paid
 
 ```esProc SPL``` is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently: https://github.com/SPLWare/esProc
 
-```Poetry``` - Python packaging and dependency management made easy: https://github.com/python-poetry/poetry
+```Poetry```. Python packaging and dependency management made easy: https://github.com/python-poetry/poetry
 
-```XMake``` - A cross-platform build utility based on Lua: https://github.com/xmake-io/xmake
+```XMake```. A cross-platform build utility based on Lua: https://github.com/xmake-io/xmake
 
-```Open source API development ecosystem``` - [https://hoppscotch.io](https://hoppscotch.io/) (open-source alternative to Postman, Insomnia): https://github.com/hoppscotch/hoppscotch
+```Open source API development ecosystem``` [https://hoppscotch.io](https://hoppscotch.io/) (open-source alternative to Postman, Insomnia): https://github.com/hoppscotch/hoppscotch
 
 ----
 
@@ -96,15 +96,15 @@ China has built more than 50 new settlements along its disputed borders and paid
 
 ```Monokle``` is a set of OSS tools designed to help create and maintain high-quality Kubernetes configurations throughout the application lifecycle: https://github.com/kubeshop/monokle
 
-```Mgmt``` - Next generation distributed, event-driven, parallel config management: https://github.com/purpleidea/mgmt
+```Mgmt```. Next generation distributed, event-driven, parallel config management: https://github.com/purpleidea/mgmt
 
-```Sniffnet``` - Application to comfortably monitor your Internet traffic. Cross-platform, Intuitive, Reliable: https://github.com/GyulyVGC/sniffnet
+```Sniffnet```. Application to comfortably monitor your Internet traffic. Cross-platform, Intuitive, Reliable: https://github.com/GyulyVGC/sniffnet
 
 ```PG Back Web``` isn't just another backup tool. It's your trusted ally in ensuring the security and availability of your PostgreSQL data: https://github.com/eduardolat/pgbackweb
 
-```Traceshark``` - Deep Linux runtime visibility meets Wireshark: https://github.com/aquasecurity/traceeshark
+```Traceshark```. Deep Linux runtime visibility meets Wireshark: https://github.com/aquasecurity/traceeshark
 
-```SSHamble```: Unexpected Exposures in SSH: https://github.com/runZeroInc/sshamble
+```SSHamble```. Unexpected Exposures in SSH: https://github.com/runZeroInc/sshamble
 
 ```OliveTin``` gives safe and simple access to predefined shell commands from a web interface: https://github.com/OliveTin/OliveTin
 
@@ -118,9 +118,9 @@ China has built more than 50 new settlements along its disputed borders and paid
 
 **New from CyberDetective:**
 
-```SQL for OSINT```: Uncover Hidden Connections, Accelerate Investigations: https://osintteam.blog/sql-for-osint-uncover-hidden-connections-accelerate-investigations-31ab9c947001
+```SQL for OSINT```. Uncover Hidden Connections, Accelerate Investigations: https://osintteam.blog/sql-for-osint-uncover-hidden-connections-accelerate-investigations-31ab9c947001
 
-Imagery OSINT Tools - general search, reverse search, generation, enhancement, editing and manipulation, metadata and forensic: https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/imagery-intelligence-imint
+```Imagery OSINT Tools```. General search, reverse search, generation, enhancement, editing and manipulation, metadata and forensic: https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/imagery-intelligence-imint
 
 [lenso.ai](http://lenso.ai): Reserve images/face images search tool. Search duplicates and similar images. Filter results by domains and keywords.
 
@@ -130,9 +130,9 @@ Imagery OSINT Tools - general search, reverse search, generation, enhancement, e
 
 **New from GitHub Community:**
 
-```Pingora``` - A library for building fast, reliable and evolvable network services: https://github.com/cloudflare/pingora#
+```Pingora```. A library for building fast, reliable and evolvable network services: https://github.com/cloudflare/pingora
 
-```Ghost``` - Independent technology for modern publishing, memberships, subscriptions and newsletters: https://github.com/TryGhost/Ghost
+```Ghost```. Independent technology for modern publishing, memberships, subscriptions and newsletters: https://github.com/TryGhost/Ghost
 
 ----
 

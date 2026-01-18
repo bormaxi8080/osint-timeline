@@ -30,35 +30,45 @@ The solution to the "Havana syndrome". How the GRU cripples American diplomats w
 
 ```TempMail``` is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses: https://github.com/mehmetkahya0/temp-mail
 
-```Wildfire``` - Record browser actions then replay immediately. Craft your own custom automation workflows. The Wildfire extension allows you to record your actions on the pages you visit, then replay those actions using a simulator. When actions are recorded or simulated, it produces a log which can be reviewed. You can then use the Workflow Editor to manipulate the behavior of the simulation. The extension is appropriate for those using similar automation extensions such as iMacros or for software testers using tools such as Selenium: https://chromewebstore.google.com/detail/wildfire/djhgeeodemlfdpmcccdekfalbhllcoim?hl=en
+```Wildfire```. Record browser actions then replay immediately. Craft your own custom automation workflows. The Wildfire extension allows you to record your actions on the pages you visit, then replay those actions using a simulator. When actions are recorded or simulated, it produces a log which can be reviewed. You can then use the Workflow Editor to manipulate the behavior of the simulation. The extension is appropriate for those using similar automation extensions such as iMacros or for software testers using tools such as Selenium: https://chromewebstore.google.com/detail/wildfire/djhgeeodemlfdpmcccdekfalbhllcoim?hl=en
 
 Identify anything. ```pyWhat``` easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is: https://github.com/bee-san/pyWhat
 
 ```The Telegram Snowball Sampling Tool``` is a Python-based utility designed for conducting snowball sampling to collect Telegram channels through forwards: https://github.com/thomasjjj/Telegram-Snowball-Sampling
 
-```Tweet Machine``` - this tool can retrieve : 1. Deleted tweets and replies, even if the account is suspended; 2. Old bios and Timestamp of The tweets: https://github.com/0xcyberpj/tweet-machine
+----
 
-```AnyBT``` - A tool for searching magnet link of all kinds of BitTorrent contents: https://github.com/j2qk3b/AnyBT
+```Tweet Machine```. 
+
+This tool can retrieve: 
+1. Deleted tweets and replies, even if the account is suspended; 
+2. Old bios and Timestamp of The tweets: 
+
+https://github.com/0xcyberpj/tweet-machine
+
+----
+
+```AnyBT```. A tool for searching magnet link of all kinds of BitTorrent contents: https://github.com/j2qk3b/AnyBT
 
 ```CamRaptor``` is a tool that exploits several vulnerabilities in popular DVR cameras to obtain network camera credentials: https://github.com/EntySec/CamRaptor
 
-```Bash-video``` - bash cli video editing "suite" which ... just wraps ffmpeg: https://github.com/allen-munsch/bash-video
+```Bash-video```. Bash cli video editing "suite" which ... just wraps ffmpeg: https://github.com/allen-munsch/bash-video
 
-```Sparrow-WiFi``` - Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux: https://github.com/ghostop14/sparrow-wifi
+```Sparrow-WiFi```. Next-Gen GUI-based WiFi and Bluetooth Analyzer for Linux: https://github.com/ghostop14/sparrow-wifi
 
 ----
 
 ```OpenUI``` let's you describe UI using your imagination, then see it rendered live: https://github.com/wandb/openui
 
-```SWE-agent``` - Agent Computer Interfaces Enable Software Engineering Language Models: https://github.com/princeton-nlp/SWE-agent
+```SWE-agent```. Agent Computer Interfaces Enable Software Engineering Language Models: https://github.com/princeton-nlp/SWE-agent
 
-```Screenshot-to-Code``` - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue): https://github.com/abi/screenshot-to-code
+```Screenshot-to-Code```. Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue): https://github.com/abi/screenshot-to-code
 
-```Lan-mouse``` - mouse & keyboard sharing via LAN: https://github.com/feschber/lan-mouse
+```Lan-mouse```. Mouse & keyboard sharing via LAN: https://github.com/feschber/lan-mouse
 
-```Bun``` - SQL-first Golang ORM for PostgreSQL, MySQL, MSSQL, and SQLite: https://github.com/uptrace/bun
+```Bun```. SQL-first Golang ORM for PostgreSQL, MySQL, MSSQL, and SQLite: https://github.com/uptrace/bun
 
-```UniLaunch``` - Advanced universal autostart tool for use on Linux, MacOS and Windows: https://github.com/timo-reymann/UniLaunch
+```UniLaunch```. Advanced universal autostart tool for use on Linux, MacOS and Windows: https://github.com/timo-reymann/UniLaunch
 
 ----
 

@@ -8,11 +8,11 @@ Buryat break.
 
 ----
 
-```Sextortion Statistics``` - Over 165,000 Victims Predicted by 2025. From October 2022 to March 2023, the [FBI](https://www.fbi.gov/contact-us/field-offices/memphis/news/sextortion-a-growing-threat-targeting-minors) observed a **20% increase** in financially motivated sextortion involving minors compared to the previous year: https://www.vpnranks.com/resources/sextortion-statistics/
+```Sextortion Statistics```. Over 165,000 Victims Predicted by 2025. From October 2022 to March 2023, the [FBI](https://www.fbi.gov/contact-us/field-offices/memphis/news/sextortion-a-growing-threat-targeting-minors) observed a **20% increase** in financially motivated sextortion involving minors compared to the previous year: https://www.vpnranks.com/resources/sextortion-statistics/
 
-```Text Attribution``` - How to identify the author using a computer: https://habr.com/ru/articles/834912/
+```Text Attribution```. How to identify the author using a computer: https://habr.com/ru/articles/834912/
 
-```Red Team Exercises``` - Repository of LinkedIn posts about Red Team Exercises: https://github.com/CyberSecurityUP/Red-Team-Exercises
+```Red Team Exercises```. Repository of LinkedIn posts about Red Team Exercises: https://github.com/CyberSecurityUP/Red-Team-Exercises
 
 ----
 
@@ -22,7 +22,7 @@ Buryat break.
 
 ```StealthMessage``` is a designed platform that allows users to send and receive anonymous messages without revealing its identity: https://github.com/nordszamora/Stealth-Message
 
-```G-Scraper``` - A GUI web scraper, written completely in Python: https://github.com/muaaz-ur-habibi/G-Scraper
+```G-Scraper```. A GUI web scraper, written completely in Python: https://github.com/muaaz-ur-habibi/G-Scraper
 
 ```JDownloader``` is a free, open-source download management tool with a huge community that makes downloading as easy and fast as it should be. Users can start, stop or pause downloads, set bandwith limitations, auto-extract archives and much more. It's an easy-to-extend framework that can save hours of your valuable time every day. Created version for Linux Void: https://github.com/johna23-lab/jdownloader2
 
@@ -34,19 +34,19 @@ Buryat break.
 
 ```Auto-Analyst``` is an AI-driven data analytics agentic system designed to simplify and enhance the data science process. By integrating various specialized AI agents, this tool aims to make complex data analysis tasks more accessible and efficient for data analysts and scientists. Auto-Analyst provides a streamlined approach to data preprocessing, statistical analysis, machine learning, and visualization, all within an interactive Streamlit interface: https://github.com/ArslanS1997/Auto-Analyst
 
-```Deep Live Cam``` - Real time face swap and one-click video deepfake with only a single image: https://github.com/hacksider/Deep-Live-Cam
+```Deep Live Cam```. Real time face swap and one-click video deepfake with only a single image: https://github.com/hacksider/Deep-Live-Cam
 
 ----
 
 **Software Development:**
 
-```Parrot UI``` - A no-CLI, copy-paste component library using Tailwind and TSX. Simple, transparent, and easy to integrate: https://github.com/ddoemonn/parrot_ui
+```Parrot UI```. A no-CLI, copy-paste component library using Tailwind and TSX. Simple, transparent, and easy to integrate: https://github.com/ddoemonn/parrot_ui
 
-```Stack Auth``` - Open-source Clerk/Auth0 alternative: https://github.com/stack-auth/stack
+```Stack Auth```. Open-source Clerk/Auth0 alternative: https://github.com/stack-auth/stack
 
-```Jet-Admin``` - Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries: https://github.com/Jet-labs/Jet-admin
+```Jet-Admin```. Web based PostgreSQL tables manager and admin dashboard for your operations! Edit data, build graphs and dashboards using queries: https://github.com/Jet-labs/Jet-admin
 
-```Pororoca``` - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman: https://github.com/alexandrehtrb/Pororoca#
+```Pororoca```. An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman: https://github.com/alexandrehtrb/Pororoca#
 
 ----
 

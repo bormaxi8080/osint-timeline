@@ -8,19 +8,17 @@ In a city without addresses.
 
 ----
 
-```How to Explore Russia When Data Is Shutting Down```. Analysis and How-To: https://k-d.center/researchinrussia
-
 ```Analyze Any X (Twitter) Profile for Hidden Insights Using the Word "My"```: https://medium.com/@practicalosint/analyze-any-x-twitter-profile-for-hidden-insights-using-my-f4a193c05e1d
 
-```The Kitchen Sink``` - A collection of Open-Source Intelligence resources: https://github.com/OSINTI4L/The-Kitchen-Sink
+```The Kitchen Sink```. A collection of Open-Source Intelligence resources: https://github.com/OSINTI4L/The-Kitchen-Sink
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-```Instatracker``` - an Instagram tracker that logs any changes to an Instagram account (followers, following, posts, and bio): https://github.com/ibnaleem/instatracker
+```Instatracker```. An Instagram tracker that logs any changes to an Instagram account (followers, following, posts, and bio): https://github.com/ibnaleem/instatracker
 
-```Comet``` - A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion: https://github.com/Thavarshan/comet
+```Comet```. A cross-platform desktop app powered by FFmpeg for easy, beautiful media conversion: https://github.com/Thavarshan/comet
 
 ```Awesome list of browser exploitation``` tutorials: https://github.com/Escapingbug/awesome-browser-exploit
 
@@ -28,17 +26,17 @@ In a city without addresses.
 
 **Universal Search & AI:**
 
-```ChatGPT Telegram Commentator``` - ChatGPT will write comments on your behalf in telegram and do it the fastest: https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator
+```ChatGPT Telegram Commentator```. ChatGPT will write comments on your behalf in telegram and do it the fastest: https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator
 
-```Supervision``` - write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone: https://github.com/roboflow/supervision
+```Supervision```. Write your reusable computer vision tools. Whether you need to load your dataset from your hard drive, draw detections on an image or video, or count how many detections are in a zone: https://github.com/roboflow/supervision
 
-```Facefusion``` - Industry leading face manipulation platform: https://github.com/facefusion/facefusion
+```Facefusion```. Industry leading face manipulation platform: https://github.com/facefusion/facefusion
 
 ---
 
 **Software Development:**
 
-```Rate Shield``` - A configurable rate limiter that can apply rate limiting on individual APIs with individual rules: https://github.com/x-sushant-x/Rate-Shield
+```Rate Shield```. A configurable rate limiter that can apply rate limiting on individual APIs with individual rules: https://github.com/x-sushant-x/Rate-Shield
 
 ```oci-registry``` is an implementation of the OCI Registry spec with filesystem and S3 storage back-ends: https://github.com/mcronce/oci-registry
 
@@ -46,9 +44,9 @@ In a city without addresses.
 
 **Linux & DevOps:**
 
-```Kopia``` - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication: https://github.com/kopia/kopia
+```Kopia```. Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication: https://github.com/kopia/kopia
 
-```Ghostport``` - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic redirection: https://github.com/vxfemboy/ghostport
+```Ghostport```. A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic redirection: https://github.com/vxfemboy/ghostport
 
 ----
 
@@ -68,13 +66,13 @@ Download overlays: https://ge-map-overlays.appspot.com/
 
 ```GlimpseHG```. View active Ads in Google, Linkedin and Meta (Facebook) for target domain.: https://glimpsehq.io
 
-```Mexico OSINT Tools``` - public records, government databases, companies info, geodata and more: https://substack.com/home/post/p-149884860
+```Mexico OSINT Tools```. Public records, government databases, companies info, geodata and more: https://substack.com/home/post/p-149884860
 
 ```OSINT Tools Kazakhstan```. Open Data portals, Companies registries, Vehicle history, Maps, Public procurement portal: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
 
-```Albania OSINT tools``` - business databases, licences databases, transaction of the treasury data (with persons/company names) - public procurements and more: https://t.co/Cy2UcDPhrC
+```Albania OSINT tools```. Business databases, licences databases, transaction of the treasury data (with persons/company names) - public procurements and more: https://www.osce.org/sites/default/files/f/documents/3/0/201276.pdf
 
-```Australian Public Data Sources``` - people/business/licence plates/professional licenses/obituary/newspaper search, web archives, property history, crime maps and more: https://t.co/QOBKw1aukf
+```Australian Public Data Sources```. People/business/licence plates/professional licenses/obituary/newspaper search, web archives, property history, crime maps and more: https://osint.fans/australia-osint-data-sources
 
 ----
 
