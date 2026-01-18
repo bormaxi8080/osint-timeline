@@ -14,13 +14,13 @@ Elon Musk’s Shadow Rule - How the U.S. government came to rely on the tech bil
 
 ```Villian C2``` released. Villain is a high level C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among connected sibling servers (Villain instances running on different machines).: https://github.com/t3l3machus/Villain
 
-```Autoscraper``` - A Smart, Automatic, Fast and Lightweight Web Scraper for Python: https://github.com/alirezamika/autoscraper
+```Autoscraper```. A Smart, Automatic, Fast and Lightweight Web Scraper for Python: https://github.com/alirezamika/autoscraper
 
 ```GitSint v2.0``` is an osint tool based on open source information retrieval through a GitHub  account. The tool mostly works with GitHub APIs: https://github.com/N0rz3/GitSint
 
 ```Noir``` is an attack surface detector form source code: https://github.com/hahwul/noir
 
-```Inspector``` - Find information via a French phone number: https://github.com/N0rz3/Inspector
+```Inspector```. Find information via a French phone number: https://github.com/N0rz3/Inspector
 
 ```Eyes``` is an OSINT tool to get existing accounts from an email: https://github.com/N0rz3/Eyes
 

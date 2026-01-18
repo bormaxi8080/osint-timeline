@@ -44,9 +44,9 @@ Juicy info: https://github.com/cipher387/juicyinfo-nuclei-templates
 
 ```Awesome Django Markdown Editor```, supported for Bootstrap & Semantic-UI: https://github.com/agusmakmun/django-markdown-editor
 
-```Speech-Condenser``` - A tool for summarizing dialogues from videos or audio: https://github.com/nezhar/speech-condenser
+```Speech-Condenser```. A tool for summarizing dialogues from videos or audio: https://github.com/nezhar/speech-condenser
 
-```Immich``` - High performance self-hosted photo and video backup solution: https://github.com/immich-app/immich
+```Immich```. High performance self-hosted photo and video backup solution: https://github.com/immich-app/immich
 
 ```Norse``` aims to exploit the advantages of bio-inspired neural components, which are sparse and event-driven - a fundamental difference from artificial neural networks. Norse expands [PyTorch](https://pytorch.org/) with primitives for bio-inspired neural components, bringing you two advantages: a modern and proven infrastructure based on PyTorch and deep learning-compatible spiking neural network components: https://github.com/norse/norse
 
@@ -58,15 +58,15 @@ Juicy info: https://github.com/cipher387/juicyinfo-nuclei-templates
 
 ```GSec``` Web Security Scanner: https://github.com/gotr00t0day/Gsec
 
-```Kics``` - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx: https://github.com/Checkmarx/kics
+```Kics```. Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx: https://github.com/Checkmarx/kics
 
-```Erlik``` - Vulnerable Soap Service: https://github.com/anil-yelken/Vulnerable-Soap-Service
+```Erlik```. Vulnerable Soap Service: https://github.com/anil-yelken/Vulnerable-Soap-Service
 
 ```ROP``` (Return Oriented Programming) Gadgets are small snippets of a few assembly instructions typically ending in a `ret` instruction which already exist as executable code within each binary or library. These gadgets may be used for binary exploitation and to subvert vulnerable executables: https://github.com/Ben-Lichtman/ropr
 
-```PwnedPassCheck``` - Check passwords and hashes against the haveibeenpwned.com Pwned Passwords API using PowerShell: https://github.com/rmbolger/PwnedPassCheck
+```PwnedPassCheck```. Check passwords and hashes against the haveibeenpwned.com Pwned Passwords API using PowerShell: https://github.com/rmbolger/PwnedPassCheck
 
-```Shellz``` - A script for generating common revshells fast and easy: https://github.com/4ndr34z/shells
+```Shellz```. A script for generating common revshells fast and easy: https://github.com/4ndr34z/shells
 
 ----
 

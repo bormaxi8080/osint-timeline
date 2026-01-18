@@ -7,8 +7,6 @@ I became different. Now I’m not scared, even when I’m scared.
 
 ```Uncovering Data From Phone Numbers``` by Gergo Varga: https://hakin9.org/uncovering-data-from-phone-numbers/
 
-Get started with the online investigation in SL Pro on Maltego - Social Links introduction: https://www.youtube.com/watch?v=ILYxtP_JLdQ&t=122s
-
 Uncovering the ```Easy Stealer``` Infostealer: https://www.bridewell.com/insights/blogs/detail/uncovering-the-easy-stealer-infostealer
 
 Using Facebook as a C2 Server: https://a1l4m.medium.com/using-facebook-as-a-c2-server-f4cbf38d156e
@@ -17,7 +15,7 @@ Using Facebook as a C2 Server: https://a1l4m.medium.com/using-facebook-as-a-c2-s
 
 ```Soxoj``` OSINT Repositories on GitHub: https://github.com/soxoj
 
-```OSINT Tools Israel``` - Websites and tools for OSINT investigations pertaining to Israel: https://github.com/ranlo/OSINT-Tools-Israel
+```OSINT Tools Israel```. Websites and tools for OSINT investigations pertaining to Israel: https://github.com/ranlo/OSINT-Tools-Israel
 
 ```List of Telegram bots to to automate country-specific OSINT``` (Brazil, China, India, Iran, Spain and more): https://airtable.com/appDoj6MX1GxpMJ8e/shrGXOv6HGjLojFfE/tbleF3EFRKW4Uf3Ak
 
@@ -31,11 +29,11 @@ Need to check if an email address is used in social networks? ```Epieos```, an 
 
 Advanced Search Capabilities and Analytics For Telegram. ```Telemetry``` provides the most comprehensive and impactful Telegram insights for you and your team: https://www.telemetryapp.io/product
 
-```KD6``` - A tool for extracting additional data from a person's personal identifiers: https://github.com/duk3r4/KD6-3.7
+```KD6```. A tool for extracting additional data from a person's personal identifiers: https://github.com/duk3r4/KD6-3.7
 
-```crt.sh``` - A Domain Certificate Search: https://crt.sh/
+```crt.sh```. A Domain Certificate Search: https://crt.sh/
 
-```LnkBomb``` - Malicious shortcut generator for collecting NTLM hashes from insecure file shares: https://github.com/dievus/lnkbomb
+```LnkBomb```. Malicious shortcut generator for collecting NTLM hashes from insecure file shares: https://github.com/dievus/lnkbomb
 
 ----
 

@@ -20,9 +20,11 @@ Automated Retrieval of ACLED Conflict Event Data: https://github.com/cran/acled.
 
 ACLED Data Science Laboratory: https://github.com/heltmulig/acled-project
 
-```Armed Conflict Data``` - Creates a data pipeline from the Armed Conflict Location Event Data (ACLED) with the intent that users can obtain data to validate conflict models: https://github.com/projectmesadata/armedconflict
+```Armed Conflict Data```. Creates a data pipeline from the Armed Conflict Location Event Data (ACLED) with the intent that users can obtain data to validate conflict models: https://github.com/projectmesadata/armedconflict
 
-```Netlas CookBook``` - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io: https://github.com/netlas-io/netlas-cookbook
+----
+
+```Netlas CookBook```. The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io: https://github.com/netlas-io/netlas-cookbook
 
 A list of useful payloads and bypass for Web Application Security and Pentest/CTF: https://github.com/swisskyrepo/PayloadsAllTheThings
 
@@ -38,7 +40,7 @@ A list of useful payloads and bypass for Web Application Security and Pentest/CT
 
 ```fetchmeurls``` - A Tool for Bug Bounty Hunters that uses Passive and Active Techniques to fetch URLs as a strong Recon, so you can then create Attack Vectors (XSS, Nuclei, SQLi etc...): https://github.com/blackhatethicalhacking/fetchmeurls
 
-```TBomb``` - SMS And Call Bomber For Linux And Termux: https://github.com/TheSpeedX/TBomb
+```TBomb```. SMS And Call Bomber For Linux And Termux: https://github.com/TheSpeedX/TBomb
 
 ```BaseCrack``` is a tool written in Python that can decode all alphanumeric base encoding schemes. This tool can accept single user input, multiple inputs from a file, input from argument, **multi-encoded bases**, **bases in image EXIF data**, **bases on images with OCR** and decode them incredibly fast: https://github.com/mufeedvh/basecrack
 
@@ -48,7 +50,7 @@ A list of useful payloads and bypass for Web Application Security and Pentest/CT
 
 ```WiFiCrack``` demonstrates of some of the security flaws associated with WPA(2) networks by demonstrating simple and efficient cracking. It captures the necessary Wi-Fi packets associated with with WPA(2) handshakes and then utilises [hashcat](https://github.com/hashcat/hashcat) to attempt to extract the hashed passkey: https://github.com/phenotypic/WiFiCrack
 
-```DamnWebScanner``` - Another web vulnerabilities scanner, this extension works on Chrome and Opera: https://github.com/swisskyrepo/DamnWebScanner
+```DamnWebScanner```. Another web vulnerabilities scanner, this extension works on Chrome and Opera: https://github.com/swisskyrepo/DamnWebScanner
 
 ```MARA``` is a Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in testing mobile applications against the OWASP mobile security threats: https://github.com/xtiankisutsa/MARA_Framework
 
@@ -56,9 +58,9 @@ A list of useful payloads and bypass for Web Application Security and Pentest/CT
 
 ```BSF (Botnet Simulation Framework)``` provides a discrete simulation environment to implement and extend peer-to-peer botnets, tweak their settings and allow defenders to evaluate monitoring and countermeasures: https://github.com/tklab-tud/BSF
 
-```HackSys Extreme Vulnerable Driver (HEVD)``` - Windows & Linux: https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
+```HackSys Extreme Vulnerable Driver (HEVD)``` for Windows & Linux: https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
 
-```GivingStorm``` - The beginnings of a C2 framework. Currently without all the C2 stuff so far. Generates a dual stage VBS infection vector, and a dual stage HTA infection vector. The variables take into account C2 addresses, Koadic/Empire payloads, and a few delivery mechanisms. The payload files are output to an aptly named directory "Payloads" that is created if not already present: https://github.com/LiveGray/GIVINGSTORM
+```GivingStorm```. The beginnings of a C2 framework. Currently without all the C2 stuff so far. Generates a dual stage VBS infection vector, and a dual stage HTA infection vector. The variables take into account C2 addresses, Koadic/Empire payloads, and a few delivery mechanisms. The payload files are output to an aptly named directory "Payloads" that is created if not already present: https://github.com/LiveGray/GIVINGSTORM
 
 ----
 

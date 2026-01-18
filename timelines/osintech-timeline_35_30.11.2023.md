@@ -4,13 +4,13 @@ Do you know what strength is, brother? Not even in truth. And in the absence of 
 
 ----
 
-```Crew Data``` - Search across 120000+ seafarers CV (with last/first names, vessel's names, salaries and other interesting details): https://crewdata.com/search.php
+```Crew Data```. Search across 120000+ seafarers CV (with last/first names, vessel's names, salaries and other interesting details): https://crewdata.com/search.php
 
 ```onion``` - This will be a collection of useful links on the onion network for osint. You can contribute to this collection by reporting a broken link or recommending your own finds: https://github.com/Scully-D/onion
 
 ----
 
-```First Contributions``` - the project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below: https://github.com/firstcontributions/first-contributions
+```First Contributions```. The project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below: https://github.com/firstcontributions/first-contributions
 
 When performing OSINT reconnaissance against a target, it’s often very difficult to accurately define the scope. There are so many sources of information and so many diverse types of data. It quickly becomes overwhelming. While there are many excellent OSINT tools already available to the discerning OSINTer, their focus is usually on breadth of collection. Our experience is that asset traceability and narrowly-focused discovery help us to discover the best results. To that end, we’ve developed a tool: the “Orca”. This approach focuses on comprehensive asset discovery coupled with narrow scoping to avoid false positives: https://github.com/digitalshadows/orca
 
@@ -18,7 +18,7 @@ When performing OSINT reconnaissance against a target, it’s often very difficu
 
 ```Hacker tools on Go``` (Golang): https://github.com/dreddsa5dies/goHackTools
 
-```awesome-soc``` - A collection of sources of documentation, as well as field best practices, to build/run a SOC: https://github.com/cyb3rxp/awesome-soc
+```awesome-soc```. A collection of sources of documentation, as well as field best practices, to build/run a SOC: https://github.com/cyb3rxp/awesome-soc
 
 ----
 
@@ -38,11 +38,11 @@ Tool that displays, via [Wayback CDX Server API](https://github.com/internetarc
 
 ```Crawlector``` is a threat hunting framework designed for scanning websites for malicious objects: https://github.com/MFMokbel/Crawlector
 
-```Universal Radio Hacker``` - Investigate Wireless Protocols Like A Boss: https://github.com/jopohl/urh
+```Universal Radio Hacker```. Investigate Wireless Protocols Like A Boss: https://github.com/jopohl/urh
 
 ```IMDSPOOF``` is a cyber deception tool that spoofs the AWS IMDS service to return HoneyTokens that can be alerted on: https://github.com/grahamhelton/IMDSpoof
 
-```WiFiBroot``` - A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures & Crack 4-way handshake and PMKID key. Also, supports a deauthentication/jammer mode for stress testing: https://github.com/hash3liZer/WiFiBroot
+```WiFiBroot```. A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures & Crack 4-way handshake and PMKID key. Also, supports a deauthentication/jammer mode for stress testing: https://github.com/hash3liZer/WiFiBroot
 
 ```DNSrr``` is a tool written in bash, used to enumerate all the juicy stuff from DNS: https://github.com/A3h1nt/Dnsrr
 

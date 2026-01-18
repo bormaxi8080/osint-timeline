@@ -16,15 +16,15 @@ Can AI Chatbots Be Used for Geolocation: https://www.bellingcat.com/resources/20
 
 The most useful and effective tools are collected here, with the exception of bots with leaks and hyped applications that have long lost most of their functionality (for example, 220vk: VK eventually gave more anonymity to users and cut the API, so now it is effective to use it to fix user sessions): https://github.com/rawrdcore/vk-osint-en
 
-```swagger-jacker``` - Express API documentation generator: https://github.com/cjihrig/swagger-jacker
+```swagger-jacker```. Express API documentation generator: https://github.com/cjihrig/swagger-jacker
 
-```sn0int``` - Semi-automatic OSINT framework and package manager: https://github.com/kpcyrd/sn0int
+```sn0int```. Semi-automatic OSINT framework and package manager: https://github.com/kpcyrd/sn0int
 
 ```Troll-A``` is a command line tool for extracting secrets such as passwords, API keys, and tokens from WARC (Web ARChive) files. `Troll-A` is an **easy-to-use**, **comprehensive**, and **fast** solution for finding secrets in web archive: https://github.com/crissyfield/troll-a
 
-```Spidex``` - continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets: https://github.com/alechilczenko/spidex
+```Spidex```. Continuous reconnaissance network scanner designed for large-scale scans, collecting information on all Internet assets: https://github.com/alechilczenko/spidex
 
-```kawipiko``` - blazingly fast static HTTP server focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database: https://github.com/volution/kawipiko
+```kawipiko```. Blazingly fast static HTTP server focused on low latency and high concurrency, by leveraging Go, `fasthttp` and the CDB embedded database: https://github.com/volution/kawipiko
 
 ```Netdata``` collects metrics per second and presents them in beautiful low-latency dashboards. It is designed to run on all of your physical and virtual servers, cloud deployments, Kubernetes clusters, and edge/IoT devices, to monitor your systems, containers, and applications: https://github.com/netdata/netdata
 

@@ -16,7 +16,7 @@ Collection of OSINT submodules/scripts/tools from ```notdodo```: https://github.
 
 ----
 
-```Amnezia-WG``` VPN protocol - AmneziaWG is a contemporary version of the WireGuard protocol. It's a fork of WireGuard-Go and offers protection against detection by Deep Packet Inspection (DPI) systems. At the same time, it retains the simplified architecture and high performance of the original: https://github.com/amnezia-vpn/amnezia-wg
+```Amnezia-WG``` VPN protocol. AmneziaWG is a contemporary version of the WireGuard protocol. It's a fork of WireGuard-Go and offers protection against detection by Deep Packet Inspection (DPI) systems. At the same time, it retains the simplified architecture and high performance of the original: https://github.com/amnezia-vpn/amnezia-wg
 
 ```Amnezia-WG``` OpenVPN Server - https://github.com/amnezia-vpn/openvpn-server
 
@@ -36,15 +36,15 @@ In video veritas, if we divert the old Latin saying: In video, there is truth! T
 
 ```GlossaryTech | Learn tech words``` - GlossaryTech Chrome Plugin is your tech recruiting and sourcing assistant. Once installed, you can always use the extension either for sourcing tech talent or for learning IT-related terms whilst browsing. The plug-in works for every single website, including Github, Wikipedia, and Stack Overflow: https://chrome.google.com/webstore/detail/glossarytech-learn-tech-w/lkfaknngnekohfmljebdikgefjfhkgkp
 
-```Silence``` - Block unknown Phone callers: https://github.com/x13a/Silence
+```Silence```. Block unknown Phone callers: https://github.com/x13a/Silence
 
-```PasteGo``` - Scrape/Parse Pastebin using GO and expression grammar (PEG): https://github.com/notdodo/pastego
+```PasteGo```. Scrape/Parse Pastebin using GO and expression grammar (PEG): https://github.com/notdodo/pastego
 
-```NMapAutomator``` - A script that you can run NMap scans in the background: https://github.com/mr-rizwan-syed/nmapAutomator
+```NMapAutomator```. A script that you can run NMap scans in the background: https://github.com/mr-rizwan-syed/nmapAutomator
 
 ```testssl.sh``` is a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws: https://github.com/drwetter/testssl.sh
 
-```Firezone``` - WireGuard®-based scalable remote access platform: https://github.com/firezone/firezone
+```Firezone```. WireGuard-based scalable remote access platform: https://github.com/firezone/firezone
 
 ```SCodeScanner``` stands for Source Code scanner where the user can scans the source code for finding the Critical Vulnerabilities: https://github.com/agrawalsmart7/scodescanner
 
@@ -52,17 +52,17 @@ In video veritas, if we divert the old Latin saying: In video, there is truth! T
 
 ```NaiveProxy``` uses Chromium's network stack to camouflage traffic with strong censorship resistence and low detectablility. Reusing Chrome's stack also ensures best practices in performance and security.: https://github.com/klzgrad/naiveproxy
 
-```DeadFinder``` - Dead link (broken link) means a link within a web page that cannot be connected. These links can have a negative impact to SEO and Security. This tool makes it easy to identify and modify: https://github.com/hahwul/deadfinder
+```DeadFinder```. Dead link (broken link) means a link within a web page that cannot be connected. These links can have a negative impact to SEO and Security. This tool makes it easy to identify and modify: https://github.com/hahwul/deadfinder
 
 ```HOMTE.SH``` is a powerful shell script designed to automate reconnaissance tasks during penetration testing. It utilizes various Go-based tools to gather information and identify the attack surface, making it a valuable asset for bug bounty hunters and penetration testers: https://github.com/mr-rizwan-syed/chomtesh
 
-```PatchaPalooza``` - A comprehensive tool that provides an insightful analysis of Microsoft's monthly security updates: https://github.com/xaitax/PatchaPalooza
+```PatchaPalooza```. A comprehensive tool that provides an insightful analysis of Microsoft's monthly security updates: https://github.com/xaitax/PatchaPalooza
 
-```Wacker``` - A WPA3 dictionary cracker: https://github.com/blunderbuss-wctf/wacker
+```Wacker```. A WPA3 dictionary cracker: https://github.com/blunderbuss-wctf/wacker
 
-```Kraken``` - A multi-platform distributed brute-force password cracking system: https://github.com/arcaneiceman/kraken
+```Kraken```. A multi-platform distributed brute-force password cracking system: https://github.com/arcaneiceman/kraken
 
-```uriDeep``` - Unicode encoding attacks with machine learning. Tool based on machine learning to create amazing fake domains using confusables. Some domains can deceive IDN policies (Chrome & Firefox): https://github.com/mindcrypt/uriDeep
+```uriDeep```. Unicode encoding attacks with machine learning. Tool based on machine learning to create amazing fake domains using confusables. Some domains can deceive IDN policies (Chrome & Firefox): https://github.com/mindcrypt/uriDeep
 
 ```autoNTDS``` is an automation script designed to simplify the process of dumping and cracking NTDS hashes using secretsdump.py and hashcat: https://github.com/hmaverickadams/autoNTDS
 

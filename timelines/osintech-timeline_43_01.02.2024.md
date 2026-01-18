@@ -20,17 +20,17 @@ Bellingcat contributor and software engineer Justin Clark has developed an open-
 
 ```Chatbox``` is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux: https://github.com/Bin-Huang/chatbox
 
-```Wallet Transaction Monitor``` - This script monitors a Bitcoin wallet address and notifies the user when there are changes in the balance or new transactions: https://github.com/SomethingTotallyRandom/Wallet-Transaction-Monitor
+```Wallet Transaction Monitor```. This script monitors a Bitcoin wallet address and notifies the user when there are changes in the balance or new transactions: https://github.com/SomethingTotallyRandom/Wallet-Transaction-Monitor
 
 ```apiosintDS``` is a [python client library](https://github.com/davidonzo/apiosintDS) for public _API_ lookup service over _OSINT_ IoCs stored at [DigitalSide Threat-Intel](https://osint.digitalside.it/) repository. It can be defined a **Service as a Library** tool designed to act both as a standard Python library to be included in your own Python application and as command line tool. Query can be performed against souspicious IPs, domains, urls and file hashes: https://github.com/davidonzo/apiosintDS
 
-```Manuka``` - A modular OSINT honeypot for blue teamers: https://github.com/spaceraccoon/manuka
+```Manuka```. A modular OSINT honeypot for blue teamers: https://github.com/spaceraccoon/manuka
 
-```"Bob the Smuggler"``` - a tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives. The tool would compress your binary (EXE/DLL) into 7z/zip file format, then XOR encrypt the archive and then hides inside PNG/GIF image file format (Image Polyglots): https://github.com/TheCyb3rAlpha/BobTheSmuggler
+```Bob the Smuggler```. A tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives. The tool would compress your binary (EXE/DLL) into 7z/zip file format, then XOR encrypt the archive and then hides inside PNG/GIF image file format (Image Polyglots): https://github.com/TheCyb3rAlpha/BobTheSmuggler
 
-```ExecIT``` - Execute shellcode files with rundll32: https://github.com/florylsk/ExecIT
+```ExecIT```. Execute shellcode files with rundll32: https://github.com/florylsk/ExecIT
 
-```LOLSpoof``` - An interactive shell to spoof some LOLBins command line: https://github.com/itaymigdal/LOLSpoof
+```LOLSpoof```. An interactive shell to spoof some LOLBins command line: https://github.com/itaymigdal/LOLSpoof
 
 ----
 

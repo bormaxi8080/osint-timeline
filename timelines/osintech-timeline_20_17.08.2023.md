@@ -15,9 +15,9 @@ Technology publication CNET removed thousands of old articles - it decided that 
 
 ----
 
-```Global Modern Slavery Directory``` - Connecting victims and survivors to support and services around the world: https://globalmodernslavery.org/
+```Global Modern Slavery Directory```. Connecting victims and survivors to support and services around the world: https://globalmodernslavery.org/
 
-```Audio OSINT``` - "Duch OSINT Guy" [Nico Dekens](https://www.linkedin.com/in/dutch-osintguy/) blog: https://www.dutchosintguy.com/post/audio-osint
+```Audio OSINT```. "Duch OSINT Guy" [Nico Dekens](https://www.linkedin.com/in/dutch-osintguy/) blog: https://www.dutchosintguy.com/post/audio-osint
 
 ```Ceno``` (short for censorship.no!) is the world’s first mobile browser that side-steps current Internet censorship methods. Its peer-to-peer backbone allows people to access and share web information in and across regions where connectivity has been interrupted or compromised: https://censorship.no/en/index.html
 
@@ -26,17 +26,17 @@ Facebook still widely used among bad actors. Full of posts, comments, and discus
 Need to compare different maps? Check out [https://mc.bbbike.org/mc/](https://mc.bbbike.org/mc/)  
 This tool lets you compare various [#maps](https://www.linkedin.com/feed/hashtag/?keywords=maps&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7094542799798157312) seamlessly, perfect for enhancing your geographic analysis.
 
-```Enola``` - a Sherlock's sister, Modern shiny CLI tool written with Golang to help you. Hunt down social media accounts by username across social networks: https://github.com/TheYahya/enola
+```Enola```. A Sherlock's sister, Modern shiny CLI tool written with Golang to help you. Hunt down social media accounts by username across social networks: https://github.com/TheYahya/enola
 
 ```Social Media Analysis Toolkit (SMAT)``` - Tools developed to analyze social media, particularly hate and disinformation, at scale.: https://github.com/EmmiBevensee/social-media-analysis-toolkit
 
 ```Scalpel``` is a Python Static Analysis Framework. It provides essential program analysis functions for facilitating the implementation of client applications focusing on statically resolving dedicated problems: https://github.com/SMAT-Lab/Scalpel
 
-```TraxOSINT``` - OSINT tool for track IP adress: https://github.com/N0rz3/TraxOsint
+```TraxOSINT```. OSINT tool for track IP adress: https://github.com/N0rz3/TraxOsint
 
 ----
 
-```Twint``` - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations: https://github.com/twintproject/twint
+```Twint```. An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations: https://github.com/twintproject/twint
 
 ```TwOSINT``` - Python tool that automates the process of Twitter OSiNT investigation using twint: https://github.com/falkensmz/tw1tter0s1nt
 
