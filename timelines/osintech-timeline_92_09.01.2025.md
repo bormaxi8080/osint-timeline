@@ -48,19 +48,19 @@ And the earth watches, watches with greedy eyes.
 
 ```TGeocoder```. Parse Telegram channels and extracts location data contained within the messages and finds the Lat/Lon coordinates of each event. OpenAI API key required. Telegram API key required (do not use your important Telegram accounts to get the API key, there is a risk of blocking): https://github.com/MJCruickshank/TGeocoder
 
-```TestDriverAI``` - Next generation autonomous AI agent for end-to-end testing of web & desktop: https://github.com/testdriverai/testdriverai
+```TestDriverAI```. Next generation autonomous AI agent for end-to-end testing of web & desktop: https://github.com/testdriverai/testdriverai
 
-```StrUtil``` - Go metrics for calculating string similarity and other string utility functions: https://github.com/adrg/strutil
+```StrUtil```. Go metrics for calculating string similarity and other string utility functions: https://github.com/adrg/strutil
 
 ```Favicorn``` takes a favicon and provides search result links across 10 platforms, and not only: https://github.com/sharsil/favicorn
 
-```UrlFinder``` - A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning: https://github.com/projectdiscovery/urlfinder
+```UrlFinder```. A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning: https://github.com/projectdiscovery/urlfinder
 
 ----
 
 **Universal Search & AI:**
 
-```Prompt Engineering Guide``` - Guides, papers, lecture, notebooks and resources for prompt engineering: https://github.com/dair-ai/Prompt-Engineering-Guide
+```Prompt Engineering Guide```. Guides, papers, lecture, notebooks and resources for prompt engineering: https://github.com/dair-ai/Prompt-Engineering-Guide
 
 ----
 
@@ -68,13 +68,13 @@ And the earth watches, watches with greedy eyes.
 
 ```microG Services``` is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available: https://github.com/microg/GmsCore
 
-```Moss``` - a simple, fast, ordered, persistable, key-val storage library for golang: https://github.com/couchbase/moss
+```Moss```. A simple, fast, ordered, persistable, key-val storage library for golang: https://github.com/couchbase/moss
 
 ----
 
 **Linux & DevOps:**
 
-```FlareSolverr``` - Proxy server to bypass Cloudflare protection: https://github.com/FlareSolverr/FlareSolverr
+```FlareSolverr```. Proxy server to bypass Cloudflare protection: https://github.com/FlareSolverr/FlareSolverr
 
 ```GPOHunter```. A security assessment tool for analyzing Active Directory Group Policy Objects (GPOs) to identify misconfigurations and vulnerabilities: https://github.com/PShlyundin/GPOHunter
 
@@ -94,7 +94,7 @@ And the earth watches, watches with greedy eyes.
 
 **New from GitHub Community:**
 
-```Siyuan``` - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang: https://github.com/siyuan-note/siyuan
+```Siyuan```. A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang: https://github.com/siyuan-note/siyuan
 
 ----
 

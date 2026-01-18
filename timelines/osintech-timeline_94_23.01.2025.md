@@ -36,7 +36,7 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to ```Taiwan``` (officially the Republic of China | ROC): https://github.com/paulpogoda/OSINT-Tools-Taiwan
 
-```ClatScope Info Tool``` - The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (20 features). Perfect for investigators, pentesters, or anyone looking for an effective reconnaissance / OSINT tool: https://github.com/Clats97/ClatScope
+```ClatScope Info Tool```. The best and most versatile OSINT utility for retrieving geolocation, DNS, WHOIS, phone, email, data breach information and much more (20 features). Perfect for investigators, pentesters, or anyone looking for an effective reconnaissance / OSINT tool: https://github.com/Clats97/ClatScope
 
 ```ClatsCracker``` is a versatile Python password-cracking tool supporting over 15 hash algorithms. It offers dictionary or brute-force attacks, adjustable threads, salted hash verification, a user-friendly menu, and progress feedback-ensuring, efficient, ethical password testing: https://github.com/Clats97/ClatsCracker
 
@@ -46,7 +46,7 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 
 **Universal Search & AI:**
 
-```AI-Context``` - A command-line tool designed to produce a context file from various sources, to make interactions with LLM apps (like ChatGPT, Claude, etc.) easy: https://github.com/tanq16/ai-context
+```AI-Context```. A command-line tool designed to produce a context file from various sources, to make interactions with LLM apps (like ChatGPT, Claude, etc.) easy: https://github.com/tanq16/ai-context
 
 Connect to your customer data using any LLM and gain actionable insights. ```IdentityRAG``` creates a single comprehensive customer 360 view (golden record) by unifying, consolidating, disambiguating and deduplicating data across multiple sources through identity resolution: https://github.com/tilotech/identity-rag-customer-insights-chatbot
 

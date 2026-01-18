@@ -18,33 +18,33 @@ If everyone around you lies and sells instead of making things, it means that th
 
 **OSINT Tools, Services and Investigations:**
 
-```Telegram Scraper``` - A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities: https://github.com/unnohwn/telegram-scraper
+```Telegram Scraper```. A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities: https://github.com/unnohwn/telegram-scraper
 
-```GoSearch``` - OSINT tool for searching usernames across social networks, written in Go: https://github.com/ibnaleem/gosearch
+```GoSearch```. OSINT tool for searching usernames across social networks, written in Go: https://github.com/ibnaleem/gosearch
 
-```CC Validation Webserver``` - A lightweight web server for validating credit card numbers, written in Go: https://github.com/ibnaleem/cc-validation-webserver
+```CC Validation Webserver```. A lightweight web server for validating credit card numbers, written in Go: https://github.com/ibnaleem/cc-validation-webserver
 
-```Favicon Downloader``` - Ultimate Favicon Checking & Downloading Tool: https://github.com/seadfeng/favicon-downloader
+```Favicon Downloader```. Ultimate Favicon Checking & Downloading Tool: https://github.com/seadfeng/favicon-downloader
 
 ----
 
 **Universal Search & AI:**
 
-```Surya``` - OCR, layout analysis, reading order, table recognition in 90+ languages: https://github.com/VikParuchuri/surya
+```Surya```. OCR, layout analysis, reading order, table recognition in 90+ languages: https://github.com/VikParuchuri/surya
 
-```Gateway``` - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs: https://github.com/adaline/gateway
+```Gateway```. The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs: https://github.com/adaline/gateway
 
 ---
 
 **Software Development:**
 
-```Data Anonymization``` - Data anonymization & masking of sensitive information in a relational database. Auto detection of sensitive data: https://github.com/igor-pcholkin/DataAnonymization
+```Data Anonymization```. Data anonymization & masking of sensitive information in a relational database. Auto detection of sensitive data: https://github.com/igor-pcholkin/DataAnonymization
 
 ----
 
 **Linux & DevOps:**
 
-```Checksum``` - File checksum verification tool written in Go: https://github.com/ibnaleem/checksum
+```Checksum```. File checksum verification tool written in Go: https://github.com/ibnaleem/checksum
 
 ----
 
@@ -64,7 +64,7 @@ Superbolt. A new tool from GrayLark allows to geolocate a photo by very small de
 
 **New from GitHub Community:**
 
-```Memos``` - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way: https://github.com/usememos/memos
+```Memos```. An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way: https://github.com/usememos/memos
 
 ----
 

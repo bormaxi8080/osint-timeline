@@ -19,7 +19,7 @@ Introducing ```OSINTers.bio```:
 - Create a professional OSINT profile that highlights your skills, experience, and expertise.
 - Gain visibility in the OSINT community and build credibility in intelligence, cybersecurity, and investigations.
 - Easily share your portfolio on your socials to attract potential collaborations, job offers, or freelance gigs.
-- Showcase your work— anything your project from SOCMINT (Social Media Intelligence) to GEOINT (Geospatial Intelligence) and beyond.
+- Showcase your work - anything your project from SOCMINT (Social Media Intelligence) to GEOINT (Geospatial Intelligence) and beyond.
 
 Link: https://OSINTers.bio
 
@@ -41,7 +41,7 @@ https://osintinsider.com/
 
 ```Oil and Gas Flaring Worldwide Interactive Map```. Based on Global Gas Flaring Observed from Space (VIIRS) data: https://flaring.skytruth.org
 
-```TestZeus Hercules```. Testing modern web applications can be difficult, with frequent changes and complex features making it hard to keep up. That’s where **Hercules** comes in. Hercules is the world’s first open-source testing agent, built to handle the toughest testing tasks so you don’t have to. It turns simple, easy-to-write Gherkin steps into fully automated **end to end** tests—no coding skills needed. Whether you’re working with tricky platforms like Salesforce or running tests in your CI/CD pipeline, Hercules adapts to your needs and takes care of the details. With Hercules, testing becomes simple, reliable, and efficient, helping teams everywhere deliver better software: https://github.com/test-zeus-ai/testzeus-hercules/
+```TestZeus Hercules```. Testing modern web applications can be difficult, with frequent changes and complex features making it hard to keep up. That’s where **Hercules** comes in. Hercules is the world’s first open-source testing agent, built to handle the toughest testing tasks so you don’t have to. It turns simple, easy-to-write Gherkin steps into fully automated end to end tests-no coding skills needed. Whether you’re working with tricky platforms like Salesforce or running tests in your CI/CD pipeline, Hercules adapts to your needs and takes care of the details. With Hercules, testing becomes simple, reliable, and efficient, helping teams everywhere deliver better software: https://github.com/test-zeus-ai/testzeus-hercules/
 
 ```getJS```. A tool to fastly get all javascript sources/files: https://github.com/003random/getJS
 

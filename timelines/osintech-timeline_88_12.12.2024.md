@@ -41,8 +41,6 @@ List of ```Dutch``` OSINT Sources for profilers and fact-checkers: https://githu
 ```x2.email``` is a minimalistic app for managing disposable emails ("Custom addresses") in Cloudflare. Protect your inbox from the onslaught of unwanted junk emails and take control of your email privacy: https://github.com/jessetinell/x2.email
 
 Excellent tool set summary: anything you need for geolocating stuff. ```GEOINTInvestigation``` by CScorza - an open-source repository offering tools and resources for GEOINT investigations: https://github.com/CScorza/GEOINTInvestigation
-  
-Encompasses maps, satellite imagery, GPS data, and analytical instruments: https://github.com/CScorza/GEOINTInvestigation
 
 ```Hawker```. An OSINT tool in python to find information about an email or phone number and get information about a URL then get information about an IP address: https://github.com/RetrO-M/Hawker
 
@@ -69,27 +67,27 @@ This project showcases the essentials of a search engine by scraping content fro
 
 ```Pandas Datareader```. Extract data from a wide range of Internet sources into a pandas DataFrame: https://github.com/pydata/pandas-datareader?tab=readme-ov-file
 
-```Opik``` - Open-source end-to-end LLM Development Platform: https://github.com/comet-ml/opik
+```Opik```. Open-source end-to-end LLM Development Platform: https://github.com/comet-ml/opik
 
-```Matterbridge``` - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!): https://github.com/42wim/matterbridge
+```Matterbridge```. Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!): https://github.com/42wim/matterbridge
 
 ----
 
 **Linux & DevOps:**
 
-```Appsmith``` - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.: https://github.com/appsmithorg/appsmith
+```Appsmith```. Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.: https://github.com/appsmithorg/appsmith
 
 ```Shiroxy``` - A Reverse Proxy with Multiple Domains, Automatic SSL and Dynamic Routing: https://github.com/ShikharY10/shiroxy
 
-```Gatus``` - Automated developer-oriented status page: https://github.com/TwiN/gatus
+```Gatus```. Automated developer-oriented status page: https://github.com/TwiN/gatus
 
-```SideKick``` - Bare metal to production ready in mins; your own fly server on your VPS: https://github.com/MightyMoud/sidekick
+```SideKick```. Bare metal to production ready in mins; your own fly server on your VPS: https://github.com/MightyMoud/sidekick
 
 ----
 
 **Flipper Zero & Other Devices:**
 
-```qFlipper``` — desktop application for updating Flipper Zero firmware via PC: https://github.com/flipperdevices/qFlipper
+```qFlipper```. Desktop application for updating Flipper Zero firmware via PC: https://github.com/flipperdevices/qFlipper
 
 ```CapibaraZero``` aim to be a cheap alternative to FlipperZero™. It's based on ESP32 boards especially on ESP32-S3 but we want to port firmware to all ESP family boards: https://github.com/CapibaraZero/fw
 

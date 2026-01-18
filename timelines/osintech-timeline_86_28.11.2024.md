@@ -40,9 +40,9 @@ Tomorrow it will rain.
 
 **OSINT Tools, Services and Investigations:**
 
-```yt-fts``` - YouTube Full Text Search - Search all of a YouTube channel from the command line: https://github.com/NotJoeMartinez/yt-fts
+```yt-fts```. YouTube Full Text Search - Search all of a YouTube channel from the command line: https://github.com/NotJoeMartinez/yt-fts
 
-```Pipet``` - Swiss-army tool for scraping and extracting data from online assets, made for hackers: https://github.com/bjesus/pipet
+```Pipet```. Swiss-army tool for scraping and extracting data from online assets, made for hackers: https://github.com/bjesus/pipet
 
 ----
 
@@ -56,13 +56,13 @@ Tomorrow it will rain.
 
 ```Authorizer``` is an open-source authentication and authorization solution for your applications. Bring your database and have complete control over the user information: https://github.com/authorizerdev/authorizer
 
-```My Python Eggs``` - little programs as experiments to play with Python: https://github.com/geekcomputers/Python
+```My Python Eggs```. A little programs as experiments to play with Python: https://github.com/geekcomputers/Python
 
 ----
 
 **Linux & DevOps:**
 
-```NeoHTop``` -  htop on steroids: https://github.com/Abdenasser/neohtop
+```NeoHTop```. htop on steroids: https://github.com/Abdenasser/neohtop
 
 ----
 
@@ -90,7 +90,7 @@ ailab.wondershare.com/tools/aging-filter.html
 
 **New from GitHub Community:**
 
-```Obtainium``` - Get Android app updates straight from the source: https://github.com/ImranR98/Obtainium
+```Obtainium```. Get Android app updates straight from the source: https://github.com/ImranR98/Obtainium
 
 ----
 

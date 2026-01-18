@@ -26,15 +26,15 @@ Christmas. God's disclaimer. Lights. Cornflowers.
 
 ```Face Anonymization Made Simple``` (WACV 2025). Our face anonymization technique preserves the original facial expressions, head positioning, eye direction, and background elements, effectively masking identity while retaining other crucial details. The anonymized face blends seamlessly into its original photograph, making it ideal for diverse real-world applications: https://github.com/hanweikung/face_anon_simple
 
-```FireCrawl``` - Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready markdown: https://github.com/devflowinc/firecrawl-simple
+```FireCrawl```. Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready markdown: https://github.com/devflowinc/firecrawl-simple
 
 ```Ip2region``` (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages: https://github.com/lionsoul2014/ip2region
 
-```Digital Footprint OSINT Tool``` - A powerful Open Source Intelligence (OSINT) tool for analyzing digital footprints across multiple platforms. This tool helps researchers and security professionals map an individual's online presence while respecting privacy and platform policies: https://github.com/Hamed233/Digital-Footprint-OSINT-Tool
+```Digital Footprint OSINT Tool```. A powerful Open Source Intelligence (OSINT) tool for analyzing digital footprints across multiple platforms. This tool helps researchers and security professionals map an individual's online presence while respecting privacy and platform policies: https://github.com/Hamed233/Digital-Footprint-OSINT-Tool
 
 ```Extractify.zip``` is open source progressive web app (PWA) website to view and extract zip files online without downloading them (client side). It is a free and open source project: https://github.com/xlmnxp/extractify.zip
 
-```hashCrack``` - Python-based Hashcat wrapper for easy decryption: https://github.com/ente0/hashCrack
+```hashCrack```. Python-based Hashcat wrapper for easy decryption: https://github.com/ente0/hashCrack
 
 ----
 
@@ -48,15 +48,15 @@ Christmas. God's disclaimer. Lights. Cornflowers.
 
 **Software Development:**
 
-```Dagster``` - An orchestration platform for the development, production, and observation of data assets: https://github.com/dagster-io/dagster
+```Dagster```. An orchestration platform for the development, production, and observation of data assets: https://github.com/dagster-io/dagster
 
 ----
 
 **Linux & DevOps:**
 
-```AutoSSH``` - Automatically restart SSH sessions and tunnels: https://github.com/Autossh/autossh
+```AutoSSH```. Automatically restart SSH sessions and tunnels: https://github.com/Autossh/autossh
 
-```Sara``` - RouterOS Security Inspector. It is a autonomous RouterOS configuration analyzer for finding security issues on MikroTik hardware: https://github.com/casterbyte/Sara
+```Sara```. RouterOS Security Inspector. It is a autonomous RouterOS configuration analyzer for finding security issues on MikroTik hardware: https://github.com/casterbyte/Sara
 
 ----
 
@@ -74,7 +74,7 @@ Resources of ```Capibara Zero```: https://github.com/CapibaraZero/resources
 
 **New from GitHub Community:**
 
-```LibreTranslate``` - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup: https://github.com/LibreTranslate/LibreTranslate
+```LibreTranslate```. Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup: https://github.com/LibreTranslate/LibreTranslate
 
 ----
 

@@ -16,7 +16,7 @@ Notre Dame, December 2024
 
 ```Maigret``` finally has a web interface mode! What feature should we implement next? A huge shoutout to the amazing community for supporting Maigret's development, suggesting improvements, and even adding new features: https://maigret.readthedocs.io/en/latest/features.html#web-interface
 
-```Kali Linux 2024.4``` released: 14 New Tools, Python 3.12, and Raspberry Pi Enhancements: https://www.blackhatethicalhacking.com/news/kali-linux-2024-4-14-new-tools-python-3-12-and-raspberry-pi-enhancements/
+```Kali Linux 2024.4``` released. 14 New Tools, Python 3.12, and Raspberry Pi Enhancements: https://www.blackhatethicalhacking.com/news/kali-linux-2024-4-14-new-tools-python-3-12-and-raspberry-pi-enhancements/
 
 ----
 
@@ -28,7 +28,7 @@ Notre Dame, December 2024
 
 ```Exposor``` is a tool using internet search engines to detect exposed technologies with a unified syntax: https://github.com/abuyv/exposor
 
-```Sputnik``` - Open Source Intelligence Browser Extension: https://github.com/mitchmoser/sputnik
+```Sputnik```. Open Source Intelligence Browser Extension: https://github.com/mitchmoser/sputnik
 
 ```Domain Checker Tool```. A high-performance Go-based tool for checking the availability and responsiveness of domains, utilizing both HTTP requests and browser automation for comprehensive analysis: https://github.com/murat-exp/Domain-Checker-Tool
 
@@ -40,7 +40,7 @@ Notre Dame, December 2024
 
 ```IntellGPT```. ChatGPT agent that's set to help in intelligence analysis with data science approaches and OSINT. Damn good in photo geolocation: https://chatgpt.com/g/g-NpDwkL41O-intellgpt-osint-data-science/
 
-```Maxun``` - Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes: https://github.com/getmaxun/maxun
+```Maxun```. Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes: https://github.com/getmaxun/maxun
 
 ```Agent S``` is an open agentic framework that uses computers like a human: https://github.com/simular-ai/Agent-S
 
@@ -48,7 +48,7 @@ Notre Dame, December 2024
 
 **Software Development:**
 
-```Atlas``` - Manage your database schema as code: https://github.com/ariga/atlas
+```Atlas```. Manage your database schema as code: https://github.com/ariga/atlas
 
 ----
 
@@ -56,11 +56,11 @@ Notre Dame, December 2024
 
 ```SeaweedFS``` is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding: https://github.com/seaweedfs/seaweedfs
 
-```Selene``` - Kernel-mode Paravirtualization in Ring 2, LLVM based linker, and some other things: https://github.com/can1357/selene
+```Selene```. Kernel-mode Paravirtualization in Ring 2, LLVM based linker, and some other things: https://github.com/can1357/selene
 
-```Back In Time``` - An easy-to-use backup tool for GNU/Linux using rsync in the back: https://github.com/bit-team/backintime
+```Back In Time```. An easy-to-use backup tool for GNU/Linux using rsync in the back: https://github.com/bit-team/backintime
 
-```bcrypt``` - Acceptable password hashing for your software and your servers (but you should really use argon2id or scrypt): https://github.com/pyca/bcrypt
+```bcrypt```. Acceptable password hashing for your software and your servers (but you should really use argon2id or scrypt): https://github.com/pyca/bcrypt
 
 ----
 
@@ -68,7 +68,7 @@ Notre Dame, December 2024
 
 ```Arduino Pcap```. A library for creating and sending .pcap files for Wireshark and other programms for CapibaraZero: https://github.com/CapibaraZero/ArduinoPcap
 
-```EvilPortal``` - A captive portal library for ESP32. This library read static files from SD and create a web server with a customizable POST method and a DNS server that redirect all requests from connected devices to captive portal page: https://github.com/CapibaraZero/EvilPortal
+```EvilPortal```. A captive portal library for ESP32. This library read static files from SD and create a web server with a customizable POST method and a DNS server that redirect all requests from connected devices to captive portal page: https://github.com/CapibaraZero/EvilPortal
 
 ----
 
@@ -90,7 +90,7 @@ https://chromewebstore.google.com/detail/googleswitch/gleogimfdeaapagejhfmlgkgen
 
 **New from GitHub Community:**
 
-```SteganoPass``` - Hidden in Plain Sight. This is a lightweight, privacy focused password concealer that uses steganography to hide encrypted passwords within image files. This approach provides an additional layer of security by hiding sensitive information in plain sight: https://github.com/psdoood/SteganoPass
+```SteganoPass```. Hidden in Plain Sight. This is a lightweight, privacy focused password concealer that uses steganography to hide encrypted passwords within image files. This approach provides an additional layer of security by hiding sensitive information in plain sight: https://github.com/psdoood/SteganoPass
 
 ----
 

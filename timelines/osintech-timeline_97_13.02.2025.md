@@ -16,7 +16,7 @@ They laughed happily.
 
 ----
 
-```Operation Archive``` - Saving the history behind Cybercriminal Arrests, Documentation, Raids, Seizures, and more: https://github.com/DarkWebInformer/OperationArchive
+```Operation Archive```. Saving the history behind Cybercriminal Arrests, Documentation, Raids, Seizures, and more: https://github.com/DarkWebInformer/OperationArchive
 
 Crime Data Frontend. Visualization and download tools for exploring the ```FBI’s Uniform Crime Reporting``` (UCR) data: https://github.com/fbi-cde/crime-data-frontend
 

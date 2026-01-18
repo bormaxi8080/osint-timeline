@@ -32,7 +32,7 @@ Azerbaijan Airlines flight J28243 crashed near Aktau, Kazakhstan, on 25 Decembe
 
 ```Garak``` checks if an LLM can be made to fail in a way we don't want. `garak` probes for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses. If you know `nmap`, it's `nmap` for LLMs: https://github.com/NVIDIA/garak
 
-```K-OTP-X``` - Advance OPT Bypass: https://github.com/M4xSec/K-OTP-X
+```K-OTP-X```. Advance OPT Bypass: https://github.com/M4xSec/K-OTP-X
 
 ----
 
@@ -48,7 +48,7 @@ Azerbaijan Airlines flight J28243 crashed near Aktau, Kazakhstan, on 25 Decembe
 
 ```DrawDB``` is a robust and user-friendly database entity relationship (DBER) editor right in your browser. Build diagrams with a few clicks, export sql scripts, customize your editor, and more without creating an account: https://github.com/drawdb-io/drawdb
 
-```Cloudberry``` - One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database: https://github.com/apache/cloudberry
+```Cloudberry```. One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database: https://github.com/apache/cloudberry
 
 ----
 

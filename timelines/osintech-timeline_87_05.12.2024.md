@@ -8,7 +8,7 @@ Those who do not want to see will never see, even if you hang spotlights all ove
 
 ----
 
-```"Black Legion"``` - Secret Fake Private Military Company in Kyrgyzstan: https://www.youtube.com/watch?v=NcWYhewG9Ho
+```"Black Legion"```. Secret Fake Private Military Company in Kyrgyzstan: https://www.youtube.com/watch?v=NcWYhewG9Ho
 
 ----
 
@@ -44,25 +44,25 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 **OSINT Tools, Services and Investigations:**
 
-```Telegram Checker``` - A Python tool for checking Telegram accounts via phone numbers. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction: https://github.com/unnohwn/telegram-checker
+```Telegram Checker```. A Python tool for checking Telegram accounts via phone numbers. Automatically verifies account existence, downloads profile pictures, and provides detailed user information in a clean JSON format. Built with Telethon API for reliable Telegram interaction: https://github.com/unnohwn/telegram-checker
 
 ```WhatsApp Spy``` is an app designed to monitor and log all on-screen texts whenever a user opens WhatsApp / Whatsapp Business. It also supports Instagram and Messenger, sending logs to either Discord or Telegram, without port forwarding: https://github.com/wellrodrig/Whatsapp-Spy
 
 ```The OTX Scraper``` is a Bash script designed to fetch URLs associated with a given domain from AlienVault's Open Threat Exchange (OTX) platform. It is particularly useful for cybersecurity professionals and researchers who want to gather intelligence for reconnaissance and vulnerability analysis: https://github.com/Suryesh/OTX_AlienVault_URL
 
-```Search By Image``` - Browser extension for reverse image search, available for Chrome, Edge and Safari: https://github.com/dessant/search-by-image
+```Search By Image```. Browser extension for reverse image search, available for Chrome, Edge and Safari: https://github.com/dessant/search-by-image
 
 ```Image Forensics```. This is an integrated framework for image forensic analysis. It includes a Java webservice, including seven splicing detection algorithm implementations, plus additional forensic tools, located in the subdirectory [java_service](https://github.com/MKLab-ITI/image-forensics/tree/master/java_service) and a Matlab algorithm evaluation framework: https://github.com/MKLab-ITI/image-forensics
 
-```Website to GIF``` - GitHub Action to turn your website into a GIF: https://github.com/PabloLec/website-to-gif
+```Website to GIF```. GitHub Action to turn your website into a GIF: https://github.com/PabloLec/website-to-gif
 
-```Deface``` - Video anonymization by face detection: https://github.com/ORB-HD/deface
+```Deface```. Video anonymization by face detection: https://github.com/ORB-HD/deface
 
-```DeDigger``` - Find public files in Google Drive: https://www.dedigger.com/
+```DeDigger```. Find public files in Google Drive: https://www.dedigger.com/
 
-```ScrapeComfort``` - Effortlessly extract data with the power of AI automating the process: https://github.com/Indie-Platforms/scrapecomfort
+```ScrapeComfort```. Effortlessly extract data with the power of AI automating the process: https://github.com/Indie-Platforms/scrapecomfort
 
-```Voice Writing Electron``` - A real-time, instant dictation desktop application built on Electron that uses Whisper and GROQ under the hood: https://github.com/aviaryan/voice-writing-electron
+```Voice Writing Electron```. A real-time, instant dictation desktop application built on Electron that uses Whisper and GROQ under the hood: https://github.com/aviaryan/voice-writing-electron
 
 ```Striker``` is an offensive information and vulnerability scanner: https://github.com/s0md3v/Striker
 
@@ -80,19 +80,19 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 **Software Development:**
 
-```WhoDB``` - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface:  https://github.com/clidey/whodb
+```WhoDB```. A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface:  https://github.com/clidey/whodb
 
-```SQL Seeder``` - This Go package provides a tool for generating SQL INSERT statements from JSON or Excel data. It supports various relationships between tables (one-to-many and many-to-many) and allows you to customize the delimiters used in your data: https://github.com/darwishdev/sqlseeder
+```SQL Seeder```. This Go package provides a tool for generating SQL INSERT statements from JSON or Excel data. It supports various relationships between tables (one-to-many and many-to-many) and allows you to customize the delimiters used in your data: https://github.com/darwishdev/sqlseeder
 
-```Chance``` - Random generator helper for JavaScript: https://github.com/chancejs/chancejs
+```Chance```. Random generator helper for JavaScript: https://github.com/chancejs/chancejs
 
 ----
 
 **Linux & DevOps:**
 
-```ShellFirm``` - Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification: https://github.com/kaplanelad/shellfirm
+```ShellFirm```. Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification: https://github.com/kaplanelad/shellfirm
 
-```ArchImage``` - Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest: https://github.com/ivan-hc/ArchImage
+```ArchImage```. Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest: https://github.com/ivan-hc/ArchImage
 
 ----
 
@@ -106,7 +106,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 ```MAPTILER```. Detailed worldwide 3D + 3D satellite + aerial photo maps. A lot of additional tools (real-time weather, elevation profile etc). SDK for creating your own interactive 3D maps with incredibly wide functionality: https://maptiler.com
 
-```Manhom.com``` - Large databases with detailed info about 240K+ persons from Arab regions. Biographies, social media profiles, related peoples and more. The site also allows you to track changes on the pages of people you are interested in: https://manhom.com
+```Manhom.com```. Large databases with detailed info about 240K+ persons from Arab regions. Biographies, social media profiles, related peoples and more. The site also allows you to track changes on the pages of people you are interested in: https://manhom.com
 
 ```A free online tool for reading files metadata```. What distinguishes it from many analogs is the number of fields to be read (maximum data, even the most insignificant) + a large number of supported formats: https://metashieldclean-up.tu.com
 
@@ -114,7 +114,7 @@ A list of OSINT tools that may be useful to you when conducting investigations r
 
 **New from GitHub Community:**
 
- ```Posthumous Automation``` - Code gets invoked when I die: https://github.com/0x41head/posthumous-automation
+ ```Posthumous Automation```. Code gets invoked when I die: https://github.com/0x41head/posthumous-automation
 
 ----
 

@@ -16,7 +16,7 @@ How Russian propaganda is looking for personnel. Billboard caption: "Looking for
 
 **OSINT Tools, Services and Investigations:**
 
-```HardBreak``` - A Wiki about Hardware Hacking: https://github.com/f3nter/HardBreak
+```HardBreak```. A Wiki about Hardware Hacking: https://github.com/f3nter/HardBreak
 
 ```Awesome Linux Attack Forensics Purplelabs```. This page is a result of the ongoing hands-on research around advanced Linux attacks, detection and forensics techniques and tools: https://github.com/cr0nx/awesome-linux-attack-forensics-purplelabs
 
@@ -24,9 +24,9 @@ A list of OSINT tools and resources that may be useful to you when conducting in
 
 ```Helium``` is a Python library for automating browsers such as Chrome and Firefox: https://github.com/mherrmann/helium
 
-```Meioc``` - Extracting IoC data from eMail: https://github.com/drego85/meioc
+```Meioc```. Extracting IoC data from eMail: https://github.com/drego85/meioc
 
-```MorphUrl``` - A command-line tool for IP address and URL obfuscation/de-obfuscation, providing diverse techniques for enhanced privacy and security: https://github.com/whiteSHADOW1234/MorphURL
+```MorphUrl```. A command-line tool for IP address and URL obfuscation/de-obfuscation, providing diverse techniques for enhanced privacy and security: https://github.com/whiteSHADOW1234/MorphURL
 
 ----
 
