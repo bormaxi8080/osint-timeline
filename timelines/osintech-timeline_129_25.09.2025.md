@@ -24,8 +24,6 @@ OSINT of ```Nepal```: https://unishka.substack.com/p/osint-of-nepal
 
 ```Explee```. Partially free service for searching companies worldwide (with numerous filters and settings): https://explee.com/
 
-```PPL Contact```. Platform to find verified business contacts and company details. Search by name, role, or organization — available via web interface or API, useful for OSINT and digital investigations: https://ppl.contact/
-
 ```Legendary Crypto``` A resource full of Crypto/OSINT tools, techniques and training courses for CTI, AML, and forensic investigations: https://github.com/K2SOsint/Legendary_Crypto
 
 ```BuiltWith```. Website profiler that reveals the tech stack behind any domain. Identify CMS, analytics, hosting, frameworks, and more — useful for OSINT, pentesting prep, and market intelligence: https://builtwith.com/

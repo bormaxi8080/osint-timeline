@@ -93,8 +93,6 @@ https://github.com/atlas-bear/osint-ai-guide
 
 **New from CyberDetective:**
 
-```Filesec```. Encyclopedia of file extensions. For each file, it indicates the types of attacks and platforms for which this extension can be used. It clearly shows that almost any file can be malicious: https://filesec.io/
-
 ```Nanonets OCR```. Hugging Face space for particularly heavy text recognition tasks in Images/PDFs. Good at reading tilted, blurred and other unreadable text: https://huggingface.co/spaces/MohamedRashad/Nanonets-OCR
 
 ```Kagi Translator```

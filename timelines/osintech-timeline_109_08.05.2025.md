@@ -40,7 +40,7 @@ Darknet search engines and directories: https://start.me/p/gyxDQM/darknet-deep-w
 
 **Software Development & APIs:**
 
-```SQLGlot``` is a no-dependency SQL parser, transpiler, optimizer, and engine. It can be used to format SQL or translate between [24 different dialects](https://github.com/tobymao/sqlglot/blob/main/sqlglot/dialects/__init__.py) like [DuckDB](https://duckdb.org/), [Presto](https://prestodb.io/) / [Trino](https://trino.io/), [Spark](https://spark.apache.org/) / [Databricks](https://www.databricks.com/), [Snowflake](https://www.snowflake.com/en/), and [BigQuery](https://cloud.google.com/bigquery/). It aims to read a wide variety of SQL inputs and output syntactically and semantically correct SQL in the targeted dialects: https://github.com/tobymao/sqlglot?tab=readme-ov-file
+```SQLGlot``` is a no-dependency SQL parser, transpiler, optimizer, and engine. It can be used to format SQL or translate between [24 different dialects](https://github.com/tobymao/sqlglot/blob/main/sqlglot/dialects/__init__.py) like [DuckDB](https://duckdb.org/), [Presto](https://prestodb.io/) / [Trino](https://trino.io/), [Spark](https://spark.apache.org/) / [Databricks](https://www.databricks.com/), [Snowflake](https://www.snowflake.com/en/), and [BigQuery](https://cloud.google.com/bigquery/). It aims to read a wide variety of SQL inputs and output syntactically and semantically correct SQL in the targeted dialects: https://github.com/tobymao/sqlglot
 
 ----
 

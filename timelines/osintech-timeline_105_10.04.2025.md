@@ -74,7 +74,7 @@ Roop. This software is designed to contribute positively to the AI-generated med
 
 ```Library of Leaks```. Search by keyword (full name, email, company) in leaked documents, emails, tables, images and other files. 29M+ public entities: https://search.libraryofleaks.org/
 
-```Marginaila Search```. Open source search engine. No ads, no AI. "Indexing the small, old and weird web"(c) Search blogs, forums, plain text sites and more: https://marginalia-search.com
+```Marginaila Search```. Open source search engine. No ads, no AI. "Indexing the small, old and weird web" (c) Search blogs, forums, plain text sites and more: https://marginalia-search.com
 
 You've probably seen the link to ```Dark Web Searching Guide``` by Chris Poulter (x.com/osintcombine) many times before. It was written in 2020, but was updated by the author last month and is now more relevant: https://www.osintcombine.com/post/dark-web-searching
 

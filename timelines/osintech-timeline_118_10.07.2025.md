@@ -64,7 +64,7 @@ Guide. ```Using Reddit in OSINT```. Detailed article by Nihad Hassan. Reddit arc
 
 **New from CyberDetective:**
 
-```OSINT Link```. Tools + Guides Directory: government records, people search, social media intelligence, grey literature, image search engines, files search engines and more: https://osint.link
+```OSINT Link```. Tools + Guides Directory: government records, people search, social media intelligence, grey literature, image search engines, files search engines and more: https://osintac.link
 
 ```ODCrawler```. Open directory search engine. Search videos, audio, images, archives and more: https://odcrawler.xyz/
 
@@ -84,7 +84,7 @@ https://authentic8.com/blog/unmasking-website-ownership-using-osint
 
 **New from GitHub Community:**
 
-```KeyPass```: Open Source Project & An Offline Password Manager. Store, manage, and take control securely: https://github.com/yogeshpaliyal/KeyPass
+```KeyPass```. Open Source Project & An Offline Password Manager. Store, manage, and take control securely: https://github.com/yogeshpaliyal/KeyPass
 
 ----
 

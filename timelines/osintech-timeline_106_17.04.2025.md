@@ -8,7 +8,7 @@ Time has judged. The bustle has praised the calendar without days off.
 
 ----
 
-```OSINT Resources/Tools by Country V 2.0```. This page lists tools and websites for **Open Source Intelligence (OSINT)** - gathering information from publicly available sources: https://digitaldigging.org/osint/
+```OSINT Resources/Tools by Country V 2.0```. This page lists tools and websites for Open Source Intelligence - gathering information from publicly available sources: https://digitaldigging.org/osint/
 
 ```Crypto OSINT```. How to Guides, cryptocurrency info search, wallet explorers, decentralized ecosystems and more: https://start.me/p/eppylY/finint-cryptocurrency
 
@@ -70,7 +70,7 @@ https://start.me/p/xbe5xP/a-i-tools
 
 **Flipper Zero & Other Devices:**
 
-```A Collection of Over 60 Scripts``` - updated specifically for the BadUSB function on the FlipperZero: https://github.com/beigeworm/BadUSB-Files-For-FlipperZero
+```A Collection of Over 60 Scripts``` updated specifically for the BadUSB function on the FlipperZero: https://github.com/beigeworm/BadUSB-Files-For-FlipperZero
 
 ----
 

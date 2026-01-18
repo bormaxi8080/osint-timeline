@@ -18,9 +18,7 @@ Security researcher Ruben Santamarta shared his fundamental (and one-of-a-kind) 
   
 As the author wrote, the analysis and the security issues described are purely hypothetical - because it's a nuclear reactor! The mind-blowing fact for me was that someone can buy nuclear plant equipment on eBay. Crazy - and quite alarming.  
   
-Please enjoy the read and spread the word - offensive security research has officially come to nuclear plants.  
-  
-More details:
+Please enjoy the read and spread the word - offensive security research has officially come to nuclear plants.
 
 Paper. A Practical Analysis of Cyber-Physical Attacks Against Nuclear Reactors: https://drive.google.com/file/d/1qe_nBH1ACDX2ydmzcIhJnbdRGnoDvVfP/view?pli=1
 
@@ -61,8 +59,6 @@ OSINT of Syria: https://unishka.substack.com/p/osint-of-syria
 ```Pentest Tools```. Online penetration testing platform offering a suite of tools for vulnerability scanning, exploitation, and reporting, designed to streamline security assessments for professionals: https://pentest-tools.com
 
 ```Slideshare Search```. Discover presentations, documents, infographics, useful for gathering insights about people and companies: https://www.slideshare.net/search
-
-```Sputnik OSINT Extension```. An old but useful Firefox extension for generating quick links to collect IP, URL, Domain and Hash string information: https://github.com/mitchmoser/sputnik
 
 ```Leaked Domains```  Vast database of leaked data, including credentials, stealer logs, and more, to discover hidden threats and broaden investigative scope: https://leaked.domains/
 
@@ -131,13 +127,13 @@ https://github.com/JPCERTCC/LogonTracer
 
 ```Telert```. Command‑line and Python utility that alerts on command completion, code execution and system monitoring events: https://github.com/navig-me/telert
 
---
+----
 
 ```KDiskMark``` is an HDD and SSD benchmark tool with a very friendly graphical user interface. KDiskMark with its presets and powerful GUI calls [Flexible I/O Tester](https://github.com/axboe/fio) and handles the output to provide an easy to view and interpret comprehensive benchmark result. The application is written in C++ with Qt and _doesn't have_ any KDE dependencies: https://github.com/JonMagon/KDiskMark
 
 Download: https://snapcraft.io/kdiskmark
 
---
+----
 
 ```FakeSNI```.
 

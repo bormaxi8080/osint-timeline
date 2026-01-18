@@ -30,9 +30,7 @@ OCCRP Data https://aleph.occrp.org
 Offshore Alert https://www.offshorealert.com
 Offshore Leak Database https://offshoreleaks.icij.org
 Offshore Leaks https://offshoreleaks.icij.org
-Public Library of US
-Diplomacy
-https://search.wikileaks.org/plusd
+Public Library of US Diplomacy: https://search.wikileaks.org/plusd
 Wikileaks https://wikileaks.org
 Wikileaks Advanced Search https://search.wikileaks.org/advanced
 WikiSpooks https://wikispooks.com
@@ -41,7 +39,7 @@ WikiSpooks https://wikispooks.com
 
 **OSINT Tools, Services and Investigations:**
 
-```OSINT Toolkit for the Philippines```. It includes resources on legal entities, land records and maps, procurement data, company directories, people search, and more: https://unishka.substack.com/p/osint-of-the-philippines?r=5ml2el&triedRedirect=true
+```OSINT Toolkit for the Philippines```. It includes resources on legal entities, land records and maps, procurement data, company directories, people search, and more: https://unishka.substack.com/p/osint-of-the-philippines
 
 ```Catalyst``` is a self-hosted, open source incident response platform and ticket system that helps to automate alert handling and incident response processes: https://github.com/SecurityBrewery/catalyst
 
@@ -53,17 +51,11 @@ WikiSpooks https://wikispooks.com
 
 ----
 
-```OSINTBox```. A collection of several hundred OSINT tools of various categories. Email, Phone, Data leaks, Venicle/license plate, Social media, Finance, Cryptocurrencies, Flight tracking, Police data, Google Custom Search Engines and many others.  
-  
-Online directory: https://osintbox.shellwriter.com/
-
-Tools list in JSON: https://github.com/vixkram/OSINTBox-data
-
-----
-
 ```WhoPostedWhat```. Free online tool for searching Facebook post in specific time range, location or posts from/associated with user uid. Instagram posts by location/date search tool (It may not be working at the moment): https://whopostedwhat.com/
 
 In September 2025, the desktop version of Facebook stopped being able to search posts. "Provereno" presents a tool that can be used as an alternative: https://provereno.media/facebook-search-ot-provereno/#gsc.tab=0
+
+----
 
 ```Google CSEs for Facebook```
 

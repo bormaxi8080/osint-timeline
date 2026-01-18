@@ -82,8 +82,6 @@ https://github.com/truemediaorg/deepfake-app
 
 ```Reddit User Insights```. A tool that analyzes a Reddit user's comments and, with the help of AI, makes assumptions about their gender, age, occupation, interests, brand mentions(!) and other properties: https://vapor.selva.ee/
 
-```Limitless OSINT```. Online platform for skill testing in OSINT and cyber intelligence. Digital Footprint Analysis, Geolocation Intelligence, Language Analysis, Foreign Influence Analysis, Operational Security Protocols: limitless-osint.com/challenges
-
 ----
 
 **New from GitHub Community:**

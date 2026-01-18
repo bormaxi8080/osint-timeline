@@ -18,7 +18,7 @@ A list of OSINT resources and tools that may be useful when conducting investiga
 
 ----
 
-```Registry Amnesia```: How Russian Data on Sanctioned Companies is disappearing – and how we put it back.
+```Registry Amnesia```: How Russian Data on Sanctioned Companies is disappearing - and how we put it back.
 
 Since Russia's full-scale invasion of Ukraine in 2022, the dictatorship has increasingly hidden and falsified data in its trade registry. We’ve churned through 100GB of compressed XML files, so that we can now present both: the current, memory-impaired version as well as the pre-war data.
 
@@ -50,8 +50,6 @@ https://www.osintteam.com/investigating-economic-crime-like-a-pro-tools-tradecra
 ```The Disinformation Laundromat```. An OSINT tool to expose mirror and proxy websites: https://github.com/ASD-at-GMF/disinfo-laundromat
 
 ```Open Measures``` is a platform for finding content on various ‘low-popularity’ social networks. Some of which have no censorship or are very free (4chan, BlueSky, Fideverse). There is a search on social networks popular in the former USSR countries (VK, OK, Rutube), as well as on archives of now defunct social networks (Parler). OpenMeasures allows to search for content by keywords, get statistics on the use of these words in posts and see which domains are most often mentioned when discussing a certain topic (and many other different features): https://public.openmeasures.io/timeline
-
-```PageCached```. A free tool that checks if a URL has been cached by major search engines and web archives, aiding in retrieving older versions of web pages: https://pagecached.com
 
 ```Check-up``` is a project aimed at analyzing the presence of misinformation in health ads that are promoted on major news websites in ```Brazil```: https://github.com/aosfatos/check-up
 

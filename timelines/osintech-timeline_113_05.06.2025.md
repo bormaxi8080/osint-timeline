@@ -36,7 +36,7 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 
 **Software Development & APIs:**
 
-```Lingui```. A readable, automated, and optimized (3 kb) internationalization for JavaScript: https://github.com/lingui/js-lingui?tab=readme-ov-file
+```Lingui```. A readable, automated, and optimized (3 kb) internationalization for JavaScript: https://github.com/lingui/js-lingui
 
 ----
 
@@ -60,7 +60,7 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 
 **New from GitHub Community:**
 
-```BountyOS```. New Linux distro for different cybersecurity tasks: based on Debian 12, 75+ tools, simple installation (ISO file): https://bountyos.github.io/
+```BountyOS```. New Linux distro for different cybersecurity tasks, based on Debian 12, 75+ tools, simple installation (ISO file): https://bountyos.github.io/
 
 ----
 

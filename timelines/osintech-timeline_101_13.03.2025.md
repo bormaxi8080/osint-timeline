@@ -10,7 +10,7 @@ Spring, the first bright butterfly, entered the house. It brought pollen, dust a
 
 In our latest investigation, Bellingcat identifies the former ```Wagner fighter and admin of an racist Telegram group``` behind a Russian fashion brand that sells clothing items glorifying far-right ideology and the Russian mercenary group Wagner: https://www.bellingcat.com/news/2025/03/06/unmasking-maskov-how-bellingcat-found-a-man-outfitting-russian-neo-nazis/?utm_source=linkedin
 
-```Maritime OSINT```. The Caribbean’s Untapped Weapon Against Transnational Crime: https://www.linkedin.com/pulse/maritime-osint-caribbeans-untapped-weapon-against-transnational-ke13e/?trackingId=%2Fi1mBtu6faFpQxnnJxAvPQ%3D%3D
+```Maritime OSINT```. The Caribbean’s Untapped Weapon Against Transnational Crime: https://www.linkedin.com/pulse/maritime-osint-caribbeans-untapped-weapon-against-transnational-ke13e/
 
 ```PixieWPS```. An offline Wi-Fi Protected Setup brute-force utility: https://github.com/wiire-a/pixiewps
 
@@ -52,7 +52,7 @@ In our latest investigation, Bellingcat identifies the former ```Wagner fighter 
 
 **New from CyberDetective:**
 
-```Data Republican```. Online tools to discover how money flows through USA🇺🇸 government grants, charities, and NGOs:People relations, Principal officer search, Bulk NGO officer search, Federal grant search, Charity graph, Nonprofit financials and more.
+```Data Republican```. Online tools to discover how money flows through USA government grants, charities, and NGOs: People relations, Principal officer search, Bulk NGO officer search, Federal grant search, Charity graph, Nonprofit financials and more.
 
 https://datarepublican.com/
 

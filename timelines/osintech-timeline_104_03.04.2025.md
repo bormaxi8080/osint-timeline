@@ -43,7 +43,7 @@ https://www.reuters.com/world/us/doge-staffer-big-balls-provided-tech-support-cy
 
 ```Discord OSINT```. Useful resources to conduct research on Discord: https://github.com/thepseudonym/DiscordOSINT
 
-```Browservice```: Browser as a Service. A web "proxy" server that enables browsing the modern web on historical browsers. It works by rendering the browser viewport into images, which are then shown by a JavaScript application running on the client browser: https://github.com/ttalvitie/browservice
+```Browservice```. §Browser as a Service. A web "proxy" server that enables browsing the modern web on historical browsers. It works by rendering the browser viewport into images, which are then shown by a JavaScript application running on the client browser: https://github.com/ttalvitie/browservice
 
 AI is not new however it has recently taken a leap forward not just in technology but also public awareness. For that reason it cannot be ignored as a potential OSINT tool. There are Privacy concerns with some European counteries already taking note and maybe action in the future. Like with any OSINT tool, understand what it does and ensure you are happy that you maybe giving up your data ro help build future AI capabilities: https://github.com/The-Osint-Toolbox/AI-Resources
 
