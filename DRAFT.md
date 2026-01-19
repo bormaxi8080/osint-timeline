@@ -76,6 +76,8 @@ Merge: https://pdfguru.com/app/merge-pdf
 
 Stealth Browser MCP. The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat: https://github.com/vibheksoni/stealth-browser-mcp
 
+HackDB. The Ultimate Directory for Offensive Security. A database for red teaming, penetration testing, and ethical hacking resources: https://hackdb.com/
+
 Quickly identifiy the technologies powering any website including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks via automated artifact detection in HTML, headers, and scripts: https://whatcms.org
 
 Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
@@ -127,6 +129,12 @@ By auto-discovering services on your systems, portracker provides a live, accura
 Pingerr. A comprehensive DNS benchmarking tool that tests 60+ public DNS servers to find the fastest and most reliable DNS resolver for your network: https://github.com/Panchajanya1999/pingerr
 
 NetScan Pro. An interactive Bash-based network scanning tool that provides live host discovery, port scanning, traceroute, and ping tests, featuring visually appealing ASCII banners and fun messages: https://github.com/niladri-1/NetScan-Pro
+
+ByeByeDPI Lightweight Internet Freedom Tool. ByeByeDPI is a small but powerful open-source tool created to help users bypass internet censorship imposed by Internet Service Providers (ISPs) and governments. Instead of using heavy VPNs or proxies, it works at a lower network level by modifying and fragmenting data packets in a way that confuses censorship systems: https://github.com/gdlbo/ByeByeDPI
+
+ripgrep recursively searches directories for a regex pattern while respecting your gitignore: https://github.com/BurntSushi/ripgrep
+
+A version of Telespot in RUST - a tool that searches telephone numbers across Google, Bing, DuckDuckGo, and Dehashed for phone numbers and focuses on identifying names, locations, and usernames in the results. Features API-based searching to avoid CAPTCHAs and IP blocks: https://github.com/thumpersecure/Telespotter
 
 ----
 
