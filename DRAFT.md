@@ -88,6 +88,8 @@ Stealth Browser MCP. The only browser automation that bypasses anti-bot systems.
 
 HackDB. The Ultimate Directory for Offensive Security. A database for red teaming, penetration testing, and ethical hacking resources: https://hackdb.com/
 
+List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation: https://github.com/TheGP/untidetect-tools
+
 Quickly identifiy the technologies powering any website including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks via automated artifact detection in HTML, headers, and scripts: https://whatcms.org
 
 Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
