@@ -1,8 +1,14 @@
 # Timeline Summarized Draft
 
-ICE
+Ice
 
 It Seemed
+
+drowning in generated content
+the world stands in line for 
+virtual bread
+virtual bread
+virtual bread
 
 ----
 
