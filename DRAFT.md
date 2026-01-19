@@ -10,6 +10,10 @@ virtual bread
 virtual bread
 virtual bread
 
+Dystopia.
+
+A team of Moldovans catches chickens at night. The work is brought to the farm in the evening; after dark, a couple thousand chickens need to be caught and loaded into trucks. The chickens are caught in the dark and stuffed into iron crates. Naturally, they resist, trying to escape, scratching the catchers. But the shadows in the night are diligent and merciless. By morning, the pen is empty, and young chickens are released into it. During the day, the catchers drink heavily, but not out of pity for the unfortunate chickens headed for slaughter. But simply out of boredom...
+
 ----
 
 ```Tesari``` is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks
