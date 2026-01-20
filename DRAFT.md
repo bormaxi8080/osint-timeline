@@ -122,6 +122,8 @@ Darkfox. CTI Cyber Threat Intelligence OSINT Dark Web Deep Web Research. Ransomw
 
 HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities: https://github.com/havij13/Hexstrike-AI
 
+Agentset. The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more: https://github.com/agentset-ai/agentset
+
 ----
 
 **Software Development & APIs:**
@@ -129,6 +131,8 @@ HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, G
 BERTopic is a topic modeling technique that leverages transformers and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions: https://maartengr.github.io/BERTopic/index.html
 
 Codeflow. Ever opened a new codebase and felt completely lost? **CodeFlow** turns any GitHub repository into an interactive architecture map in seconds: https://github.com/braedonsaunders/codeflow
+
+You can think of SpacetimeDB as both a database and server combined into one: https://github.com/clockworklabs/SpacetimeDB
 
 ----
 
