@@ -66,6 +66,8 @@ Quickly identifiy the technologies powering any website including CMS (e.g., Wor
 
 Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
 
+A version of Telespot in RUST - a tool that searches telephone numbers across Google, Bing, DuckDuckGo, and Dehashed for phone numbers and focuses on identifying names, locations, and usernames in the results. Features API-based searching to avoid CAPTCHAs and IP blocks: https://github.com/thumpersecure/Telespotter
+
 SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Support restrict saving content and files beyond telegram: https://github.com/krau/SaveAny-Bot/
 
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
@@ -84,7 +86,7 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 **Software Development & APIs:**
 
-
+PyPi Query MCP Server. A Model Context Protocol (MCP) server for Python package intelligence, providing structured queries for PyPI packages and GitHub repositories. Features include dependency analysis, version tracking, and package metadata retrieval for LLM interactions: https://github.com/vibheksoni/pypi-query-mcp-server
 
 ----
 
@@ -93,8 +95,6 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 NetScan Pro. An interactive Bash-based network scanning tool that provides live host discovery, port scanning, traceroute, and ping tests, featuring visually appealing ASCII banners and fun messages: https://github.com/niladri-1/NetScan-Pro
 
 ByeByeDPI Lightweight Internet Freedom Tool. ByeByeDPI is a small but powerful open-source tool created to help users bypass internet censorship imposed by Internet Service Providers (ISPs) and governments. Instead of using heavy VPNs or proxies, it works at a lower network level by modifying and fragmenting data packets in a way that confuses censorship systems: https://github.com/gdlbo/ByeByeDPI
-
-A version of Telespot in RUST - a tool that searches telephone numbers across Google, Bing, DuckDuckGo, and Dehashed for phone numbers and focuses on identifying names, locations, and usernames in the results. Features API-based searching to avoid CAPTCHAs and IP blocks: https://github.com/thumpersecure/Telespotter
 
 ----
 
