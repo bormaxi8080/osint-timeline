@@ -8,6 +8,8 @@ LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/de
 
 Substack: [OSINTech's Substack](https://osintech.substack.com)
 
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
+
 ----
 
 ## Timelines
