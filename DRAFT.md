@@ -88,6 +88,8 @@ Stealth Browser MCP. The only browser automation that bypasses anti-bot systems.
 
 HackDB. The Ultimate Directory for Offensive Security. A database for red teaming, penetration testing, and ethical hacking resources: https://hackdb.com/
 
+OSINT Conferences and meetups. In this repository, you will find a list of OSINT conferences and meetups that have taken place in various countries over the past couple of years: https://github.com/ubikron/OSINT-Conferences
+
 List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation: https://github.com/TheGP/untidetect-tools
 
 Quickly identifiy the technologies powering any website including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks via automated artifact detection in HTML, headers, and scripts: https://whatcms.org
