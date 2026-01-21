@@ -14,6 +14,8 @@ Substack: [OSINTech's Substack](https://osintech.substack.com)
 
 ## Timelines
 
+[OSINTech's Timeline (146) - 22.01.2026](./timelines/osintech-timeline_146_22.01.2026.md)
+
 [OSINTech's Timeline (145) - 15.01.2026](./timelines/osintech-timeline_145_15.01.2026.md)
 
 [OSINTech's Timeline (144) - 08.01.2026](./timelines/osintech-timeline_144_08.01.2026.md)
