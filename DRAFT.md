@@ -74,6 +74,8 @@ Complience Check Lite. An information and analytical tool for identifying formal
 
 YouFundThis. For anyone into research, investigations, or OSINT, this tool is a gem. It’s a searchable database of government grants, loans, and subsidies, showing exactly which businesses received funding from gas stations to restaurants, and beyond. Filter by business, state, funding type, or amount and uncover patterns, connections, and insights that aren’t obvious at first glance. A clean, simple way to follow the money and turn public data into actionable intelligence: https://youfundthis.com/
 
+ByPassAV. This map lists the essential techniques to bypass anti-virus and EDR: https://github.com/matro7sh/BypassAV
+
 DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 ----
@@ -106,7 +108,7 @@ ByeByeDPI Lightweight Internet Freedom Tool. ByeByeDPI is a small but powerful o
 
 **New from CyberDetective:**
 
-
+FLEETLEAKS. Russia-related Sanctioned Vessels Monitor. Real-time database of maritime sanctions from US, EU, UK, Canada, Australia, and New Zealand. Track 882 sanctioned vessels across 6 jurisdictions (Updated daiy), Live Sanctioned Vessel Tracking Online Map: https://fleetleaks.com/vessel-map/
 
 ----
 
