@@ -25,7 +25,7 @@ Substack: [OSINTech's Substack](https://osintech.substack.com)
 [OSINTech's Timeline (142) - 25.12.2025](./timelines/osintech-timeline_142_25.12.2025.md)
 
 <details>
-<summary>See more:</summary>
+<summary>See more</summary>
 
 [OSINTech's Timeline (141) - 18.12.2025](./timelines/osintech-timeline_141_18.12.2025.md)
 
@@ -320,7 +320,7 @@ Substack: [OSINTech's Substack](https://osintech.substack.com)
 ![alt text](./img/121-126.png)
 
 <details>
-<summary>See more:</summary>
+<summary>See more</summary>
 
 ![alt text](./img/115-120.png)
 ![alt text](./img/109-114.png)
