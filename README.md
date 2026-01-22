@@ -24,6 +24,9 @@ Substack: [OSINTech's Substack](https://osintech.substack.com)
 
 [OSINTech's Timeline (142) - 25.12.2025](./timelines/osintech-timeline_142_25.12.2025.md)
 
+<details>
+<summary>See more:</summary>
+
 [OSINTech's Timeline (141) - 18.12.2025](./timelines/osintech-timeline_141_18.12.2025.md)
 
 [OSINTech's Timeline (140) - 11.12.2025](./timelines/osintech-timeline_140_11.12.2025.md)
@@ -306,6 +309,8 @@ Substack: [OSINTech's Substack](https://osintech.substack.com)
 
 [OSINTech's Timeline (01) - 06.04.2023](./timelines/osintech-timeline_01_06.04.2023.md)
 
+</details>
+
 ----
 
 ## All article covers in [LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
@@ -313,6 +318,10 @@ Substack: [OSINTech's Substack](https://osintech.substack.com)
 ![alt text](./img/133-138.png)
 ![alt text](./img/127-132.png)
 ![alt text](./img/121-126.png)
+
+<details>
+<summary>See more:</summary>
+
 ![alt text](./img/115-120.png)
 ![alt text](./img/109-114.png)
 ![alt text](./img/103-108.png)
@@ -333,6 +342,8 @@ Substack: [OSINTech's Substack](https://osintech.substack.com)
 ![alt text](./img/13-18.png)
 ![alt text](./img/07-12.png)
 ![alt text](./img/01-06.png)
+
+</details>
 
 ----
 
