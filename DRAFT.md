@@ -78,6 +78,8 @@ TeleStrike is a red team utility designed for adversary simulation and security 
 
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
+RzWeb. A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly: https://github.com/IndAlok/rzweb
+
 YouFundThis. For anyone into research, investigations, or OSINT, this tool is a gem. It’s a searchable database of government grants, loans, and subsidies, showing exactly which businesses received funding from gas stations to restaurants, and beyond. Filter by business, state, funding type, or amount and uncover patterns, connections, and insights that aren’t obvious at first glance. A clean, simple way to follow the money and turn public data into actionable intelligence: https://youfundthis.com/
 
 ByPassAV. This map lists the essential techniques to bypass anti-virus and EDR: https://github.com/matro7sh/BypassAV
