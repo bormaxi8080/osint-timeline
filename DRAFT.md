@@ -24,6 +24,10 @@ https://www.tesari.ai
 
 ----
 
+OSINT of Peru from UNISHKA Research Service: https://substack.com/home/post/p-185545627
+
+----
+
 BROWSER SANDBOXES  
   
 There are situations when you want to visit a website, but you are not sure about its reliability, or you do not want to share your unique browser fingerprinting with the site, or simply something is not working in your browser and you want to try if it will work in another one.  
