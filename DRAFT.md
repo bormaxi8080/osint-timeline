@@ -110,7 +110,7 @@ ByeByeDPI Lightweight Internet Freedom Tool. ByeByeDPI is a small but powerful o
 
 **Flipper Zero & Other Devices:**
 
-
+Private Unleashed v2.0 for FlipperZero. Rolling Code Exploitation & Relay Attacks. Records legitimate key fob transmissions Analyzes the sequence to predict future unlock codes Injects those codes to gain unauthorized access In effect, attackers “learn” the combination to the digital lock after observing it in use: https://github.com/flipperc0d3r/Private-Unleashed-2.0-FlipperZero-Firmware
 
 ----
 
