@@ -66,9 +66,15 @@ Quickly identifiy the technologies powering any website including CMS (e.g., Wor
 
 Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
 
+StegoScan.py is a powerful, next-generation tool for automated steganography detection in websites, web servers, and local directories, integrating AI-driven object and text recognition with deep file analysis. Unlike traditional steganography detection tools that focus on a limited set of file types or require manual processing, StegoScan.py is designed for comprehensive, automated scanning—scraping websites, dissecting embedded files, and detecting hidden messages across a broad range of formats, including PNG, JPG, BIN, PDF, DOCX, WAV, and MP3: https://github.com/LCBOWER33/StegoScan
+
+ForensiX. Google Chrome forensic tool to process, analyze and visualize browsing artifacts: https://github.com/ChmaraX/forensix
+
 A version of Telespot in RUST - a tool that searches telephone numbers across Google, Bing, DuckDuckGo, and Dehashed for phone numbers and focuses on identifying names, locations, and usernames in the results. Features API-based searching to avoid CAPTCHAs and IP blocks: https://github.com/thumpersecure/Telespotter
 
 SaveAny Bot. Save Any Telegram File to Anywhere (Alist, Disk, Webdav, S3...). Support restrict saving content and files beyond telegram: https://github.com/krau/SaveAny-Bot/
+
+TeleStrike is a red team utility designed for adversary simulation and security auditing of Telegram accounts. Built for educational and authorized assessment purposes, it mimics real-world attack vectors to test resilience and response mechanisms in Telegram’s authentication layers: https://github.com/er4vn/TeleStrike
 
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
