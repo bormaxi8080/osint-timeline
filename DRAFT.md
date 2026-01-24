@@ -70,7 +70,9 @@ Quickly identifiy the technologies powering any website including CMS (e.g., Wor
 
 Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
 
-StegoScan.py is a powerful, next-generation tool for automated steganography detection in websites, web servers, and local directories, integrating AI-driven object and text recognition with deep file analysis. Unlike traditional steganography detection tools that focus on a limited set of file types or require manual processing, StegoScan.py is designed for comprehensive, automated scanning—scraping websites, dissecting embedded files, and detecting hidden messages across a broad range of formats, including PNG, JPG, BIN, PDF, DOCX, WAV, and MP3: https://github.com/LCBOWER33/StegoScan
+Global threat map. Learn wars, conflicts, military bases and history of nations: https://github.com/unicodeveloper/globalthreatmap
+
+StegoScan is a powerful, next-generation tool for automated steganography detection in websites, web servers, and local directories, integrating AI-driven object and text recognition with deep file analysis. Unlike traditional steganography detection tools that focus on a limited set of file types or require manual processing, StegoScan.py is designed for comprehensive, automated scanning—scraping websites, dissecting embedded files, and detecting hidden messages across a broad range of formats, including PNG, JPG, BIN, PDF, DOCX, WAV, and MP3: https://github.com/LCBOWER33/StegoScan
 
 ForensiX. Google Chrome forensic tool to process, analyze and visualize browsing artifacts: https://github.com/ChmaraX/forensix
 
@@ -87,6 +89,8 @@ RzWeb. A complete browser-based reverse engineering platform built on Rizin, run
 YouFundThis. For anyone into research, investigations, or OSINT, this tool is a gem. It’s a searchable database of government grants, loans, and subsidies, showing exactly which businesses received funding from gas stations to restaurants, and beyond. Filter by business, state, funding type, or amount and uncover patterns, connections, and insights that aren’t obvious at first glance. A clean, simple way to follow the money and turn public data into actionable intelligence: https://youfundthis.com/
 
 ByPassAV. This map lists the essential techniques to bypass anti-virus and EDR: https://github.com/matro7sh/BypassAV
+
+VulnX is an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning: https://github.com/anouarbensaad/vulnx
 
 DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
