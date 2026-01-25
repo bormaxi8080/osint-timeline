@@ -66,6 +66,10 @@ BentoPDF is a powerful, privacy-first, client-side PDF toolkit that is self hos
 
 **OSINT Tools, Services and Investigations:**
 
+The OSINT Vault. Tools for mapping networks, tracing domains, and identifying the systems behind online activity. Clear, reliable, and built for precise discovery: https://theosintvault.io/
+
+OSINT Books by Ubikron. In this repository, you will find a short list of books on various OSINT tools and techniques, the use of OSINT in different fields (cybersecurity, recruiting), and the psychological aspects of investigations: https://github.com/ubikron/OSINT-Books
+
 Quickly identifiy the technologies powering any website including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks via automated artifact detection in HTML, headers, and scripts: https://whatcms.org
 
 Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
@@ -98,7 +102,7 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 **Universal Search & AI:**
 
-
+Abogen. Generate audiobooks from EPUBs, PDFs and text with synchronized captions: https://github.com/denizsafak/abogen
 
 ----
 
