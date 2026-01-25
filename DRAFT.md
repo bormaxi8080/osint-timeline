@@ -130,6 +130,8 @@ Private Unleashed v2.0 for FlipperZero. Rolling Code Exploitation & Relay Attack
 
 FLEETLEAKS. Russia-related Sanctioned Vessels Monitor. Real-time database of maritime sanctions from US, EU, UK, Canada, Australia, and New Zealand. Track 882 sanctioned vessels across 6 jurisdictions (Updated daiy), Live Sanctioned Vessel Tracking Online Map: https://fleetleaks.com/vessel-map/
 
+TrinetLayer. Online tools for bugbounty hunters. Subdomain scanner, CVE scanner, JS analyzer, Live Exploit Sandbox, a lot of useful info about modern vulnerabilities: https://trinetlayer.com/
+
 ----
 
 ### OSINTech's Timeline
