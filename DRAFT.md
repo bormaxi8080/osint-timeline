@@ -24,6 +24,8 @@ https://www.tesari.ai
 
 ----
 
+OSINT for Iran: A Practical Guide to OSINT on the Islamic Republic written by OSINT Industries Team: https://www.osint.industries/post/osint-for-iran-a-practical-guide-to-osint-on-the-islamic-republic
+
 OSINT of Peru from UNISHKA Research Service: https://substack.com/home/post/p-185545627
 
 ----
