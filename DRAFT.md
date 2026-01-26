@@ -150,6 +150,8 @@ FLEETLEAKS. Russia-related Sanctioned Vessels Monitor. Real-time database of mar
 
 TrinetLayer. Online tools for bugbounty hunters. Subdomain scanner, CVE scanner, JS analyzer, Live Exploit Sandbox, a lot of useful info about modern vulnerabilities: https://trinetlayer.com/
 
+MEAWFY. Advanced MegaNZ File Search Engine. 9M+ indexed files: https://meawfy.com/
+
 ----
 
 ### OSINTech's Timeline
