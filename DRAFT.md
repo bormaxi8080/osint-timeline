@@ -74,6 +74,12 @@ OSINT Books by Ubikron. In this repository, you will find a short list of books 
 
 Quickly identifiy the technologies powering any website including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks via automated artifact detection in HTML, headers, and scripts: https://whatcms.org
 
+ShadeMap. Analyze Sun Shadows Anywhere in the World. Shadows can reveal more than you think especially when time and location matter. This tool calculates the sun’s position and shows how shadows change throughout the day at almost any point on the map: https://shademap.app/
+
+The Firehound project is scanning and indexing apps that expose and leak sensitive user data in AppStore: https://firehound.covertlabs.io/
+
+Reconya discovers and monitors devices on your network with real-time updates. Suitable for network administrators, security professionals, and home users: https://github.com/Dyneteq/reconya
+
 Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
 
 Global threat map. Learn wars, conflicts, military bases and history of nations: https://github.com/unicodeveloper/globalthreatmap
@@ -112,13 +118,23 @@ Abogen. Generate audiobooks from EPUBs, PDFs and text with synchronized captions
 
 PyPi Query MCP Server. A Model Context Protocol (MCP) server for Python package intelligence, providing structured queries for PyPI packages and GitHub repositories. Features include dependency analysis, version tracking, and package metadata retrieval for LLM interactions: https://github.com/vibheksoni/pypi-query-mcp-server
 
+WarpNet is a decentralized, peer-to-peer social network inspired by Twitter, built with Go. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. WarpNet is censorship-resistant, scalable, and fully open-source: https://github.com/Warp-net/warpnet
+
 ----
 
 **Linux & DevOps:**
 
+nmapAutomator. The main goal for this script is to automate the process of enumeration & recon that is run every time, and instead focus our attention on real pentesting: https://github.com/21y4d/nmapAutomator
+
 NetScan Pro. An interactive Bash-based network scanning tool that provides live host discovery, port scanning, traceroute, and ping tests, featuring visually appealing ASCII banners and fun messages: https://github.com/niladri-1/NetScan-Pro
 
 ByeByeDPI Lightweight Internet Freedom Tool. ByeByeDPI is a small but powerful open-source tool created to help users bypass internet censorship imposed by Internet Service Providers (ISPs) and governments. Instead of using heavy VPNs or proxies, it works at a lower network level by modifying and fragmenting data packets in a way that confuses censorship systems: https://github.com/gdlbo/ByeByeDPI
+
+Runtime Radar is an open-source solution for monitoring runtime security events and responding to incidents in containerized environments: https://github.com/runtime-radar/runtime-radar
+
+Sloggo. Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process: https://github.com/phare/sloggo/
+
+ProxSave. Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications: https://github.com/tis24dev/proxsave
 
 ----
 
