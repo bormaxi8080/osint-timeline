@@ -136,6 +136,8 @@ Sloggo. Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a 
 
 ProxSave. Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications: https://github.com/tis24dev/proxsave
 
+StartOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services: https://github.com/Start9Labs/start-os
+
 ----
 
 **Flipper Zero & Other Devices:**
