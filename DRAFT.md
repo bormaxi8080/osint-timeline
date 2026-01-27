@@ -108,6 +108,10 @@ The OSINT Vault. Tools for mapping networks, tracing domains, and identifying th
 
 OSINT Books by Ubikron. In this repository, you will find a short list of books on various OSINT tools and techniques, the use of OSINT in different fields (cybersecurity, recruiting), and the psychological aspects of investigations: https://github.com/ubikron/OSINT-Books
 
+Serious research into terrorism and radicalisation depends on structure and source discipline. This community-curated Start.me dashboard brings together reports, datasets, and OSINT tools used by researchers and analysts in security studies: https://start.me/p/OmExgb/terrorism-radicalisation-research-dashboard
+
+Open BRIS - Open Business Register Information Service. The name may seem complex, but it is based on EU legislation that forced all EU countries to create an accessible register of company information. Our goal is not to create a database but to enable easy access to information from various public registers. The information we provide is generally publicly available, but we categorize, pair, systematize and sort it so that they are all structured similarly: https://openbris.eu
+
 Quickly identifiy the technologies powering any website including CMS (e.g., WordPress, Drupal), frameworks, hosting providers, analytics scripts, and server stacks via automated artifact detection in HTML, headers, and scripts: https://whatcms.org
 
 ShadeMap. Analyze Sun Shadows Anywhere in the World. Shadows can reveal more than you think especially when time and location matter. This tool calculates the sun’s position and shows how shadows change throughout the day at almost any point on the map: https://shademap.app/
@@ -191,6 +195,8 @@ FLEETLEAKS. Russia-related Sanctioned Vessels Monitor. Real-time database of mar
 TrinetLayer. Online tools for bugbounty hunters. Subdomain scanner, CVE scanner, JS analyzer, Live Exploit Sandbox, a lot of useful info about modern vulnerabilities: https://trinetlayer.com/
 
 MEAWFY. Advanced MegaNZ File Search Engine. 9M+ indexed files: https://meawfy.com/
+
+Global Threat Map. Interactive Threat Map, Event Feed, Country Intelligence, Intel Dossiers, Military Bases, Auto-Pan Mode: https://globalthreatmap.up.railway.app/
 
 ----
 
