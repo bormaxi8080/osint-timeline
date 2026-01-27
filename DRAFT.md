@@ -144,6 +144,8 @@ ByPassAV. This map lists the essential techniques to bypass anti-virus and EDR: 
 
 VulnX is an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning: https://github.com/anouarbensaad/vulnx
 
+Whapa is a set of graphical forensic tools to analyze whatsapp from Android and soon iOS devices. All the tools have been written in Python 3.8 and have been tested on linux, windows and macOS systems: https://github.com/B16f00t/whapa
+
 DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 ----
@@ -185,6 +187,10 @@ StartOS is an open source Linux distribution optimized for running a personal se
 **Flipper Zero & Other Devices:**
 
 Private Unleashed v2.0 for FlipperZero. Rolling Code Exploitation & Relay Attacks. Records legitimate key fob transmissions Analyzes the sequence to predict future unlock codes Injects those codes to gain unauthorized access In effect, attackers “learn” the combination to the digital lock after observing it in use: https://github.com/flipperc0d3r/Private-Unleashed-2.0-FlipperZero-Firmware
+
+Develop applications and payloads for Spot using the Boston Dynamics Spot SDK: https://github.com/boston-dynamics/spot-sdk
+
+A repo to share resources related to Spot Robot configurations for hospital applications: https://github.com/boston-dynamics/bosdyn-hospital-bot
 
 ----
 
