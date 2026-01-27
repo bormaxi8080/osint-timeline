@@ -10,13 +10,49 @@ virtual bread
 
 Dystopia.
 
-A team of Moldovans catches chickens at night. The work is brought to the farm in the evening; after dark, a couple thousand chickens need to be caught and loaded into trucks. The chickens are caught in the dark and stuffed into iron crates. Naturally, they resist, trying to escape, scratching the catchers. But the shadows in the night are diligent and merciless. By morning, the pen is empty, and young chickens are released into it. During the day, the catchers drink heavily, but not out of pity for the unfortunate chickens headed for slaughter. But simply out of boredom...
+A team of workers catches chickens at night. The work is brought to the farm in the evening; after dark, a couple thousand chickens need to be caught and loaded into trucks. The chickens are caught in the dark and stuffed into iron crates. Naturally, they resist, trying to escape, scratching the catchers. But the shadows in the night are diligent and merciless. By morning, the pen is empty, and young chickens are released into it. During the day, the catchers drink heavily, but not out of pity for the unfortunate chickens headed for slaughter. But simply out of boredom...
 
 ----
 
 ```Tesari``` is an OSINT Copilot built to help the community and become the first step in any investigation into organized crime, trafficking, corruption, and other global risks
 
 https://www.tesari.ai
+
+----
+
+What does “jurisdictional coverage” really mean for Tesari?
+
+🔺  Local specialists vs Built-in jurisdiction knowledge
+
+"Organizations often rely on local experts to support regional investigations. Tesari natively understands jurisdiction-specific nuances --> not to replace experts, but to narrow down and clarify the subject of interest."
+
+🔺 Language barriers vs Local-language intelligence
+
+"Language gaps often lead to missed or misinterpreted information.
+
+Tesari searches in local languages and validates findings in context."
+
+🔺 Fragmented data sources vs One investigative workspace
+
+"Global investigations usually require expensive and complex combinations of local and international databases (10+ sources).
+
+Tesari integrates these sources into a single, unified investigation flow, making it a one-stop shop for cross-border research."
+
+🔺  Manual regulation and geopolitical analysis vs Contextual validation
+
+"Investigators must understand local regulations and geopolitics to detect misinformation.
+
+Tesari understands local specifics and flags potential disinformation, enabling investigators to validate information faster and more consistently"
+
+🔺  Hard-to-reach regions vs Built-in access
+
+"Some regions remain inaccessible or extremely difficult to research.
+
+Tesari covers the most restricted jurisdictions like China and Russia. Expanding further is a matter of time."
+
+Jurisdictional coverage isn’t about more data --> It’s about seeing clearly.
+
+[https://tesari.ai](https://tesari.ai/)
 
 ----
 
@@ -135,6 +171,8 @@ Runtime Radar is an open-source solution for monitoring runtime security events 
 Sloggo. Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process: https://github.com/phare/sloggo/
 
 ProxSave. Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications: https://github.com/tis24dev/proxsave
+
+Vulnhuntr leverages the power of LLMs to automatically create and analyze entire code call chains starting from remote user input and ending at server output for detection of complex, multi-step, security-bypassing vulnerabilities that go far beyond what traditional static code analysis tools are capable of performing: https://github.com/protectai/vulnhuntr?tab=readme-ov-file
 
 StartOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services: https://github.com/Start9Labs/start-os
 
