@@ -154,6 +154,8 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 Abogen. Generate audiobooks from EPUBs, PDFs and text with synchronized captions: https://github.com/denizsafak/abogen
 
+AutoRLAIF is a cutting-edge framework designed to revolutionize the fine-tuning of large language models through Reinforcement Learning from AI Feedback (RLAIF): https://github.com/xuyang-sudo/AutoRLAIF
+
 ----
 
 **Software Development & APIs:**
@@ -161,6 +163,8 @@ Abogen. Generate audiobooks from EPUBs, PDFs and text with synchronized captions
 PyPi Query MCP Server. A Model Context Protocol (MCP) server for Python package intelligence, providing structured queries for PyPI packages and GitHub repositories. Features include dependency analysis, version tracking, and package metadata retrieval for LLM interactions: https://github.com/vibheksoni/pypi-query-mcp-server
 
 WarpNet is a decentralized, peer-to-peer social network inspired by Twitter, built with Go. It runs without central servers, using Noise protocol for inter-node communication and built-in local storage. WarpNet is censorship-resistant, scalable, and fully open-source: https://github.com/Warp-net/warpnet
+
+HTMX Debugger. A browser extension (Chrome and Firefox) debugging tool for htmx applications: https://github.com/NomadicDaddy/htmx-debugger
 
 ----
 
