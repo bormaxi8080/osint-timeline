@@ -1,9 +1,11 @@
 ![OSINTech Timeline](img/147.jpg)
 
+# OSINTech’s Timeline #147  
+
 **ICE**
 
 ---
-# OSINTech’s Timeline #146  
+
 **Week of 22–29 January 2026**
 
 Every week, I manually curate tools, research, and services that are genuinely useful for OSINT, digital investigations, security research, and adjacent fields.
@@ -138,7 +140,7 @@ Curated tools and databases that expand analytical, attribution, and investigati
 
 ---
 
-## 📌 Where to Follow
+### 📌 Where to Follow
 
 - **Substack:** https://osintech.substack.com  
 - **LinkedIn:** https://www.linkedin.com/in/osintech/details/featured/

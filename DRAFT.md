@@ -166,6 +166,8 @@ A repo to share resources related to Spot Robot configurations for hospital appl
 
 TrinetLayer. Online tools for bugbounty hunters. Subdomain scanner, CVE scanner, JS analyzer, Live Exploit Sandbox, a lot of useful info about modern vulnerabilities: https://trinetlayer.com/
 
+SOAR ATLAS. A huge, incredibly huge collection of maps, live maps (weather, fire, clouds), historic maps (worldwide, countries, towns), local conflicts and disasters maps, satellite maps, ability to upload your own maps: https://soaratlas.com/
+
 ----
 
 
