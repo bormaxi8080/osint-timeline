@@ -2,17 +2,32 @@
 
 Welcome to OSINT Timeline Weekly Newsletter with collection of tools, services and investigations!
 
+Every week, I manually curate tools, research, and services that are genuinely useful for OSINT, digital investigations, security research, and adjacent fields.
+
+No hype. No SEO noise. No “AI startups that change everything”.  
+Only things you can **open, verify, and actually use**.
+
 ![alt text](logo.png)
 
-LinkedIn: [OSINTech's Featured Timeline](https://www.linkedin.com/in/osintech/details/featured/)
+----
 
-Substack: [OSINTech's Substack](https://osintech.substack.com)
+## 📌 Where to Follow
+
+- **Substack:** https://osintech.substack.com  
+- **LinkedIn:** https://www.linkedin.com/in/osintech/details/featured/
+
+If this timeline saves you time, it’s doing its job.  
+Free to read. Manually curated. Minimal noise.
+
+----
+
+## 📌 Donates
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
 
 ----
 
-## Timelines
+## 📌 Timelines
 
 [OSINTech's Timeline (147) - 29.01.2026](./timelines/osintech-timeline_147_29.01.2026.md)
 
@@ -315,7 +330,7 @@ Substack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 
-## All article covers in [LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
+## 📌 All article covers in [LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
 ![alt text](./img/133-138.png)
 ![alt text](./img/127-132.png)
@@ -349,4 +364,19 @@ Substack: [OSINTech's Substack](https://osintech.substack.com)
 
 ----
 
-**WARNING!** All tools, programs and techniques published in this repository are used for informational, educational purposes or for information security purposes. The authors are not responsible for the activities that users of these tools and techniques may carry out, and urge them not to use them to carry out harmful or destructive activities directed against other users or groups on the Internet.
+### 📌 Legal and ethical note
+
+All tools and techniques documented in the dataset are presented for informational,  
+educational and information security purposes only.
+
+The dataset does not promote or endorse illegal activities.  
+Users are responsible for complying with applicable laws and ethical standards.
+
+----
+
+### 📌 About future updates
+
+The dataset is updated on a regular basis.  
+Future posts will document changes, notable additions and emerging trends observed within the dataset.
+
+This post serves as an introduction and reference point for those updates.
