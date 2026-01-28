@@ -102,9 +102,17 @@ OSINT Books by Ubikron. In this repository, you will find a short list of books 
 
 **OSINT Tools, Services and Investigations:**
 
+P2T (Pix2Text). An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowering seamless conversion of visual content into text-based representations. 80+ languages are supported: https://github.com/breezedeus/pix2text
+
+LiveContainer is an app launcher (not emulator or hypervisor) that allows you to run iOS apps inside it: https://github.com/LiveContainer/LiveContainer
+
 The Firehound project is scanning and indexing apps that expose and leak sensitive user data in AppStore: https://firehound.covertlabs.io/
 
-Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
+Webvetted. Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
+
+Keifu. Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity: https://github.com/trasta298/keifu
+
+TeleBotList. A cool collection of awesome Telegram bots source code hosted on GitHub: https://github.com/MoonWalker440/TeleBotList
 
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
@@ -127,6 +135,8 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 ----
 
 **Software Development & APIs:**
+
+[OpenAuth](https://openauth.js.org/) is a standards-based auth provider for web apps, mobile apps, single pages apps, APIs, or 3rd party clients. It is currently in beta: https://github.com/anomalyco/openauth
 
 HTMX Debugger. A browser extension (Chrome and Firefox) debugging tool for htmx applications: https://github.com/NomadicDaddy/htmx-debugger
 
