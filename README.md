@@ -1,6 +1,6 @@
 # OSINTech's Timeline
 
-Welcome to OSINT Timeline Weekly Newsletter with collection of tools, services and investigations!
+**Welcome to OSINT Timeline Weekly Newsletter with collection of tools, services and investigations!**
 
 Every week, I manually curate tools, research, and services that are genuinely useful for OSINT, digital investigations, security research, and adjacent fields.
 

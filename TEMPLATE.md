@@ -8,7 +8,7 @@
 
 Every week, I manually curate tools, research, and services that are genuinely useful for OSINT, digital investigations, security research, and adjacent fields.
 
-No hype. No SEO noise. No “AI startups that change everything”.  
+No hype. No SEO noise. No "AI startups that change everything".  
 Only things you can **open, verify, and actually use**.
 
 ---
