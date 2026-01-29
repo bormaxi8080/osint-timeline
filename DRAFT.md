@@ -104,6 +104,8 @@ OSINT Books by Ubikron. In this repository, you will find a short list of books 
 
 P2T (Pix2Text). An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowering seamless conversion of visual content into text-based representations. 80+ languages are supported: https://github.com/breezedeus/pix2text
 
+Obsidian OSINT Entity Extractor. A tool for open source intelligence analysts to extract structured data from web articles: https://github.com/thomasjjj/Obsidian-OSINT-Entity-Extractor
+
 LiveContainer is an app launcher (not emulator or hypervisor) that allows you to run iOS apps inside it: https://github.com/LiveContainer/LiveContainer
 
 The Firehound project is scanning and indexing apps that expose and leak sensitive user data in AppStore: https://firehound.covertlabs.io/
