@@ -108,11 +108,15 @@ LiveContainer is an app launcher (not emulator or hypervisor) that allows you to
 
 The Firehound project is scanning and indexing apps that expose and leak sensitive user data in AppStore: https://firehound.covertlabs.io/
 
+ReconSwarm is a modular reconnaissance automation framework designed for distributed security testing. It provisions cloud infrastructure, executes parallel reconnaissance pipelines, and collects results with minimal configuration overhead: https://github.com/renatus-cartesius/reconswarm
+
 Webvetted. Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
 
 Keifu. Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity: https://github.com/trasta298/keifu
 
 TeleBotList. A cool collection of awesome Telegram bots source code hosted on GitHub: https://github.com/MoonWalker440/TeleBotList
+
+Terminal Messenger is an ultra-secure, OFF-THE-RECORD (OTR), and end-to-end encrypted (E2EE) CLI messaging platform: https://github.com/rhymezip/TerminalMessenger/tree/Rahim
 
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
@@ -139,6 +143,8 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 [OpenAuth](https://openauth.js.org/) is a standards-based auth provider for web apps, mobile apps, single pages apps, APIs, or 3rd party clients. It is currently in beta: https://github.com/anomalyco/openauth
 
 HTMX Debugger. A browser extension (Chrome and Firefox) debugging tool for htmx applications: https://github.com/NomadicDaddy/htmx-debugger
+
+F_EX Java IDE. An experimental integrated development environment (IDE) for Java, written in JavaFX. A full-featured code editor with support for Gradle, Maven, pure Java, and IntelliJ IDEA projects: https://github.com/ExesWi/F_EX
 
 ----
 

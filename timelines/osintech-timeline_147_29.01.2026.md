@@ -18,6 +18,7 @@ Only things you can **open, verify, and actually use**.
 ## 🧭 Featured Project
 
 ### **Tesari — OSINT Copilot**
+
 > A first step for investigations into organized crime, corruption, trafficking, and global risk networks.
 
 Tesari is designed as an entry point into complex investigations: structure, context, and navigable intelligence instead of chaotic searching.
