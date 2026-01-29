@@ -140,6 +140,8 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 **Software Development & APIs:**
 
+Auto Claude. Autonomous multi-agent coding framework that plans, builds, and validates software for you: https://github.com/AndyMik90/Auto-Claude
+
 [OpenAuth](https://openauth.js.org/) is a standards-based auth provider for web apps, mobile apps, single pages apps, APIs, or 3rd party clients. It is currently in beta: https://github.com/anomalyco/openauth
 
 HTMX Debugger. A browser extension (Chrome and Firefox) debugging tool for htmx applications: https://github.com/NomadicDaddy/htmx-debugger
@@ -173,6 +175,8 @@ A repo to share resources related to Spot Robot configurations for hospital appl
 TrinetLayer. Online tools for bugbounty hunters. Subdomain scanner, CVE scanner, JS analyzer, Live Exploit Sandbox, a lot of useful info about modern vulnerabilities: https://trinetlayer.com/
 
 SOAR ATLAS. A huge, incredibly huge collection of maps, live maps (weather, fire, clouds), historic maps (worldwide, countries, towns), local conflicts and disasters maps, satellite maps, ability to upload your own maps: https://soaratlas.com/
+
+GEOREFENCER. Simple free online tool that help anchor any image to its real-world location by matching points on your image with the same spots on the map: https://georeferencer.ai/
 
 ----
 
