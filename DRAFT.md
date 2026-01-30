@@ -168,6 +168,8 @@ StartOS is an open source Linux distribution optimized for running a personal se
 
 Port Killer. A powerful cross-platform port management tool for developers and devops. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click: https://github.com/productdevbook/port-killer
 
+Trafexia - Mobile Traffic Interceptor. A powerful desktop application for intercepting and analyzing HTTP/HTTPS traffic from mobile devices. Built with Electron, Vue 3, and TypeScript: https://github.com/danieldev23/trafexia
+
 ----
 
 **Flipper Zero & Other Devices:**
