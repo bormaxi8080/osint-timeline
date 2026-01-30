@@ -169,6 +169,8 @@ F_EX Java IDE. An experimental integrated development environment (IDE) for Java
 
 **Linux & DevOps:**
 
+The WebDeck is a Flask application that allows users to control their computer remotely from any device with a browser and a touchscreen. Unlike Elgato's StreamDeck, which requires physical equipment, WebDeck uses a Flask application that the user hosts on their computer: https://github.com/Lenochxd/WebDeck
+
 Sloggo. Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process: https://github.com/phare/sloggo/
 
 Docker-Android. Android in docker solution with noVNC supported and video recording: https://github.com/budtmo/docker-android
@@ -200,6 +202,8 @@ TrinetLayer. Online tools for bugbounty hunters. Subdomain scanner, CVE scanner,
 SOAR ATLAS. A huge, incredibly huge collection of maps, live maps (weather, fire, clouds), historic maps (worldwide, countries, towns), local conflicts and disasters maps, satellite maps, ability to upload your own maps: https://soaratlas.com/
 
 GEOREFENCER. Simple free online tool that help anchor any image to its real-world location by matching points on your image with the same spots on the map: https://georeferencer.ai/
+
+IMAGE OSINT. List of tools for image analysis and search. Part of Boudjenane Soufiane's startMe page: https://start.me/p/9onGdR/souf6x-osint
 
 ----
 
