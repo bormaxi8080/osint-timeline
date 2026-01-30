@@ -94,6 +94,13 @@ BentoPDF is a powerful, privacy-first, client-side PDF toolkit that is self hos
 
 ----
 
+**OSINT of Latvia**  
+A country-focused OSINT resource set from UNISHKA Research Service, useful for regional analysis and verification.  
+
+https://substack.com/home/post/p-185818226
+
+----
+
 The OSINT Vault. Tools for mapping networks, tracing domains, and identifying the systems behind online activity. Clear, reliable, and built for precise discovery: https://theosintvault.io/
 
 OSINT Books by Ubikron. In this repository, you will find a short list of books on various OSINT tools and techniques, the use of OSINT in different fields (cybersecurity, recruiting), and the psychological aspects of investigations: https://github.com/ubikron/OSINT-Books
