@@ -112,6 +112,10 @@ Obsidian OSINT Entity Extractor. A tool for open source intelligence analysts to
 
 LiveContainer is an app launcher (not emulator or hypervisor) that allows you to run iOS apps inside it: https://github.com/LiveContainer/LiveContainer
 
+GGWave. Tiny data-over-sound library: https://github.com/ggerganov/ggwave
+
+Device Activity Tracker. This project implements the research from the paper **"Careless Whisper: Exploiting Silent Delivery Receipts to Monitor Users on Mobile Instant Messengers"** by Gabriel K. Gegenhuber, Maximilian Günther, Markus Maier, Aljosha Judmayer, Florian Holzbauer, Philipp É. Frenzel, and Johanna Ullrich (University of Vienna & SBA Research): https://github.com/Xh4H/WhatsApp-device-activity-tracker
+
 The Firehound project is scanning and indexing apps that expose and leak sensitive user data in AppStore: https://firehound.covertlabs.io/
 
 ReconSwarm is a modular reconnaissance automation framework designed for distributed security testing. It provisions cloud infrastructure, executes parallel reconnaissance pipelines, and collects results with minimal configuration overhead: https://github.com/renatus-cartesius/reconswarm
@@ -159,6 +163,8 @@ F_EX Java IDE. An experimental integrated development environment (IDE) for Java
 **Linux & DevOps:**
 
 Sloggo. Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process: https://github.com/phare/sloggo/
+
+Docker-Android. Android in docker solution with noVNC supported and video recording: https://github.com/budtmo/docker-android
 
 ProxSave. Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications: https://github.com/tis24dev/proxsave
 
