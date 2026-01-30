@@ -100,6 +100,10 @@ OSINT Books by Ubikron. In this repository, you will find a short list of books 
 
 ----
 
+Keeping track of crypto markets often means juggling charts, sentiment tools, and news feeds. This Start.me crypto dashboard brings them together in one structured view, designed to reduce context switching and knee-jerk reactions: https://start.me/p/nReaJG/crypto_dashboard
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 P2T (Pix2Text). An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowering seamless conversion of visual content into text-based representations. 80+ languages are supported: https://github.com/breezedeus/pix2text
@@ -161,6 +165,8 @@ ProxSave. Backup tool for Proxmox PBS & PVE System Files with advanced features 
 Vulnhuntr leverages the power of LLMs to automatically create and analyze entire code call chains starting from remote user input and ending at server output for detection of complex, multi-step, security-bypassing vulnerabilities that go far beyond what traditional static code analysis tools are capable of performing: https://github.com/protectai/vulnhuntr?tab=readme-ov-file
 
 StartOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services: https://github.com/Start9Labs/start-os
+
+Port Killer. A powerful cross-platform port management tool for developers and devops. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click: https://github.com/productdevbook/port-killer
 
 ----
 
