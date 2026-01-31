@@ -137,6 +137,8 @@ TeleBotList. A cool collection of awesome Telegram bots source code hosted on Gi
 
 Terminal Messenger is an ultra-secure, OFF-THE-RECORD (OTR), and end-to-end encrypted (E2EE) CLI messaging platform: https://github.com/rhymezip/TerminalMessenger/tree/Rahim
 
+AnyCrawl. TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing: https://github.com/any4ai/AnyCrawl
+
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
 RzWeb. A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly: https://github.com/IndAlok/rzweb
