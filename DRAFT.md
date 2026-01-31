@@ -129,6 +129,8 @@ ReconSwarm is a modular reconnaissance automation framework designed for distrib
 
 Webvetted. Automated OSINT service that performs 60-second background checks on individuals, sellers, or websites. Accepts names, e-commerce links (eBay, Amazon, AliExpress), Social networks or domains to surface scam reports, domain history, social profiles, and trust indicators: https://webvetted.com/
 
+WEBFANG, is my first CLI, a modular OSINT & Reconnaissance toolkit curated for Ethical Hackers and Red-Teamers. Sink fangs into web targets using a passive intel gathering approach, active Spidering, DNS/WHOIS lookups & Shodan, All in a lightweight package. Choose your weapon & happy hunting: https://github.com/Talyx66/WEBFANG
+
 Keifu. Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity: https://github.com/trasta298/keifu
 
 TeleBotList. A cool collection of awesome Telegram bots source code hosted on GitHub: https://github.com/MoonWalker440/TeleBotList
@@ -151,7 +153,7 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 **Universal Search & AI:**
 
-
+RapidOCR. Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch: https://github.com/RapidAI/RapidOCR
 
 ----
 
