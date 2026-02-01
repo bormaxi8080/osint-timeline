@@ -23,7 +23,7 @@ Free to read. Manually curated. Minimal noise.
 
 ## 📌 Donates
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/osintech)
 
 ----
 

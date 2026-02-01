@@ -151,6 +151,12 @@ Free to read. Manually curated. Minimal noise.
 
 ---
 
+### 📌 Donates
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/osintech)
+
+---
+
 ### 📌 Legal and ethical note
 
 All tools and techniques documented in the dataset are presented for informational,  
