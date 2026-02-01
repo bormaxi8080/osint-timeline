@@ -58,6 +58,12 @@ Jurisdictional coverage isn’t about more data --> It’s about seeing clearly.
 
 ----
 
+Social Engineering Analysis Framework:
+
+A Comprehensive Playbook for Human Hacking by OSINT Industries: https://media.licdn.com/dms/document/media/v2/D4E1FAQGW_LWB0lErAQ/feedshare-document-pdf-analyzed/B4EZwUrTU8J8AY-/0/1769873423834?e=1770854400&v=beta&t=SMRE_Z2DOZOLMFkK2p3c1mQz6qzrV-MB7QAcCJkHr7c
+
+----
+
 BROWSER SANDBOXES  
   
 There are situations when you want to visit a website, but you are not sure about its reliability, or you do not want to share your unique browser fingerprinting with the site, or simply something is not working in your browser and you want to try if it will work in another one.  
@@ -138,6 +144,31 @@ TeleBotList. A cool collection of awesome Telegram bots source code hosted on Gi
 Terminal Messenger is an ultra-secure, OFF-THE-RECORD (OTR), and end-to-end encrypted (E2EE) CLI messaging platform: https://github.com/rhymezip/TerminalMessenger/tree/Rahim
 
 AnyCrawl. TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing: https://github.com/any4ai/AnyCrawl
+
+Free TV. This is an M3U playlist for free TV channels around the World. Or free on the Internet:
+
+- Plex TV
+- Pluto TV (English, Spanish, French, Italian)
+- Redbox Live TV
+- Roku TV
+- Samsung TV Plus
+- Youtube live channels
+
+To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+
+Donut Browser. A powerful anti-detect browser that puts you in control of your browsing experience. 
+- Create unlimited number of local browser profiles completely isolated from each other
+- Safely use multiple accounts on one device by using anti-detect browser profiles, powered by [Camoufox](https://camoufox.com/)
+- Proxy support with basic auth for all browsers
+- Import profiles from your existing browsers
+- Automatic updates for browsers
+- Set Donut Browser as your default browser to control in which profile to open links: https://github.com/zhom/donutbrowser
+
+Camoufox. An open source anti-detect browser with robust fingerprint injection: https://camoufox.com/
+
+Security Cipher. As passionate writers and open-source contributors in the field of cybersecurity, we are eager to share our experiences and knowledge with the community. We continue to learn and grow in this field, and we are excited to share our insights with others: https://securitycipher.com/security-tools/
+
+Public data tells a story governments don’t intend to tell. These slides summarize findings from an OSINT-based audit of Cuban government web infrastructure - highlighting inconsistent security standards, exposed metadata, and uneven protections across state institutions. Full investigation on Substack: https://ringmast4r.substack.com/p/cuba-revealed-how-the-communist-regime
 
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
