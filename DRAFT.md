@@ -168,7 +168,7 @@ Camoufox. An open source anti-detect browser with robust fingerprint injection: 
 
 Security Cipher. As passionate writers and open-source contributors in the field of cybersecurity, we are eager to share our experiences and knowledge with the community. We continue to learn and grow in this field, and we are excited to share our insights with others: https://securitycipher.com/security-tools/
 
-Public data tells a story governments don’t intend to tell. These slides summarize findings from an OSINT-based audit of Cuban government web infrastructure - highlighting inconsistent security standards, exposed metadata, and uneven protections across state institutions. Full investigation on Substack: https://ringmast4r.substack.com/p/cuba-revealed-how-the-communist-regime
+Public data tells a story governments don’t intend to tell. These slides summarize findings from an OSINT-based audit of Cuba government web infrastructure - highlighting inconsistent security standards, exposed metadata, and uneven protections across state institutions. Full investigation on Substack: https://ringmast4r.substack.com/p/cuba-revealed-how-the-communist-regime
 
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
