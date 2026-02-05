@@ -105,6 +105,9 @@ A country-focused OSINT resource set from UNISHKA Research Service, useful for r
 
 https://substack.com/home/post/p-185818226
 
+
+Epstein Document Network Explorer. An intelligent document analysis and network visualization system that processes legal documents to extract relationships, entities, and events, then visualizes them as an interactive knowledge graph: https://github.com/maxandrews/Epstein-doc-explorer
+
 ----
 
 The OSINT Vault. Tools for mapping networks, tracing domains, and identifying the systems behind online activity. Clear, reliable, and built for precise discovery: https://theosintvault.io/
@@ -178,6 +181,8 @@ ByPassAV. This map lists the essential techniques to bypass anti-virus and EDR: 
 
 VulnX is an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning: https://github.com/anouarbensaad/vulnx
 
+MiroMiro. Turn any website into your design toolkit. Extract colors, fonts, images & animations in one click. No more eyeballing. No more guessing hex codes: https://miromiro.app/https://miromiro.app/
+
 Whapa is a set of graphical forensic tools to analyze whatsapp from Android and soon iOS devices. All the tools have been written in Python 3.8 and have been tested on linux, windows and macOS systems: https://github.com/B16f00t/whapa
 
 DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
@@ -187,6 +192,8 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 **Universal Search & AI:**
 
 RapidOCR. Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch: https://github.com/RapidAI/RapidOCR
+
+Pacta turns software architecture into versioned, queryable data - so teams can see, compare, and reason about architectural change over time, not just block violations: https://github.com/pacta-dev/pacta-cli
 
 ----
 
