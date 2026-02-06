@@ -67,6 +67,10 @@ Free TV. This is an M3U playlist for free TV channels around the World. Or free 
 
 To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
+BillionMail. An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns: https://github.com/be3beke/BillionMail
+
+Dropp is a modern cross-platform dropzone that keeps your files accessible across all your devices. Drag files to your shelf on macOS, then click to sync them to the cloud—they'll be available on your Android phone and other devices: https://github.com/spacefarers/Dropp
+
 Security Cipher. As passionate writers and open-source contributors in the field of cybersecurity, we are eager to share our experiences and knowledge with the community. We continue to learn and grow in this field, and we are excited to share our insights with others: https://securitycipher.com/security-tools/
 
 Public data tells a story governments don’t intend to tell. These slides summarize findings from an OSINT-based audit of Cuba government web infrastructure - highlighting inconsistent security standards, exposed metadata, and uneven protections across state institutions. Full investigation on Substack: https://ringmast4r.substack.com/p/cuba-revealed-how-the-communist-regime
@@ -97,6 +101,8 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 **Software Development & APIs:**
 
+Scrapling. An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be: https://github.com/D4Vinci/Scrapling
+
 HTMX Debugger. A browser extension (Chrome and Firefox) debugging tool for htmx applications: https://github.com/NomadicDaddy/htmx-debugger
 
 F_EX Java IDE. An experimental integrated development environment (IDE) for Java, written in JavaFX. A full-featured code editor with support for Gradle, Maven, pure Java, and IntelliJ IDEA projects: https://github.com/ExesWi/F_EX
@@ -104,6 +110,8 @@ F_EX Java IDE. An experimental integrated development environment (IDE) for Java
 ----
 
 **Linux & DevOps:**
+
+MySpeed. A speed test analysis software that shows your internet speed for up to 30 days: https://github.com/gnmyt/MySpeed
 
 Vulnhuntr leverages the power of LLMs to automatically create and analyze entire code call chains starting from remote user input and ending at server output for detection of complex, multi-step, security-bypassing vulnerabilities that go far beyond what traditional static code analysis tools are capable of performing: https://github.com/protectai/vulnhuntr?tab=readme-ov-file
 
