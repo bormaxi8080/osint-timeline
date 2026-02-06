@@ -141,7 +141,7 @@ Curated tools and databases that expand analytical, attribution, and investigati
 
 ---
 
-### 📌 Where to Follow
+## 📌 Where to Follow
 
 - **Substack:** https://osintech.substack.com  
 - **LinkedIn:** https://www.linkedin.com/in/osintech/details/featured/
@@ -151,13 +151,13 @@ Free to read. Manually curated. Minimal noise.
 
 ---
 
-### 📌 Donates
+## 📌 Donates
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/osintech)
 
 ---
 
-### 📌 Legal and ethical note
+## 📌 Legal and ethical note
 
 All tools and techniques documented in the dataset are presented for informational,  
 educational and information security purposes only.
@@ -167,7 +167,7 @@ Users are responsible for complying with applicable laws and ethical standards.
 
 ---
 
-### 📌 About future updates
+## 📌 About future updates
 
 The dataset is updated on a regular basis.  
 Future posts will document changes, notable additions and emerging trends observed within the dataset.
