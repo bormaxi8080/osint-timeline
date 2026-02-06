@@ -14,7 +14,7 @@ virtual bread
 
 ----
 
-**Week of 30 January — 6 February 2026**
+**Week of 30 January — 5 February 2026**
 
 Every week, I manually curate tools, research, and services that are genuinely useful for OSINT, digital investigations, security research, and adjacent fields.
 
