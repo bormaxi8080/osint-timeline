@@ -106,6 +106,19 @@ A country-focused OSINT resource set from UNISHKA Research Service, useful for r
 https://substack.com/home/post/p-185818226
 
 
+Canada OSINT  
+  
+- maps  
+- police/legal  
+- finance/property  
+- transportation  
+- news  
+- government databases  
+- business/corporation
+
+https://start.me/p/9E5BLR/canosint
+
+
 Epstein Document Network Explorer. An intelligent document analysis and network visualization system that processes legal documents to extract relationships, entities, and events, then visualizes them as an interactive knowledge graph: https://github.com/maxandrews/Epstein-doc-explorer
 
 ----
@@ -176,6 +189,8 @@ Public data tells a story governments don’t intend to tell. These slides summa
 Complience Check Lite. An information and analytical tool for identifying formal, hierarchical, and regulatory inconsistencies in documents, orders, and court decisions: https://github.com/gogi2305/compliance-check-lite
 
 RzWeb. A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly: https://github.com/IndAlok/rzweb
+
+WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence: https://github.com/h9zdev/WireTapper
 
 ByPassAV. This map lists the essential techniques to bypass anti-virus and EDR: https://github.com/matro7sh/BypassAV
 
