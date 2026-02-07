@@ -99,7 +99,7 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 
 **Universal Search & AI:**
 
-
+mr7.AI. Next-Gen AI forCybersecurity Experts. A flexible response system designed for ethical hackers, penetration testers, and security researchers. Context-aware, developer-friendly, and built for advanced users: http://mr7.ai/
 
 ----
 
