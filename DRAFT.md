@@ -71,6 +71,8 @@ Free TV. This is an M3U playlist for free TV channels around the World. Or free 
 
 To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
+Exegol. Fully featured and community-driven hacking environment: https://github.com/ThePorgs/Exegol
+
 BillionMail. An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns: https://github.com/be3beke/BillionMail
 
 Dots.OCR. Multilingual Document Layout Parsing in a Single Vision-Language Model: https://github.com/rednote-hilab/dots.ocr
