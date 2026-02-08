@@ -10,6 +10,8 @@ A team of workers catches chickens at night. The work is brought to the farm in 
 
 Afghanistan’s New Intelligence Landscape: Hybrid Regimes and the Marketplace of Secrets: https://substack.com/home/post/p-187205970
 
+EpsteIn. See which of your LinkedIn connections appear in the Epstein files: https://github.com/cfinke/EpsteIn
+
 Introduction to Investigative Journalism: Deep Internet Research: Leveraging Open-Source Research and Verification Techniques: https://gijn.org/resource/introduction-investigative-journalism-deep-internet-research/
 
 Social Engineering Analysis Framework. A Comprehensive Playbook for Human Hacking by OSINT Industries: https://media.licdn.com/dms/document/media/v2/D4E1FAQGW_LWB0lErAQ/feedshare-document-pdf-analyzed/B4EZwUrTU8J8AY-/0/1769873423834?e=1770854400&v=beta&t=SMRE_Z2DOZOLMFkK2p3c1mQz6qzrV-MB7QAcCJkHr7c
@@ -70,6 +72,8 @@ Free TV. This is an M3U playlist for free TV channels around the World. Or free 
 To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
 BillionMail. An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns: https://github.com/be3beke/BillionMail
+
+WAF Checker. A powerful web application to test how well your Web Application Firewall (WAF) protects against common attack vectors: https://github.com/PAPAMICA/waf-checker
 
 Dropp is a modern cross-platform dropzone that keeps your files accessible across all your devices. Drag files to your shelf on macOS, then click to sync them to the cloud—they'll be available on your Android phone and other devices: https://github.com/spacefarers/Dropp
 
@@ -146,6 +150,18 @@ IMAGE OSINT. List of tools for image analysis and search. Part of Boudjenane Sou
 25 Satellite Maps To See Earth in New Ways. List of online tools (mostly free or partly free) by GisGeography: https://gisgeography.com/satellite-maps/
 
 7 Aerial Imagery and Photography Sources (Free and Paid): https://gisgeography.com/aerial-imagery-sources/
+
+7 Free World Climate Data Sources  
+  
+1. NASA Earth Observatory  
+2. European Space Agency Climate Change Initiative (CCI)  
+3. UNEP Environmental Data Explorer  
+4. US Government Open Data Initiative  
+5. FAO GeoNetwork  
+6. NASA’s Socioeconomic Data and Applications Center (SEDAC)  
+7. Organisation for Economic Co-operation and Development (OECD)  
+
+https://gisgeography.com/free-world-climate-data-sources/
 
 ----
 
