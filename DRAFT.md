@@ -73,6 +73,8 @@ To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IP
 
 BillionMail. An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns: https://github.com/be3beke/BillionMail
 
+Dots.OCR. Multilingual Document Layout Parsing in a Single Vision-Language Model: https://github.com/rednote-hilab/dots.ocr
+
 WAF Checker. A powerful web application to test how well your Web Application Firewall (WAF) protects against common attack vectors: https://github.com/PAPAMICA/waf-checker
 
 Dropp is a modern cross-platform dropzone that keeps your files accessible across all your devices. Drag files to your shelf on macOS, then click to sync them to the cloud—they'll be available on your Android phone and other devices: https://github.com/spacefarers/Dropp
