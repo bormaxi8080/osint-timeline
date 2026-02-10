@@ -16,6 +16,8 @@ Introduction to Investigative Journalism: Deep Internet Research: Leveraging Ope
 
 Social Engineering Analysis Framework. A Comprehensive Playbook for Human Hacking by OSINT Industries: https://media.licdn.com/dms/document/media/v2/D4E1FAQGW_LWB0lErAQ/feedshare-document-pdf-analyzed/B4EZwUrTU8J8AY-/0/1769873423834?e=1770854400&v=beta&t=SMRE_Z2DOZOLMFkK2p3c1mQz6qzrV-MB7QAcCJkHr7c
 
+OSINT Companies. This repository contains a curated list of companies and platforms commonly used in Open-Source Intelligence (OSINT) work. Entries are grouped by primary OSINT use, not marketing claims. Also who found the companies, the year, and importantly - the country it's located in: https://github.com/ubikron/OSINT-Companies
+
 ----
 
 PDF Documents Analysis Tools
@@ -112,6 +114,8 @@ mr7.AI. Next-Gen AI forCybersecurity Experts. A flexible response system designe
 ----
 
 **Software Development & APIs:**
+
+AlmostNode. Node.js in your browser. Just like that. A lightweight, browser-native Node.js runtime environment. Run Node.js code, install npm packages, and develop with Vite or Next.js - all without a server: https://github.com/macaly/almostnode
 
 Scrapling. An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be: https://github.com/D4Vinci/Scrapling
 
