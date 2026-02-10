@@ -18,6 +18,8 @@ Social Engineering Analysis Framework. A Comprehensive Playbook for Human Hackin
 
 OSINT Companies. This repository contains a curated list of companies and platforms commonly used in Open-Source Intelligence (OSINT) work. Entries are grouped by primary OSINT use, not marketing claims. Also who found the companies, the year, and importantly - the country it's located in: https://github.com/ubikron/OSINT-Companies
 
+World Monitor. Real-time global intelligence dashboard - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface: https://github.com/koala73/worldmonitor
+
 ----
 
 PDF Documents Analysis Tools
