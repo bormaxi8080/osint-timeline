@@ -20,6 +20,8 @@ OSINT Companies. This repository contains a curated list of companies and platfo
 
 World Monitor. Real-time global intelligence dashboard - AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface: https://github.com/koala73/worldmonitor
 
+OSINT of Azerbaijan by Unishka Research Service: https://unishka.substack.com/p/osint-of-azerbaijan
+
 ----
 
 PDF Documents Analysis Tools
@@ -64,16 +66,7 @@ Terminal Messenger is an ultra-secure, OFF-THE-RECORD (OTR), and end-to-end encr
 
 AnyCrawl. TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing: https://github.com/any4ai/AnyCrawl
 
-Free TV. This is an M3U playlist for free TV channels around the World. Or free on the Internet:
-
-- Plex TV
-- Pluto TV (English, Spanish, French, Italian)
-- Redbox Live TV
-- Roku TV
-- Samsung TV Plus
-- Youtube live channels
-
-To use it point your IPTV player to https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+Free TV. This is an M3U playlist for free TV channels around the World. Or free on the Internet. Plex TV, Pluto TV (English, Spanish, French, Italian), Redbox Live TV, Roku TV, Samsung TV Plus, Youtube live channels: https://github.com/Free-TV/IPTV
 
 Exegol. Fully featured and community-driven hacking environment: https://github.com/ThePorgs/Exegol
 
