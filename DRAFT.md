@@ -22,6 +22,23 @@ World Monitor. Real-time global intelligence dashboard - AI-powered news aggreg
 
 OSINT of Azerbaijan by Unishka Research Service: https://unishka.substack.com/p/osint-of-azerbaijan
 
+---
+
+Image Whisperer v1.0 - out of beta!  
+  
+This is amazing AI Image Analysis Toolkit with a lot of features:  
+  
+Scene Description  
+First Observations  
+Forensic Analysis  
+Location Analysis  
+Found in text on the web + similar images  
+Verify & cross-check  
+Investigate this image  
+Image Metadata & EXIF Information
+
+https://imagewhisperer.org/
+
 ----
 
 PDF Documents Analysis Tools
@@ -103,6 +120,8 @@ DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
 ----
 
 **Universal Search & AI:**
+
+SightLine. Geospatial infrastructure intelligence platform for discovering and analyzing physical-world assets using OpenStreetMap data: https://github.com/ni5arga/sightline
 
 mr7.AI. Next-Gen AI forCybersecurity Experts. A flexible response system designed for ethical hackers, penetration testers, and security researchers. Context-aware, developer-friendly, and built for advanced users: http://mr7.ai/
 
