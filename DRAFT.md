@@ -59,6 +59,10 @@ BentoPDF is a powerful, privacy-first, client-side PDF toolkit that is self hos
 
 ----
 
+Deta Surf. Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local): https://github.com/deta/surf
+
+----
+
 The OSINT Vault. Tools for mapping networks, tracing domains, and identifying the systems behind online activity. Clear, reliable, and built for precise discovery: https://theosintvault.io/
 
 OSINT Books by Ubikron. In this repository, you will find a short list of books on various OSINT tools and techniques, the use of OSINT in different fields (cybersecurity, recruiting), and the psychological aspects of investigations: https://github.com/ubikron/OSINT-Books
