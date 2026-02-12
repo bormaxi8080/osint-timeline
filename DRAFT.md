@@ -79,6 +79,8 @@ Webvetted. Automated OSINT service that performs 60-second background checks on 
 
 WEBFANG, is my first CLI, a modular OSINT & Reconnaissance toolkit curated for Ethical Hackers and Red-Teamers. Sink fangs into web targets using a passive intel gathering approach, active Spidering, DNS/WHOIS lookups & Shodan, All in a lightweight package. Choose your weapon & happy hunting: https://github.com/Talyx66/WEBFANG
 
+Camofox-browser. Headless browser automation server for AI agents to visit sites that are usually blocked: https://github.com/jo-inc/camofox-browser
+
 Keifu. Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity: https://github.com/trasta298/keifu
 
 TeleBotList. A cool collection of awesome Telegram bots source code hosted on GitHub: https://github.com/MoonWalker440/TeleBotList
