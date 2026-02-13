@@ -15,6 +15,7 @@ Social Engineering Analysis Framework. A Comprehensive Playbook for Human Hackin
 
 OSINT Companies. This repository contains a curated list of companies and platforms commonly used in Open-Source Intelligence (OSINT) work. Entries are grouped by primary OSINT use, not marketing claims. Also who found the companies, the year, and importantly - the country it's located in: https://github.com/ubikron/OSINT-Companies
 
+TeleBotList. A cool collection of awesome Telegram bots source code hosted on GitHub: https://github.com/MoonWalker440/TeleBotList
 
 Public data tells a story governments don’t intend to tell. These slides summarize findings from an OSINT-based audit of Cuba government web infrastructure - highlighting inconsistent security standards, exposed metadata, and uneven protections across state institutions. Full investigation on Substack: https://ringmast4r.substack.com/p/cuba-revealed-how-the-communist-regime
 
@@ -28,9 +29,27 @@ Keeping track of crypto markets often means juggling charts, sentiment tools, an
 
 ----
 
+**witr** exists to answer a single question:
+
+> **Why is this running?**
+
+When something is running on a system—whether it is a process, a service, or something bound to a port—there is always a cause. That cause is often indirect, non-obvious, or spread across multiple layers such as supervisors, containers, services, or shells.
+
+Existing tools (`ps`, `top`, `lsof`, `ss`, `systemctl`, `docker ps`) expose state and metadata. They show _what_ is running, but leave the user to infer _why_ by manually correlating outputs across tools.
+
+**witr** makes that causality explicit.
+
+It explains **where a running thing came from**, **how it was started**, and **what chain of systems is responsible for it existing right now**, in a single, human-readable output.
+
+https://github.com/pranshuparmar/witr
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
-TeleBotList. A cool collection of awesome Telegram bots source code hosted on GitHub: https://github.com/MoonWalker440/TeleBotList
+
+
+
 
 Exegol. Fully featured and community-driven hacking environment: https://github.com/ThePorgs/Exegol
 
@@ -46,8 +65,6 @@ RzWeb. A complete browser-based reverse engineering platform built on Rizin, run
 
 WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence: https://github.com/h9zdev/WireTapper
 
-ByPassAV. This map lists the essential techniques to bypass anti-virus and EDR: https://github.com/matro7sh/BypassAV
-
 VulnX is an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning: https://github.com/anouarbensaad/vulnx
 
 MiroMiro. Turn any website into your design toolkit. Extract colors, fonts, images & animations in one click. No more eyeballing. No more guessing hex codes: https://miromiro.app/https://miromiro.app/
@@ -56,13 +73,11 @@ GraphQL Grip. Burp Suite extension for GraphQL security testing. Fetch schemas, 
 
 Whapa is a set of graphical forensic tools to analyze whatsapp from Android and soon iOS devices. All the tools have been written in Python 3.8 and have been tested on linux, windows and macOS systems: https://github.com/B16f00t/whapa
 
-DDOS Melted Method by MrSanZz: https://github.com/MrSanZz/Melted
-
 ----
 
 **Universal Search & AI:**
 
-
+Zen AI Pentest. AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting: https://github.com/SHAdd0WTAka/Zen-Ai-Pentest
 
 ----
 
