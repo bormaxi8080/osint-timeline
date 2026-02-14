@@ -7,6 +7,10 @@ Dystopia.
 
 A team of workers catches chickens at night. The work is brought to the farm in the evening; after dark, a couple thousand chickens need to be caught and loaded into trucks. The chickens are caught in the dark and stuffed into iron crates. Naturally, they resist, trying to escape, scratching the catchers. But the shadows in the night are diligent and merciless. By morning, the pen is empty, and young chickens are released into it. During the day, the catchers drink heavily, but not out of pity for the unfortunate chickens headed for slaughter. But simply out of boredom...
 
+
+
+
+
 ----
 
 Introduction to Investigative Journalism: Deep Internet Research: Leveraging Open-Source Research and Verification Techniques: https://gijn.org/resource/introduction-investigative-journalism-deep-internet-research/
@@ -77,6 +81,8 @@ Whapa is a set of graphical forensic tools to analyze whatsapp from Android and 
 
 **Universal Search & AI:**
 
+CC Workflow Studio. Accelerate Claude Code/GitHub Copilot/OpenAI Codex/Roo Code automation with a visual workflow editor: https://github.com/breaking-brake/cc-wf-studio/
+
 Zen AI Pentest. AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting: https://github.com/SHAdd0WTAka/Zen-Ai-Pentest
 
 ----
@@ -85,11 +91,15 @@ Zen AI Pentest. AI-Powered Penetration Testing Framework with automated vulnerab
 
 Scrapling. An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be: https://github.com/D4Vinci/Scrapling
 
+htmldocs. The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind: https://github.com/htmldocs-js/htmldocs
+
 ----
 
 **Linux & DevOps:**
 
 StartOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services: https://github.com/Start9Labs/start-os
+
+Async Scanner. Fast asynchronous Rust TCP port scanner with configurable concurrency: https://github.com/NickIBrody/async-scanner
 
 Port Killer. A powerful cross-platform port management tool for developers and devops. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click: https://github.com/productdevbook/port-killer
 
