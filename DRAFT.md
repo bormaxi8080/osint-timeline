@@ -51,9 +51,9 @@ https://github.com/pranshuparmar/witr
 
 **OSINT Tools, Services and Investigations:**
 
+Aurora Incident Response. Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders: https://github.com/cyb3rfox/Aurora-Incident-Response
 
-
-
+Samurai. Simple, yet effective moderator bot for telegram. With reports, logs, profanity filter, anti-spam AI, NSFW detection AI and more: https://github.com/Priler/samurai/tree/main
 
 Exegol. Fully featured and community-driven hacking environment: https://github.com/ThePorgs/Exegol
 
@@ -82,6 +82,8 @@ Whapa is a set of graphical forensic tools to analyze whatsapp from Android and 
 **Universal Search & AI:**
 
 CC Workflow Studio. Accelerate Claude Code/GitHub Copilot/OpenAI Codex/Roo Code automation with a visual workflow editor: https://github.com/breaking-brake/cc-wf-studio/
+
+Midday AI. Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers: https://github.com/midday-ai/midday
 
 Zen AI Pentest. AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting: https://github.com/SHAdd0WTAka/Zen-Ai-Pentest
 
