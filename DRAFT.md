@@ -77,9 +77,13 @@ GraphQL Grip. Burp Suite extension for GraphQL security testing. Fetch schemas, 
 
 Whapa is a set of graphical forensic tools to analyze whatsapp from Android and soon iOS devices. All the tools have been written in Python 3.8 and have been tested on linux, windows and macOS systems: https://github.com/B16f00t/whapa
 
+CRACKAR. Advanced Multi-Vector Penetration Testing Tool: https://github.com/codingcreatively/crackar/tree/main
+
 ----
 
 **Universal Search & AI:**
+
+Learn Prompt Hacking. This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course: https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking
 
 CC Workflow Studio. Accelerate Claude Code/GitHub Copilot/OpenAI Codex/Roo Code automation with a visual workflow editor: https://github.com/breaking-brake/cc-wf-studio/
 
@@ -95,11 +99,15 @@ Scrapling. An undetectable, powerful, flexible, high-performance Python library 
 
 htmldocs. The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind: https://github.com/htmldocs-js/htmldocs
 
+FastCode. Accelerating and Streamlining Your Code Understanding: https://github.com/HKUDS/FastCode
+
 ----
 
 **Linux & DevOps:**
 
 StartOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services: https://github.com/Start9Labs/start-os
+
+DockTail. Expose Docker containers as Tailscale Services using label-based configuration: https://github.com/marvinvr/docktail
 
 Async Scanner. Fast asynchronous Rust TCP port scanner with configurable concurrency: https://github.com/NickIBrody/async-scanner
 
