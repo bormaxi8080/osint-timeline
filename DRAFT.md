@@ -115,6 +115,8 @@ FastCode. Accelerating and Streamlining Your Code Understanding: https://github.
 
 **Linux & DevOps:**
 
+LobsterBoard. A self-hosted, drag-and-drop dashboard builder with 50 widgets, a template gallery, custom pages, and zero cloud dependencies. One Node.js server, no frameworks, no build step needed: https://github.com/igounton/lobsterboard
+
 StartOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services: https://github.com/Start9Labs/start-os
 
 DockTail. Expose Docker containers as Tailscale Services using label-based configuration: https://github.com/marvinvr/docktail
