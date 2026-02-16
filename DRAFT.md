@@ -51,11 +51,17 @@ https://github.com/pranshuparmar/witr
 
 **OSINT Tools, Services and Investigations:**
 
+Watcher. Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS: https://github.com/thalesgroup-cert/Watcher
+
 Aurora Incident Response. Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders: https://github.com/cyb3rfox/Aurora-Incident-Response
 
 Samurai. Simple, yet effective moderator bot for telegram. With reports, logs, profanity filter, anti-spam AI, NSFW detection AI and more: https://github.com/Priler/samurai/tree/main
 
 Exegol. Fully featured and community-driven hacking environment: https://github.com/ThePorgs/Exegol
+
+Revelar (Origin Reveal PRO) is a professional Go-based CLI tool for uncovering real/origin IP addresses of websites behind CDNs such as Cloudflare, Akamai, Fastly, Imperva, and AWS CloudFront. It combines passive reconnaissance, **heuristic analysis**, and optional **active verification** to provide **comprehensive reports in JSON and HTML formats: https://github.com/MRvirusIR/Revelar
+
+mdream. The fastest HTML to markdown convertor built with JavaScript. Optimized for LLMs and supports streaming: https://github.com/harlan-zw/mdream
 
 BillionMail. An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns: https://github.com/be3beke/BillionMail
 
@@ -95,6 +101,10 @@ Zen AI Pentest. AI-Powered Penetration Testing Framework with automated vulnerab
 
 **Software Development & APIs:**
 
+Login Machine. AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them: https://github.com/RichardHruby/login-machine
+
+**Zvec** is an open-source, in-process vector database - lightweight, lightning-fast, and designed to embed directly into applications. Built on **Proxima** (Alibaba's battle-tested vector search engine), it delivers production-grade, low-latency, scalable similarity search with minimal setup: https://github.com/alibaba/zvec
+
 Scrapling. An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be: https://github.com/D4Vinci/Scrapling
 
 htmldocs. The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind: https://github.com/htmldocs-js/htmldocs
@@ -108,6 +118,8 @@ FastCode. Accelerating and Streamlining Your Code Understanding: https://github.
 StartOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services: https://github.com/Start9Labs/start-os
 
 DockTail. Expose Docker containers as Tailscale Services using label-based configuration: https://github.com/marvinvr/docktail
+
+OpenWrt Multi-Channel Sniffer. OpenWrt-based Access Point multi-channel WiFi Probe Request sniffer: https://github.com/GiovanniBaccichet/openwrt-multi-sniffer
 
 Async Scanner. Fast asynchronous Rust TCP port scanner with configurable concurrency: https://github.com/NickIBrody/async-scanner
 
