@@ -77,6 +77,8 @@ WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluet
 
 VulnX is an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information collection (including sub-domain name, ip address, country information, organizational information and time zone, etc.) and vulnerability scanning: https://github.com/anouarbensaad/vulnx
 
+https://huggingface.co/spaces/wjbmattingly/caracal
+
 MiroMiro. Turn any website into your design toolkit. Extract colors, fonts, images & animations in one click. No more eyeballing. No more guessing hex codes: https://miromiro.app/https://miromiro.app/
 
 GraphQL Grip. Burp Suite extension for GraphQL security testing. Fetch schemas, fingerprint backends, generate attack payloads: https://github.com/thecybersandeep/graphql-grip
@@ -85,9 +87,13 @@ Whapa is a set of graphical forensic tools to analyze whatsapp from Android and 
 
 CRACKAR. Advanced Multi-Vector Penetration Testing Tool: https://github.com/codingcreatively/crackar/tree/main
 
+Alt-sendme. Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions: https://github.com/tonyantony300/alt-sendme
+
 ----
 
 **Universal Search & AI:**
+
+Pinchtab. Most agent browser tools (OpenClaw, Playwright MCP, Browser Use) are tightly coupled - they only work inside their own framework. If you switch agents or want to script something in bash, you're out of luck: https://github.com/pinchtab/pinchtab
 
 Learn Prompt Hacking. This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course: https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking
 
