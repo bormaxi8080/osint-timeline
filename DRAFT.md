@@ -103,6 +103,8 @@ Midday AI. Invoicing, Time tracking, File reconciliation, Storage, Financial Ove
 
 Zen AI Pentest. AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting: https://github.com/SHAdd0WTAka/Zen-Ai-Pentest
 
+VoiceBox. The open-source voice synthesis studio. Clone voices. Generate speech. Build voice-powered apps. All running locally on your machine: https://github.com/jamiepine/voicebox
+
 ----
 
 **Software Development & APIs:**
@@ -116,6 +118,8 @@ Scrapling. An undetectable, powerful, flexible, high-performance Python library 
 htmldocs. The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind: https://github.com/htmldocs-js/htmldocs
 
 FastCode. Accelerating and Streamlining Your Code Understanding: https://github.com/HKUDS/FastCode
+
+Gradle is a highly scalable build automation tool designed to handle everything from large, multi-project enterprise builds to quick development tasks across various languages. Gradle’s modular, performance-oriented architecture seamlessly integrates with development environments, making it a go-to solution for building, testing, and deploying applications on Java, Kotlin, Scala, Android, Groovy, C++, and Swift: https://github.com/gradle/gradle
 
 ----
 
