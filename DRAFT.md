@@ -8,8 +8,19 @@ Dystopia.
 A team of workers catches chickens at night. The work is brought to the farm in the evening; after dark, a couple thousand chickens need to be caught and loaded into trucks. The chickens are caught in the dark and stuffed into iron crates. Naturally, they resist, trying to escape, scratching the catchers. But the shadows in the night are diligent and merciless. By morning, the pen is empty, and young chickens are released into it. During the day, the catchers drink heavily, but not out of pity for the unfortunate chickens headed for slaughter. But simply out of boredom...
 
 
+----
 
 
+We continue to develop our 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐏𝐚𝐫𝐭𝐧𝐞𝐫 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐬 and are happy to announce that we have launched a 𝐬𝐩𝐞𝐜𝐢𝐚𝐥 𝐩𝐫𝐨𝐠𝐫𝐚𝐦 𝐟𝐨𝐫 𝐣𝐨𝐮𝐫𝐧𝐚𝐥𝐢𝐬𝐭𝐬, 𝐢𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐢𝐯𝐞 𝐫𝐞𝐩𝐨𝐫𝐭𝐞𝐫𝐬, 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐩𝐚𝐫𝐞𝐧𝐜𝐲 𝐰𝐚𝐭𝐜𝐡𝐝𝐨𝐠 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐜𝐫𝐨𝐬𝐬-𝐛𝐨𝐫𝐝𝐞𝐫 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐞𝐝 𝐜𝐫𝐢𝐦𝐞, 𝐜𝐨𝐫𝐫𝐮𝐩𝐭𝐢𝐨𝐧, 𝐬𝐚𝐧𝐜𝐭𝐢𝐨𝐧𝐬 𝐞𝐯𝐚𝐬𝐢𝐨𝐧, 𝐢𝐥𝐥𝐢𝐜𝐢𝐭 𝐟𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐟𝐥𝐨𝐰𝐬, 𝐚𝐧𝐝 𝐬𝐡𝐞𝐥𝐥 𝐜𝐨𝐦𝐩𝐚𝐧𝐢𝐞𝐬.  
+  
+Tesari was 𝐝𝐞𝐬𝐢𝐠𝐧𝐞𝐝 𝐭𝐨 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐢𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐨𝐫𝐬 in collecting foundational intelligence as a 𝐬𝐭𝐞𝐩 𝐳𝐞𝐫𝐨 that feeds all following workstreams.  
+The platform delivers 𝐦𝐢𝐬𝐬𝐢𝐨𝐧-𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 and cuts through massive amounts of data to provide a clear picture. It helps you find solid, 𝐯𝐞𝐫𝐢𝐟𝐢𝐚𝐛𝐥𝐞 𝐞𝐯𝐢𝐝𝐞𝐧𝐜𝐞 through all-source intelligence that 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐫𝐞𝐥𝐲 𝐨𝐧.  
+  
+We are happy to 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐭𝐡𝐞 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 and deliver valuable solutions.
+
+----
+
+Build Your First OSINT Bookmarklet in 5 Minutes. Video guide from David Bombal, Griffin Glynn and Micah Hoffman: https://www.youtube.com/watch?v=-nQWos7H1LQ&themeRefresh=1
 
 ----
 
@@ -149,6 +160,11 @@ Trafexia - Mobile Traffic Interceptor. A powerful desktop application for interc
 
 **New from CyberDetective:**
 
+worldwatch.uk
+
+An online world map for real-time monitoring of events from a wide variety of categories: Logistics, Military, Economic, Disasters, Governance, Humanitarian, Internet, Environment, News
+
+https://worldwatch.uk/
 
 
 ----
