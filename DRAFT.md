@@ -24,6 +24,8 @@ Build Your First OSINT Bookmarklet in 5 Minutes. Video guide from David Bombal, 
 
 ----
 
+OSINT People. List of interesting and active OSINT researchers/bloggers: https://github.com/ubikron/OSINT-People
+
 Introduction to Investigative Journalism: Deep Internet Research: Leveraging Open-Source Research and Verification Techniques: https://gijn.org/resource/introduction-investigative-journalism-deep-internet-research/
 
 Social Engineering Analysis Framework. A Comprehensive Playbook for Human Hacking by OSINT Industries: https://media.licdn.com/dms/document/media/v2/D4E1FAQGW_LWB0lErAQ/feedshare-document-pdf-analyzed/B4EZwUrTU8J8AY-/0/1769873423834?e=1770854400&v=beta&t=SMRE_Z2DOZOLMFkK2p3c1mQz6qzrV-MB7QAcCJkHr7c
