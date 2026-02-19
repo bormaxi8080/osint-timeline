@@ -14,7 +14,7 @@ Build Your First OSINT Bookmarklet in 5 Minutes. Video guide from David Bombal, 
 
 > **Why is this running?**
 
-When something is running on a system—whether it is a process, a service, or something bound to a port—there is always a cause. That cause is often indirect, non-obvious, or spread across multiple layers such as supervisors, containers, services, or shells.
+When something is running on a system-whether it is a process, a service, or something bound to a port—there is always a cause. That cause is often indirect, non-obvious, or spread across multiple layers such as supervisors, containers, services, or shells.
 
 Existing tools (`ps`, `top`, `lsof`, `ss`, `systemctl`, `docker ps`) expose state and metadata. They show _what_ is running, but leave the user to infer _why_ by manually correlating outputs across tools.
 
@@ -30,15 +30,13 @@ https://github.com/pranshuparmar/witr
 
 Exegol. Fully featured and community-driven hacking environment: https://github.com/ThePorgs/Exegol
 
-Deta Surf. Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local): https://github.com/deta/surf
+Deta Surf Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local): https://github.com/deta/surf
 
 Revelar (Origin Reveal PRO) is a professional Go-based CLI tool for uncovering real/origin IP addresses of websites behind CDNs such as Cloudflare, Akamai, Fastly, Imperva, and AWS CloudFront. It combines passive reconnaissance, **heuristic analysis**, and optional **active verification** to provide **comprehensive reports in JSON and HTML formats: https://github.com/MRvirusIR/Revelar
 
 mdream. The fastest HTML to markdown convertor built with JavaScript. Optimized for LLMs and supports streaming: https://github.com/harlan-zw/mdream
 
 BillionMail. An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns: https://github.com/be3beke/BillionMail
-
-
 
 WAF Checker. A powerful web application to test how well your Web Application Firewall (WAF) protects against common attack vectors: https://github.com/PAPAMICA/waf-checker
 
@@ -92,8 +90,7 @@ Port Killer. A powerful cross-platform port management tool for developers and d
 
 **New from CyberDetective:**
 
-
-
+Place Spotter. Online AI photo geolocation tool. 3 photos per month free: https://www.placespotter.com/
 
 ----
 
