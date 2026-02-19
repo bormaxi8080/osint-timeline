@@ -70,6 +70,8 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 **Software Development & APIs:**
 
+Fastest-validator. The fastest JS validator library for NodeJS | Browser | Deno: https://github.com/icebob/fastest-validator
+
 ElectroBun. Build ultra fast, tiny, and cross-platform desktop apps with Typescript: https://github.com/blackboardsh/electrobun
 
 Gradle is a highly scalable build automation tool designed to handle everything from large, multi-project enterprise builds to quick development tasks across various languages. Gradle’s modular, performance-oriented architecture seamlessly integrates with development environments, making it a go-to solution for building, testing, and deploying applications on Java, Kotlin, Scala, Android, Groovy, C++, and Swift: https://github.com/gradle/gradle
@@ -77,6 +79,8 @@ Gradle is a highly scalable build automation tool designed to handle everything 
 ----
 
 **Linux & DevOps:**
+
+Cubecos. Open-source IaaS and PaaS platform that automates and simplifies the deployment of virtualization, Kubernetes, and OpenStack infrastructure: https://github.com/bigstack-oss/cubecos
 
 Port Killer. A powerful cross-platform port management tool for developers and devops. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click: https://github.com/productdevbook/port-killer
 
