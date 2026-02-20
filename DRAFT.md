@@ -28,6 +28,10 @@ https://github.com/pranshuparmar/witr
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT of Brazil by Unishka Research Service: https://substack.com/home/post/p-187615169
+
+Crypto Resources start.me dashboard by Robert Bunn: https://start.me/p/Bnmdyv/crypto-resources
+
 Exegol. Fully featured and community-driven hacking environment: https://github.com/ThePorgs/Exegol
 
 Deta Surf Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local): https://github.com/deta/surf
