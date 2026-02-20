@@ -34,6 +34,8 @@ Deta Surf Personal AI Notebooks. Organize files & webpages and generate notes fr
 
 Revelar (Origin Reveal PRO) is a professional Go-based CLI tool for uncovering real/origin IP addresses of websites behind CDNs such as Cloudflare, Akamai, Fastly, Imperva, and AWS CloudFront. It combines passive reconnaissance, **heuristic analysis**, and optional **active verification** to provide **comprehensive reports in JSON and HTML formats: https://github.com/MRvirusIR/Revelar
 
+SmolDocling OCR App built using SmolDocling 256M Model and Streamlit: https://github.com/AIAnytime/SmolDocling-OCR-App
+
 mdream. The fastest HTML to markdown convertor built with JavaScript. Optimized for LLMs and supports streaming: https://github.com/harlan-zw/mdream
 
 BillionMail. An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns: https://github.com/be3beke/BillionMail
