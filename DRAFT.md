@@ -68,6 +68,15 @@ CRACKAR. Advanced Multi-Vector Penetration Testing Tool: https://github.com/codi
 
 **Universal Search & AI:**
 
+Obsidian OSINT Copilot Plugin. OSINT investigation plugin for SOC analysts and threat researchers to organize, analyze, and visualize intelligence data: https://github.com/Probe-Point-Analytics-LLC/Obsidian-OSINT-Copilot-plugin
+
+OSINT COpilot Obsidian Template: https://github.com/Probe-Point-Analytics-LLC/OSINT-Copilot-Obsidian-Template
+
+
+NullClaw. Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig: https://github.com/nullclaw/nullclaw
+
+ODCrawler. A search engine for open directories. Find millions of publicly available files: https://odcrawler.xyz/
+
 Midday AI. Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers: https://github.com/midday-ai/midday
 
 Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral): https://github.com/khoj-ai/khoj
@@ -78,6 +87,8 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 Fastest-validator. The fastest JS validator library for NodeJS | Browser | Deno: https://github.com/icebob/fastest-validator
 
+Authelia. The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified: https://github.com/authelia/authelia
+
 ElectroBun. Build ultra fast, tiny, and cross-platform desktop apps with Typescript: https://github.com/blackboardsh/electrobun
 
 Gradle is a highly scalable build automation tool designed to handle everything from large, multi-project enterprise builds to quick development tasks across various languages. Gradle’s modular, performance-oriented architecture seamlessly integrates with development environments, making it a go-to solution for building, testing, and deploying applications on Java, Kotlin, Scala, Android, Groovy, C++, and Swift: https://github.com/gradle/gradle
@@ -85,6 +96,10 @@ Gradle is a highly scalable build automation tool designed to handle everything 
 ----
 
 **Linux & DevOps:**
+
+Cachet, the open-source, self-hosted status page system: https://github.com/CachetHQ/Cachet
+
+Domain Locker. The all-in-one tool, for keeping track of your domain name portfolio: https://domain-locker.com/
 
 Cubecos. Open-source IaaS and PaaS platform that automates and simplifies the deployment of virtualization, Kubernetes, and OpenStack infrastructure: https://github.com/bigstack-oss/cubecos
 
@@ -101,6 +116,8 @@ Port Killer. A powerful cross-platform port management tool for developers and d
 **New from CyberDetective:**
 
 Place Spotter. Online AI photo geolocation tool. 3 photos per month free: https://www.placespotter.com/
+
+Video Search Engine. Free online tool to search for videos on different platforms: YouTube, TikTok, VK, Youku, Netflix, Vimeo and many others: https://videosearch.io/
 
 ----
 
