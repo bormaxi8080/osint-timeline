@@ -2,7 +2,7 @@
 
 Dystopia.
 
-A team of workers catches chickens at night. The work is brought to the farm in the evening; after dark, a couple thousand chickens need to be caught and loaded into trucks. The chickens are caught in the dark and stuffed into iron crates. Naturally, they resist, trying to escape, scratching the catchers. But the shadows in the night are diligent and merciless. By morning, the pen is empty, and young chickens are released into it. During the day, the catchers drink heavily, but not out of pity for the unfortunate chickens headed for slaughter. But simply out of boredom...
+A team of Moldovans catches chickens at night. The work is brought to the farm in the evening; after dark, a couple thousand chickens need to be caught and loaded into trucks. The chickens are caught in the dark and stuffed into iron crates. Naturally, they resist, trying to escape, scratching the catchers. But the shadows in the night are diligent and merciless. By morning, the pen is empty, and young chickens are released into it. During the day, the catchers drink heavily, but not out of pity for the unfortunate chickens headed for slaughter. But simply out of boredom...
 
 ----
 
@@ -39,6 +39,8 @@ Deta Surf Personal AI Notebooks. Organize files & webpages and generate notes fr
 Revelar (Origin Reveal PRO) is a professional Go-based CLI tool for uncovering real/origin IP addresses of websites behind CDNs such as Cloudflare, Akamai, Fastly, Imperva, and AWS CloudFront. It combines passive reconnaissance, **heuristic analysis**, and optional **active verification** to provide **comprehensive reports in JSON and HTML formats: https://github.com/MRvirusIR/Revelar
 
 SmolDocling OCR App built using SmolDocling 256M Model and Streamlit: https://github.com/AIAnytime/SmolDocling-OCR-App
+
+ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux: https://github.com/setvisible/ArrowDL/
 
 mdream. The fastest HTML to markdown convertor built with JavaScript. Optimized for LLMs and supports streaming: https://github.com/harlan-zw/mdream
 
@@ -90,6 +92,8 @@ Fastest-validator. The fastest JS validator library for NodeJS | Browser | Deno:
 Authelia. The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified: https://github.com/authelia/authelia
 
 ElectroBun. Build ultra fast, tiny, and cross-platform desktop apps with Typescript: https://github.com/blackboardsh/electrobun
+
+bg-remove. Free image background removal - private, client-side and powered by Transformers.js: https://github.com/addyosmani/bg-remove/
 
 Gradle is a highly scalable build automation tool designed to handle everything from large, multi-project enterprise builds to quick development tasks across various languages. Gradle’s modular, performance-oriented architecture seamlessly integrates with development environments, making it a go-to solution for building, testing, and deploying applications on Java, Kotlin, Scala, Android, Groovy, C++, and Swift: https://github.com/gradle/gradle
 
