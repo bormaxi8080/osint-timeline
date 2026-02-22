@@ -6,6 +6,18 @@ A team of Moldovans catches chickens at night. The work is brought to the farm i
 
 ----
 
+Sixty Russian agents identified: Prigozhin’s influence network taken over by the Foreign Intelligence Service: https://forbiddenstories.org/russian-agents-prigozhins-influence-network-taken-over-by-the-intelligence-service/
+
+Iran Monitor. Real-Time OSINT Dashboard for Iran: https://www.iranmonitor.org/
+
+FleetLeaks. Russia Sanctioned Vessels Database: https://fleetleaks.com/
+
+TRACK 2 THREAT | Intelligence Platform: https://www.track2pulse.com/
+
+Hades Dark Web Intelligence Platform: https://hades.aikostek.com/
+
+Whiteintel is the definitive platform for Identity Protection. We track Telegram channels, dark web forums, and stealer logs in real-time to neutralize stolen accounts: https://whiteintel.io/
+
 Build Your First OSINT Bookmarklet in 5 Minutes. Video guide from David Bombal, Griffin Glynn and Micah Hoffman: https://www.youtube.com/watch?v=-nQWos7H1LQ&themeRefresh=1
 
 ----
@@ -64,6 +76,10 @@ GraphQL Grip. Burp Suite extension for GraphQL security testing. Fetch schemas, 
 
 Whapa is a set of graphical forensic tools to analyze whatsapp from Android and soon iOS devices. All the tools have been written in Python 3.8 and have been tested on linux, windows and macOS systems: https://github.com/B16f00t/whapa
 
+WhatsApp-OSINT. OSINT tool for WhatsApp that allows you to obtain profile pictures, verify Business accounts, check status and user information, analyze linked devices, review privacy settings, and access complete data using the RapidAPI WhatsApp OSINT API. Supports 6 endpoints: https://github.com/kinghacker0/WhatsApp-OSINT
+
+Naminter. A Python package and command-line interface (CLI) tool for asynchronous OSINT username enumeration using the WhatsMyName dataset: https://github.com/3xp0rt/Naminter
+
 CRACKAR. Advanced Multi-Vector Penetration Testing Tool: https://github.com/codingcreatively/crackar/tree/main
 
 Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience: https://github.com/readest/readest
@@ -76,7 +92,9 @@ Obsidian OSINT Copilot Plugin. OSINT investigation plugin for SOC analysts and t
 
 OpenPlanter. A recursive-language-model investigation agent with a terminal UI. OpenPlanter ingests heterogeneous datasets - corporate registries, campaign finance records, lobbying disclosures, government contracts, and more - resolves entities across them, and surfaces non-obvious connections through evidence-backed analysis. It operates autonomously with file I/O, shell execution, web search, and recursive sub-agent delegation: https://github.com/ShinMegamiBoson/OpenPlanter
 
-OSINT COpilot Obsidian Template: https://github.com/Probe-Point-Analytics-LLC/OSINT-Copilot-Obsidian-Template
+Heretic (Uncensored AI). Fully automatic censorship removal for language models: https://github.com/0xSojalSec/Uncensored-AI
+
+OSINT Copilot Obsidian Template: https://github.com/Probe-Point-Analytics-LLC/OSINT-Copilot-Obsidian-Template
 
 
 NullClaw. Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig: https://github.com/nullclaw/nullclaw
@@ -90,6 +108,8 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 ----
 
 **Software Development & APIs:**
+
+Scraping APIs for Devs. This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications: https://github.com/cporter202/scraping-apis-for-devs
 
 Fastest-validator. The fastest JS validator library for NodeJS | Browser | Deno: https://github.com/icebob/fastest-validator
 
@@ -109,6 +129,8 @@ Gradle is a highly scalable build automation tool designed to handle everything 
 
 NetWraith. iOS traffic interception framework which route all device HTTP/HTTPS traffic through Burp Suite via a system-wide VPN tunnel: https://github.com/ShubhamDubeyy/NetWraith
 
+Bluehood. Monitor your local neighbourhood's bluetooth activity: https://github.com/dannymcc/bluehood
+
 Cachet, the open-source, self-hosted status page system: https://github.com/CachetHQ/Cachet
 
 Domain Locker. The all-in-one tool, for keeping track of your domain name portfolio: https://domain-locker.com/
@@ -126,6 +148,8 @@ IrScrutinizer is a program for IR signal analysis, decoding, generation and much
 ----
 
 **New from CyberDetective:**
+
+Glint Online dashboard (news feed + real-time map) for monitoring political and economic events (including those related to cryptocurrency) around the world: https://glint.trade/terminal
 
 Place Spotter. Online AI photo geolocation tool. 3 photos per month free: https://www.placespotter.com/
 
