@@ -66,11 +66,15 @@ Whapa is a set of graphical forensic tools to analyze whatsapp from Android and 
 
 CRACKAR. Advanced Multi-Vector Penetration Testing Tool: https://github.com/codingcreatively/crackar/tree/main
 
+Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience: https://github.com/readest/readest
+
 ----
 
 **Universal Search & AI:**
 
 Obsidian OSINT Copilot Plugin. OSINT investigation plugin for SOC analysts and threat researchers to organize, analyze, and visualize intelligence data: https://github.com/Probe-Point-Analytics-LLC/Obsidian-OSINT-Copilot-plugin
+
+OpenPlanter. A recursive-language-model investigation agent with a terminal UI. OpenPlanter ingests heterogeneous datasets - corporate registries, campaign finance records, lobbying disclosures, government contracts, and more - resolves entities across them, and surfaces non-obvious connections through evidence-backed analysis. It operates autonomously with file I/O, shell execution, web search, and recursive sub-agent delegation: https://github.com/ShinMegamiBoson/OpenPlanter
 
 OSINT COpilot Obsidian Template: https://github.com/Probe-Point-Analytics-LLC/OSINT-Copilot-Obsidian-Template
 
@@ -89,6 +93,8 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 Fastest-validator. The fastest JS validator library for NodeJS | Browser | Deno: https://github.com/icebob/fastest-validator
 
+GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use: https://github.com/aldinokemal/go-whatsapp-web-multidevice
+
 Authelia. The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified: https://github.com/authelia/authelia
 
 ElectroBun. Build ultra fast, tiny, and cross-platform desktop apps with Typescript: https://github.com/blackboardsh/electrobun
@@ -100,6 +106,8 @@ Gradle is a highly scalable build automation tool designed to handle everything 
 ----
 
 **Linux & DevOps:**
+
+NetWraith. iOS traffic interception framework which route all device HTTP/HTTPS traffic through Burp Suite via a system-wide VPN tunnel: https://github.com/ShubhamDubeyy/NetWraith
 
 Cachet, the open-source, self-hosted status page system: https://github.com/CachetHQ/Cachet
 
@@ -113,7 +121,7 @@ Port Killer. A powerful cross-platform port management tool for developers and d
 
 **Hardware & Devices:**
 
-
+IrScrutinizer is a program for IR signal analysis, decoding, generation and much more: https://github.com/bengtmartensson/IrScrutinizer
 
 ----
 
