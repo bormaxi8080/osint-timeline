@@ -10,6 +10,10 @@ Sixty Russian agents identified: Prigozhin’s influence network taken over by t
 
 Iran Monitor. Real-Time OSINT Dashboard for Iran: https://www.iranmonitor.org/
 
+Monitor the situation. An online world map that displays military conflicts, humanitarian and natural disasters, political and economic events in real time. + News feed and video broadcasts from news channels in different countries: https://monitor-the-situation.com/
+
+WebVM is a virtual Linux environment running in the browser via WebAssembly. WebVM is powered by the CheerpX virtualization engine, which enables safe, sandboxed execution of x86 binaries, fully client-side. CheerpX includes an x86-to-WebAssembly JIT compiler, a virtual block-based file system, and a Linux syscall emulator: https://webvm.io/
+
 FleetLeaks. Russia Sanctioned Vessels Database: https://fleetleaks.com/
 
 TRACK 2 THREAT | Intelligence Platform: https://www.track2pulse.com/
