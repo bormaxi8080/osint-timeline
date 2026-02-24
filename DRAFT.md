@@ -110,6 +110,8 @@ Obsidian OSINT Copilot Plugin. OSINT investigation plugin for SOC analysts and t
 
 OpenPlanter. A recursive-language-model investigation agent with a terminal UI. OpenPlanter ingests heterogeneous datasets - corporate registries, campaign finance records, lobbying disclosures, government contracts, and more - resolves entities across them, and surfaces non-obvious connections through evidence-backed analysis. It operates autonomously with file I/O, shell execution, web search, and recursive sub-agent delegation: https://github.com/ShinMegamiBoson/OpenPlanter
 
+Telemetry Advanced Telegram Search, Insights and Analytics: https://www.telemetryapp.io
+
 Heretic (Uncensored AI). Fully automatic censorship removal for language models: https://github.com/0xSojalSec/Uncensored-AI
 
 OSINT Copilot Obsidian Template: https://github.com/Probe-Point-Analytics-LLC/OSINT-Copilot-Obsidian-Template
