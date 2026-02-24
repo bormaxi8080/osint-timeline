@@ -74,6 +74,18 @@ VulnX is an intelligent Bot, Shell can achieve automatic injection, and help res
 
 https://huggingface.co/spaces/wjbmattingly/caracal
 
+OSINT Newsletters by Ubikron: https://github.com/ubikron/OSINT-newsletters
+
+Criminal IP is an OSINT search engine specialized in attack surface assessment and threat hunting. It offers extensive cyber threat intelligence, including device reputation, geolocation, IP reputation for C2 or scanners, domain safety, malicious link detection, and APT attack vectors via search and API: https://www.criminalip.io/
+
+The Eyes on Russia Map now has updated filtering capabilities taking into account four years of Russian aggression which allows users to investigate our data deeper. Users can explore our data with enhanced categories and filters, researching trends such as strikes on hotels, the scale of the conflict per Oblast, and strikes on Ukraine's energy infrastructure: https://www.info-res.org/eyes-on-russia/maps/eyes-on-russia-map/
+
+200.zona.media. Last update: February 24, 2026. Mediazona, BBC Russian Service, and a team of volunteers have been keeping a list of Russians who have died in the war with Ukraine since May 2022. This interactive database is compiled from open sources: obituaries on social media, media reports, publications by local authorities, and so on: https://200.zona.media
+
+Not everything you need is indexed by Google. Especially when it comes to the Russian-language part of the internet. Mamont is a Russian search engine built for deep searching, including archived pages, old websites, and large file database: https://www.mmnt.ru/
+
+Markdown.new. Markdown for Agents. The web was built for humans. AI agents need structured data. We convert any URL to clean Markdown using Cloudflare's native `text/markdown` content type - no parsing, no waste: https://markdown.new/
+
 SilentChain. AI-powered vulnerability scanner extension for Burp Suite with multi-provider support (Ollama, OpenAI, Claude, Gemini): https://github.com/silentchainai/SILENTCHAIN
 
 GraphQL Grip. Burp Suite extension for GraphQL security testing. Fetch schemas, fingerprint backends, generate attack payloads: https://github.com/thecybersandeep/graphql-grip
@@ -81,6 +93,8 @@ GraphQL Grip. Burp Suite extension for GraphQL security testing. Fetch schemas, 
 Whapa is a set of graphical forensic tools to analyze whatsapp from Android and soon iOS devices. All the tools have been written in Python 3.8 and have been tested on linux, windows and macOS systems: https://github.com/B16f00t/whapa
 
 WhatsApp-OSINT. OSINT tool for WhatsApp that allows you to obtain profile pictures, verify Business accounts, check status and user information, analyze linked devices, review privacy settings, and access complete data using the RapidAPI WhatsApp OSINT API. Supports 6 endpoints: https://github.com/kinghacker0/WhatsApp-OSINT
+
+iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface: https://github.com/smittix/intercept
 
 Naminter. A Python package and command-line interface (CLI) tool for asynchronous OSINT username enumeration using the WhatsMyName dataset: https://github.com/3xp0rt/Naminter
 
@@ -100,8 +114,11 @@ Heretic (Uncensored AI). Fully automatic censorship removal for language models:
 
 OSINT Copilot Obsidian Template: https://github.com/Probe-Point-Analytics-LLC/OSINT-Copilot-Obsidian-Template
 
-
 NullClaw. Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig: https://github.com/nullclaw/nullclaw
+
+Aqua is a message tool for AI Agents. Peer-to-peer agent communication with identity verification, End-to-end encrypted messaging, Durable message storage with inbox/outbox, Circuit Relay v2 support for cross-network connectivity, Simple CLI for node management and messaging: https://github.com/quailyquaily/aqua
+
+Netron. Visualizer for neural network, deep learning and machine learning models: https://github.com/lutzroeder/netron
 
 ODCrawler. A search engine for open directories. Find millions of publicly available files: https://odcrawler.xyz/
 
@@ -113,7 +130,11 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 **Software Development & APIs:**
 
+Marmot helps teams discover, understand, and leverage their data with powerful search and lineage visualisation tools. It's designed to make data accessible for everyone: https://github.com/marmotdata/marmot
+
 Scraping APIs for Devs. This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications: https://github.com/cporter202/scraping-apis-for-devs
+
+HashTool is a versatile and user-friendly Python tool designed to empower users with essential cryptographic functionalities. Whether you're ensuring data integrity through hash verification, exploring the characteristics of hashed values, or encrypting and decrypting text: https://github.com/youssef-mouatta/hashtool
 
 Fastest-validator. The fastest JS validator library for NodeJS | Browser | Deno: https://github.com/icebob/fastest-validator
 
@@ -131,7 +152,13 @@ Gradle is a highly scalable build automation tool designed to handle everything 
 
 **Linux & DevOps:**
 
+Dozzle. Realtime log viewer for containers. Supports Docker, Swarm and K8s: https://github.com/amir20/dozzle
+
 NetWraith. iOS traffic interception framework which route all device HTTP/HTTPS traffic through Burp Suite via a system-wide VPN tunnel: https://github.com/ShubhamDubeyy/NetWraith
+
+PGrok. Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding: https://github.com/pgrok/pgrok
+
+mac-cleanup-py. Python cleanup script for macOS: https://github.com/mac-cleanup/mac-cleanup-py
 
 Bluehood. Monitor your local neighbourhood's bluetooth activity: https://github.com/dannymcc/bluehood
 
