@@ -94,6 +94,8 @@ Whapa is a set of graphical forensic tools to analyze whatsapp from Android and 
 
 WhatsApp-OSINT. OSINT tool for WhatsApp that allows you to obtain profile pictures, verify Business accounts, check status and user information, analyze linked devices, review privacy settings, and access complete data using the RapidAPI WhatsApp OSINT API. Supports 6 endpoints: https://github.com/kinghacker0/WhatsApp-OSINT
 
+OSINT Checklist generator. A free online tool for generating investigation checklists. Simply select the type of investigation (person, company, location) and add some context: https://shadowdragon.io/blog/checklist-generator/
+
 iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface: https://github.com/smittix/intercept
 
 Naminter. A Python package and command-line interface (CLI) tool for asynchronous OSINT username enumeration using the WhatsMyName dataset: https://github.com/3xp0rt/Naminter
@@ -109,6 +111,8 @@ Readest is a modern, feature-rich ebook reader designed for avid readers offerin
 Obsidian OSINT Copilot Plugin. OSINT investigation plugin for SOC analysts and threat researchers to organize, analyze, and visualize intelligence data: https://github.com/Probe-Point-Analytics-LLC/Obsidian-OSINT-Copilot-plugin
 
 OpenPlanter. A recursive-language-model investigation agent with a terminal UI. OpenPlanter ingests heterogeneous datasets - corporate registries, campaign finance records, lobbying disclosures, government contracts, and more - resolves entities across them, and surfaces non-obvious connections through evidence-backed analysis. It operates autonomously with file I/O, shell execution, web search, and recursive sub-agent delegation: https://github.com/ShinMegamiBoson/OpenPlanter
+
+Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework): https://github.com/anil2799/2026-02-plano
 
 Telemetry Advanced Telegram Search, Insights and Analytics: https://www.telemetryapp.io
 
