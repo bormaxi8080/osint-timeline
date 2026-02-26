@@ -166,6 +166,10 @@ PGrok. Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution throug
 
 mac-cleanup-py. Python cleanup script for macOS: https://github.com/mac-cleanup/mac-cleanup-py
 
+OpenLiteSpeed Web Server. Our high-performance, lightweight, open source HTTP server: https://github.com/litespeedtech/openlitespeed
+
+Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps: https://github.com/runtipi/runtipi
+
 Bluehood. Monitor your local neighbourhood's bluetooth activity: https://github.com/dannymcc/bluehood
 
 CronBoard. A terminal-based dashboard for managing cron jobs locally and on servers: https://github.com/antoniorodr/cronboard/
