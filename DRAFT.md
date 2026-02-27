@@ -11,6 +11,8 @@ Not everything you need is indexed by Google. Especially when it comes to the Ru
 
 OSINT Newsletters by Ubikron: https://github.com/ubikron/OSINT-newsletters
 
+Status is Open-source, decentralised wallet and messenger: https://status.app/
+
 ----
 
 **witr** exists to answer a single question:
@@ -30,6 +32,8 @@ https://github.com/pranshuparmar/witr
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+
 
 WebVM is a virtual Linux environment running in the browser via WebAssembly. WebVM is powered by the CheerpX virtualization engine, which enables safe, sandboxed execution of x86 binaries, fully client-side. CheerpX includes an x86-to-WebAssembly JIT compiler, a virtual block-based file system, and a Linux syscall emulator: https://webvm.io/
 
@@ -67,6 +71,12 @@ Telemetry Advanced Telegram Search, Insights and Analytics: https://www.teleme
 
 **Universal Search & AI:**
 
+Murmure. Fully local, private and cross platform Speech-to-Text with LLM Post-processing: https://github.com/Kieirra/murmure
+
+Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with-or even surpassing-top TTS providers: https://github.com/Zyphra/Zonos
+
+LLMFit. 497 models. 133 providers. One command to find what runs on your hardware. A terminal tool that right-sizes LLM models to your system's RAM, CPU, and GPU. Detects your hardware, scores each model across quality, speed, fit, and context dimensions, and tells you which ones will actually run well on your machine: https://github.com/AlexsJones/llmfit
+
 Deta Surf Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local): https://github.com/deta/surf
 
 SilentChain. AI-powered vulnerability scanner extension for Burp Suite with multi-provider support (Ollama, OpenAI, Claude, Gemini): https://github.com/silentchainai/SILENTCHAIN
@@ -85,6 +95,8 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 Authelia. The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified: https://github.com/authelia/authelia
 
+VoidAuth is an open-source SSO authentication and user management provider that stands guard in front of your self-hosted applications. It is easy-to-use for admins and end-users, supports nice-to-have features like passkeys, user invitation, self-registration, email support, and more: https://github.com/voidauth/voidauth/
+
 ElectroBun. Build ultra fast, tiny, and cross-platform desktop apps with Typescript: https://github.com/blackboardsh/electrobun
 
 bg-remove. Free image background removal - private, client-side and powered by Transformers.js: https://github.com/addyosmani/bg-remove/
@@ -94,8 +106,6 @@ Gradle is a highly scalable build automation tool designed to handle everything 
 ----
 
 **Linux & DevOps:**
-
-
 
 mac-cleanup-py. Python cleanup script for macOS: https://github.com/mac-cleanup/mac-cleanup-py
 
