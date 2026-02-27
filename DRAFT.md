@@ -13,6 +13,10 @@ OSINT Newsletters by Ubikron: https://github.com/ubikron/OSINT-newsletters
 
 Status is Open-source, decentralised wallet and messenger: https://status.app/
 
+OSINT of Lithuania by Unishka Research Service: https://unishka.substack.com/p/osint-of-lithuania
+
+Ladybird is a truly independent web browser, using a novel engine based on web standards: https://github.com/LadybirdBrowser/ladybird
+
 ----
 
 **witr** exists to answer a single question:
@@ -33,13 +37,15 @@ https://github.com/pranshuparmar/witr
 
 **OSINT Tools, Services and Investigations:**
 
-
+A live Polymarket map for visualizing geopolitical prediction markets. Polyglobe is a first-of-its-kind OSINT market tracker and interactive dashboard that plots live Polymarket data onto a beautiful 3D globe. It was designed for traders, analysts, and journalists who need to see the financial impact of geopolitical events as they unfold, in real-time: https://www.pizzint.watch/polyglobe
 
 WebVM is a virtual Linux environment running in the browser via WebAssembly. WebVM is powered by the CheerpX virtualization engine, which enables safe, sandboxed execution of x86 binaries, fully client-side. CheerpX includes an x86-to-WebAssembly JIT compiler, a virtual block-based file system, and a Linux syscall emulator: https://webvm.io/
 
 Revelar (Origin Reveal PRO) is a professional Go-based CLI tool for uncovering real/origin IP addresses of websites behind CDNs such as Cloudflare, Akamai, Fastly, Imperva, and AWS CloudFront. It combines passive reconnaissance, **heuristic analysis**, and optional **active verification** to provide **comprehensive reports in JSON and HTML formats: https://github.com/MRvirusIR/Revelar
 
 SmolDocling OCR App built using SmolDocling 256M Model and Streamlit: https://github.com/AIAnytime/SmolDocling-OCR-App
+
+zPDF. Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration: https://github.com/Lulzx/zpdf
 
 ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux: https://github.com/setvisible/ArrowDL/
 
@@ -71,17 +77,25 @@ Telemetry Advanced Telegram Search, Insights and Analytics: https://www.teleme
 
 **Universal Search & AI:**
 
+Full Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+
 Murmure. Fully local, private and cross platform Speech-to-Text with LLM Post-processing: https://github.com/Kieirra/murmure
+
+Agent Viewer. Kanban board for managing Claude Code agents in tmux: https://github.com/hallucinogen/agent-viewer
 
 Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with-or even surpassing-top TTS providers: https://github.com/Zyphra/Zonos
 
 LLMFit. 497 models. 133 providers. One command to find what runs on your hardware. A terminal tool that right-sizes LLM models to your system's RAM, CPU, and GPU. Detects your hardware, scores each model across quality, speed, fit, and context dimensions, and tells you which ones will actually run well on your machine: https://github.com/AlexsJones/llmfit
+
+Presenton. Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative): https://github.com/presenton/presenton
 
 Deta Surf Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local): https://github.com/deta/surf
 
 SilentChain. AI-powered vulnerability scanner extension for Burp Suite with multi-provider support (Ollama, OpenAI, Claude, Gemini): https://github.com/silentchainai/SILENTCHAIN
 
 OpenPlanter. A recursive-language-model investigation agent with a terminal UI. OpenPlanter ingests heterogeneous datasets - corporate registries, campaign finance records, lobbying disclosures, government contracts, and more - resolves entities across them, and surfaces non-obvious connections through evidence-backed analysis. It operates autonomously with file I/O, shell execution, web search, and recursive sub-agent delegation: https://github.com/ShinMegamiBoson/OpenPlanter
+
+ZeroLeaks. AI Security Scanner - Test your AI systems for prompt injection and extraction vulnerabilities: https://github.com/ZeroLeaks/zeroleaks
 
 ODCrawler. A search engine for open directories. Find millions of publicly available files: https://odcrawler.xyz/
 
@@ -106,6 +120,8 @@ Gradle is a highly scalable build automation tool designed to handle everything 
 ----
 
 **Linux & DevOps:**
+
+ServerKit is a lightweight, modern server control panel for managing web applications, databases, and services on your VPS or dedicated server. Built with Python/Flask backend and React frontend: https://github.com/jhd3197/ServerKit
 
 mac-cleanup-py. Python cleanup script for macOS: https://github.com/mac-cleanup/mac-cleanup-py
 
