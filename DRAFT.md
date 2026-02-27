@@ -123,7 +123,7 @@ Port Killer. A powerful cross-platform port management tool for developers and d
 
 **Hardware & Devices:**
 
-
+NyarByGlasses. This app notifies you when smart glasses are nearby. It uses company identificators in the Bluetooth data sent out by these. Therefore, there likely are false positives (e.g. from VR headsets). Hence, please proceed with caution when approaching a person nearby wearing glasses. They might just be regular glasses, despite this app’s warning: https://github.com/yjeanrenaud/yj_nearbyglasses
 
 ----
 
