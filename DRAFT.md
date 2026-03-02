@@ -19,6 +19,32 @@ Ladybird is a truly independent web browser, using a novel engine based on web s
 
 ----
 
+𝐖𝐡𝐲 𝐝𝐨 𝐫𝐞𝐚𝐥 𝐭𝐞𝐬𝐭𝐢𝐦𝐨𝐧𝐢𝐚𝐥𝐬 𝐦𝐚𝐭𝐭𝐞𝐫?⁣  
+⁣  
+Because they prove that the 𝐩𝐫𝐨𝐝𝐮𝐜𝐭 𝐢𝐬 𝐛𝐞𝐢𝐧𝐠 𝐮𝐬𝐞𝐝 𝐢𝐧 𝐫𝐞𝐚𝐥 𝐢𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧𝐬 by real professional in everyday analytical work.⁣  
+⁣  
+When 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐢𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐨𝐫𝐬 say that 𝐓𝐞𝐬𝐚𝐫𝐢 𝐡𝐞𝐥𝐩𝐬 them organize complex information, connect narratives, and test hypotheses faster — that carries weight.⁣  
+⁣  
+It means the platform fits into serious workflows, supports investigative thinking, it's value is practical and measurable.⁣  
+⁣  
+And when 𝐫𝐞𝐬𝐩𝐞𝐜𝐭𝐞𝐝 𝐞𝐱𝐩𝐞𝐫𝐭𝐬 are willing to put their name behind it publicly, that reflects 𝐭𝐫𝐮𝐬𝐭.⁣  
+⁣  
+𝐁𝐫𝐞𝐭𝐭 𝐑𝐞𝐝𝐦𝐚𝐧, COO at OSINT Industries and former UK government professional, was one of our earliest users. Today he remains one of our most active power users and a member of The Tesari Intelligence Council.⁣  
+⁣  
+Thank you, Brett, for sharing your testimonial — especially because you clearly described what Tesari brings to complex investigations and why it matters:⁣  
+⁣  
+⁣  
+"𝘐 𝘩𝘢𝘷𝘦 𝘣𝘦𝘦𝘯 𝘶𝘴𝘪𝘯𝘨 𝘛𝘦𝘴𝘢𝘳𝘪 𝘈𝘐 𝘸𝘪𝘵𝘩𝘪𝘯 𝘮𝘺 𝘪𝘯𝘷𝘦𝘴𝘵𝘪𝘨𝘢𝘵𝘪𝘷𝘦 𝘸𝘰𝘳𝘬𝘧𝘭𝘰𝘸, 𝘱𝘢𝘳𝘵𝘪𝘤𝘶𝘭𝘢𝘳𝘭𝘺 𝘧𝘰𝘳 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘯𝘦𝘵𝘸𝘰𝘳𝘬 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴. 𝘐𝘵 𝘨𝘦𝘯𝘶𝘪𝘯𝘦𝘭𝘺 𝘢𝘥𝘥𝘴 𝘷𝘢𝘭𝘶𝘦 𝘧𝘰𝘳 𝘮𝘦 𝘥𝘶𝘳𝘪𝘯𝘨 𝘵𝘩𝘦 𝘤𝘰𝘭𝘭𝘦𝘤𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘱𝘳𝘰𝘤𝘦𝘴𝘴𝘪𝘯𝘨 𝘱𝘩𝘢𝘴𝘦 𝘰𝘧 𝘵𝘩𝘦 𝘪𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘤𝘺𝘤𝘭𝘦. 𝘐𝘵 𝘩𝘦𝘭𝘱𝘴 𝘵𝘶𝘳𝘯 𝘭𝘢𝘳𝘨𝘦 𝘷𝘰𝘭𝘶𝘮𝘦𝘴 𝘰𝘧 𝘮𝘦𝘴𝘴𝘺, 𝘶𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦𝘥 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯 𝘪𝘯𝘵𝘰 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘧𝘢𝘳 𝘮𝘰𝘳𝘦 𝘥𝘪𝘨𝘦𝘴𝘵𝘪𝘣𝘭𝘦, 𝘦𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘭𝘺 𝘸𝘩𝘦𝘯 𝘐’𝘮 𝘤𝘰𝘯𝘯𝘦𝘤𝘵𝘪𝘯𝘨 𝘯𝘢𝘳𝘳𝘢𝘵𝘪𝘷𝘦𝘴, 𝘵𝘪𝘮𝘦𝘭𝘪𝘯𝘦𝘴, 𝘢𝘯𝘥 𝘳𝘦𝘭𝘢𝘵𝘪𝘰𝘯𝘴𝘩𝘪𝘱𝘴 𝘢𝘤𝘳𝘰𝘴𝘴 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘦 𝘴𝘰𝘶𝘳𝘤𝘦𝘴.⁣  
+⁣  
+𝘐𝘵’𝘴 𝘢𝘭𝘴𝘰 𝘣𝘦𝘦𝘯 𝘶𝘴𝘦𝘧𝘶𝘭 𝘧𝘰𝘳 𝘩𝘺𝘱𝘰𝘵𝘩𝘦𝘴𝘪𝘴 𝘵𝘦𝘴𝘵𝘪𝘯𝘨. 𝘞𝘩𝘦𝘯 𝘐 𝘩𝘢𝘷𝘦 𝘢 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘵𝘩𝘦𝘰𝘳𝘺 𝘢𝘳𝘰𝘶𝘯𝘥 𝘢 𝘯𝘦𝘵𝘸𝘰𝘳𝘬, 𝘤𝘰𝘮𝘱𝘢𝘯𝘺 𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦, 𝘰𝘳 𝘪𝘯𝘥𝘪𝘷𝘪𝘥𝘶𝘢𝘭, 𝘛𝘦𝘴𝘢𝘳𝘪 𝘢𝘭𝘭𝘰𝘸𝘴 𝘮𝘦 𝘵𝘰 𝘪𝘯𝘵𝘦𝘳𝘳𝘰𝘨𝘢𝘵𝘦 𝘭𝘢𝘳𝘨𝘦 𝘥𝘢𝘵𝘢𝘴𝘦𝘵𝘴 𝘲𝘶𝘪𝘤𝘬𝘭𝘺 𝘵𝘰 𝘪𝘥𝘦𝘯𝘵𝘪𝘧𝘺 𝘴𝘶𝘱𝘱𝘰𝘳𝘵𝘪𝘯𝘨 𝘴𝘪𝘨𝘯𝘢𝘭𝘴 𝘰𝘳 𝘤𝘰𝘯𝘵𝘳𝘢𝘥𝘪𝘤𝘵𝘪𝘰𝘯𝘴, 𝘸𝘩𝘪𝘤𝘩 𝘩𝘦𝘭𝘱𝘴 𝘮𝘦 𝘳𝘦𝘧𝘪𝘯𝘦 𝘮𝘺 𝘢𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘢𝘭 𝘥𝘪𝘳𝘦𝘤𝘵𝘪𝘰𝘯 𝘮𝘶𝘤𝘩 𝘧𝘢𝘴𝘵𝘦𝘳.⁣  
+⁣  
+𝘖𝘷𝘦𝘳𝘢𝘭𝘭, 𝘐 𝘥𝘰𝘯’𝘵 𝘶𝘴𝘦 𝘪𝘵 𝘢𝘴 𝘢 𝘳𝘦𝘱𝘭𝘢𝘤𝘦𝘮𝘦𝘯𝘵 𝘧𝘰𝘳 𝘪𝘯𝘷𝘦𝘴𝘵𝘪𝘨𝘢𝘵𝘪𝘷𝘦 𝘵𝘳𝘢𝘥𝘦𝘤𝘳𝘢𝘧𝘵, 𝘣𝘶𝘵 𝘢𝘴 𝘢𝘯 𝘢𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘢𝘭 𝘴𝘶𝘱𝘱𝘰𝘳𝘵 𝘵𝘰𝘰𝘭 𝘵𝘩𝘢𝘵 𝘳𝘦𝘥𝘶𝘤𝘦𝘴 𝘯𝘰𝘪𝘴𝘦, 𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦𝘴 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯, 𝘢𝘯𝘥 𝘢𝘤𝘤𝘦𝘭𝘦𝘳𝘢𝘵𝘦𝘴 𝘪𝘯𝘴𝘪𝘨𝘩𝘵 𝘨𝘦𝘯𝘦𝘳𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘪𝘯𝘷𝘦𝘴𝘵𝘪𝘨𝘢𝘵𝘪𝘰𝘯𝘴. "⁣  
+⁣  
+Brett Redman⁣  
+COO “OSINT Industries” | ex. UK government
+
+----
+
 **witr** exists to answer a single question:
 
 > **Why is this running?**
@@ -41,7 +67,7 @@ A live Polymarket map for visualizing geopolitical prediction markets. Polyglo
 
 WebVM is a virtual Linux environment running in the browser via WebAssembly. WebVM is powered by the CheerpX virtualization engine, which enables safe, sandboxed execution of x86 binaries, fully client-side. CheerpX includes an x86-to-WebAssembly JIT compiler, a virtual block-based file system, and a Linux syscall emulator: https://webvm.io/
 
-Revelar (Origin Reveal PRO) is a professional Go-based CLI tool for uncovering real/origin IP addresses of websites behind CDNs such as Cloudflare, Akamai, Fastly, Imperva, and AWS CloudFront. It combines passive reconnaissance, **heuristic analysis**, and optional **active verification** to provide **comprehensive reports in JSON and HTML formats: https://github.com/MRvirusIR/Revelar
+Revelar (Origin Reveal PRO) is a professional Go-based CLI tool for uncovering real/origin IP addresses of websites behind CDNs such as Cloudflare, Akamai, Fastly, Imperva, and AWS CloudFront. It combines passive reconnaissance, **heuristic analysis**, and optional **active verification** to provide comprehensive reports in JSON and HTML formats: https://github.com/MRvirusIR/Revelar
 
 SmolDocling OCR App built using SmolDocling 256M Model and Streamlit: https://github.com/AIAnytime/SmolDocling-OCR-App
 
@@ -77,11 +103,19 @@ Telemetry Advanced Telegram Search, Insights and Analytics: https://www.teleme
 
 **Universal Search & AI:**
 
+AI Agent Tools. A curated collection of AI tools, utilities, and resources for developers and creators: https://github.com/cporter202/ai-agent-tools
+
+ChatGPT-MD. A (nearly) seamless integration of ChatGPT into Obsidian: https://github.com/bramses/chatgpt-md
+
 Full Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 
 Murmure. Fully local, private and cross platform Speech-to-Text with LLM Post-processing: https://github.com/Kieirra/murmure
 
 Agent Viewer. Kanban board for managing Claude Code agents in tmux: https://github.com/hallucinogen/agent-viewer
+
+OpenClaw Studio. A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster: https://github.com/grp06/openclaw-studio
+
+VibeProxy. Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed https://github.com/automazeio/vibeproxy
 
 Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with-or even surpassing-top TTS providers: https://github.com/Zyphra/Zonos
 
@@ -109,6 +143,10 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 Authelia. The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified: https://github.com/authelia/authelia
 
+Social Media Scraping APIs. A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics: https://github.com/cporter202/social-media-scraping-apis
+
+API Mega List. GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period: https://github.com/cporter202/API-mega-list
+
 VoidAuth is an open-source SSO authentication and user management provider that stands guard in front of your self-hosted applications. It is easy-to-use for admins and end-users, supports nice-to-have features like passkeys, user invitation, self-registration, email support, and more: https://github.com/voidauth/voidauth/
 
 ElectroBun. Build ultra fast, tiny, and cross-platform desktop apps with Typescript: https://github.com/blackboardsh/electrobun
@@ -122,6 +160,8 @@ Gradle is a highly scalable build automation tool designed to handle everything 
 **Linux & DevOps:**
 
 ServerKit is a lightweight, modern server control panel for managing web applications, databases, and services on your VPS or dedicated server. Built with Python/Flask backend and React frontend: https://github.com/jhd3197/ServerKit
+
+Atlantis Android. Capture HTTP/HTTPS traffic from Android apps and send to Proxyman for debugging: https://github.com/ProxymanApp/atlantis-android
 
 mac-cleanup-py. Python cleanup script for macOS: https://github.com/mac-cleanup/mac-cleanup-py
 
