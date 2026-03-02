@@ -149,6 +149,8 @@ API Mega List. GitHub repo is a powerhouse collection of APIs you can start usin
 
 VoidAuth is an open-source SSO authentication and user management provider that stands guard in front of your self-hosted applications. It is easy-to-use for admins and end-users, supports nice-to-have features like passkeys, user invitation, self-registration, email support, and more: https://github.com/voidauth/voidauth/
 
+DuckDB is an analytical in-process SQL database management system: https://github.com/duckdb/duckdb
+
 ElectroBun. Build ultra fast, tiny, and cross-platform desktop apps with Typescript: https://github.com/blackboardsh/electrobun
 
 bg-remove. Free image background removal - private, client-side and powered by Transformers.js: https://github.com/addyosmani/bg-remove/
@@ -164,6 +166,8 @@ ServerKit is a lightweight, modern server control panel for managing web applica
 Atlantis Android. Capture HTTP/HTTPS traffic from Android apps and send to Proxyman for debugging: https://github.com/ProxymanApp/atlantis-android
 
 mac-cleanup-py. Python cleanup script for macOS: https://github.com/mac-cleanup/mac-cleanup-py
+
+Home Lab Hub. A self-hosted web application for managing and visualizing home lab infrastructure. Track hardware, virtual machines, applications, storage, networks, and more — all in one place: https://github.com/RaidOwl/homelab-hub
 
 OpenLiteSpeed Web Server. Our high-performance, lightweight, open source HTTP server: https://github.com/litespeedtech/openlitespeed
 
