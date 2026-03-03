@@ -143,6 +143,10 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 Authelia. The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified: https://github.com/authelia/authelia
 
+Kapso. WhatsApp API for developers: https://kapso.ai/
+
+Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk: https://github.com/Enriquefft/openclaw-kapso-whatsapp
+
 Social Media Scraping APIs. A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics: https://github.com/cporter202/social-media-scraping-apis
 
 API Mega List. GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period: https://github.com/cporter202/API-mega-list
