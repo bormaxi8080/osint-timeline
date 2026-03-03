@@ -147,6 +147,8 @@ Kapso. WhatsApp API for developers: https://kapso.ai/
 
 Give your OpenClaw AI agent a WhatsApp number. Official Meta Cloud API via Kapso. No ban risk: https://github.com/Enriquefft/openclaw-kapso-whatsapp
 
+Browser Terminal Use turns cloud/browser terminals into a locally scriptable command surface for AI Agents. It bridges local agent loops with remote execution, streams verifiable output and exit codes, and includes ready-to-use Agent skills so advanced workflows can be adopted with minimal setup: https://github.com/chaokunyang/browser-terminal-use
+
 Social Media Scraping APIs. A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics: https://github.com/cporter202/social-media-scraping-apis
 
 API Mega List. GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period: https://github.com/cporter202/API-mega-list
