@@ -97,6 +97,8 @@ CRACKAR. Advanced Multi-Vector Penetration Testing Tool: https://github.com/codi
 
 Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience: https://github.com/readest/readest
 
+PhoneDriver. Android Phone Control With Qwen3-VL: https://github.com/OminousIndustries/PhoneDriver
+
 Telemetry Advanced Telegram Search, Insights and Analytics: https://www.telemetryapp.io
 
 ----
@@ -118,6 +120,8 @@ OpenClaw Studio. A clean web dashboard for OpenClaw. Connect your Gateway, manag
 VibeProxy. Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed https://github.com/automazeio/vibeproxy
 
 Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with-or even surpassing-top TTS providers: https://github.com/Zyphra/Zonos
+
+ollamaMQ. High-performance Ollama proxy with per-user fair-share queuing, round-robin scheduling, and a real-time TUI dashboard. Built in Rust: https://github.com/Chleba/ollamaMQ
 
 LLMFit. 497 models. 133 providers. One command to find what runs on your hardware. A terminal tool that right-sizes LLM models to your system's RAM, CPU, and GPU. Detects your hardware, scores each model across quality, speed, fit, and context dimensions, and tells you which ones will actually run well on your machine: https://github.com/AlexsJones/llmfit
 
