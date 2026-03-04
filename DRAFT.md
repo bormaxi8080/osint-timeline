@@ -17,6 +17,8 @@ OSINT of Lithuania by Unishka Research Service: https://unishka.substack.com/p/o
 
 Ladybird is a truly independent web browser, using a novel engine based on web standards: https://github.com/LadybirdBrowser/ladybird
 
+List of OSINT Capture The Flag platforms by Ubikron: https://github.com/ubikron/OSINT-CTFs
+
 ----
 
 𝐖𝐡𝐲 𝐝𝐨 𝐫𝐞𝐚𝐥 𝐭𝐞𝐬𝐭𝐢𝐦𝐨𝐧𝐢𝐚𝐥𝐬 𝐦𝐚𝐭𝐭𝐞𝐫?⁣  
@@ -65,6 +67,14 @@ https://github.com/pranshuparmar/witr
 
 A live Polymarket map for visualizing geopolitical prediction markets. Polyglobe is a first-of-its-kind OSINT market tracker and interactive dashboard that plots live Polymarket data onto a beautiful 3D globe. It was designed for traders, analysts, and journalists who need to see the financial impact of geopolitical events as they unfold, in real-time: https://www.pizzint.watch/polyglobe
 
+Open DroneLog. Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React: https://github.com/arpanghosh8453/open-dronelog
+
+RuView. WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection - all without a single pixel of video: https://github.com/ruvnet/RuView
+
+BTRPA Scan. Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs): https://github.com/HackingDave/btrpa-scan
+
+GHOST - Global Human Operations & Surveillance Tracking: Open-source investigation management platform for tracking people, connections, and intelligence data. Because Excel spreadsheets are for accountants, not investigators. Non-commercial license: https://github.com/elm1nst3r/GHOST-osint-crm
+
 WebVM is a virtual Linux environment running in the browser via WebAssembly. WebVM is powered by the CheerpX virtualization engine, which enables safe, sandboxed execution of x86 binaries, fully client-side. CheerpX includes an x86-to-WebAssembly JIT compiler, a virtual block-based file system, and a Linux syscall emulator: https://webvm.io/
 
 Revelar (Origin Reveal PRO) is a professional Go-based CLI tool for uncovering real/origin IP addresses of websites behind CDNs such as Cloudflare, Akamai, Fastly, Imperva, and AWS CloudFront. It combines passive reconnaissance, **heuristic analysis**, and optional **active verification** to provide comprehensive reports in JSON and HTML formats: https://github.com/MRvirusIR/Revelar
@@ -76,6 +86,8 @@ zPDF. Zero-copy PDF text extraction library written in Zig. High-performance, me
 ArrowDL (Arrow Downloader) is a download manager for Windows, MacOS and Linux: https://github.com/setvisible/ArrowDL/
 
 mdream. The fastest HTML to markdown convertor built with JavaScript. Optimized for LLMs and supports streaming: https://github.com/harlan-zw/mdream
+
+Open TrashMail. Open Source standalone trashmail solution that ships its own mail server: https://github.com/HaschekSolutions/opentrashmail
 
 BillionMail. An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns: https://github.com/be3beke/BillionMail
 
@@ -199,7 +211,7 @@ NyarByGlasses. This app notifies you when smart glasses are nearby. It uses comp
 
 **New from CyberDetective:**
 
-
+Dark Light Viewer - a tool to conduct change detection over time using VIIRS night lights data: https://github.com/bendobrown/Dark-Light-Viewer
 
 ----
 
