@@ -187,6 +187,8 @@ ServerKit is a lightweight, modern server control panel for managing web applica
 
 Atlantis Android. Capture HTTP/HTTPS traffic from Android apps and send to Proxyman for debugging: https://github.com/ProxymanApp/atlantis-android
 
+PinMe. Deploy Your Frontend in a Single Command. Claude Code Skills supported: https://github.com/glitternetwork/pinme
+
 mac-cleanup-py. Python cleanup script for macOS: https://github.com/mac-cleanup/mac-cleanup-py
 
 Home Lab Hub. A self-hosted web application for managing and visualizing home lab infrastructure. Track hardware, virtual machines, applications, storage, networks, and more — all in one place: https://github.com/RaidOwl/homelab-hub
