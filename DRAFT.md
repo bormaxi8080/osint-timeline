@@ -50,6 +50,8 @@ Readest is a modern, feature-rich ebook reader designed for avid readers offerin
 
 PhoneDriver. Android Phone Control With Qwen3-VL: https://github.com/OminousIndustries/PhoneDriver
 
+OtelBin. Web-based tool to facilitate OpenTelemetry collector configuration editing and verification: https://github.com/dash0hq/otelbin
+
 Telemetry Advanced Telegram Search, Insights and Analytics: https://www.telemetryapp.io
 
 ----
@@ -57,6 +59,8 @@ Telemetry Advanced Telegram Search, Insights and Analytics: https://www.teleme
 **Universal Search & AI:**
 
 Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere: https://github.com/danielmiessler/fabric
+
+BagOfWords. Chat with your data - with memory, rules, and observability built in. Deploy in 2 minutes: https://github.com/bagofwords1/bagofwords
 
 Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with-or even surpassing-top TTS providers: https://github.com/Zyphra/Zonos
 
@@ -87,6 +91,8 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 VoidAuth is an open-source SSO authentication and user management provider that stands guard in front of your self-hosted applications. It is easy-to-use for admins and end-users, supports nice-to-have features like passkeys, user invitation, self-registration, email support, and more: https://github.com/voidauth/voidauth/
 
 DuckDB is an analytical in-process SQL database management system: https://github.com/duckdb/duckdb
+
+Landscape2 is a tool that generates interactive landscapes websites: https://github.com/cncf/landscape2
 
 bg-remove. Free image background removal - private, client-side and powered by Transformers.js: https://github.com/addyosmani/bg-remove/
 
