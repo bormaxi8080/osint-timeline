@@ -8,9 +8,29 @@ Status is Open-source, decentralised wallet and messenger: https://status.app/
 
 ----
 
+Monitorer. 4 in 1 open-source multitool for your device wifi:
+
+- Find out more information about supported operations by your wifi chipset and kernel
+
+- Identify your USB device in an instant and learn about its chipset.
+
+- In one click, switch the internal Wi-Fi or the adapter to the monitor mode or from it
+
+- Enable and disable .ko files (via insmod)
+ 
+https://github.com/stryker-project/monitorer
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Open DroneLog. Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight logs privately in one place. Built with Tauri v2, DuckDB, and React: https://github.com/arpanghosh8453/open-dronelog
+
+WatchTower. A clean, minimal, terminal-based global intelligence dashboard: https://github.com/lajosdeme/watchtower
+
+Megacut. Magic tool for managing internet connection in local network: https://github.com/stryker-project/megacut
+
+SimpleUSB. A simple application that will help you determine the usb device. It will be useful when choosing an adapter as it displays the chipset: https://github.com/stryker-project/simpleusb
 
 RuView. WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection - all without a single pixel of video: https://github.com/ruvnet/RuView
 
@@ -35,6 +55,8 @@ Telemetry Advanced Telegram Search, Insights and Analytics: https://www.teleme
 ----
 
 **Universal Search & AI:**
+
+Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere: https://github.com/danielmiessler/fabric
 
 Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with-or even surpassing-top TTS providers: https://github.com/Zyphra/Zonos
 
@@ -71,6 +93,8 @@ bg-remove. Free image background removal - private, client-side and powered by T
 ----
 
 **Linux & DevOps:**
+
+Databasus. Databases backup tool (PostgreSQL, MySQL, MongoDB): https://github.com/databasus/databasus
 
 OpenLiteSpeed Web Server. Our high-performance, lightweight, open source HTTP server: https://github.com/litespeedtech/openlitespeed
 
