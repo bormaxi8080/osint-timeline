@@ -2,9 +2,23 @@
 
 Hog
 
+
+Peace is our profession
+
 ----
 
-Status is Open-source, decentralised wallet and messenger: https://status.app/
+Using Bellingcat’s New Open Source Tool to Explore Historical and Spatial Flight Data: https://www.bellingcat.com/resources/2026/03/05/turnstone-flight-tracking-tool/
+
+Bellingcat Beginner's Guide To Flight Tracking: https://www.bellingcat.com/resources/how-tos/2019/10/15/a-beginners-guide-to-flight-tracking/
+
+The Hidden Trail. How MAC Addresses Reveal Real-World Locations via OSINT: https://substack.com/home/post/p-190065905
+
+Mexican OSINT. Here are a few powerful Mexican open-source intelligence (OSINT) tools and 
+resources that I personally rely on almost every week. When hunting for information—whether it’s people, companies, assets, public records, or connections—combining several of these tools usually produces the best and fastest result: https://cartelwatch.net/resources/mexican-osint/
+
+OSINT of Zanzibar by Unishka Research Service: https://unishka.substack.com/p/osint-of-zanzibar
+
+Status, an Open-source, decentralised wallet and messenger: https://status.app/
 
 ----
 
@@ -30,7 +44,17 @@ WatchTower. A clean, minimal, terminal-based global intelligence dashboard: http
 
 Megacut. Magic tool for managing internet connection in local network: https://github.com/stryker-project/megacut
 
+IMSI Catcher. This program show you IMSI numbers of cellphones around you: https://github.com/Oros42/IMSI-catcher
+
+S3Scanner. Scan for misconfigured S3 buckets across S3-compatible APIs: https://github.com/sa7mon/S3Scanner
+
+Titus. High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 detection rules with live credential validation: https://github.com/praetorian-inc/titus
+
 SimpleUSB. A simple application that will help you determine the usb device. It will be useful when choosing an adapter as it displays the chipset: https://github.com/stryker-project/simpleusb
+
+Pompelmi. Secure File Upload Scanning for Node.js. Privacy-first malware detection with YARA, ZIP bomb protection, and framework adapters: https://github.com/pompelmi/pompelmi
+
+OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real: https://github.com/knostic/OpenAnt
 
 RuView. WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection - all without a single pixel of video: https://github.com/ruvnet/RuView
 
@@ -89,6 +113,8 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 **Software Development & APIs:**
 
 VoidAuth is an open-source SSO authentication and user management provider that stands guard in front of your self-hosted applications. It is easy-to-use for admins and end-users, supports nice-to-have features like passkeys, user invitation, self-registration, email support, and more: https://github.com/voidauth/voidauth/
+
+Wails. Create beautiful applications using Go: https://github.com/wailsapp/wails
 
 DuckDB is an analytical in-process SQL database management system: https://github.com/duckdb/duckdb
 
