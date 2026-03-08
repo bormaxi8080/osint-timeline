@@ -96,6 +96,8 @@ Presenton. Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, D
 
 Deta Surf Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local): https://github.com/deta/surf
 
+Siftly. Local Twitter/X bookmark organizer with AI categorization and mindmap visualization: https://github.com/viperrcrypto/Siftly
+
 SilentChain. AI-powered vulnerability scanner extension for Burp Suite with multi-provider support (Ollama, OpenAI, Claude, Gemini): https://github.com/silentchainai/SILENTCHAIN
 
 OpenPlanter. A recursive-language-model investigation agent with a terminal UI. OpenPlanter ingests heterogeneous datasets - corporate registries, campaign finance records, lobbying disclosures, government contracts, and more - resolves entities across them, and surfaces non-obvious connections through evidence-backed analysis. It operates autonomously with file I/O, shell execution, web search, and recursive sub-agent delegation: https://github.com/ShinMegamiBoson/OpenPlanter
@@ -118,6 +120,10 @@ Wails. Create beautiful applications using Go: https://github.com/wailsapp/wails
 
 DuckDB is an analytical in-process SQL database management system: https://github.com/duckdb/duckdb
 
+bbrew. A Package Manager for macOS and Linux, Based in brew.sh: https://github.com/BBrowser/BBrew
+
+Edit Banana: A framework for converting statistical formats into editable: https://github.com/BIT-DataLab/Edit-Banana
+
 Landscape2 is a tool that generates interactive landscapes websites: https://github.com/cncf/landscape2
 
 bg-remove. Free image background removal - private, client-side and powered by Transformers.js: https://github.com/addyosmani/bg-remove/
@@ -134,11 +140,13 @@ Runtipi is a homeserver for everyone! One command setup, one click installs for 
 
 Bluehood. Monitor your local neighbourhood's bluetooth activity: https://github.com/dannymcc/bluehood
 
+AnyAPK. Install any apk on the device you own: https://github.com/sam1am/anyapk
+
 ----
 
 **Hardware & Devices:**
 
-
+Flipper One MCU Firmware. This repository is part of [Flipper One MCU Firmware](https://github.com/orgs/flipperdevices/projects/8) sub-project and contains issue tracking and firmware sources for the Flipper One MCU — the low-power co-processor that controls the LCD, buttons, and battery: https://github.com/flipperdevices/flipperone-mcu-firmware
 
 ----
 
