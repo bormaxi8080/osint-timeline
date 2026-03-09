@@ -132,6 +132,8 @@ bg-remove. Free image background removal - private, client-side and powered by T
 
 **Linux & DevOps:**
 
+sshx (https://sshx.io/). Fast, collaborative live terminal sharing over the web: https://github.com/ekzhang/sshx
+
 Databasus. Databases backup tool (PostgreSQL, MySQL, MongoDB): https://github.com/databasus/databasus
 
 OpenLiteSpeed Web Server. Our high-performance, lightweight, open source HTTP server: https://github.com/litespeedtech/openlitespeed
