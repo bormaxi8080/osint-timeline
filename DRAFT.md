@@ -16,6 +16,8 @@ The Hidden Trail. How MAC Addresses Reveal Real-World Locations via OSINT: https
 Mexican OSINT. Here are a few powerful Mexican open-source intelligence (OSINT) tools and 
 resources that I personally rely on almost every week. When hunting for information—whether it’s people, companies, assets, public records, or connections—combining several of these tools usually produces the best and fastest result: https://cartelwatch.net/resources/mexican-osint/
 
+Hungarian OSINT start.me page: https://start.me/p/kxGLzd/hun-osint
+
 OSINT of Zanzibar by Unishka Research Service: https://unishka.substack.com/p/osint-of-zanzibar
 
 Status, an Open-source, decentralised wallet and messenger: https://status.app/
@@ -57,6 +59,8 @@ Pompelmi. Secure File Upload Scanning for Node.js. Privacy-first malware detecti
 OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defenders proactively find verified security flaws while minimizing both false positives and false negatives. Stage 1 detects. Stage 2 attacks. What survives is real: https://github.com/knostic/OpenAnt
 
 RuView. WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection - all without a single pixel of video: https://github.com/ruvnet/RuView
+
+PhishCollector is a research framework for collecting, analysing, and tracking phishing sites: https://github.com/olizimmermann/phishcollector
 
 BTRPA Scan. Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity Resolving Keys (IRKs): https://github.com/HackingDave/btrpa-scan
 
@@ -116,6 +120,8 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 VoidAuth is an open-source SSO authentication and user management provider that stands guard in front of your self-hosted applications. It is easy-to-use for admins and end-users, supports nice-to-have features like passkeys, user invitation, self-registration, email support, and more: https://github.com/voidauth/voidauth/
 
+Terrae. Composable and animated components that replace imperative layers with simple props. The perfect companion for shadcn/ui: https://github.com/alamenai/terrae
+
 Wails. Create beautiful applications using Go: https://github.com/wailsapp/wails
 
 DuckDB is an analytical in-process SQL database management system: https://github.com/duckdb/duckdb
@@ -132,7 +138,11 @@ bg-remove. Free image background removal - private, client-side and powered by T
 
 **Linux & DevOps:**
 
+b4. Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems: https://github.com/DanielLavrushin/b4/
+
 sshx (https://sshx.io/). Fast, collaborative live terminal sharing over the web: https://github.com/ekzhang/sshx
+
+Pingap. A reverse proxy like nginx, built on pingora, simple and efficient: https://github.com/vicanso/pingap
 
 Databasus. Databases backup tool (PostgreSQL, MySQL, MongoDB): https://github.com/databasus/databasus
 
