@@ -81,7 +81,15 @@ AnyAPK. Install any apk on the device you own: https://github.com/sam1am/anyapk
 
 **New from CyberDetective:**
 
+Telegram posts search tool
 
+175,000,000+ posts
+2,000,000+ channels
+Data range from 2026-03-09 (for free search)
+
+Partly free
+
+https://deaddrop.theosintconsultants.com/dashboard
 
 ----
 
