@@ -3,6 +3,9 @@
 
 Peace is our profession
 
+
+Scar
+
 ----
 
 Status, an Open-source, decentralised wallet and messenger: https://status.app/
@@ -90,6 +93,23 @@ Data range from 2026-03-09 (for free search)
 Partly free
 
 https://deaddrop.theosintconsultants.com/dashboard
+
+
+TUBEPILOT  
+  
+Dozens of YouTube online tools:  
+  
+- monetization checker  
+- comment sentiment analysis  
+- video audit  
+- keyword research  
+- video summary generator  
+- video transcript  
+- video/channel finder  
+  
+and many many others.  
+  
+https://tubepilot.ai
 
 ----
 
