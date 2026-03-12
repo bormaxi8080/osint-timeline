@@ -86,6 +86,8 @@ Markdown.new. Markdown for Agents. The web was built for humans. AI agents need
 
 Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience: https://github.com/readest/readest
 
+Maildrop. A simple self hostable email service: https://github.com/haileyydev/maildrop/
+
 PhoneDriver. Android Phone Control With Qwen3-VL: https://github.com/OminousIndustries/PhoneDriver
 
 OtelBin. Web-based tool to facilitate OpenTelemetry collector configuration editing and verification: https://github.com/dash0hq/otelbin
