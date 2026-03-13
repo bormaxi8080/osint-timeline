@@ -42,6 +42,8 @@ PhoneDriver. Android Phone Control With Qwen3-VL: https://github.com/OminousIndu
 
 OtelBin. Web-based tool to facilitate OpenTelemetry collector configuration editing and verification: https://github.com/dash0hq/otelbin
 
+Cobra Audit. Bug bounty audit framework - API key validation, OAuth misconfiguration testing, password reset auditing: https://github.com/Jakkxbt/CobraAudit
+
 Telemetry Advanced Telegram Search, Insights and Analytics: https://www.telemetryapp.io
 
 ----
