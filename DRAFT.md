@@ -8,7 +8,13 @@ Scar
 
 ----
 
+OSINT of United Kingdom by Unishka Research Service: https://substack.com/home/post/p-190368758
+
+Global Conflict Dashboard: https://global-opss.github.io/global-conflict-map/
+
 Famelack. Free Live World TV Database: https://famelack.com/
+
+Most satellite overpass predictors calculate when a satellite is within observable range from the surface. But the reverse problem - predicting when a surface target will be scanned by a satellite sensor - is far less served. So long ago I developed an iterative prediction algorithm that does exactly that. It's extremely handy for knowing which imagery to look for without running a point through every granule footprint. And that algorithm finally gets the UI it deserves. Play with this little tool and see when you'll be "scanned" by satellites in orbit: https://sat-predict.davidhsu.cc/
 
 Status, an Open-source, decentralised wallet and messenger: https://status.app/
 
