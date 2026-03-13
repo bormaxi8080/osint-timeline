@@ -8,6 +8,8 @@ Scar
 
 ----
 
+Famelack. Free Live World TV Database: https://famelack.com/
+
 Status, an Open-source, decentralised wallet and messenger: https://status.app/
 
 ----
@@ -28,9 +30,15 @@ https://github.com/stryker-project/monitorer
 
 **OSINT Tools, Services and Investigations:**
 
+General Wisdom. Let us focus on getting the latest and greatest intelligence tools, data, and services to add to the General Wisdom marketplace while you stay focused on the mission: https://www.generalwisdom.com/
+
 RzWeb. A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly: https://github.com/IndAlok/rzweb
 
 WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence: https://github.com/h9zdev/WireTapper
+
+Last Signal. A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones - when you're gone or unresponsive: https://github.com/giovantenne/lastsignal
+
+TapMap. See where your computer connects on a live world map: https://github.com/olalie/tapmap/
 
 Markdown.new. Markdown for Agents. The web was built for humans. AI agents need structured data. We convert any URL to clean Markdown using Cloudflare's native `text/markdown` content type - no parsing, no waste: https://markdown.new/
 
