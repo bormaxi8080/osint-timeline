@@ -76,7 +76,9 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 **Software Development & APIs:**
 
-OpenUI is a full-stack Generative UI framework — a compact streaming-first language, a React runtime with built-in component libraries, and ready-to-use chat interfaces — that is up to **[67% more token-efficient](https://www.openui.com/docs/openui-lang/benchmarks)** than JSON: https://www.openui.com/
+OpenUI is a full-stack Generative UI framework - a compact streaming-first language, a React runtime with built-in component libraries, and ready-to-use chat interfaces - that is up to **[67% more token-efficient](https://www.openui.com/docs/openui-lang/benchmarks)** than JSON: https://www.openui.com/
+
+vphone-cli. Boot a virtual iPhone (iOS 26) via Apple's Virtualization.framework using PCC research VM infrastructure: https://github.com/Lakr233/vphone-cli
 
 Edit Banana: A framework for converting statistical formats into editable: https://github.com/BIT-DataLab/Edit-Banana
 
