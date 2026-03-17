@@ -76,15 +76,19 @@ Khoj. Your AI second brain. Self-hostable. Get answers from the web or your docs
 
 **Software Development & APIs:**
 
+OpenUI is a full-stack Generative UI framework — a compact streaming-first language, a React runtime with built-in component libraries, and ready-to-use chat interfaces — that is up to **[67% more token-efficient](https://www.openui.com/docs/openui-lang/benchmarks)** than JSON: https://www.openui.com/
+
 Edit Banana: A framework for converting statistical formats into editable: https://github.com/BIT-DataLab/Edit-Banana
 
-
+Rikugan. A reverse-engineering agent for **IDA Pro** and **Binary Ninja** that integrates a multi-provider LLM directly into your analysis UI. This project was vibecoded together with my friend, Claude Code: https://github.com/buzzer-re/Rikugan
 
 ----
 
 **Linux & DevOps:**
 
 sshx (https://sshx.io/). Fast, collaborative live terminal sharing over the web: https://github.com/ekzhang/sshx
+
+With Aspia, you can create your own NAT traversal infrastructure (using Router and Relay servers) with connection by ID or use direct connections. Aspia supports many features. Among them, detailed information about the system, audio, text chat: https://github.com/dchapyshev/aspia
 
 Bluehood. Monitor your local neighbourhood's bluetooth activity: https://github.com/dannymcc/bluehood
 
