@@ -40,6 +40,8 @@ General Wisdom. Let us focus on getting the latest and greatest intelligence too
 
 RzWeb. A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly: https://github.com/IndAlok/rzweb
 
+Crucix. Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes: https://github.com/calesthio/Crucix
+
 WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence: https://github.com/h9zdev/WireTapper
 
 Last Signal. A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones - when you're gone or unresponsive: https://github.com/giovantenne/lastsignal
@@ -82,6 +84,8 @@ vphone-cli. Boot a virtual iPhone (iOS 26) via Apple's Virtualization.framework 
 
 Edit Banana: A framework for converting statistical formats into editable: https://github.com/BIT-DataLab/Edit-Banana
 
+TerraInk. The Cartographic Poster Engine that creates unique and customizable map posters: https://github.com/yousifamanuel/terraink
+
 Rikugan. A reverse-engineering agent for **IDA Pro** and **Binary Ninja** that integrates a multi-provider LLM directly into your analysis UI. This project was vibecoded together with my friend, Claude Code: https://github.com/buzzer-re/Rikugan
 
 ----
@@ -115,6 +119,9 @@ Data range from 2026-03-09 (for free search)
 Partly free
 
 https://deaddrop.theosintconsultants.com/dashboard
+
+
+CrowdCounter. Upload a photo, select the area with people in it, and answer a couple of questions to estimate how many people are in the photo: https://digitaldigging.org/crowdchecker/
 
 
 TUBEPILOT  
