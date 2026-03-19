@@ -3,15 +3,32 @@
 
 Scar
 
+
+When the entire Internet is turned off
+
+
+Magi / Maga
+
+
+And the old woman was left with nothing
+
+
+The road to fascism is lined with people telling you to stop overreacting
+
+
+Prayer of the Raccoons
+
 ----
 
-
+AERIS. Flight Tracking, but 3D: https://aeris.edbn.me/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+SubScraper. Subdomain and target enumeration tool built for offensive security testing: https://github.com/m8sec/subscraper
 
+FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports: https://github.com/walterlow/freecut
 
 ----
 
