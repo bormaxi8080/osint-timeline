@@ -29,7 +29,7 @@ Cutter. Free and Open Source Reverse Engineering Platform powered by rizin: http
 
 **Linux & DevOps:**
 
-
+Nerdlog. Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server: https://github.com/dimonomid/nerdlog
 
 ----
 
