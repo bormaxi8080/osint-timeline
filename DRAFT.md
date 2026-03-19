@@ -22,6 +22,8 @@ Prayer of the Raccoons
 
 AERIS. Flight Tracking, but 3D: https://aeris.edbn.me/
 
+WarHeatMap. Visualize global conflicts and events in real time. WarHeatMap is a tool that combines an interactive map and a news feed to track current events and conflicts around the world. It also offers detailed statistics (7d/30d/90d/all time) on event types, most active regions, and most affected countries, providing a clear and analytical view of the global situation. An interesting resource for OSINT, geopolitical, and threat intelligence analysts who need real-time context and data: https://warheatmap.app/
+
 ----
 
 **OSINT Tools, Services and Investigations:**
