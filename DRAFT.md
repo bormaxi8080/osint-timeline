@@ -41,7 +41,11 @@ Nerdlog. Fast, remote-first, multi-host TUI log viewer with timeline histogram a
 
 **New from CyberDetective:**
 
+RECOX
 
+Free, simple and quick online tool to find subdomains and endpoints. Data sources: HackerTarget, URLScanIO, RapidDNS, CertSpotter, JLDC, DNSRepo, crtSH, WayBack, CommonCrawl, AlienWault OTX
+
+https://t.co/lJgjX52kqd
 
 ----
 
