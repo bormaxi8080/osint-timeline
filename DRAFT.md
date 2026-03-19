@@ -23,7 +23,7 @@ Scar
 
 **Software Development & APIs:**
 
-
+Cutter. Free and Open Source Reverse Engineering Platform powered by rizin: https://github.com/rizinorg/cutter
 
 ----
 
