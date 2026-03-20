@@ -21,6 +21,9 @@ Prayer of the Raccoons
 
 Shadow
 
+
+Gopnik Art
+
 ----
 
 OSINT of Greece by Unishka Research Service: https://substack.com/home/post/p-191554481
@@ -28,6 +31,8 @@ OSINT of Greece by Unishka Research Service: https://substack.com/home/post/p-19
 AERIS. Flight Tracking, but 3D: https://aeris.edbn.me/
 
 WarHeatMap. Visualize global conflicts and events in real time. WarHeatMap is a tool that combines an interactive map and a news feed to track current events and conflicts around the world. It also offers detailed statistics (7d/30d/90d/all time) on event types, most active regions, and most affected countries, providing a clear and analytical view of the global situation. An interesting resource for OSINT, geopolitical, and threat intelligence analysts who need real-time context and data: https://warheatmap.app/
+
+Amazing data visualisation of historical FIMI operations. Great way to take a step back and look at some of the larger influence operations that have been reported on: https://euvsdisinfo.eu/fimi-explorer/
 
 ----
 
