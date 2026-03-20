@@ -18,6 +18,9 @@ The road to fascism is lined with people telling you to stop overreacting
 
 Prayer of the Raccoons
 
+
+Shadow
+
 ----
 
 AERIS. Flight Tracking, but 3D: https://aeris.edbn.me/
@@ -32,11 +35,26 @@ SubScraper. Subdomain and target enumeration tool built for offensive security t
 
 FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports: https://github.com/walterlow/freecut
 
+RapidScan v1.2. The Multi-Tool Web Vulnerability Scanner: https://github.com/skavngr/rapidscan
+
+SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks against PBX systems especially through identification, scanning, extension enumeration and password cracking: https://github.com/EnableSecurity/sipvicious
+
 ----
 
 **Universal Search & AI:**
 
+Claude Bug Bounty. Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation: https://github.com/shuvonsec/claude-bug-bounty
 
+xURL is a client for AI agent URLs.
+
+- Read an agent conversation as markdown.
+- Query recent threads and keyword matches for a provider.
+- Query role-scoped threads with `agents://<provider>/<role>`.
+- Discover subagent/branch navigation targets.
+- Start a new conversation with agents.
+- Continue an existing conversation with follow-up prompts
+
+https://github.com/Xuanwo/xurl
 
 ----
 
