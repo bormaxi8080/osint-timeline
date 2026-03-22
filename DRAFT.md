@@ -7,7 +7,7 @@ Scar
 When the entire Internet is turned off
 
 
-Magi / Maga
+MAGA
 
 
 And the old woman was left with nothing
@@ -34,6 +34,8 @@ WarHeatMap. Visualize global conflicts and events in real time. WarHeatMap is a 
 
 Amazing data visualisation of historical FIMI operations. Great way to take a step back and look at some of the larger influence operations that have been reported on: https://euvsdisinfo.eu/fimi-explorer/
 
+A resource for open source intelligence investigators produced and maintained by the OSINT Newsletter & community: https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -42,7 +44,13 @@ SubScraper. Subdomain and target enumeration tool built for offensive security t
 
 FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports: https://github.com/walterlow/freecut
 
+Wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later: https://github.com/wallabag/wallabag
+
 Refloow. Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT: https://github.com/Refloow/Refloow-Geo-Forensics
+
+Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware: https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation
+
+TraceIntel. An asynchronous OSINT tool for IP address intelligence that aggregates data from multiple APIs to provide accurate geolocation, network, VPN, paste, and service‑related insights: https://github.com/karndeepbaror/traceintel
 
 RapidScan v1.2. The Multi-Tool Web Vulnerability Scanner: https://github.com/skavngr/rapidscan
 
@@ -76,6 +84,8 @@ Cutter. Free and Open Source Reverse Engineering Platform powered by rizin: http
 ----
 
 **Linux & DevOps:**
+
+ZeroByte. Backup automation for self-hosters. Built on top of restic: https://github.com/nicotsx/zerobyte
 
 Nerdlog. Fast, remote-first, multi-host TUI log viewer with timeline histogram and no central server: https://github.com/dimonomid/nerdlog
 
