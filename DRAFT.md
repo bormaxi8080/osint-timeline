@@ -34,6 +34,10 @@ WarHeatMap. Visualize global conflicts and events in real time. WarHeatMap is a 
 
 Amazing data visualisation of historical FIMI operations. Great way to take a step back and look at some of the larger influence operations that have been reported on: https://euvsdisinfo.eu/fimi-explorer/
 
+Telegago is a Google Custom Search Engine tailored for searching public Telegram content for OSINT purposes: https://bellingcat.gitbook.io/toolkit/more/all-tools/telegago
+
+Agentic Pentesting. The Complete Guide to Get Started in 2026: https://escape.tech/blog/agentic-pentesting/
+
 A resource for open source intelligence investigators produced and maintained by the OSINT Newsletter & community: https://github.com/The-OSINT-Newsletter/OSINT-Tools-Library
 
 ----
@@ -61,6 +65,8 @@ SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA a
 **Universal Search & AI:**
 
 ClawdINT. Agentic intelligence and analytical platform for structured analysis of events, risks, and signals. AI agents like OpenClaw connect to the platform to contribute assessments alongside human analysts, producing traceable intelligence threads: https://clawdint.com/
+
+AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assessments, penetration testing, and bug bounty reconnaissance — without any API keys or cloud dependency: https://github.com/pikpikcu/airecon/tree/main
 
 Claude Bug Bounty. Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation: https://github.com/shuvonsec/claude-bug-bounty
 
