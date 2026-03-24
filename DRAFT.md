@@ -52,13 +52,13 @@ Wallabag is a self hostable application for saving web pages: Save and classify 
 
 Refloow. Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT: https://github.com/Refloow/Refloow-Geo-Forensics
 
+Xplane MFD Calculations. This repository contains flight calculation code for data published by the X-Plane [Web API](https://developer.x-plane.com/article/x-plane-web-api/). It demonstrates the **Joint Strike Fighter Air Vehicle C++ Coding Standards** (JSF AV C++). The `compliant/` directory contains code with numerous JSF Standard fixes, while `non-compliant/` contains multiple major standard violation examples: https://github.com/LaurieWired/XplaneFlightData
+
 Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware: https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation
 
 TraceIntel. An asynchronous OSINT tool for IP address intelligence that aggregates data from multiple APIs to provide accurate geolocation, network, VPN, paste, and service‑related insights: https://github.com/karndeepbaror/traceintel
 
 RapidScan v1.2. The Multi-Tool Web Vulnerability Scanner: https://github.com/skavngr/rapidscan
-
-SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks against PBX systems especially through identification, scanning, extension enumeration and password cracking: https://github.com/EnableSecurity/sipvicious
 
 ----
 
@@ -85,6 +85,8 @@ https://github.com/Xuanwo/xurl
 
 **Software Development & APIs:**
 
+Malimite. iOS and macOS Decompiler: https://github.com/LaurieWired/Malimite
+
 Cutter. Free and Open Source Reverse Engineering Platform powered by rizin: https://github.com/rizinorg/cutter
 
 ----
@@ -99,7 +101,7 @@ Nerdlog. Fast, remote-first, multi-host TUI log viewer with timeline histogram a
 
 **Hardware & Devices:**
 
-
+SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks against PBX systems especially through identification, scanning, extension enumeration and password cracking: https://github.com/EnableSecurity/sipvicious
 
 ----
 
