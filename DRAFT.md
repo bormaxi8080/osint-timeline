@@ -46,6 +46,8 @@ A resource for open source intelligence investigators produced and maintained by
 
 SubScraper. Subdomain and target enumeration tool built for offensive security testing: https://github.com/m8sec/subscraper
 
+ciao HTTP checks & tests (private & public) monitoring - check the status of your URL: https://github.com/brotandgames/ciao
+
 FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports: https://github.com/walterlow/freecut
 
 Wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later: https://github.com/wallabag/wallabag
@@ -55,6 +57,10 @@ Refloow. Free batch image geolocation and digital forensics tool. Automatically 
 Xplane MFD Calculations. This repository contains flight calculation code for data published by the X-Plane [Web API](https://developer.x-plane.com/article/x-plane-web-api/). It demonstrates the **Joint Strike Fighter Air Vehicle C++ Coding Standards** (JSF AV C++). The `compliant/` directory contains code with numerous JSF Standard fixes, while `non-compliant/` contains multiple major standard violation examples: https://github.com/LaurieWired/XplaneFlightData
 
 Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware: https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation
+
+MetasploitMCP. MCP Server for Metasploit: https://github.com/GH05TCREW/MetasploitMCP
+
+Deep Eye. An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and professional reporting: https://github.com/zakirkun/deep-eye
 
 TraceIntel. An asynchronous OSINT tool for IP address intelligence that aggregates data from multiple APIs to provide accurate geolocation, network, VPN, paste, and service‑related insights: https://github.com/karndeepbaror/traceintel
 
@@ -89,9 +95,13 @@ Malimite. iOS and macOS Decompiler: https://github.com/LaurieWired/Malimite
 
 Cutter. Free and Open Source Reverse Engineering Platform powered by rizin: https://github.com/rizinorg/cutter
 
+Mapr is a Bun-native CLI/TUI designed for deep frontend reverse-engineering. It crawls target sites to collect artifacts, processes chunked code through a multi-agent AI pipeline, and generates comprehensive Markdown reports—mapping initialization flows, restoring names, and inferring call graphs to simplify complex build outputs: https://github.com/redstone-md/Mapr
+
 ----
 
 **Linux & DevOps:**
+
+SealOS is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scaling modern AI applications, managed databases (MySQL, PostgreSQL, Redis, MongoDB) and complex microservice architectures: https://github.com/labring/sealos
 
 ZeroByte. Backup automation for self-hosters. Built on top of restic: https://github.com/nicotsx/zerobyte
 
