@@ -34,6 +34,8 @@ WarHeatMap. Visualize global conflicts and events in real time. WarHeatMap is a 
 
 Amazing data visualisation of historical FIMI operations. Great way to take a step back and look at some of the larger influence operations that have been reported on: https://euvsdisinfo.eu/fimi-explorer/
 
+Discord Tools Hub. Discover powerful Discord tools including AI-powered generators, utilities for server management, content creation tools, and user lookup features. Everything you need to enhance your Discord experience: https://discordgate.com/tools
+
 Telegago is a Google Custom Search Engine tailored for searching public Telegram content for OSINT purposes: https://bellingcat.gitbook.io/toolkit/more/all-tools/telegago
 
 Agentic Pentesting. The Complete Guide to Get Started in 2026: https://escape.tech/blog/agentic-pentesting/
@@ -50,7 +52,11 @@ ciao HTTP checks & tests (private & public) monitoring - check the status of you
 
 FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports: https://github.com/walterlow/freecut
 
-Wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later: https://github.com/wallabag/wallabag
+Wallabag is a self hostable application for saving web pages: save and classify articles. Read them later: https://github.com/wallabag/wallabag
+
+Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere: https://github.com/Crosstalk-Solutions/project-nomad
+
+SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
 
 Refloow. Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT: https://github.com/Refloow/Refloow-Geo-Forensics
 
@@ -90,6 +96,8 @@ https://github.com/Xuanwo/xurl
 ----
 
 **Software Development & APIs:**
+
+Evidence. Business intelligence as code: build fast, interactive data visualizations in SQL and markdown: https://github.com/evidence-dev/evidence
 
 Malimite. iOS and macOS Decompiler: https://github.com/LaurieWired/Malimite
 
