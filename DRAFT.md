@@ -62,9 +62,17 @@ ciao HTTP checks & tests (private & public) monitoring - check the status of you
 
 FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports: https://github.com/walterlow/freecut
 
-Wallabag is a self hostable application for saving web pages: save and classify articles. Read them later: https://github.com/wallabag/wallabag
+AutoSwagger is a command-line tool designed to discover, parse, and test for unauthenticated endpoints using **Swagger/OpenAPI** documentation. It helps identify potential security issues in unprotected endpoints of APIs, such as PII leaks and common secret exposures: https://github.com/intruder-io/autoswagger/
+
+Just The Browser. Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers: https://github.com/corbindavenport/just-the-browser
+
+Wallabag is a self hostable application for saving web pages. Save and classify articles. Read them later: https://github.com/wallabag/wallabag
+
+Twenty. Building a modern alternative to Salesforce, powered by the community: https://github.com/twentyhq/twenty
 
 Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered-anytime, anywhere: https://github.com/Crosstalk-Solutions/project-nomad
+
+Link Cleaner. Progressive Web App for removing tracking code and other variables from web links: https://github.com/corbindavenport/link-cleaner
 
 SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
 
@@ -87,6 +95,8 @@ RapidScan v1.2. The Multi-Tool Web Vulnerability Scanner: https://github.com/ska
 ----
 
 **Universal Search & AI:**
+
+mgrep. A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more: https://github.com/mixedbread-ai/mgrep
 
 ClawdINT. Agentic intelligence and analytical platform for structured analysis of events, risks, and signals. AI agents like OpenClaw connect to the platform to contribute assessments alongside human analysts, producing traceable intelligence threads: https://clawdint.com/
 
