@@ -64,7 +64,7 @@ FreeCut is a professional-grade video editor that runs entirely in your browser.
 
 Wallabag is a self hostable application for saving web pages: save and classify articles. Read them later: https://github.com/wallabag/wallabag
 
-Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere: https://github.com/Crosstalk-Solutions/project-nomad
+Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered-anytime, anywhere: https://github.com/Crosstalk-Solutions/project-nomad
 
 SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
 
@@ -110,6 +110,8 @@ https://github.com/Xuanwo/xurl
 **Software Development & APIs:**
 
 Evidence. Business intelligence as code: build fast, interactive data visualizations in SQL and markdown: https://github.com/evidence-dev/evidence
+
+zerobrew brings uv-style architecture to Homebrew packages on macOS and Linux: https://github.com/lucasgelfond/zerobrew
 
 Malimite. iOS and macOS Decompiler: https://github.com/LaurieWired/Malimite
 
