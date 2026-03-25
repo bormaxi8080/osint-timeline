@@ -60,6 +60,8 @@ SubScraper. Subdomain and target enumeration tool built for offensive security t
 
 ciao HTTP checks & tests (private & public) monitoring - check the status of your URL: https://github.com/brotandgames/ciao
 
+OceanScrape. Scraper for marine traffic data - amass AIS data fast & for free without being detected; ready for AI pipeline integration: https://github.com/theSchaefer/OceanScrape
+
 FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, real-time preview, and high-quality exports: https://github.com/walterlow/freecut
 
 AutoSwagger is a command-line tool designed to discover, parse, and test for unauthenticated endpoints using **Swagger/OpenAPI** documentation. It helps identify potential security issues in unprotected endpoints of APIs, such as PII leaks and common secret exposures: https://github.com/intruder-io/autoswagger/
