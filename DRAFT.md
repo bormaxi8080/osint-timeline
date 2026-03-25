@@ -27,9 +27,16 @@ Gopnik Art
 
 Rat Death
 
+
+Press
+
 ----
 
 OSINT of Greece by Unishka Research Service: https://substack.com/home/post/p-191554481
+
+Hungarian OSINT start.me Collection: https://start.me/p/AD45Qk/start
+
+ALICJA OSINT Toolkit: https://start.me/p/Rn02Ne/alicja-osint-toolkit
 
 AERIS. Flight Tracking, but 3D: https://aeris.edbn.me/
 
@@ -73,6 +80,8 @@ Deep Eye. An advanced AI-driven vulnerability scanner and penetration testing to
 
 TraceIntel. An asynchronous OSINT tool for IP address intelligence that aggregates data from multiple APIs to provide accurate geolocation, network, VPN, paste, and service‑related insights: https://github.com/karndeepbaror/traceintel
 
+Grype. A vulnerability scanner for container images and filesystems: https://github.com/anchore/grype
+
 RapidScan v1.2. The Multi-Tool Web Vulnerability Scanner: https://github.com/skavngr/rapidscan
 
 ----
@@ -103,6 +112,8 @@ https://github.com/Xuanwo/xurl
 Evidence. Business intelligence as code: build fast, interactive data visualizations in SQL and markdown: https://github.com/evidence-dev/evidence
 
 Malimite. iOS and macOS Decompiler: https://github.com/LaurieWired/Malimite
+
+ReDyne. A Production-Grade iOS Decompiler & Reverse Engineering Suite: https://github.com/speedyfriend433/ReDyne
 
 Cutter. Free and Open Source Reverse Engineering Platform powered by rizin: https://github.com/rizinorg/cutter
 
