@@ -38,24 +38,30 @@ We are happy to 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐭𝐡𝐞 𝐜𝐨𝐦𝐦𝐮�
 ## 🌍 Regional & Thematic OSINT
 
 **OSINT People.** List of interesting and active OSINT researchers/bloggers
+
 🔗 https://github.com/ubikron/OSINT-People
 
 **OSINT Companies.** This repository contains a curated list of companies and platforms commonly used in Open-Source Intelligence (OSINT) work. Entries are grouped by primary OSINT use, not marketing claims. Also who found the companies, the year, and importantly - the country it's located in
+
 🔗 https://github.com/ubikron/OSINT-Companies
 
 **Introduction to Investigative Journalism.** Deep Internet Research: Leveraging Open-Source Research and Verification Techniques
 🔗 https://gijn.org/resource/introduction-investigative-journalism-deep-internet-research/
 
 **Public data tells a story governments don’t intend to tell.** These slides summarize findings from an OSINT-based audit of Cuba government web infrastructure - highlighting inconsistent security standards, exposed metadata, and uneven protections across state institutions. Full investigation on Substack
+
 🔗 https://ringmast4r.substack.com/p/cuba-revealed-how-the-communist-regime
 
 **Social Engineering Analysis Framework.** A Comprehensive Playbook for Human Hacking by OSINT Industries
+
 🔗 https://media.licdn.com/dms/document/media/v2/D4E1FAQGW_LWB0lErAQ/feedshare-document-pdf-analyzed/B4EZwUrTU8J8AY-/0/1769873423834?e=1770854400&v=beta&t=SMRE_Z2DOZOLMFkK2p3c1mQz6qzrV-MB7QAcCJkHr7c
 
 Keeping track of crypto markets often means juggling charts, sentiment tools, and news feeds. This **Start.me crypto dashboard** brings them together in one structured view, designed to reduce context switching and knee-jerk reactions
+
 🔗 https://start.me/p/nReaJG/crypto_dashboard
 
 **TeleBotList.** A cool collection of awesome Telegram bots source code hosted on GitHub
+
 🔗 https://github.com/MoonWalker440/TeleBotList
 
 ----
@@ -63,30 +69,39 @@ Keeping track of crypto markets often means juggling charts, sentiment tools, an
 ## 🛠 OSINT Tools, Services & Investigations
 
 **Watcher.** Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS
+
 🔗 https://github.com/thalesgroup-cert/Watcher
 
 **Fluxer.** A free and open source instant messaging and VoIP platform built for friends, groups, and communities
+
 🔗 https://github.com/fluxerapp/fluxer
 
 **Alt-sendme.** Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions
+
 🔗 https://github.com/tonyantony300/alt-sendme
 
 **Dropp** is a modern cross-platform dropzone that keeps your files accessible across all your devices. Drag files to your shelf on macOS, then click to sync them to the cloud-they'll be available on your Android phone and other devices
+
 🔗 https://github.com/spacefarers/Dropp
 
 **FreeTube** is an open source desktop YouTube player built with privacy in mind. Use YouTube without advertisements and prevent Google from tracking you with their cookies and JavaScript. Available for Windows (10 and later), Mac (macOS 12 and later) & Linux thanks to Electron
+
 🔗 https://github.com/FreeTubeApp/FreeTube
 
 **Aurora Incident Response.** Incident Response Documentation made easy. Developed by Incident Responders for Incident Responders
+
 🔗 https://github.com/cyb3rfox/Aurora-Incident-Response
 
 **Samurai.** Simple, yet effective moderator bot for telegram. With reports, logs, profanity filter, anti-spam AI, NSFW detection AI and more
+
 🔗 https://github.com/Priler/samurai/tree/main
 
 **PaperKnife.** Privacy-first PDF utility (Zero-Server Architecture). Merge, split, compress, and edit PDFs 100% locally on your device. No uploads, no servers, no tracking
+
 🔗 https://github.com/proricardo/paperknife
 
 **MiroMiro.** Turn any website into your design toolkit. Extract colors, fonts, images & animations in one click. No more eyeballing. No more guessing hex codes
+
 🔗 https://miromiro.app/https://miromiro.app/
 
 ----
@@ -94,18 +109,23 @@ Keeping track of crypto markets often means juggling charts, sentiment tools, an
 ## 🤖 Universal Search & AI
 
 **Learn Prompt Hacking.** This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course
+
 🔗 https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking
 
 **Pinchtab.** Most agent browser tools (OpenClaw, Playwright MCP, Browser Use) are tightly coupled - they only work inside their own framework. If you switch agents or want to script something in bash, you're out of luck
+
 🔗 https://github.com/pinchtab/pinchtab
 
 **CC Workflow Studio.** Accelerate Claude Code/GitHub Copilot/OpenAI Codex/Roo Code automation with a visual workflow editor
+
 🔗 https://github.com/breaking-brake/cc-wf-studio/
 
 **Zen AI Pentest.** AI-Powered Penetration Testing Framework with automated vulnerability scanning, multi-agent system, and compliance reporting
+
 🔗 https://github.com/SHAdd0WTAka/Zen-Ai-Pentest
 
 **VoiceBox.** The open-source voice synthesis studio. Clone voices. Generate speech. Build voice-powered apps. All running locally on your machine
+
 🔗 https://github.com/jamiepine/voicebox
 
 ----
@@ -113,18 +133,23 @@ Keeping track of crypto markets often means juggling charts, sentiment tools, an
 ## 👨‍💻 Software Development & APIs
 
 **Login Machine.** AI-powered login automation. Uses Claude to classify login pages and Playwright to interact with them
+
 🔗 https://github.com/RichardHruby/login-machine
 
 **Zvec** is an open-source, in-process vector database - lightweight, lightning-fast, and designed to embed directly into applications. Built on **Proxima** (Alibaba's battle-tested vector search engine), it delivers production-grade, low-latency, scalable similarity search with minimal setup
+
 🔗 https://github.com/alibaba/zvec
 
 **Scrapling.** An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be
+
 🔗 https://github.com/D4Vinci/Scrapling
 
 **htmldocs.** The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind
+
 🔗 https://github.com/htmldocs-js/htmldocs
 
 **FastCode.** Accelerating and Streamlining Your Code Understanding
+
 🔗 https://github.com/HKUDS/FastCode
 
 ----
@@ -132,18 +157,23 @@ Keeping track of crypto markets often means juggling charts, sentiment tools, an
 ## 🐧 Linux & DevOps
 
 **Async Scanner.** Fast asynchronous Rust TCP port scanner with configurable concurrency
+
 🔗 https://github.com/NickIBrody/async-scanner
 
 **OpenWrt Multi-Channel Sniffer.** OpenWrt-based Access Point multi-channel WiFi Probe Request sniffer
+
 🔗 https://github.com/GiovanniBaccichet/openwrt-multi-sniffer
 
 **LobsterBoard.** A self-hosted, drag-and-drop dashboard builder with 50 widgets, a template gallery, custom pages, and zero cloud dependencies. One Node.js server, no frameworks, no build step needed
+
 🔗 https://github.com/igounton/lobsterboard
 
 **StartOS** is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services
+
 🔗 https://github.com/Start9Labs/start-os
 
 **DockTail.** Expose Docker containers as Tailscale Services using label-based configuration
+
 🔗 https://github.com/marvinvr/docktail
 
 ----
@@ -151,6 +181,7 @@ Keeping track of crypto markets often means juggling charts, sentiment tools, an
 ## 🔌 Hardware & Devices
 
 **Trafexia Mobile Traffic Interceptor.** A powerful desktop application for intercepting and analyzing HTTP/HTTPS traffic from mobile devices. Built with Electron, Vue 3, and TypeScript
+
 🔗 https://github.com/danieldev23/trafexia
 
 ----

@@ -135,7 +135,7 @@ Most satellite overpass predictors calculate when a satellite is within observab
 
 🔗 https://github.com/yousifamanuel/terraink
 
-**Rikugan.** A reverse-engineering agent for **IDA Pro** and **Binary Ninja** that integrates a multi-provider LLM directly into your analysis UI. This project was vibecoded together with my friend, Claude Code
+**Rikugan.** A reverse-engineering agent for IDA Pro and Binary Ninja that integrates a multi-provider LLM directly into your analysis UI. This project was vibecoded together with my friend, Claude Code
 
 🔗 https://github.com/buzzer-re/Rikugan
 
