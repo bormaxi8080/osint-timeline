@@ -31,6 +31,8 @@ Press
 
 ALICJA OSINT Toolkit: https://start.me/p/Rn02Ne/alicja-osint-toolkit
 
+Breach House. Ransomware & Leaks Attacks Map: https://breach.house/
+
 Discord Tools Hub. Discover powerful Discord tools including AI-powered generators, utilities for server management, content creation tools, and user lookup features. Everything you need 
 to enhance your Discord experience: https://discordgate.com/tools
 
@@ -45,6 +47,10 @@ Wallabag is a self hostable application for saving web pages. Save and classify 
 Twenty. Building a modern alternative to Salesforce, powered by the community: https://github.com/twentyhq/twenty
 
 Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered-anytime, anywhere: https://github.com/Crosstalk-Solutions/project-nomad
+
+AIDA. AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP: https://github.com/Vasco0x4/AIDA
+
+TuiTube. TUI to download videos from YouTube, 𝕏, Twitch, Instagram, Bilibili and more using yt-dlp CLI: https://github.com/remorses/tuitube
 
 Link Cleaner. Progressive Web App for removing tracking code and other variables from web links: https://github.com/corbindavenport/link-cleaner
 
