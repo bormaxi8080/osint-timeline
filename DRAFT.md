@@ -32,6 +32,8 @@ Press
 
 ----
 
+Kali Linux 2026.1 Release (2026 Theme & BackTrack Mode): https://www.kali.org/blog/kali-linux-2026-1-release/
+
 OSINT of Greece by Unishka Research Service: https://substack.com/home/post/p-191554481
 
 Hungarian OSINT start.me Collection: https://start.me/p/AD45Qk/start
@@ -42,7 +44,11 @@ AERIS. Flight Tracking, but 3D: https://aeris.edbn.me/
 
 WarHeatMap. Visualize global conflicts and events in real time. WarHeatMap is a tool that combines an interactive map and a news feed to track current events and conflicts around the world. It also offers detailed statistics (7d/30d/90d/all time) on event types, most active regions, and most affected countries, providing a clear and analytical view of the global situation. An interesting resource for OSINT, geopolitical, and threat intelligence analysts who need real-time context and data: https://warheatmap.app/
 
+GeoSentinel is a geospatial monitoring platform that tracks global movement in real time. It aggregates ship and flight routes, live coordinates, and geodata into a unified system, providing clear geographic and geopolitical awareness for analysis, visualization, and decision-making: https://github.com/h9zdev/GeoSentinel
+
 Amazing data visualisation of historical FIMI operations. Great way to take a step back and look at some of the larger influence operations that have been reported on: https://euvsdisinfo.eu/fimi-explorer/
+
+Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data: https://github.com/cryptomator/cryptomator
 
 Discord Tools Hub. Discover powerful Discord tools including AI-powered generators, utilities for server management, content creation tools, and user lookup features. Everything you need to enhance your Discord experience: https://discordgate.com/tools
 
@@ -66,7 +72,13 @@ FreeCut is a professional-grade video editor that runs entirely in your browser.
 
 AutoSwagger is a command-line tool designed to discover, parse, and test for unauthenticated endpoints using **Swagger/OpenAPI** documentation. It helps identify potential security issues in unprotected endpoints of APIs, such as PII leaks and common secret exposures: https://github.com/intruder-io/autoswagger/
 
+Eye of Web. State of the art OSINT tool. | A powerful open-source alternative to other face search engines: https://github.com/MehmetYukselSekeroglu/eye_of_web/
+
 Just The Browser. Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers: https://github.com/corbindavenport/just-the-browser
+
+Kraken is a powerful, Python-based tool designed to centralize and streamline various brute-forcing tasks. Kraken provides a suite of tools for cybersecurity professionals to efficiently perform brute-force attacks across a range of protocols and services: https://github.com/jasonxtn/kraken
+
+Proofpoint - Emerging Threats - Threat Research tools + publicly shared intel and documentation: https://github.com/EmergingThreats/threatresearch
 
 Wallabag is a self hostable application for saving web pages. Save and classify articles. Read them later: https://github.com/wallabag/wallabag
 
@@ -121,7 +133,11 @@ https://github.com/Xuanwo/xurl
 
 **Software Development & APIs:**
 
-Evidence. Business intelligence as code: build fast, interactive data visualizations in SQL and markdown: https://github.com/evidence-dev/evidence
+Extractous. Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages: https://github.com/yobix-ai/extractous
+
+PlutoPrint. A Python Library for Generating PDFs and Images from HTML, powered by PlutoBook: https://github.com/plutoprint/plutoprint
+
+Evidence. Business intelligence as code. Build fast, interactive data visualizations in SQL and markdown: https://github.com/evidence-dev/evidence
 
 zerobrew brings uv-style architecture to Homebrew packages on macOS and Linux: https://github.com/lucasgelfond/zerobrew
 
