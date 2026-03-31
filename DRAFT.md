@@ -31,6 +31,10 @@ Press
 
 ALICJA OSINT Toolkit: https://start.me/p/Rn02Ne/alicja-osint-toolkit
 
+AtlasOS is creating a "kinder" Windows experience. Reducing bloatware and optimizing performance for enthusiasts, gamers, and privacy-conscious individuals: https://atlasos.net/
+
+OpenArg Backend. AI-powered analysis engine for Argentine government open data. Multi-agent pipeline (LangGraph) with 10 data connectors, NL2SQL, semantic caching, and real-time streaming. Built with FastAPI, PostgreSQL + pgvector, Celery, and Gemini/Claude LLMs: https://github.com/colossus-lab/openarg_backend
+
 Breach House. Ransomware & Leaks Attacks Map: https://breach.house/
 
 Discord Tools Hub. Discover powerful Discord tools including AI-powered generators, utilities for server management, content creation tools, and user lookup features. Everything you need 
@@ -56,6 +60,8 @@ Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr
 
 TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and more using yt-dlp CLI: https://github.com/remorses/tuitube
 
+PyVideoTrans. Translate the video from one language to another and embed dubbing & subtitles: https://github.com/jianchang512/pyvideotrans
+
 Link Cleaner. Progressive Web App for removing tracking code and other variables from web links: https://github.com/corbindavenport/link-cleaner
 
 SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
@@ -70,11 +76,17 @@ Xplane MFD Calculations. This repository contains flight calculation code for da
 
 AIDA. AI-Driven Security Assessment - Connect AI to 400+ pentesting tools via MCP: https://github.com/Vasco0x4/AIDA
 
+Vigil - an ever improving 100% OpenSource AI system for security: https://github.com/Vigil-SOC/vigil
+
 OpenCode plugin that gives coding agents persistent memory using local vector database: https://github.com/tickernelz/opencode-mem
 
 ----
 
 **Software Development & APIs:**
+
+SkyBolt. C++/Python-based 3D geospatial application for simulating and visualizing dynamic objects in planetary environments: https://github.com/Prograda/Skybolt
+
+Lego. Let's Encrypt/ACME client and library written in Go: https://github.com/go-acme/lego
 
 SnakeBite. Detect malicious PyPI packages using heuristic analysis and LLM-powered filtering to uncover credential theft, obfuscation, and supply chain attacks: https://github.com/Pinperepette/snakebite
 
