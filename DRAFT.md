@@ -106,6 +106,10 @@ BlueSploit. A Metasploit-style Bluetooth security testing framework supporting C
 
 **New from CyberDetective:**
 
+OpenGridNetworks. Interactive worldwide map of electricity infrastructure. Very detailed. Power plants, data centers, fiber infrastructure, transmissions, substations.
+
+https://opengridworks.com
+
 Breach House. Last ransomware attack list (classification, target odentity, source / actor, discovered, location, business category, intel link) with interactive map and statistics
 
 https://breach.house
