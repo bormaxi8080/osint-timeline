@@ -44,6 +44,8 @@ to enhance your Discord experience: https://discordgate.com/tools
 
 **OSINT Tools, Services and Investigations:**
 
+EUOSINT. OSINT Stack for advanced global intelligence monitoring, situation analysis, risk detection: https://github.com/scalytics/EUOSINT
+
 ProofPoint - Emerging Threats - Threat Research tools + publicly shared intel and documentation: https://github.com/EmergingThreats/threatresearch
 
 Wallabag is a self hostable application for saving web pages. Save and classify articles. Read them later: https://github.com/wallabag/wallabag
@@ -95,6 +97,8 @@ SnakeBite. Detect malicious PyPI packages using heuristic analysis and LLM-power
 **Linux & DevOps:**
 
 WaveTerm. An open-source, AI-integrated, cross-platform terminal for seamless workflows: https://github.com/wavetermdev/waveterm
+
+l0p4map. Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local networks and custom IPs/websites: https://github.com/HaxL0p4/L0p4Map
 
 ----
 
