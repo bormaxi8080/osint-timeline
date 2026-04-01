@@ -114,15 +114,19 @@ BlueSploit. A Metasploit-style Bluetooth security testing framework supporting C
 
 **New from CyberDetective:**
 
-OpenGridNetworks. Interactive worldwide map of electricity infrastructure. Very detailed. Power plants, data centers, fiber infrastructure, transmissions, substations.
+OpenGridNetworks. Interactive worldwide map of electricity infrastructure. Very detailed. Power plants, data centers, fiber infrastructure, transmissions, substations
 
 https://opengridworks.com
+
+TLDSweep is a domain intelligence OSINT tool that sweeps 800+ TLDs to find registered variants of a domain, flag newly registered lookalikes, and alert via Telegram and Discord
+
+https://github.com/DarkWebInformer/TLDSweep
 
 Breach House. Last ransomware attack list (classification, target odentity, source / actor, discovered, location, business category, intel link) with interactive map and statistics
 
 https://breach.house
 
-WindVector. Detailed info on winds and air currents. It features an online map, a 3D model of atmospheric layers, and the ability to view historical data for past dates. It is useful for investigating natural disasters and aviation accidents.
+WindVector. Detailed info on winds and air currents. It features an online map, a 3D model of atmospheric layers, and the ability to view historical data for past dates. It is useful for investigating natural disasters and aviation accidents
 
 https://windvector.app
 
