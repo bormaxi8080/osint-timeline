@@ -82,6 +82,8 @@ Vigil - an ever improving 100% OpenSource AI system for security: https://github
 
 OpenCode plugin that gives coding agents persistent memory using local vector database: https://github.com/tickernelz/opencode-mem
 
+HackerAI. AI-Powered Penetration Testing Assistant: https://github.com/hackerai-tech/hackerai
+
 ----
 
 **Software Development & APIs:**
@@ -99,6 +101,8 @@ SnakeBite. Detect malicious PyPI packages using heuristic analysis and LLM-power
 WaveTerm. An open-source, AI-integrated, cross-platform terminal for seamless workflows: https://github.com/wavetermdev/waveterm
 
 l0p4map. Professional network monitoring & visualization tool. L0P4Map combines high-speed ARP discovery with full nmap integration and a real-time interactive network topology engine. Works on both local networks and custom IPs/websites: https://github.com/HaxL0p4/L0p4Map
+
+refugiOS. Your Digital Shelter and Survival Library: https://github.com/Ganso/refugiOS
 
 ----
 
