@@ -26,7 +26,7 @@ Press
 
 ----
 
-
+25 Satellite Maps To See Earth in New Ways: https://gisgeography.com/satellite-maps/
 
 ----
 
