@@ -41,10 +41,6 @@ A first step for investigations into organized crime, corruption, trafficking, a
 
 🔗 https://github.com/colossus-lab/openarg_backend
 
-**Breach House.** Ransomware & Leaks Attacks Map
-
-🔗 https://breach.house/
-
 **Discord Tools Hub.** Discover powerful Discord tools including AI-powered generators, utilities for server management, content creation tools, and user lookup features. Everything you need 
 to enhance your Discord experience
 
