@@ -32,6 +32,8 @@ Press
 
 **OSINT Tools, Services and Investigations:**
 
+Look4Sat. Satellite tracker and pass predictor for Android, inspired by Gpredict: https://github.com/rt-bishop/Look4Sat
+
 TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and more using yt-dlp CLI: https://github.com/remorses/tuitube
 
 PyVideoTrans. Translate the video from one language to another and embed dubbing & subtitles: https://github.com/jianchang512/pyvideotrans
@@ -63,6 +65,8 @@ Xplane MFD Calculations. This repository contains flight calculation code for da
 **Linux & DevOps:**
 
 NetHopper. Share internet access from a free network to a restricted one using Xray-core reverse proxy and SOCKS5: https://github.com/net2share/nethopper
+
+NostrVPN is a Rust workspace for a Tailscale-style mesh VPN control plane built on Nostr signaling and userspace WireGuard. It includes the `nvpn` CLI plus a Tauri/Svelte app codebase that targets desktop and mobile platforms: https://github.com/mmalmi/nostr-vpn
 
 ----
 
