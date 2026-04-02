@@ -36,6 +36,8 @@ TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and
 
 PyVideoTrans. Translate the video from one language to another and embed dubbing & subtitles: https://github.com/jianchang512/pyvideotrans
 
+Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew: https://github.com/bridgecrewio/checkov
+
 Link Cleaner. Progressive Web App for removing tracking code and other variables from web links: https://github.com/corbindavenport/link-cleaner
 
 SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
@@ -60,7 +62,7 @@ Xplane MFD Calculations. This repository contains flight calculation code for da
 
 **Linux & DevOps:**
 
-
+NetHopper. Share internet access from a free network to a restricted one using Xray-core reverse proxy and SOCKS5: https://github.com/net2share/nethopper
 
 ----
 
