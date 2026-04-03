@@ -52,7 +52,7 @@ Xplane MFD Calculations. This repository contains flight calculation code for da
 
 **Universal Search & AI:**
 
-
+Axiom. Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development: https://github.com/CharlesWiltgen/Axiom
 
 ----
 
