@@ -32,6 +32,8 @@ Press
 
 **OSINT Tools, Services and Investigations:**
 
+Neko. A self hosted virtual browser that runs in docker and uses WebRTC: https://github.com/m1k1o/neko
+
 Look4Sat. Satellite tracker and pass predictor for Android, inspired by Gpredict: https://github.com/rt-bishop/Look4Sat
 
 TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and more using yt-dlp CLI: https://github.com/remorses/tuitube
