@@ -40,6 +40,12 @@ TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and
 
 PyVideoTrans. Translate the video from one language to another and embed dubbing & subtitles: https://github.com/jianchang512/pyvideotrans
 
+Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
+
+NoEyes. Secure terminal chat. E2E encrypted, zero-metadata blind-forwarder server. PyNaCl XSalsa20-Poly1305 + Ed25519 + forward secrecy: https://github.com/Ymsniper/NoEyes
+
+Rom. A browser-like runtime in Rust, built without Chromium. ROM composes an embedded JavaScript engine, browser-facing host objects, and a compatibility-driven runtime for deterministic web automation, surface emulation, and browser API research: https://github.com/rxflex/rom
+
 Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew: https://github.com/bridgecrewio/checkov
 
 Link Cleaner. Progressive Web App for removing tracking code and other variables from web links: https://github.com/corbindavenport/link-cleaner
