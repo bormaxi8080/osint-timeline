@@ -36,6 +36,8 @@ Neko. A self hosted virtual browser that runs in docker and uses WebRTC: https:/
 
 Look4Sat. Satellite tracker and pass predictor for Android, inspired by Gpredict: https://github.com/rt-bishop/Look4Sat
 
+MiroShark. Universal Swarm Intelligence Engine - Run Locally or with Any Cloud API. Multi-agent simulation engine: upload any document (press release, policy draft, financial report), and it generates hundreds of AI agents with unique personalities that simulate public reaction on social media - posts, arguments, opinion shifts - hour by hour: https://github.com/aaronjmars/MiroShark
+
 GitHub Store. A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows): https://github.com/OpenHub-Store/GitHub-Store
 
 TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and more using yt-dlp CLI: https://github.com/remorses/tuitube
@@ -76,11 +78,17 @@ Axiom. Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tv
 
 Autoresearch Genealogy. Structured prompts, vault templates, and research workflows for AI-assisted genealogy research. Built for Claude Code, adaptable to any AI tool or manual workflow: https://github.com/mattprusak/autoresearch-genealogy
 
+MemPalace. The highest-scoring AI memory system ever benchmarked: https://github.com/milla-jovovich/mempalace
+
+OCEL Generator. Generate realistic multi-agent workflow traces with LLM-enriched content. pip install open-agent-traces: https://github.com/juliensimon/ocel-generator
+
 ----
 
 **Software Development & APIs:**
 
 Analysis of Bot Protection systems with available countermeasures. How to defeat anti-bot system and get around browser fingerprinting scripts when scraping the web: https://github.com/niespodd/browser-fingerprinting
+
+Robotocore. A digital twin of AWS. Free forever. Runs anywhere: https://github.com/robotocore/robotocore
 
 Autumn is an open-source pricing & billing platform: https://github.com/useautumn/autumn
 
@@ -98,7 +106,9 @@ CellGuard is a research project that analyzes how cellular networks are operated
 
 NetHopper. Share internet access from a free network to a restricted one using Xray-core reverse proxy and SOCKS5: https://github.com/net2share/nethopper
 
-Homeinfra offers a strong, dependable, and easily replicable configuration for your homelab, incorporating vital elements like HTTPS, NAT traversal, Security, CI/CD pipelines, Cronjobs, DDNS, Docker management, Automatic Backup, and more: https://github.com/homeinfra-org/infra
+Supply Chain Monitor. Automated monitoring of the top **PyPI** and **npm** packages for supply chain compromise. Polls both registries for new releases, diffs each release against its predecessor, and uses an LLM (via [Cursor Agent CLI](https://cursor.com/docs/cli/overview)) to classify diffs as **benign** or **malicious**. Malicious findings trigger a Slack alert: https://github.com/elastic/supply-chain-monitor
+
+HomeInfra offers a strong, dependable, and easily replicable configuration for your homelab, incorporating vital elements like HTTPS, NAT traversal, Security, CI/CD pipelines, Cronjobs, DDNS, Docker management, Automatic Backup, and more: https://github.com/homeinfra-org/infra
 
 NostrVPN is a Rust workspace for a Tailscale-style mesh VPN control plane built on Nostr signaling and userspace WireGuard. It includes the `nvpn` CLI plus a Tauri/Svelte app codebase that targets desktop and mobile platforms: https://github.com/mmalmi/nostr-vpn
 
