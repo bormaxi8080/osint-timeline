@@ -36,11 +36,19 @@ Neko. A self hosted virtual browser that runs in docker and uses WebRTC: https:/
 
 Look4Sat. Satellite tracker and pass predictor for Android, inspired by Gpredict: https://github.com/rt-bishop/Look4Sat
 
+GitHub Store. A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows): https://github.com/OpenHub-Store/GitHub-Store
+
 TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and more using yt-dlp CLI: https://github.com/remorses/tuitube
 
 PyVideoTrans. Translate the video from one language to another and embed dubbing & subtitles: https://github.com/jianchang512/pyvideotrans
 
+Career Ops. AI-powered job search pipeline built on Claude Code. Evaluate offers, generate tailored CVs, scan portals, and track everything - powered by AI agents: https://github.com/santifer/career-ops
+
 Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
+
+POST4U - Social Media Autopilot. An open-source self-hosted app to schedule and automatically post content to X (Twitter), Telegram, Reddit and Discord made with FastAPI and Reflex: https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts
+
+Zorin OS is the alternative to Windows and macOS designed to make your computer faster, more powerful, secure, and privacy-respecting: https://zorin.com/os/
 
 NoEyes. Secure terminal chat. E2E encrypted, zero-metadata blind-forwarder server. PyNaCl XSalsa20-Poly1305 + Ed25519 + forward secrecy: https://github.com/Ymsniper/NoEyes
 
@@ -52,7 +60,11 @@ Link Cleaner. Progressive Web App for removing tracking code and other variables
 
 SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
 
+SatsDecoder. Image and Telemetry decoder for some amateurs satellites (geoscan, sputnix platforms): https://github.com/baskiton/SatsDecoder
+
 Refloow. Free batch image geolocation and digital forensics tool. Automatically extract .jpg EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT: https://github.com/Refloow/Refloow-Geo-Forensics
+
+Grype. A vulnerability scanner for container images and filesystems: https://github.com/anchore/grype
 
 Xplane MFD Calculations. This repository contains flight calculation code for data published by the X-Plane [Web API](https://developer.x-plane.com/article/x-plane-web-api/). It demonstrates the **Joint Strike Fighter Air Vehicle C++ Coding Standards** (JSF AV C++). The `compliant/` directory contains code with numerous JSF Standard fixes, while `non-compliant/` contains multiple major standard violation examples: https://github.com/LaurieWired/XplaneFlightData
 
@@ -62,17 +74,31 @@ Xplane MFD Calculations. This repository contains flight calculation code for da
 
 Axiom. Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development: https://github.com/CharlesWiltgen/Axiom
 
+Autoresearch Genealogy. Structured prompts, vault templates, and research workflows for AI-assisted genealogy research. Built for Claude Code, adaptable to any AI tool or manual workflow: https://github.com/mattprusak/autoresearch-genealogy
+
 ----
 
 **Software Development & APIs:**
 
+Analysis of Bot Protection systems with available countermeasures. How to defeat anti-bot system and get around browser fingerprinting scripts when scraping the web: https://github.com/niespodd/browser-fingerprinting
+
 Autumn is an open-source pricing & billing platform: https://github.com/useautumn/autumn
+
+Annoy is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are [mmapped](https://en.wikipedia.org/wiki/Mmap) into memory so that many processes may share the same data: https://github.com/spotify/annoy
+
+Social Media Scraping APIs. A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics: https://github.com/cporter202/social-media-scraping-apis
 
 ----
 
 **Linux & DevOps:**
 
+Packer is a tool for creating identical machine images for multiple platforms from a single source configuration: https://github.com/hashicorp/packer
+
+CellGuard is a research project that analyzes how cellular networks are operated and possibly surveilled: https://github.com/seemoo-lab/CellGuard
+
 NetHopper. Share internet access from a free network to a restricted one using Xray-core reverse proxy and SOCKS5: https://github.com/net2share/nethopper
+
+Homeinfra offers a strong, dependable, and easily replicable configuration for your homelab, incorporating vital elements like HTTPS, NAT traversal, Security, CI/CD pipelines, Cronjobs, DDNS, Docker management, Automatic Backup, and more: https://github.com/homeinfra-org/infra
 
 NostrVPN is a Rust workspace for a Tailscale-style mesh VPN control plane built on Nostr signaling and userspace WireGuard. It includes the `nvpn` CLI plus a Tauri/Svelte app codebase that targets desktop and mobile platforms: https://github.com/mmalmi/nostr-vpn
 
