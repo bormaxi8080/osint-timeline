@@ -112,6 +112,10 @@ HomeInfra offers a strong, dependable, and easily replicable configuration for y
 
 NostrVPN is a Rust workspace for a Tailscale-style mesh VPN control plane built on Nostr signaling and userspace WireGuard. It includes the `nvpn` CLI plus a Tauri/Svelte app codebase that targets desktop and mobile platforms: https://github.com/mmalmi/nostr-vpn
 
+as-aip-blocks. Daily-updated datasets of autonomous systems (AS) with active BGP prefix announcements. Only includes AS that have announced at least one prefix within the last 90 days. No APIs, no databases - just simple file downloads: https://github.com/ipverse/as-ip-blocks/
+
+Wi-Fi Arsenal OSINT Collection. https://github.com/0x90/wifi-arsenal
+
 ----
 
 **Hardware & Devices:**
