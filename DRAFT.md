@@ -38,6 +38,8 @@ Look4Sat. Satellite tracker and pass predictor for Android, inspired by Gpredict
 
 MiroShark. Universal Swarm Intelligence Engine - Run Locally or with Any Cloud API. Multi-agent simulation engine: upload any document (press release, policy draft, financial report), and it generates hundreds of AI agents with unique personalities that simulate public reaction on social media - posts, arguments, opinion shifts - hour by hour: https://github.com/aaronjmars/MiroShark
 
+Fingerprint Detector. A Chrome extension that detects, blocks, and spoofs browser fingerprinting attempts in real time: https://github.com/mr-r3b00t/fingerprintdetector
+
 GitHub Store. A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows): https://github.com/OpenHub-Store/GitHub-Store
 
 TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and more using yt-dlp CLI: https://github.com/remorses/tuitube
@@ -45,6 +47,8 @@ TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and
 PyVideoTrans. Translate the video from one language to another and embed dubbing & subtitles: https://github.com/jianchang512/pyvideotrans
 
 Career Ops. AI-powered job search pipeline built on Claude Code. Evaluate offers, generate tailored CVs, scan portals, and track everything - powered by AI agents: https://github.com/santifer/career-ops
+
+Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets: https://github.com/keplergl/kepler.gl
 
 Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
 
@@ -102,6 +106,8 @@ Social Media Scraping APIs. A curated collection of social media scraping APIs a
 
 Packer is a tool for creating identical machine images for multiple platforms from a single source configuration: https://github.com/hashicorp/packer
 
+IPv6 rotator for specific subnets - unblock restrictions on IPv6 enabled websites (Google by default but customizable for others): https://github.com/iv-org/smart-ipv6-rotator
+
 CellGuard is a research project that analyzes how cellular networks are operated and possibly surveilled: https://github.com/seemoo-lab/CellGuard
 
 NetHopper. Share internet access from a free network to a restricted one using Xray-core reverse proxy and SOCKS5: https://github.com/net2share/nethopper
@@ -112,21 +118,19 @@ HomeInfra offers a strong, dependable, and easily replicable configuration for y
 
 NostrVPN is a Rust workspace for a Tailscale-style mesh VPN control plane built on Nostr signaling and userspace WireGuard. It includes the `nvpn` CLI plus a Tauri/Svelte app codebase that targets desktop and mobile platforms: https://github.com/mmalmi/nostr-vpn
 
-as-aip-blocks. Daily-updated datasets of autonomous systems (AS) with active BGP prefix announcements. Only includes AS that have announced at least one prefix within the last 90 days. No APIs, no databases - just simple file downloads: https://github.com/ipverse/as-ip-blocks/
-
-Wi-Fi Arsenal OSINT Collection. https://github.com/0x90/wifi-arsenal
+as-ip-blocks. Daily-updated datasets of autonomous systems (AS) with active BGP prefix announcements. Only includes AS that have announced at least one prefix within the last 90 days. No APIs, no databases - just simple file downloads: https://github.com/ipverse/as-ip-blocks/
 
 ----
 
 **Hardware & Devices:**
 
-
+Wi-Fi Arsenal OSINT Collection: https://github.com/0x90/wifi-arsenal
 
 ----
 
 **New from CyberDetective:**
 
-
+APILEECH. An extension for analysing a page’s source code, retrieving a list of POST/GET requests on the fly, analysing comments and errors, and capture data from social media profiles (Twitter, Facebook, TikTok, etc.): https://chromewebstore.google.com/detail/apileech/nmcppdbckijfleddncfidbcmenhcmjbh
 
 ----
 
