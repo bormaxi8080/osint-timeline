@@ -25,6 +25,8 @@ Press
 
 City2Graph: GeoAI with Graph Neural Networks (GNNs) and Spatial Network Analysis: https://github.com/c2g-dev/city2graph
 
+Open-Source Intelligence or OSINT: You Can’t Hide on Telegram: https://hackers-arise.com/open-source-intelligence-or-osint-you-cant-hide-on-telegram/
+
 Search for All Leaked Keys & Secrets Using One Regex: https://github.com/Lu3ky13/Search-for-all-leaked-keys-secrets-using-one-regex-
 
 ----
@@ -51,7 +53,7 @@ Grype. A vulnerability scanner for container images and filesystems: https://git
 
 **Universal Search & AI:**
 
-
+Pattern8. Enforce zero-trust rules for AI agents to prevent hallucinations, unsafe actions, and policy bypasses: https://github.com/NVFivem/pattern8
 
 ----
 
@@ -62,6 +64,8 @@ Grype. A vulnerability scanner for container images and filesystems: https://git
 ----
 
 **Linux & DevOps:**
+
+Podroid. Rootless Podman for Android - run Linux containers on your phone: https://github.com/ExTV/Podroid
 
 HomeInfra offers a strong, dependable, and easily replicable configuration for your homelab, incorporating vital elements like HTTPS, NAT traversal, Security, CI/CD pipelines, Cronjobs, DDNS, Docker management, Automatic Backup, and more: https://github.com/homeinfra-org/infra
 
