@@ -95,7 +95,11 @@ as-ip-blocks. Daily-updated datasets of autonomous systems (AS) with active BGP 
 
 **New from CyberDetective:**
 
+Claude skills for journalism 
 
+Verification hooks, Editorial workflow hooks, Core journalism skills, Communications and publishing, Design and production, Writing quality, Academic and research, AI and creative tools
+
+https://github.com/jamditis/claude-skills-journalism
 
 ----
 
