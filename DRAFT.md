@@ -59,6 +59,8 @@ Grype. A vulnerability scanner for container images and filesystems: https://git
 
 Pattern8. Enforce zero-trust rules for AI agents to prevent hallucinations, unsafe actions, and policy bypasses: https://github.com/NVFivem/pattern8
 
+Multica. The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills: https://github.com/multica-ai/multica
+
 PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic: https://github.com/promptfoo/promptfoo
 
 ----
