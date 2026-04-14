@@ -29,6 +29,10 @@ City2Graph: GeoAI with Graph Neural Networks (GNNs) and Spatial Network Analysis
 
 Open-Source Intelligence or OSINT: You Can’t Hide on Telegram: https://hackers-arise.com/open-source-intelligence-or-osint-you-cant-hide-on-telegram/
 
+SPECTRAL-GSM: A WEB-BASED GSM INTERCEPTION PLATFORM BUILT ON OSMOCOMBB: https://www.rtl-sdr.com/spectral-gsm-a-web-based-gsm-interception-platform-built-on-osmocombb/
+
+Officer CIA’s [Start.me](http://start.me/) page brings investigations, feeds, maps, and reference links into one structured workspace: https://start.me/p/QRg5ad/officercia
+
 Search for All Leaked Keys & Secrets Using One Regex: https://github.com/Lu3ky13/Search-for-all-leaked-keys-secrets-using-one-regex-
 
 ----
@@ -37,7 +41,13 @@ Search for All Leaked Keys & Secrets Using One Regex: https://github.com/Lu3ky13
 
 Threat Research with Obsidian for SOC Analysts: https://github.com/malleVF/Threat-Research-with-Obsidian-for-SOC-Analysts
 
+Facebook Container. Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook: https://addons.mozilla.org/ru/firefox/addon/facebook-container/
+
 POST4U - Social Media Autopilot. An open-source self-hosted app to schedule and automatically post content to X (Twitter), Telegram, Reddit and Discord made with FastAPI and Reflex: https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts
+
+Nano PDF Editor. A CLI tool to edit PDF slides using natural language prompts, powered by Google's **Gemini 3 Pro Image** ("Nano Banana") model: https://github.com/gavrielc/Nano-PDF
+
+Quarkdown. Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases: https://github.com/iamgio/quarkdown
 
 Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
 
@@ -53,9 +63,19 @@ SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https:
 
 Grype. A vulnerability scanner for container images and filesystems: https://github.com/anchore/grype
 
+valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: https://github.com/Zorig/valveFM
+
 ----
 
 **Universal Search & AI:**
+
+Neural Networks: Zero to Hero. A course on neural networks that starts all the way at the basics. The course is a series of YouTube videos where we code and train neural networks together. The Jupyter notebooks we build in the videos are then captured here inside the [lectures](https://github.com/karpathy/nn-zero-to-hero/blob/master/lectures) directory. Every lecture also has a set of exercises included in the video description. (This may grow into something more respectable): https://github.com/karpathy/nn-zero-to-hero/
+
+**MF0-1984** is a **local-first** single-page app for multi-provider LLM chat, structured workflows (Intro / Access / Rules / Help), a **Memory tree** (3D graph over SQLite), **themes** and dialogs, **analytics**, **favorites**, and **project profile** backup/restore (`.mf` bundles): https://github.com/PavelMuntyan/MF0-1984
+
+Cognee is an open-source knowledge engine that lets you ingest data in any format or structure and continuously learns to provide the right context for AI agents. It combines vector search, graph databases and cognitive science approaches to make your documents both searchable by meaning and connected by relationships as they change and evolve: https://github.com/topoteretes/cognee
+
+AI Exposure of the US Job Market. 342 occupations · area = employment · color = AI exposure. Data from [BLS](https://www.bls.gov/ooh/), scored by Gemini Flash: https://joshkale.github.io/jobs/
 
 Pattern8. Enforce zero-trust rules for AI agents to prevent hallucinations, unsafe actions, and policy bypasses: https://github.com/NVFivem/pattern8
 
@@ -63,17 +83,36 @@ Multica. The open-source managed agents platform. Turn coding agents into real t
 
 PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic: https://github.com/promptfoo/promptfoo
 
+Decepticon. Autonomous Hacking Agent for Red Team Testing: https://github.com/PurpleAILAB/Decepticon
+
 ----
 
 **Software Development & APIs:**
 
+Plane. Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage: https://github.com/makeplane/plane
 
+Open Source part of Little Snitch for Linux. It consists of:
+
+- The Rust crate `ebpf`, which contains all eBPF programs attached to the Linux kernel.
+- The Rust crate `common`, which contains all types and functions shared between kernel and user space.
+- The Rust crate `demo-runner`. This is a user-space program which loads the eBPF programs into the kernel and demonstrates how to share data with these programs via eBPF maps. It loads two blocklists for demonstration: `blocked_hosts.txt` and `blocked_domains.txt`.
+- `webroot`: This is the JavaScript web UI of Little Snitch for Linux
+
+https://github.com/obdev/littlesnitch-linux
 
 ----
 
 **Linux & DevOps:**
 
+Fakeroute allows you to insert fake IPv4 and IPv6 hops between the last real hop and your Linux server by making use of IP address spoofing: https://github.com/blechschmidt/fakeroute
+
 Podroid. Rootless Podman for Android - run Linux containers on your phone: https://github.com/ExTV/Podroid
+
+Shelter is a Free and Open-Source app that leverages the "Work Profile" feature of Android to provide an isolated space that you can install or clone apps into: https://f-droid.org/packages/net.typeblog.shelter/
+
+Island. Isolate an app to protect privacy, Clone an app to run in parallel, Freeze an app to completely block its background behavior, Hide an app for various reasons: https://play.google.com/store/apps/details?id=com.oasisfeng.island&pli=1
+
+FlClash. A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free: https://github.com/chen08209/FlClash
 
 HomeInfra offers a strong, dependable, and easily replicable configuration for your homelab, incorporating vital elements like HTTPS, NAT traversal, Security, CI/CD pipelines, Cronjobs, DDNS, Docker management, Automatic Backup, and more: https://github.com/homeinfra-org/infra
 
@@ -100,6 +139,10 @@ Claude skills for journalism 
 Verification hooks, Editorial workflow hooks, Core journalism skills, Communications and publishing, Design and production, Writing quality, Academic and research, AI and creative tools
 
 https://github.com/jamditis/claude-skills-journalism
+
+DATABASES FOR OSINT Start me page by Technisiette. Government, People/phone numbers, Domain info, Stolen properties, Occupations and others
+
+https://start.me/p/QRENnO/databases
 
 ----
 
