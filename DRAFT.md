@@ -49,6 +49,8 @@ Nano PDF Editor. A CLI tool to edit PDF slides using natural language prompts, p
 
 Quarkdown. Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases: https://github.com/iamgio/quarkdown
 
+qcrawl. Fast async web crawling & scraping framework for Python: https://github.com/crawlcore/qcrawl
+
 Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
 
 TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and more using yt-dlp CLI: https://github.com/remorses/tuitube
