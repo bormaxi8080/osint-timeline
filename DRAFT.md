@@ -29,7 +29,7 @@ City2Graph: GeoAI with Graph Neural Networks (GNNs) and Spatial Network Analysis
 
 Open-Source Intelligence or OSINT: You Can’t Hide on Telegram: https://hackers-arise.com/open-source-intelligence-or-osint-you-cant-hide-on-telegram/
 
-SPECTRAL-GSM: A WEB-BASED GSM INTERCEPTION PLATFORM BUILT ON OSMOCOMBB: https://www.rtl-sdr.com/spectral-gsm-a-web-based-gsm-interception-platform-built-on-osmocombb/
+SPECTRAL-GSM. A WEB-BASED GSM INTERCEPTION PLATFORM BUILT ON OSMOCOMBB: https://www.rtl-sdr.com/spectral-gsm-a-web-based-gsm-interception-platform-built-on-osmocombb/
 
 Officer CIA’s [Start.me](http://start.me/) page brings investigations, feeds, maps, and reference links into one structured workspace: https://start.me/p/QRg5ad/officercia
 
@@ -45,7 +45,7 @@ Threat Research with Obsidian for SOC Analysts: https://github.com/malleVF/Threa
 
 Facebook Container. Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook: https://addons.mozilla.org/ru/firefox/addon/facebook-container/
 
-POST4U - Social Media Autopilot. An open-source self-hosted app to schedule and automatically post content to X (Twitter), Telegram, Reddit and Discord made with FastAPI and Reflex: https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts
+POST4U Social Media Autopilot. An open-source self-hosted app to schedule and automatically post content to X (Twitter), Telegram, Reddit and Discord made with FastAPI and Reflex: https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts
 
 Nano PDF Editor. A CLI tool to edit PDF slides using natural language prompts, powered by Google's **Gemini 3 Pro Image** ("Nano Banana") model: https://github.com/gavrielc/Nano-PDF
 
@@ -57,9 +57,11 @@ Flight Path Visualization. A stunning 3D interactive flight path visualization b
 
 qcrawl. Fast async web crawling & scraping framework for Python: https://github.com/crawlcore/qcrawl
 
+StegoForge. The ultimate steganography and digital forensics toolkit. Hide and extract data across images, audio, video, documents, and network packets, or run 11 advanced detection engines to uncover hidden payloads: https://github.com/Nour833/StegoForge
+
 ChopChopGo. Rapidly Search and Hunt through Linux Forensics Artifacts: https://github.com/M00NLIG7/ChopChopGo
 
-Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
+Ghost Eye Information gathering Footprinting Scanner and Recon Tool Release. Ghost Eye is an Information Gathering Tool I made in python 3. To run Ghost Eye, it only needs a domain or ip. Ghost Eye can work with any Linux distros if they support Python 3: https://github.com/BullsEye0/ghost_eye
 
 TuiTube. TUI to download videos from YouTube, X, Twitch, Instagram, Bilibili and more using yt-dlp CLI: https://github.com/remorses/tuitube
 
@@ -92,6 +94,8 @@ Pattern8. Enforce zero-trust rules for AI agents to prevent hallucinations, unsa
 Multica. The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills: https://github.com/multica-ai/multica
 
 PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic: https://github.com/promptfoo/promptfoo
+
+Codex Ghidra reverse engineering skill with headless workflows, bug-hunting bundles, and a live bridge for Apple Mach-O analysis: https://github.com/OwenPawl/ghidra-re-skill
 
 Decepticon. Autonomous Hacking Agent for Red Team Testing: https://github.com/PurpleAILAB/Decepticon
 
@@ -134,6 +138,8 @@ NostrVPN is a Rust workspace for a Tailscale-style mesh VPN control plane built 
 
 as-ip-blocks. Daily-updated datasets of autonomous systems (AS) with active BGP prefix announcements. Only includes AS that have announced at least one prefix within the last 90 days. No APIs, no databases - just simple file downloads: https://github.com/ipverse/as-ip-blocks/
 
+Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
+
 ----
 
 **Hardware & Devices:**
@@ -153,6 +159,10 @@ https://github.com/jamditis/claude-skills-journalism
 DATABASES FOR OSINT Start me page by Technisiette. Government, People/phone numbers, Domain info, Stolen properties, Occupations and others
 
 https://start.me/p/QRENnO/databases
+
+Reverse Image Search Online Tool. Upload image by file/url. Analyze image with AI. Get quick links to 6 reverse image search engines. Get text queries for searching for similar images
+
+https://verifierpro.com/tools/reverse-image-search/
 
 ----
 
