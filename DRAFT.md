@@ -33,6 +33,8 @@ SPECTRAL-GSM: A WEB-BASED GSM INTERCEPTION PLATFORM BUILT ON OSMOCOMBB: https://
 
 Officer CIA’s [Start.me](http://start.me/) page brings investigations, feeds, maps, and reference links into one structured workspace: https://start.me/p/QRg5ad/officercia
 
+StackerMap. Subscribing to every Substacker that joins: https://stackermap.com/
+
 Search for All Leaked Keys & Secrets Using One Regex: https://github.com/Lu3ky13/Search-for-all-leaked-keys-secrets-using-one-regex-
 
 ----
@@ -49,7 +51,13 @@ Nano PDF Editor. A CLI tool to edit PDF slides using natural language prompts, p
 
 Quarkdown. Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases: https://github.com/iamgio/quarkdown
 
+Flight Path Analysis. A project to download and interpret historical flights and weather data, and trains a ML model to predict fuel consumption based on weather conditions on takeoff. Created for the Erdös Institute Data Science Bootcamp: https://github.com/Flight-Path-Analysis/FlightPathAnalysis
+
+Flight Path Visualization. A stunning 3D interactive flight path visualization built with Three.js, featuring flight simulation around a photorealistic Earth with GPU-accelerated rendering for optimal performance: https://github.com/jeantimex/flight-path
+
 qcrawl. Fast async web crawling & scraping framework for Python: https://github.com/crawlcore/qcrawl
+
+ChopChopGo. Rapidly Search and Hunt through Linux Forensics Artifacts: https://github.com/M00NLIG7/ChopChopGo
 
 Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
 
@@ -130,7 +138,7 @@ as-ip-blocks. Daily-updated datasets of autonomous systems (AS) with active BGP 
 
 **Hardware & Devices:**
 
-
+ESP32-SI4732 Radio Receiver ATS mini. The receiver was designed by a Chinese engineer. His nickname is Sunnygold and he open sourced both hardware (board, 3d-printed and cnc-machined cases) and software. Initially, he didn't knew that the receiver was sold on AliExpress and became popular on YouTube and other communities. Then another Chinese developer Zooc joined him to help improve the firmware. This firmware is for use on the SI4732 (ESP32-S3) Mini/Pocket Receiver: https://github.com/esp32-si4732/ats-mini
 
 ----
 
