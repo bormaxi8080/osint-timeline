@@ -38,6 +38,8 @@ PyVideoTrans. Translate the video from one language to another and embed dubbing
 
 Link Cleaner. Progressive Web App for removing tracking code and other variables from web links: https://github.com/corbindavenport/link-cleaner
 
+SBV. SMS Backup Viewer. A modern web application for viewing SMS and MMS message backups. Import your messages from "SMS Backup & Restore" XML files and browse them in a texting app-like interface: https://github.com/lowcarbdev/sbv/
+
 SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
 
 ----
