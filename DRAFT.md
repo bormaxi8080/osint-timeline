@@ -20,13 +20,13 @@ Press
 
 ----
 
-
+SOCMINT. The Art and Science of Social Media Intelligence: https://blog.mcafeeinstitute.com/socmint/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings: https://github.com/chigwell/telegram-mcp
 
 POST4U Social Media Autopilot. An open-source self-hosted app to schedule and automatically post content to X (Twitter), Telegram, Reddit and Discord made with FastAPI and Reflex: https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts
 
