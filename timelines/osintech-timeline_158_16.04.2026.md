@@ -113,7 +113,7 @@ Open-Source Intelligence or OSINT: **You Can’t Hide on Telegram**
 
 🔗 https://github.com/karpathy/nn-zero-to-hero/
 
-MF0-1984** is a **local-first** single-page app for multi-provider LLM chat, structured workflows (Intro / Access / Rules / Help), a **Memory tree** (3D graph over SQLite), **themes** and dialogs, **analytics**, **favorites**, and **project profile** backup/restore (`.mf` bundles)
+**MF0-1984** is a **local-first** single-page app for multi-provider LLM chat, structured workflows (Intro / Access / Rules / Help), a **Memory tree** (3D graph over SQLite), **themes** and dialogs, **analytics**, **favorites**, and **project profile** backup/restore (`.mf` bundles)
 
 🔗 https://github.com/PavelMuntyan/MF0-1984
 
