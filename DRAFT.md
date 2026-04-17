@@ -88,7 +88,7 @@ Decepticon. Autonomous Hacking Agent for Red Team Testing: https://github.com/Pu
 
 **Software Development & APIs:**
 
-
+cc-gateway. AI API identity gateway - reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying: https://github.com/motiful/cc-gateway
 
 ----
 
