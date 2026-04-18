@@ -90,6 +90,8 @@ Decepticon. Autonomous Hacking Agent for Red Team Testing: https://github.com/Pu
 
 cc-gateway. AI API identity gateway - reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying: https://github.com/motiful/cc-gateway
 
+Fish AI. Supercharge your command line with LLMs and get shell scripting assistance in Fish: https://github.com/Realiserad/fish-ai/
+
 ----
 
 **Linux & DevOps:**
