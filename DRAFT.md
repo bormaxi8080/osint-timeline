@@ -96,6 +96,8 @@ Fish AI. Supercharge your command line with LLMs and get shell scripting assista
 
 **Linux & DevOps:**
 
+Mysterium Network Node - official implementation of distributed VPN network (dVPN) protocol: https://github.com/mysteriumnetwork/node
+
 Anubis. Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state: https://github.com/sogonov/anubis
 
 Hail. Disable / Hide / Suspend / Uninstall Android apps without root: https://github.com/aistra0528/Hail/tree/master
@@ -120,7 +122,7 @@ Zero Password Manager. Open-source self-hosted password manager built with Flutt
 
 **Hardware & Devices:**
 
-reBot-DevArm: Open Source Robotic Arm for All Developers: https://github.com/eudk/rebot-devarm
+reBot-DevArm. Open Source Robotic Arm for All Developers: https://github.com/eudk/rebot-devarm
 
 **Thor** is an open source, 3D printed, 6 degrees of freedom robotic arm. Designed to be affordable and accessible, Thor is ideal for educational settings, makers, and robotics enthusiasts. With a height of 625mm it has the capacity to lift up to 750g. Its yaw-roll-roll-yaw-roll-yaw configuration is common in industrial manipulators: https://github.com/AngelLM/Thor/
 
