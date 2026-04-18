@@ -32,7 +32,7 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 https://fincept.in/
 
-GitHub: https://github.com/Fincept-Corporation/FinceptTerminal
+Birdy Edwards. Automated AI powered Facebook intelligence tool for target profiling, network analysis and threat reporting. Runs entirely on-device via Ollama: https://github.com/jeet-ganguly/birdy-edwards
 
 MarkItDown. Python tool for converting files and office documents to Markdown: https://github.com/microsoft/markitdown
 
@@ -100,6 +100,10 @@ Hail. Disable / Hide / Suspend / Uninstall Android apps without root: https://gi
 
 NASty is a NAS operating system built on NixOS and bcachefs. It turns commodity hardware into a storage appliance serving NFS, SMB, iSCSI, and NVMe-oF — managed from a single web UI, updated atomically, and rolled back when things go sideways: https://github.com/nasty-project/nasty
 
+gdrive is a command line application for interacting with Google Drive. This is the successor of [gdrive2](https://github.com/prasmussen/gdrive), though at the moment only the most basic functionality is implemented: https://github.com/glotlabs/gdrive/
+
+VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces. With this tool you can do everything you'd normally do using VirusTotal's web page: https://github.com/VirusTotal/vt-cli/
+
 DockerWakeUp. An intelligent Docker container management system that automatically starts containers on-demand when accessed, stops idle containers to save resources, and generates NGINX configurations for seamless reverse proxy setup: https://github.com/jelliott2021/DockerWakeUp/
 
 Ultimate source for Nothing OS firmware, stock OTA images, community apps, projects, resources and comprehensive guides for Nothing & CMF devices: https://github.com/spike0en/nothing_archive
@@ -124,7 +128,9 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 
 **New from CyberDetective:**
 
+Self-Hosted Apps and Alternatives. A comprehensive online directory (including a newsletter) of self-hosted applications that can serve as an alternative to popular cloud services. To search for open-source projects, use the licence type filter
 
+https://selfh.st/apps/
 
 ----
 
