@@ -44,6 +44,8 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 https://fincept.in/
 
+The simplest, thinnest, **self-healing** harness that gives LLM **complete freedom** to complete any browser task. Built directly on CDP. The agent writes what's missing, mid-task. No framework, no recipes, no rails. One websocket to Chrome, nothing between: https://github.com/browser-use/browser-harness
+
 Signal Hunter. Personal safety platform - emergency beacon, cell towers, alerts, radiation, BLE tracker detection: https://github.com/zwanski2019/signal-hunter
 
 Birdy Edwards. Automated AI powered Facebook intelligence tool for target profiling, network analysis and threat reporting. Runs entirely on-device via Ollama: https://github.com/jeet-ganguly/birdy-edwards
@@ -91,6 +93,8 @@ Nox Project. High-performance OSINT/CTI framework for automated identity pivotin
 Pentest Swarm AI. Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools: https://github.com/Armur-Ai/Pentest-Swarm-AI
 
 AgentShield. AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration: https://github.com/affaan-m/agentshield
+
+Ship-Safe. CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies: https://github.com/asamassekou10/ship-safe
 
 Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows: https://github.com/bugbasesecurity/pentest-copilot
 
