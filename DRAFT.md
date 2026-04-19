@@ -32,6 +32,8 @@ FinceptTerminal is a modern finance application offering advanced market analyti
 
 https://fincept.in/
 
+Signal Hunter. Personal safety platform - emergency beacon, cell towers, alerts, radiation, BLE tracker detection: https://github.com/zwanski2019/signal-hunter
+
 Birdy Edwards. Automated AI powered Facebook intelligence tool for target profiling, network analysis and threat reporting. Runs entirely on-device via Ollama: https://github.com/jeet-ganguly/birdy-edwards
 
 MarkItDown. Python tool for converting files and office documents to Markdown: https://github.com/microsoft/markitdown
@@ -70,7 +72,17 @@ https://github.com/zeroc00I/LLM-anonymization
 
 iron-proxy is a MITM egress proxy with a built-in DNS server that sits between your untrusted workload and the internet: https://github.com/ironsh/iron-proxy
 
+Token Tracker. Track Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw & Every Code token usage. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets: https://github.com/mm7894215/TokenTracker
+
+Nox Project. High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources: https://github.com/nox-project/nox-framework
+
 Pentest Swarm AI. Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools: https://github.com/Armur-Ai/Pentest-Swarm-AI
+
+AgentShield. AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration: https://github.com/affaan-m/agentshield
+
+Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows: https://github.com/bugbasesecurity/pentest-copilot
+
+PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows: https://github.com/GH05TCREW/PentestAgent
 
 CTI Expert. Cyber Threat Intelligence & OSINT analysis skill for Claude Code. 67+ commands, 35 techniques, no API keys required: https://github.com/7onez/cti-expert
 
@@ -92,15 +104,21 @@ cc-gateway. AI API identity gateway - reverse proxy that normalizes device finge
 
 Fish AI. Supercharge your command line with LLMs and get shell scripting assistance in Fish: https://github.com/Realiserad/fish-ai/
 
+Investing Algorithm Framework. Framework for developing, backtesting, and deploying automated trading algorithms and trading bots: https://github.com/coding-kitties/investing-algorithm-framework
+
 ----
 
 **Linux & DevOps:**
+
+Pearcer. An alternative, better tool similar to Wireshark: https://github.com/Jackson-pearce/Pearcer
 
 Mysterium Network Node - official implementation of distributed VPN network (dVPN) protocol: https://github.com/mysteriumnetwork/node
 
 Anubis. Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state: https://github.com/sogonov/anubis
 
 Hail. Disable / Hide / Suspend / Uninstall Android apps without root: https://github.com/aistra0528/Hail/tree/master
+
+MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise: https://github.com/mvt-project/mvt
 
 NASty is a NAS operating system built on NixOS and bcachefs. It turns commodity hardware into a storage appliance serving NFS, SMB, iSCSI, and NVMe-oF — managed from a single web UI, updated atomically, and rolled back when things go sideways: https://github.com/nasty-project/nasty
 
@@ -124,6 +142,8 @@ Zero Password Manager. Open-source self-hosted password manager built with Flutt
 
 reBot-DevArm. Open Source Robotic Arm for All Developers: https://github.com/eudk/rebot-devarm
 
+Carbon is an open source ERP, MES and QMS for manufacturing. Perfect for complex assembly, contract manufacturing, and configure to order manufacturing: https://github.com/crbnos/carbon
+
 **Thor** is an open source, 3D printed, 6 degrees of freedom robotic arm. Designed to be affordable and accessible, Thor is ideal for educational settings, makers, and robotics enthusiasts. With a height of 625mm it has the capacity to lift up to 750g. Its yaw-roll-roll-yaw-roll-yaw configuration is common in industrial manipulators: https://github.com/AngelLM/Thor/
 
 valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: https://github.com/Zorig/valveFM
@@ -135,6 +155,10 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 Self-Hosted Apps and Alternatives. A comprehensive online directory (including a newsletter) of self-hosted applications that can serve as an alternative to popular cloud services. To search for open-source projects, use the licence type filter
 
 https://selfh.st/apps/
+
+OSINT Cabal. Catalogue of Tools & Resources, Methods & Guides database, OSINT & Cybersecurity News Feed, Cabal Threat Actor Dashboard
+
+https://osintcabal.org/
 
 ----
 
