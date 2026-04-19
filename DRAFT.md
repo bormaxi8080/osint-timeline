@@ -24,7 +24,7 @@ SOCMINT. The Art and Science of Social Media Intelligence: https://blog.mcafeein
 
 12 Best Social Media Search Engines in 2026 (Compared by Octolens): https://octolens.com/blog/search-engines-for-social-media
 
-
+ipclocklist. This project provides aggregated IP blocklists for inbound and outbound traffic, updated every 2 hours. It includes exclusions for major public DNS resolvers to prevent legitimate services from being blocked: https://github.com/bitwire-it/ipblocklist
 
 ----
 
