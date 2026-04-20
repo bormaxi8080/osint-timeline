@@ -52,6 +52,8 @@ Birdy Edwards. Automated AI powered Facebook intelligence tool for target profil
 
 MarkItDown. Python tool for converting files and office documents to Markdown: https://github.com/microsoft/markitdown
 
+WeChat Article Crawler. A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill for crawling WeChat public account (微信公众号) articles into structured data and clean markdown — with images downloaded locally to bypass hotlink protection: https://github.com/gxcsoccer/wechat-article-crawler
+
 Savr is an app for saving online content to read later. It is [file-centric, offline first, future proof](https://github.com/jonocodes/savr/#offline-use), and [favors decentralization](https://github.com/jonocodes/savr/#how-to-use-it): https://github.com/jonocodes/savr/
 
 POST4U Social Media Autopilot. An open-source self-hosted app to schedule and automatically post content to X (Twitter), Telegram, Reddit and Discord made with FastAPI and Reflex: https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts
@@ -80,6 +82,10 @@ SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https:
 
 Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings: https://github.com/chigwell/telegram-mcp
 
+LLM Wiki Agent. MCP server that turns raw sources into an interlinked Obsidian wiki with Claude Code: https://github.com/Anton15K/llm_wiki_agent
+
+AgentSGE. Open-source CLI for AGENTS.md, .agents project memory, MCP sync, and automatic knowledge capture across AI coding agents: https://github.com/66reapollo2/agentsge
+
 LLM Anonymization. Reverse proxy for Claude Code that anonymizes sensitive pentest data (IPs, hashes, credentials, hostnames, PII) before it reaches Anthropic. Dual-layer detection: local Ollama LLM + regex safety net, with per-engagement vault and self-improving feedback loop
 
 https://github.com/zeroc00I/LLM-anonymization
@@ -100,6 +106,8 @@ Pentest Copilot is an AI-powered browser based ethical hacking assistant tool de
 
 PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows: https://github.com/GH05TCREW/PentestAgent
 
+AutoPentest AI. Agentic Pentesting MCP server that discovers, exploits, and reports web application vulnerabilities: https://github.com/bhavsec/autopentest-ai
+
 CTI Expert. Cyber Threat Intelligence & OSINT analysis skill for Claude Code. 67+ commands, 35 techniques, no API keys required: https://github.com/7onez/cti-expert
 
 Deepsafe Scan. Universal preflight security scanner for AI coding agents. Detects hooks injection, credential exfiltration & backdoors in .cursorrules, CLAUDE.md, AGENTS.md and more: https://github.com/XiaoYiWeio/deepsafe-scan
@@ -116,11 +124,15 @@ Decepticon. Autonomous Hacking Agent for Red Team Testing: https://github.com/Pu
 
 **Software Development & APIs:**
 
+Git Guide. This repository contains comprehensive documentation for the Git version control system. It contains all the necessary commands, usage examples, best practices, and branching strategies: https://github.com/DaniilGavrin/git-guide
+
 cc-gateway. AI API identity gateway - reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying: https://github.com/motiful/cc-gateway
 
 Fish AI. Supercharge your command line with LLMs and get shell scripting assistance in Fish: https://github.com/Realiserad/fish-ai/
 
 Investing Algorithm Framework. Framework for developing, backtesting, and deploying automated trading algorithms and trading bots: https://github.com/coding-kitties/investing-algorithm-framework
+
+telegram_ex. Elixir library for building Telegram bots with macro-based API: https://github.com/lsdrfrx/telegram_ex
 
 ----
 
