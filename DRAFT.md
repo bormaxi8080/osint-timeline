@@ -142,6 +142,8 @@ Pearcer. An alternative, better tool similar to Wireshark: https://github.com/Ja
 
 Mysterium Network Node - official implementation of distributed VPN network (dVPN) protocol: https://github.com/mysteriumnetwork/node
 
+local-domain-proxy. Local reverse proxy for mapping external websites to a local domain with response rewriting, HTTPS, subdomain support, WebSocket proxying, and optional Burp integration: https://github.com/artebels/local-domain-proxy
+
 Anubis. Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state: https://github.com/sogonov/anubis
 
 Hail. Disable / Hide / Suspend / Uninstall Android apps without root: https://github.com/aistra0528/Hail/tree/master
