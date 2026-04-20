@@ -132,6 +132,8 @@ Fish AI. Supercharge your command line with LLMs and get shell scripting assista
 
 Investing Algorithm Framework. Framework for developing, backtesting, and deploying automated trading algorithms and trading bots: https://github.com/coding-kitties/investing-algorithm-framework
 
+Trace MCP. MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration: https://github.com/nikolai-vysotskyi/trace-mcp
+
 telegram_ex. Elixir library for building Telegram bots with macro-based API: https://github.com/lsdrfrx/telegram_ex
 
 ----
