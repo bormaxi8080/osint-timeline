@@ -96,7 +96,9 @@ LLM Anonymization. Reverse proxy for Claude Code that anonymizes sensitive pente
 
 https://github.com/zeroc00I/LLM-anonymization
 
-iron-proxy is a MITM egress proxy with a built-in DNS server that sits between your untrusted workload and the internet: https://github.com/ironsh/iron-proxy
+LangExtract. A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization: https://github.com/google/langextract
+
+CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
 
 Token Tracker. Track Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw & Every Code token usage. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets: https://github.com/mm7894215/TokenTracker
 
@@ -165,6 +167,8 @@ MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi
 Vigil TUI. Real-time terminal power monitor - CPU, GPU, RAM wattage dashboard Visibility: https://github.com/GIN-SYSTEMS/vigil-tui
 
 NASty is a NAS operating system built on NixOS and bcachefs. It turns commodity hardware into a storage appliance serving NFS, SMB, iSCSI, and NVMe-oF — managed from a single web UI, updated atomically, and rolled back when things go sideways: https://github.com/nasty-project/nasty
+
+iron-proxy is a MITM egress proxy with a built-in DNS server that sits between your untrusted workload and the internet: https://github.com/ironsh/iron-proxy
 
 gdrive is a command line application for interacting with Google Drive. This is the successor of [gdrive2](https://github.com/prasmussen/gdrive), though at the moment only the most basic functionality is implemented: https://github.com/glotlabs/gdrive/
 
