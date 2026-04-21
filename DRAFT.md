@@ -142,6 +142,8 @@ Investing Algorithm Framework. Framework for developing, backtesting, and deploy
 
 Trace MCP. MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration: https://github.com/nikolai-vysotskyi/trace-mcp
 
+Docus. Write beautiful documentations with Nuxt and Markdown: https://github.com/nuxt-content/docus
+
 telegram_ex. Elixir library for building Telegram bots with macro-based API: https://github.com/lsdrfrx/telegram_ex
 
 ----
