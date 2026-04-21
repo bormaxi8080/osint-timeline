@@ -154,6 +154,8 @@ telegram_ex. Elixir library for building Telegram bots with macro-based API: htt
 
 Pearcer. An alternative, better tool similar to Wireshark: https://github.com/Jackson-pearce/Pearcer
 
+A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI: https://github.com/emanuele-em/proxelar
+
 Mysterium Network Node - official implementation of distributed VPN network (dVPN) protocol: https://github.com/mysteriumnetwork/node
 
 local-domain-proxy. Local reverse proxy for mapping external websites to a local domain with response rewriting, HTTPS, subdomain support, WebSocket proxying, and optional Burp integration: https://github.com/artebels/local-domain-proxy
