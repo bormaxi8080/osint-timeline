@@ -22,9 +22,13 @@ Press
 
 SOCMINT. The Art and Science of Social Media Intelligence: https://blog.mcafeeinstitute.com/socmint/
 
+OSINT of South Africa by Unishka Research Service: https://substack.com/home/post/p-194407179
+
 12 Best Social Media Search Engines in 2026 (Compared by Octolens): https://octolens.com/blog/search-engines-for-social-media
 
 ipclocklist. This project provides aggregated IP blocklists for inbound and outbound traffic, updated every 2 hours. It includes exclusions for major public DNS resolvers to prevent legitimate services from being blocked: https://github.com/bitwire-it/ipblocklist
+
+Genome Toolkit. Personal genomics Obsidian vault toolkit — import, analyze, and act on your genome data with Claude Code: https://github.com/glebis/genome-toolkit
 
 ----
 
@@ -130,6 +134,8 @@ cc-gateway. AI API identity gateway - reverse proxy that normalizes device finge
 
 Fish AI. Supercharge your command line with LLMs and get shell scripting assistance in Fish: https://github.com/Realiserad/fish-ai/
 
+FastHTTP. Async HTTP client with expressive logging and route-based requests: https://github.com/ndugram/fasthttp
+
 Investing Algorithm Framework. Framework for developing, backtesting, and deploying automated trading algorithms and trading bots: https://github.com/coding-kitties/investing-algorithm-framework
 
 Trace MCP. MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration: https://github.com/nikolai-vysotskyi/trace-mcp
@@ -183,6 +189,10 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 ----
 
 **New from CyberDetective:**
+
+Public Record Search Link Database
+
+https://osintcabal.org/TOOLS/publicrecords.html
 
 Self-Hosted Apps and Alternatives. A comprehensive online directory (including a newsletter) of self-hosted applications that can serve as an alternative to popular cloud services. To search for open-source projects, use the licence type filter
 
