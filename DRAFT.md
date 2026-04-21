@@ -160,6 +160,8 @@ Hail. Disable / Hide / Suspend / Uninstall Android apps without root: https://gi
 
 MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise: https://github.com/mvt-project/mvt
 
+Vigil TUI. Real-time terminal power monitor - CPU, GPU, RAM wattage dashboard Visibility: https://github.com/GIN-SYSTEMS/vigil-tui
+
 NASty is a NAS operating system built on NixOS and bcachefs. It turns commodity hardware into a storage appliance serving NFS, SMB, iSCSI, and NVMe-oF — managed from a single web UI, updated atomically, and rolled back when things go sideways: https://github.com/nasty-project/nasty
 
 gdrive is a command line application for interacting with Google Drive. This is the successor of [gdrive2](https://github.com/prasmussen/gdrive), though at the moment only the most basic functionality is implemented: https://github.com/glotlabs/gdrive/
