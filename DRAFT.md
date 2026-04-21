@@ -60,6 +60,8 @@ WeChat Article Crawler. A [Claude Code](https://docs.anthropic.com/en/docs/clau
 
 Savr is an app for saving online content to read later. It is [file-centric, offline first, future proof](https://github.com/jonocodes/savr/#offline-use), and [favors decentralization](https://github.com/jonocodes/savr/#how-to-use-it): https://github.com/jonocodes/savr/
 
+Offline browser credential extraction framework for authorized penetration testing. Downloads encrypted credential stores from Windows hosts via SMB, then decrypts passwords locally using DPAPI master keys (Chrome, Edge, Opera, Yandex) or Firefox NSS crypto: https://github.com/PurpleArsenal/BrowserDump
+
 POST4U Social Media Autopilot. An open-source self-hosted app to schedule and automatically post content to X (Twitter), Telegram, Reddit and Discord made with FastAPI and Reflex: https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts
 
 Nano PDF Editor. A CLI tool to edit PDF slides using natural language prompts, powered by Google's **Gemini 3 Pro Image** ("Nano Banana") model: https://github.com/gavrielc/Nano-PDF
