@@ -25,6 +25,10 @@ Press
 
 **OSINT Tools, Services and Investigations:**
 
+Crucix. Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes
+
+https://www.crucix.live/
+
 The simplest, thinnest, **self-healing** harness that gives LLM **complete freedom** to complete any browser task. Built directly on CDP. The agent writes what's missing, mid-task. No framework, no recipes, no rails. One websocket to Chrome, nothing between: https://github.com/browser-use/browser-harness
 
 Offline browser credential extraction framework for authorized penetration testing. Downloads encrypted credential stores from Windows hosts via SMB, then decrypts passwords locally using DPAPI master keys (Chrome, Edge, Opera, Yandex) or Firefox NSS crypto: https://github.com/PurpleArsenal/BrowserDump
