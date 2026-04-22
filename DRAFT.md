@@ -98,6 +98,8 @@ https://github.com/zeroc00I/LLM-anonymization
 
 LangExtract. A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization: https://github.com/google/langextract
 
+RTK. CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies: https://github.com/rtk-ai/rtk
+
 CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
 
 Token Tracker. Track Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw & Every Code token usage. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets: https://github.com/mm7894215/TokenTracker
@@ -157,6 +159,8 @@ Pearcer. An alternative, better tool similar to Wireshark: https://github.com/Ja
 A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is doing. Forward & reverse modes, TLS interception, TUI, terminal, and web GUI: https://github.com/emanuele-em/proxelar
 
 Mysterium Network Node - official implementation of distributed VPN network (dVPN) protocol: https://github.com/mysteriumnetwork/node
+
+CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere: https://github.com/operacle/checkcle
 
 local-domain-proxy. Local reverse proxy for mapping external websites to a local domain with response rewriting, HTTPS, subdomain support, WebSocket proxying, and optional Burp integration: https://github.com/artebels/local-domain-proxy
 
