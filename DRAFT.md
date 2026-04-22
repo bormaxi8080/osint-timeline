@@ -33,6 +33,8 @@ SBV. SMS Backup Viewer. A modern web application for viewing SMS and MMS message
 
 SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
 
+SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required: https://github.com/spotbye/SpotiFLAC
+
 ----
 
 **Universal Search & AI:**
