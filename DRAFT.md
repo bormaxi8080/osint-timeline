@@ -35,6 +35,8 @@ Crucix. Your personal intelligence agent. Watches the world from multiple data s
 
 https://www.crucix.live/
 
+Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
+
 OSINT Agentic Framework for Open Code. This repository is not an OSINT tool, nor an autonomous investigative agent. It is an operational framework for the disciplined use of LLMs in intelligence contexts, where the model acts as an executor of specific steps under the operator's full control
 
 https://github.com/V1n1v131r4/OSINT-Agentic-Framework
@@ -54,6 +56,8 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 ----
 
 **Universal Search & AI:**
+
+Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
 CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
 
@@ -103,6 +107,8 @@ NASty is a NAS operating system built on NixOS and bcachefs. It turns commodity 
 
 iron-proxy is a MITM egress proxy with a built-in DNS server that sits between your untrusted workload and the internet: https://github.com/ironsh/iron-proxy
 
+Netronome is a modern network speed testing and monitoring tool built with Go and React: https://github.com/autobrr/netronome
+
 gdrive is a command line application for interacting with Google Drive. This is the successor of [gdrive2](https://github.com/prasmussen/gdrive), though at the moment only the most basic functionality is implemented: https://github.com/glotlabs/gdrive/
 
 VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces. With this tool you can do everything you'd normally do using VirusTotal's web page: https://github.com/VirusTotal/vt-cli/
@@ -115,7 +121,11 @@ NostrVPN is a Rust workspace for a Tailscale-style mesh VPN control plane built 
 
 as-ip-blocks. Daily-updated datasets of autonomous systems (AS) with active BGP prefix announcements. Only includes AS that have announced at least one prefix within the last 90 days. No APIs, no databases - just simple file downloads: https://github.com/ipverse/as-ip-blocks/
 
+Stalwart. All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV): https://github.com/stalwartlabs/stalwart
+
 Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
+
+Kaku. A fast, out-of-the-box terminal built for AI coding: https://github.com/tw93/kaku
 
 ----
 
