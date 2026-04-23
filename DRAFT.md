@@ -17,19 +17,31 @@ Press
 
 ----
 
-
-
 12 Best Social Media Search Engines in 2026 (Compared by Octolens): https://octolens.com/blog/search-engines-for-social-media
+
+Open Mythos. A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature: https://github.com/kyegomez/OpenMythos
+
+Monitory.me. OSINT-ready social media monitoring. Track profiles, detect changes, and get instant alerts when new posts appear or content updates: https://monitory.me/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+OSINT Master Tool is a unified intelligence gathering suite that provides a professional GUI for powerful open-source intelligence tools. It consolidates 15+ external tools and 8 built-in utilities into a single, real-time dashboard
+
+https://github.com/aingram702/OSINT-Master-Tool
+
 Crucix. Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes
 
 https://www.crucix.live/
 
+OSINT Agentic Framework for Open Code. This repository is not an OSINT tool, nor an autonomous investigative agent. It is an operational framework for the disciplined use of LLMs in intelligence contexts, where the model acts as an executor of specific steps under the operator's full control
+
+https://github.com/V1n1v131r4/OSINT-Agentic-Framework
+
 The simplest, thinnest, **self-healing** harness that gives LLM **complete freedom** to complete any browser task. Built directly on CDP. The agent writes what's missing, mid-task. No framework, no recipes, no rails. One websocket to Chrome, nothing between: https://github.com/browser-use/browser-harness
+
+GmapsXploit audits Google Maps, Places, Roads, and other API keys to find leaks, data exposure, and potential billing abuse, helping bug bounty hunters escalate low severity findings to critical with ready-to-submit reports: https://github.com/DeathShotXD/GmapsXploit
 
 Offline browser credential extraction framework for authorized penetration testing. Downloads encrypted credential stores from Windows hosts via SMB, then decrypts passwords locally using DPAPI master keys (Chrome, Edge, Opera, Yandex) or Firefox NSS crypto: https://github.com/PurpleArsenal/BrowserDump
 
