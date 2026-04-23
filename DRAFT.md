@@ -95,6 +95,8 @@ Decepticon. Autonomous Hacking Agent for Red Team Testing: https://github.com/Pu
 
 Investing Algorithm Framework. Framework for developing, backtesting, and deploying automated trading algorithms and trading bots: https://github.com/coding-kitties/investing-algorithm-framework
 
+Meteroid. Open-source Pricing and Billing Infrastructure. Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights: https://github.com/meteroid-oss/meteroid
+
 Docus. Write beautiful documentations with Nuxt and Markdown: https://github.com/nuxt-content/docus
 
 telegram_ex. Elixir library for building Telegram bots with macro-based API: https://github.com/lsdrfrx/telegram_ex
@@ -104,6 +106,8 @@ telegram_ex. Elixir library for building Telegram bots with macro-based API: htt
 **Linux & DevOps:**
 
 NASty is a NAS operating system built on NixOS and bcachefs. It turns commodity hardware into a storage appliance serving NFS, SMB, iSCSI, and NVMe-oF — managed from a single web UI, updated atomically, and rolled back when things go sideways: https://github.com/nasty-project/nasty
+
+Numa. Portable DNS resolver in Rust - .numa local domains, ad blocking, developer overrides: https://github.com/razvandimescu/numa
 
 iron-proxy is a MITM egress proxy with a built-in DNS server that sits between your untrusted workload and the internet: https://github.com/ironsh/iron-proxy
 
@@ -139,7 +143,7 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 
 **New from CyberDetective:**
 
-
+D4rk_Intel OSINT Investigative Toolkit. A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repository contains a collection of scripts, resources, and methodologies to aid in gathering and analyzing publicly available information. Designed for security researchers, journalists, and forensic analysts for ethical and legal investigations: https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit
 
 ----
 
