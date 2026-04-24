@@ -19,6 +19,8 @@ Press
 
 12 Best Social Media Search Engines in 2026 (Compared by Octolens): https://octolens.com/blog/search-engines-for-social-media
 
+Internet archive sites. As well as the Wayback Machine ([http://archive.org/](http://archive.org/)), there are many other web archives that can help you find older versions of web pages. Here is a short list of web archives, including national ones: https://appliedawareness.ca/internet-archive-websites/
+
 Open Mythos. A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature: https://github.com/kyegomez/OpenMythos
 
 Monitory.me. OSINT-ready social media monitoring. Track profiles, detect changes, and get instant alerts when new posts appear or content updates: https://monitory.me/
@@ -34,6 +36,8 @@ https://github.com/aingram702/OSINT-Master-Tool
 Crucix. Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes
 
 https://www.crucix.live/
+
+Open Drone Map (ODM). A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images: https://github.com/OpenDroneMap/ODM
 
 Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
 
@@ -58,6 +62,8 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 **Universal Search & AI:**
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
+
+design-md-chrome. Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI: https://github.com/bergside/design-md-chrome/
 
 CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
 
