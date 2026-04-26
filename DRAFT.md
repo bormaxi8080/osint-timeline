@@ -29,6 +29,10 @@ Monitory.me. OSINT-ready social media monitoring. Track profiles, detect changes
 
 **OSINT Tools, Services and Investigations:**
 
+Olares: An Open-Source Personal Cloud to Reclaim Your Data
+
+https://www.olares.com/
+
 OSINT Master Tool is a unified intelligence gathering suite that provides a professional GUI for powerful open-source intelligence tools. It consolidates 15+ external tools and 8 built-in utilities into a single, real-time dashboard
 
 https://github.com/aingram702/OSINT-Master-Tool
@@ -102,6 +106,10 @@ Decepticon. Autonomous Hacking Agent for Red Team Testing: https://github.com/Pu
 Investing Algorithm Framework. Framework for developing, backtesting, and deploying automated trading algorithms and trading bots: https://github.com/coding-kitties/investing-algorithm-framework
 
 Meteroid. Open-source Pricing and Billing Infrastructure. Subscription management, Invoicing, Pricing, Usage-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights: https://github.com/meteroid-oss/meteroid
+
+GoScrapy. Harnessing Go's perfomance for blazingly fast web scraping, inspired by Python's Scrapy framework: https://github.com/tech-engine/goscrapy
+
+Gopacket is a clean Go implementation of Impacket, a library intended for working with network protocols: https://github.com/mandiant/gopacket
 
 Docus. Write beautiful documentations with Nuxt and Markdown: https://github.com/nuxt-content/docus
 
