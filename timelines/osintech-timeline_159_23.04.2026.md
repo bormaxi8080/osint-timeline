@@ -97,7 +97,7 @@ agentskills.io standard, Works with Claude Code, GitHub Copilot, Codex CLI, Curs
 
 🔗 https://github.com/wendy7756/AI-Video-Transcriber
 
-VidBee. Download videos from almost any website worldwide
+**VidBee.** Download videos from almost any website worldwide
 
 🔗 https://github.com/nexmoe/VidBee
 
