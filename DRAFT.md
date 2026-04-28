@@ -19,11 +19,15 @@ Press
 
 12 Best Social Media Search Engines in 2026 (Compared by Octolens): https://octolens.com/blog/search-engines-for-social-media
 
+GlobalCVE. A unified, open-source hub for global vulnerability intelligence. Built for clarity, collaboration, and security: https://globalcve.xyz/
+
 Internet archive sites. As well as the Wayback Machine ([http://archive.org/](http://archive.org/)), there are many other web archives that can help you find older versions of web pages. Here is a short list of web archives, including national ones: https://appliedawareness.ca/internet-archive-websites/
 
 Open Mythos. A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature: https://github.com/kyegomez/OpenMythos
 
 Monitory.me. OSINT-ready social media monitoring. Track profiles, detect changes, and get instant alerts when new posts appear or content updates: https://monitory.me/
+
+Live Military & Conflict Tracker: https://bamqam.com/
 
 ----
 
@@ -67,7 +71,13 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
+Free Claude Code. Use claude-code for free in the terminal, VSCode extension or via discord like openclaw: https://github.com/Alishahryar1/free-claude-code
+
+Octopoda OS. The open-source memory operating system for AI agents. Persistent memory, semantic search, loop detection, agent messaging, crash recovery, and real-time observability: https://github.com/RyjoxTechnologies/Octopoda-OS
+
 design-md-chrome. Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI: https://github.com/bergside/design-md-chrome/
+
+Phantom. An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK: https://github.com/ghostwright/phantom
 
 CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
 
@@ -125,9 +135,13 @@ Numa. Portable DNS resolver in Rust - .numa local domains, ad blocking, develope
 
 iron-proxy is a MITM egress proxy with a built-in DNS server that sits between your untrusted workload and the internet: https://github.com/ironsh/iron-proxy
 
+HomeDockOS. An intuitive, versatile, and powerful home server operating system for self-hosting. Featuring a curated app store and seamless multi-platform support, it’s designed to empower your personal cloud on Raspberry Pi, x86 systems, or your preferred setup: https://github.com/BansheeTech/HomeDockOS
+
 Netronome is a modern network speed testing and monitoring tool built with Go and React: https://github.com/autobrr/netronome
 
 gdrive is a command line application for interacting with Google Drive. This is the successor of [gdrive2](https://github.com/prasmussen/gdrive), though at the moment only the most basic functionality is implemented: https://github.com/glotlabs/gdrive/
+
+Technitium DNS Server is an open source authoritative as well as recursive DNS server that can be used for self hosting a DNS server for privacy & security. It works out-of-the-box with no or minimal configuration and provides a user friendly web console accessible using any modern web browser: https://github.com/TechnitiumSoftware/DnsServer
 
 VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces. With this tool you can do everything you'd normally do using VirusTotal's web page: https://github.com/VirusTotal/vt-cli/
 
@@ -148,6 +162,8 @@ Kaku. A fast, out-of-the-box terminal built for AI coding: https://github.com/tw
 ----
 
 **Hardware & Devices:**
+
+DroneAware Node Releases repository: https://github.com/fduflyer/DroneAware-Node-Releases
 
 Carbon is an open source ERP, MES and QMS for manufacturing. Perfect for complex assembly, contract manufacturing, and configure to order manufacturing: https://github.com/crbnos/carbon
 
