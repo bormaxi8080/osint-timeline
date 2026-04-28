@@ -31,6 +31,14 @@ Live Military & Conflict Tracker: https://bamqam.com/
 
 ----
 
+YaCy. Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
+
+https://yacy.net/
+
+GitHub: https://github.com/yacy/yacy_search_server
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Olares: An Open-Source Personal Cloud to Reclaim Your Data
