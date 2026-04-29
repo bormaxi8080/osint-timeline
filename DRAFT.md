@@ -29,6 +29,8 @@ Monitory.me. OSINT-ready social media monitoring. Track profiles, detect changes
 
 Live Military & Conflict Tracker: https://bamqam.com/
 
+RuVPK.RIP. Interactive map of enterprises and employees of the Russian military-industrial complex: https://ruvpk.rip/
+
 ----
 
 YaCy. Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
@@ -148,6 +150,8 @@ telegram_ex. Elixir library for building Telegram bots with macro-based API: htt
 ----
 
 **Linux & DevOps:**
+
+MasterDnsVPN. Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed: https://github.com/masterking32/MasterDnsVPN/
 
 NASty is a NAS operating system built on NixOS and bcachefs. It turns commodity hardware into a storage appliance serving NFS, SMB, iSCSI, and NVMe-oF — managed from a single web UI, updated atomically, and rolled back when things go sideways: https://github.com/nasty-project/nasty
 
