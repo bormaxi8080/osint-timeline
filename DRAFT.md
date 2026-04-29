@@ -53,9 +53,15 @@ Crucix. Your personal intelligence agent. Watches the world from multiple data s
 
 https://www.crucix.live/
 
+Undetectable Fingerprint Browser. Free open-source Multilogin/Incogniton/Kameleo alternative for fingerprint spoofing (Canvas/WebGL/User-Agent). Perfect for Selenium/Playwright/Puppeteer automation, web scraping, social media bots, ads verification, and multi-accounting based on chromium. Avoid bans, bypass anti-bot systems, and prevent tracking with customizable stealth browsing: https://github.com/itbrowser-net/undetectable-fingerprint-browser
+
 Open Drone Map (ODM). A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images: https://github.com/OpenDroneMap/ODM
 
 Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
+
+Condi. Content Discovery/Directory Brute-forcing using Python3: https://github.com/t0nyc23/condi
+
+Macless Haystack. Create your own AirTag with OpenHaystack, but without the need to own an Apple device: https://github.com/dchristl/macless-haystack
 
 OSINT Agentic Framework for Open Code. This repository is not an OSINT tool, nor an autonomous investigative agent. It is an operational framework for the disciplined use of LLMs in intelligence contexts, where the model acts as an executor of specific steps under the operator's full control
 
@@ -66,6 +72,8 @@ The simplest, thinnest, **self-healing** harness that gives LLM **complete fr
 GmapsXploit audits Google Maps, Places, Roads, and other API keys to find leaks, data exposure, and potential billing abuse, helping bug bounty hunters escalate low severity findings to critical with ready-to-submit reports: https://github.com/DeathShotXD/GmapsXploit
 
 Offline browser credential extraction framework for authorized penetration testing. Downloads encrypted credential stores from Windows hosts via SMB, then decrypts passwords locally using DPAPI master keys (Chrome, Edge, Opera, Yandex) or Firefox NSS crypto: https://github.com/PurpleArsenal/BrowserDump
+
+Transmute. Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions: https://github.com/transmute-app/transmute
 
 SBV. SMS Backup Viewer. A modern web application for viewing SMS and MMS message backups. Import your messages from "SMS Backup & Restore" XML files and browse them in a texting app-like interface: https://github.com/lowcarbdev/sbv/
 
@@ -94,6 +102,10 @@ Token Tracker. Track Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenCla
 Nox Project. High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources: https://github.com/nox-project/nox-framework
 
 Pentest Swarm AI. Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools: https://github.com/Armur-Ai/Pentest-Swarm-AI
+
+CC Switch. A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI: https://github.com/farion1231/cc-switch
+
+METATRON. AI-powered penetration testing assistant using local LLM on linux (Parrot OS): https://github.com/sooryathejas/METATRON
 
 AgentShield. AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration: https://github.com/affaan-m/agentshield
 
@@ -144,6 +156,10 @@ Numa. Portable DNS resolver in Rust - .numa local domains, ad blocking, develope
 iron-proxy is a MITM egress proxy with a built-in DNS server that sits between your untrusted workload and the internet: https://github.com/ironsh/iron-proxy
 
 HomeDockOS. An intuitive, versatile, and powerful home server operating system for self-hosting. Featuring a curated app store and seamless multi-platform support, it’s designed to empower your personal cloud on Raspberry Pi, x86 systems, or your preferred setup: https://github.com/BansheeTech/HomeDockOS
+
+SIgnal Bridge Remote. A remote MCP server that lets Claude control Bluetooth intimate hardware over the internet via Buttplug.io / Intiface Central: https://github.com/AletheiaVox/signal_bridge_remote
+
+ClashMac. Native Proxy Experience Built for macOS: https://github.com/666OS/ClashMac
 
 Netronome is a modern network speed testing and monitoring tool built with Go and React: https://github.com/autobrr/netronome
 
