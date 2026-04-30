@@ -32,6 +32,7 @@ Secrets Patterns DB. The largest open-source Database for detecting secrets, API
 
 Macless Haystack. Create your own AirTag with OpenHaystack, but without the need to own an Apple device: https://github.com/dchristl/macless-haystack
 
+Inso. Interactive Instagram OSINT CLI with pluggable HikerAPI and aiograpi backends: https://github.com/subzeroid/insto
 
 Transmute. Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions: https://github.com/transmute-app/transmute
 
@@ -44,6 +45,8 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 ----
 
 **Universal Search & AI:**
+
+Sentrux. Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust: https://github.com/sentrux/sentrux
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
