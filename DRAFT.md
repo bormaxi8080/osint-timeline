@@ -14,6 +14,8 @@ Press
 
 ----
 
+Intelligence Archive. OSS, and Cold War Intelligence Records: https://intelarchive.com/
+
 12 Best Social Media Search Engines in 2026 (Compared by Octolens): https://octolens.com/blog/search-engines-for-social-media
 
 GlobalCVE. A unified, open-source hub for global vulnerability intelligence. Built for clarity, collaboration, and security: https://globalcve.xyz/
@@ -25,6 +27,8 @@ GlobalCVE. A unified, open-source hub for global vulnerability intelligence. Bui
 Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
 
 Condi. Content Discovery/Directory Brute-forcing using Python3: https://github.com/t0nyc23/condi
+
+Secrets Patterns DB. The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more: https://github.com/mazen160/secrets-patterns-db/
 
 Macless Haystack. Create your own AirTag with OpenHaystack, but without the need to own an Apple device: https://github.com/dchristl/macless-haystack
 
@@ -43,7 +47,11 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
+OnionClaw. Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool: https://github.com/christinminor459/OnionClaw
+
 CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
+
+Prefab. Artificial nanofabrication of integrated photonic circuits: https://github.com/PreFab-Photonics/PreFab
 
 Token Tracker. Track Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw & Every Code token usage. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets: https://github.com/mm7894215/TokenTracker
 
@@ -71,11 +79,23 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 Docus. Write beautiful documentations with Nuxt and Markdown: https://github.com/nuxt-content/docus
 
+Prefab. The generative UI framework that even humans can use: https://github.com/PrefectHQ/prefab
+
+Frappe Builder is a low-code website builder designed for simplicity, speed, and flexibility. Craft beautiful websites effortlessly with an intuitive visual builder. Whether you're a designer looking for ease or a developer seeking customization, Frappe Builder empowers you. It also features a click-to-publish option that gives you the complete end-to-end website creation experience: https://github.com/frappe/builder
+
 telegram_ex. Elixir library for building Telegram bots with macro-based API: https://github.com/lsdrfrx/telegram_ex
 
 ----
 
 **Linux & DevOps:**
+
+ttl. Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr: https://github.com/lance0/ttl
+
+DockPanel. Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security - all in one panel: https://github.com/ovexro/dockpanel/tree/main
+
+GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser: https://github.com/allinurl/goaccess
+
+mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI: https://github.com/denuitt1/mhr-cfw
 
 ClashMac. Native Proxy Experience Built for macOS: https://github.com/666OS/ClashMac
 
@@ -96,6 +116,8 @@ Kaku. A fast, out-of-the-box terminal built for AI coding: https://github.com/tw
 **Hardware & Devices:**
 
 Carbon is an open source ERP, MES and QMS for manufacturing. Perfect for complex assembly, contract manufacturing, and configure to order manufacturing: https://github.com/crbnos/carbon
+
+ESP-Claw, a "Chat Coding" AI agent framework for IoT devices: https://github.com/espressif/esp-claw/
 
 valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: https://github.com/Zorig/valveFM
 
