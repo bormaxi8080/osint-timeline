@@ -50,7 +50,15 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 
 **Universal Search & AI:**
 
-OpenAI Euphony. Visualize harmony chat data and codex sessions in your browser: https://github.com/openai/euphony/
+Claude OSINT
+
+2 paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in `SKILL.md` files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements
+
+https://github.com/elementalsouls/Claude-OSINT
+
+OpenAI Euphony. Visualize harmony chat data and codex sessions in your browser
+
+https://github.com/openai/euphony/
 
 holaOS. An Open Agent Computer for ANY digital work: https://github.com/holaboss-ai/holaOS
 
