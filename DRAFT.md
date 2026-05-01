@@ -44,6 +44,8 @@ SBV. SMS Backup Viewer. A modern web application for viewing SMS and MMS message
 
 SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
 
+Yandex Music Downloader: https://github.com/MishaSok/yandex_downloader
+
 SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required: https://github.com/spotbye/SpotiFLAC
 
 ----
@@ -65,6 +67,8 @@ holaOS. An Open Agent Computer for ANY digital work: https://github.com/holaboss
 Is Your Site Agent-Ready? Scan your website to see how ready it is for AI agents. We check multiple emerging standards — from robots.txt and [Markdown negotiation](https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/) to [MCP](https://modelcontextprotocol.io/), OAuth, [Agent Skills](https://agentskills.io/home) and agentic commerce: http://isitagentready.com/
 
 CodeBurn. See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability: https://github.com/getagentseal/codeburn
+
+Code Review Graph. Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters - 6.8× fewer tokens on reviews and up to 49× on daily coding tasks: https://github.com/tirth8205/code-review-graph
 
 Sentrux. Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust: https://github.com/sentrux/sentrux
 
