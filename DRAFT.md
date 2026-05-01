@@ -24,6 +24,8 @@ GlobalCVE. A unified, open-source hub for global vulnerability intelligence. Bui
 
 **OSINT Tools, Services and Investigations:**
 
+**Deceptive Metadata Shredder (DMS)** is a privacy-focused desktop tool that runs **entirely offline**. It helps you see what is hiding inside your files - GPS, device names, dates, authorship - and then **strip** that metadata or **replace** it with believable fake values, without having to trust a cloud service: https://github.com/davvikq/deceptive-metadata-shredder
+
 Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
 
 Condi. Content Discovery/Directory Brute-forcing using Python3: https://github.com/t0nyc23/condi
@@ -36,6 +38,8 @@ Inso. Interactive Instagram OSINT CLI with pluggable HikerAPI and aiograpi backe
 
 Transmute. Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions: https://github.com/transmute-app/transmute
 
+Lens. A lightweight Python tool to capture a screen region anywhere on OS and open it directly in Google Lens: https://github.com/sashahavrilyuk/lens
+
 SBV. SMS Backup Viewer. A modern web application for viewing SMS and MMS message backups. Import your messages from "SMS Backup & Restore" XML files and browse them in a texting app-like interface: https://github.com/lowcarbdev/sbv/
 
 SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
@@ -45,6 +49,14 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 ----
 
 **Universal Search & AI:**
+
+OpenAI Euphony. Visualize harmony chat data and codex sessions in your browser: https://github.com/openai/euphony/
+
+holaOS. An Open Agent Computer for ANY digital work: https://github.com/holaboss-ai/holaOS
+
+Is Your Site Agent-Ready? Scan your website to see how ready it is for AI agents. We check multiple emerging standards — from robots.txt and [Markdown negotiation](https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/) to [MCP](https://modelcontextprotocol.io/), OAuth, [Agent Skills](https://agentskills.io/home) and agentic commerce: http://isitagentready.com/
+
+CodeBurn. See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability: https://github.com/getagentseal/codeburn
 
 Sentrux. Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust: https://github.com/sentrux/sentrux
 
@@ -84,6 +96,8 @@ Docus. Write beautiful documentations with Nuxt and Markdown: https://github.com
 
 Prefab. The generative UI framework that even humans can use: https://github.com/PrefectHQ/prefab
 
+Allure Notifications. jar, that draws piechart from results and sends it with link to build to messenger: https://github.com/qa-guru/allure-notifications
+
 Frappe Builder is a low-code website builder designed for simplicity, speed, and flexibility. Craft beautiful websites effortlessly with an intuitive visual builder. Whether you're a designer looking for ease or a developer seeking customization, Frappe Builder empowers you. It also features a click-to-publish option that gives you the complete end-to-end website creation experience: https://github.com/frappe/builder
 
 telegram_ex. Elixir library for building Telegram bots with macro-based API: https://github.com/lsdrfrx/telegram_ex
@@ -92,7 +106,11 @@ telegram_ex. Elixir library for building Telegram bots with macro-based API: htt
 
 **Linux & DevOps:**
 
+Maple. Wrapper over containerization services to manage and deploy containers for scientific computing workflows: https://github.com/akashdhruv/Maple
+
 ttl. Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr: https://github.com/lance0/ttl
+
+SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits: https://github.com/chaitin/safeline
 
 DockPanel. Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security - all in one panel: https://github.com/ovexro/dockpanel/tree/main
 
@@ -119,6 +137,10 @@ Kaku. A fast, out-of-the-box terminal built for AI coding: https://github.com/tw
 **Hardware & Devices:**
 
 Carbon is an open source ERP, MES and QMS for manufacturing. Perfect for complex assembly, contract manufacturing, and configure to order manufacturing: https://github.com/crbnos/carbon
+
+The Pi-hole® is a [DNS sinkhole](https://en.wikipedia.org/wiki/DNS_Sinkhole) that protects your devices from unwanted content without installing any client-side software: https://github.com/pi-hole/pi-hole
+
+SigDigger. Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library: https://github.com/BatchDrake/SigDigger
 
 ESP-Claw, a "Chat Coding" AI agent framework for IoT devices: https://github.com/espressif/esp-claw/
 
