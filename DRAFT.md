@@ -64,6 +64,8 @@ https://github.com/openai/euphony/
 
 holaOS. An Open Agent Computer for ANY digital work: https://github.com/holaboss-ai/holaOS
 
+OpenTor. Tor/Dark Web access skill for AI agents (OpenCode & Claude Code). Search 12 dark web engines, spider .onion sites, extract IOCs. Orchestrator-conductor architecture - zero external LLM deps: https://github.com/vichhka-git/OpenTor
+
 Is Your Site Agent-Ready? Scan your website to see how ready it is for AI agents. We check multiple emerging standards — from robots.txt and [Markdown negotiation](https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/) to [MCP](https://modelcontextprotocol.io/), OAuth, [Agent Skills](https://agentskills.io/home) and agentic commerce: http://isitagentready.com/
 
 CodeBurn. See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability: https://github.com/getagentseal/codeburn
