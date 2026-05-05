@@ -120,6 +120,8 @@ telegram_ex. Elixir library for building Telegram bots with macro-based API: htt
 
 **Linux & DevOps:**
 
+A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any x86_64 or ARM64 machine - full desktop, local AI, hardened networking, all in RAM. Plug in, boot in seconds, work anywhere, pull the stick and nothing stays behind. Your AI on your hardware, no cloud, no accounts: https://github.com/nirholas/pai
+
 Maple. Wrapper over containerization services to manage and deploy containers for scientific computing workflows: https://github.com/akashdhruv/Maple
 
 ttl. Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr: https://github.com/lance0/ttl

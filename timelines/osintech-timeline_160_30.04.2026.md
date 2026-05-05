@@ -33,7 +33,7 @@ Only things you can **open, verify, and actually use**.
 
 🔗 https://appliedawareness.ca/internet-archive-websites/
 
-**Open Mythos. **A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature
+**Open Mythos.** A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature
 
 🔗 https://github.com/kyegomez/OpenMythos
 
