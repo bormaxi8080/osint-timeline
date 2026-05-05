@@ -14,6 +14,8 @@ Press
 
 ----
 
+NVIDIA Models. Deploy and scale models on your GPU infrastructure of choice with NVIDIA NIM inference microservices: https://build.nvidia.com/models?page=1
+
 Intelligence Archive. OSS, and Cold War Intelligence Records: https://intelarchive.com/
 
 12 Best Social Media Search Engines in 2026 (Compared by Octolens): https://octolens.com/blog/search-engines-for-social-media
