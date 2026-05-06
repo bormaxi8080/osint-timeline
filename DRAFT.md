@@ -1,9 +1,6 @@
 # Timeline Summarized Draft
 
 
-Shadow
-
-
 Gopnik Art
 
 
@@ -14,39 +11,15 @@ Press
 
 ----
 
-NVIDIA Models. Deploy and scale models on your GPU infrastructure of choice with NVIDIA NIM inference microservices: https://build.nvidia.com/models?page=1
 
-Intelligence Archive. OSS, and Cold War Intelligence Records: https://intelarchive.com/
-
-12 Best Social Media Search Engines in 2026 (Compared by Octolens): https://octolens.com/blog/search-engines-for-social-media
-
-GlobalCVE. A unified, open-source hub for global vulnerability intelligence. Built for clarity, collaboration, and security: https://globalcve.xyz/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-**Deceptive Metadata Shredder (DMS)** is a privacy-focused desktop tool that runs **entirely offline**. It helps you see what is hiding inside your files - GPS, device names, dates, authorship - and then **strip** that metadata or **replace** it with believable fake values, without having to trust a cloud service: https://github.com/davvikq/deceptive-metadata-shredder
+The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more: https://github.com/jason5ng32/myip
 
 Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
-
-Condi. Content Discovery/Directory Brute-forcing using Python3: https://github.com/t0nyc23/condi
-
-Secrets Patterns DB. The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more: https://github.com/mazen160/secrets-patterns-db/
-
-Macless Haystack. Create your own AirTag with OpenHaystack, but without the need to own an Apple device: https://github.com/dchristl/macless-haystack
-
-Inso. Interactive Instagram OSINT CLI with pluggable HikerAPI and aiograpi backends: https://github.com/subzeroid/insto
-
-Transmute. Self hosted file converter for images, video, audio, json, excel and more. Supports over 2,000 conversions: https://github.com/transmute-app/transmute
-
-Lens. A lightweight Python tool to capture a screen region anywhere on OS and open it directly in Google Lens: https://github.com/sashahavrilyuk/lens
-
-SBV. SMS Backup Viewer. A modern web application for viewing SMS and MMS message backups. Import your messages from "SMS Backup & Restore" XML files and browse them in a texting app-like interface: https://github.com/lowcarbdev/sbv/
-
-SMS2Email. Android app that forwards SMS messages to SMTP (Email) server: https://github.com/SMS2Email/SMS2Email
-
-Yandex Music Downloader: https://github.com/MishaSok/yandex_downloader
 
 SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required: https://github.com/spotbye/SpotiFLAC
 
@@ -54,35 +27,7 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 
 **Universal Search & AI:**
 
-Claude OSINT
-
-2 paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in `SKILL.md` files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements
-
-https://github.com/elementalsouls/Claude-OSINT
-
-OpenAI Euphony. Visualize harmony chat data and codex sessions in your browser
-
-https://github.com/openai/euphony/
-
-holaOS. An Open Agent Computer for ANY digital work: https://github.com/holaboss-ai/holaOS
-
-OpenTor. Tor/Dark Web access skill for AI agents (OpenCode & Claude Code). Search 12 dark web engines, spider .onion sites, extract IOCs. Orchestrator-conductor architecture - zero external LLM deps: https://github.com/vichhka-git/OpenTor
-
-Is Your Site Agent-Ready? Scan your website to see how ready it is for AI agents. We check multiple emerging standards — from robots.txt and [Markdown negotiation](https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/) to [MCP](https://modelcontextprotocol.io/), OAuth, [Agent Skills](https://agentskills.io/home) and agentic commerce: http://isitagentready.com/
-
-WebLLM is a high-performance in-browser LLM inference engine that brings language model inference directly onto web browsers with hardware acceleration. Everything runs inside the browser with no server support and is accelerated with WebGPU: https://github.com/mlc-ai/web-llm
-
-CodeBurn. See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability: https://github.com/getagentseal/codeburn
-
-Review Prompts for AI-Assisted Code Review. AI-assisted code review prompts for Linux kernel, systemd, and iproute development. Works with Claude Code and other AI tools: https://github.com/masoncl/review-prompts
-
-Code Review Graph. Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters - 6.8× fewer tokens on reviews and up to 49× on daily coding tasks: https://github.com/tirth8205/code-review-graph
-
-Sentrux. Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust: https://github.com/sentrux/sentrux
-
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
-
-OnionClaw. Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool: https://github.com/christinminor459/OnionClaw
 
 CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
 
@@ -112,41 +57,11 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Software Development & APIs:**
 
-Docus. Write beautiful documentations with Nuxt and Markdown: https://github.com/nuxt-content/docus
 
-Prefab. The generative UI framework that even humans can use: https://github.com/PrefectHQ/prefab
-
-Allure Notifications. jar, that draws piechart from results and sends it with link to build to messenger: https://github.com/qa-guru/allure-notifications
-
-Frappe Builder is a low-code website builder designed for simplicity, speed, and flexibility. Craft beautiful websites effortlessly with an intuitive visual builder. Whether you're a designer looking for ease or a developer seeking customization, Frappe Builder empowers you. It also features a click-to-publish option that gives you the complete end-to-end website creation experience: https://github.com/frappe/builder
-
-telegram_ex. Elixir library for building Telegram bots with macro-based API: https://github.com/lsdrfrx/telegram_ex
-
-The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more: https://github.com/jason5ng32/myip
 
 ----
 
 **Linux & DevOps:**
-
-A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any x86_64 or ARM64 machine - full desktop, local AI, hardened networking, all in RAM. Plug in, boot in seconds, work anywhere, pull the stick and nothing stays behind. Your AI on your hardware, no cloud, no accounts: https://github.com/nirholas/pai
-
-mactop. Apple Silicon Monitor Top: https://github.com/context-labs/mactop
-
-Maple. Wrapper over containerization services to manage and deploy containers for scientific computing workflows: https://github.com/akashdhruv/Maple
-
-ttl. Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr: https://github.com/lance0/ttl
-
-SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits: https://github.com/chaitin/safeline
-
-DockPanel. Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security - all in one panel: https://github.com/ovexro/dockpanel/tree/main
-
-GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in nix systems or through your browser: https://github.com/allinurl/goaccess
-
-mhr-cfw. A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI: https://github.com/denuitt1/mhr-cfw
-
-ClashMac. Native Proxy Experience Built for macOS: https://github.com/666OS/ClashMac
-
-gdrive is a command line application for interacting with Google Drive. This is the successor of [gdrive2](https://github.com/prasmussen/gdrive), though at the moment only the most basic functionality is implemented: https://github.com/glotlabs/gdrive/
 
 VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces. With this tool you can do everything you'd normally do using VirusTotal's web page: https://github.com/VirusTotal/vt-cli/
 
@@ -162,10 +77,6 @@ Kaku. A fast, out-of-the-box terminal built for AI coding: https://github.com/tw
 
 **Hardware & Devices:**
 
-Carbon is an open source ERP, MES and QMS for manufacturing. Perfect for complex assembly, contract manufacturing, and configure to order manufacturing: https://github.com/crbnos/carbon
-
-The Pi-hole® is a [DNS sinkhole](https://en.wikipedia.org/wiki/DNS_Sinkhole) that protects your devices from unwanted content without installing any client-side software: https://github.com/pi-hole/pi-hole
-
 SigDigger. Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library: https://github.com/BatchDrake/SigDigger
 
 ESP-Claw, a "Chat Coding" AI agent framework for IoT devices: https://github.com/espressif/esp-claw/
@@ -176,9 +87,7 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 
 **New from CyberDetective:**
 
-OSINT Methodology/Ethics/Mindset. Learning skills, Critical thinking, Intelligence Cycle, Fact-checking & verification, Cognitive biases: https://start.me/p/aLpRdj/13-methodology-ethics-mindset
 
-Open Registry. Free online tool for searching info about companies in different countries. MCP server with 27 tools that connects AI clients to the official registries of 27 countries: https://openregistry.sophymarine.com/
 
 ----
 
