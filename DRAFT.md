@@ -70,6 +70,8 @@ OpenTor. Tor/Dark Web access skill for AI agents (OpenCode & Claude Code). Searc
 
 Is Your Site Agent-Ready? Scan your website to see how ready it is for AI agents. We check multiple emerging standards — from robots.txt and [Markdown negotiation](https://developers.cloudflare.com/fundamentals/reference/markdown-for-agents/) to [MCP](https://modelcontextprotocol.io/), OAuth, [Agent Skills](https://agentskills.io/home) and agentic commerce: http://isitagentready.com/
 
+WebLLM is a high-performance in-browser LLM inference engine that brings language model inference directly onto web browsers with hardware acceleration. Everything runs inside the browser with no server support and is accelerated with WebGPU: https://github.com/mlc-ai/web-llm
+
 CodeBurn. See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability: https://github.com/getagentseal/codeburn
 
 Review Prompts for AI-Assisted Code Review. AI-assisted code review prompts for Linux kernel, systemd, and iproute development. Works with Claude Code and other AI tools: https://github.com/masoncl/review-prompts
@@ -125,6 +127,8 @@ telegram_ex. Elixir library for building Telegram bots with macro-based API: htt
 **Linux & DevOps:**
 
 A complete private computer on a USB stick. PAI is a bootable Debian 12 Linux distro that runs Ollama locally on any x86_64 or ARM64 machine - full desktop, local AI, hardened networking, all in RAM. Plug in, boot in seconds, work anywhere, pull the stick and nothing stays behind. Your AI on your hardware, no cloud, no accounts: https://github.com/nirholas/pai
+
+mactop. Apple Silicon Monitor Top: https://github.com/context-labs/mactop
 
 Maple. Wrapper over containerization services to manage and deploy containers for scientific computing workflows: https://github.com/akashdhruv/Maple
 
