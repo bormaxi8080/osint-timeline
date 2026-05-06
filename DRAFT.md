@@ -168,7 +168,9 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 
 **New from CyberDetective:**
 
+OSINT Methodology/Ethics/Mindset. Learning skills, Critical thinking, Intelligence Cycle, Fact-checking & verification, Cognitive biases: https://start.me/p/aLpRdj/13-methodology-ethics-mindset
 
+Open Registry. Free online tool for searching info about companies in different countries. MCP server with 27 tools that connects AI clients to the official registries of 27 countries: https://openregistry.sophymarine.com/
 
 ----
 
