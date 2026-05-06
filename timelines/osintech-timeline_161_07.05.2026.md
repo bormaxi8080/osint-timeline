@@ -29,7 +29,7 @@ Only things you can **open, verify, and actually use**.
 
 **NVIDIA Models.** Deploy and scale models on your GPU infrastructure of choice with NVIDIA NIM inference microservices
 
-🔗 https://build.nvidia.com/models?page=1
+🔗 https://build.nvidia.com/models
 
 **Intelligence Archive.** OSS, and Cold War Intelligence Records
 
@@ -91,7 +91,7 @@ Transmute. Self hosted file converter for images, video, audio, json, excel and 
 
 🔗 https://github.com/openai/euphony/
 
-**holaOS.** An Open Agent Computer for ANY digital work
+**holaOS** is an open agent computer for any digital work. It reimagines the computer as a shared environment where humans and AI agents operate side by side—with full access to the same browser, files, and apps, like collaborating with a powerful teammate that continuously learns how to work better with you. Instead of working across disconnected tools and contexts, everything lives in one place where memory, execution, and goals remain coherent, so work doesn’t reset or lose state. Agents operate continuously within this environment, evolving over time while remaining fully inspectable, and can be shaped by you through roles and templates to support consistent, repeatable ways of working
 
 🔗 https://github.com/holaboss-ai/holaOS
 
