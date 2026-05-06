@@ -72,6 +72,8 @@ Is Your Site Agent-Ready? Scan your website to see how ready it is for AI agents
 
 CodeBurn. See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability: https://github.com/getagentseal/codeburn
 
+Review Prompts for AI-Assisted Code Review. AI-assisted code review prompts for Linux kernel, systemd, and iproute development. Works with Claude Code and other AI tools: https://github.com/masoncl/review-prompts
+
 Code Review Graph. Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters - 6.8× fewer tokens on reviews and up to 49× on daily coding tasks: https://github.com/tirth8205/code-review-graph
 
 Sentrux. Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust: https://github.com/sentrux/sentrux
