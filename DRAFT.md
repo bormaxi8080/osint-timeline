@@ -11,13 +11,25 @@ Press
 
 ----
 
-OSINT of Nikaragua by Unishka Research Service: https://substack.com/home/post/p-195616592
+Mining China’s ‘Little Red Book’ for Open Source Gold. Xiaohongshu China Investigations Giude by Bellingcat: https://www.bellingcat.com/resources/2026/04/20/xiaohongshu-rednote-open-source-guide/
+
+coJournalist. Let your AI monitor the noise and surface leads. Connect your agent to scouts that monitor pages, social profiles, city councils, and your beat — while you focus on reporting: https://cojournalist.ai
+
+Epstein Network. This is a visualization of the people whose faces are in the [Epstein Library](https://www.justice.gov/epstein) dataset. The circles (nodes) are people, and the lines (edges) between them are when two people are in the same photograph together: https://epstein.photos/
+
+OSINT of Nicaragua by Unishka Research Service: https://substack.com/home/post/p-195616592
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+NMapView. Turn Nmap XML into a searchable, portable HTML report for analysis, triage, and pentest reporting: https://github.com/dreizehnutters/NmapView
+
 The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more: https://github.com/jason5ng32/myip
+
+Cloak Browser. Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed: https://github.com/CloakHQ/CloakBrowser
+
+Leaf. Terminal Markdown previewer - GUI-like experience: https://github.com/RivoLink/leaf
 
 Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
 
@@ -26,6 +38,8 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 ----
 
 **Universal Search & AI:**
+
+Free LLM API Resources. A list of free LLM inference resources accessible via API: https://github.com/cheahjs/free-llm-api-resources
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
@@ -63,6 +77,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Linux & DevOps:**
 
+**MOS** is a lightweight operating system based on [Devuan](https://www.devuan.org/), designed specifically for small, energy‑efficient home servers: https://github.com/ich777/mos-releases
+
 VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces. With this tool you can do everything you'd normally do using VirusTotal's web page: https://github.com/VirusTotal/vt-cli/
 
 Ultimate source for Nothing OS firmware, stock OTA images, community apps, projects, resources and comprehensive guides for Nothing & CMF devices: https://github.com/spike0en/nothing_archive
@@ -80,6 +96,8 @@ Kaku. A fast, out-of-the-box terminal built for AI coding: https://github.com/tw
 SigDigger. Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library: https://github.com/BatchDrake/SigDigger
 
 ESP-Claw, a "Chat Coding" AI agent framework for IoT devices: https://github.com/espressif/esp-claw/
+
+A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation: https://github.com/kritishmohapatra/100_Days_100_IoT_Projects
 
 valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: https://github.com/Zorig/valveFM
 
