@@ -13,6 +13,8 @@ Press
 
 Mining China’s ‘Little Red Book’ for Open Source Gold. Xiaohongshu China Investigations Giude by Bellingcat: https://www.bellingcat.com/resources/2026/04/20/xiaohongshu-rednote-open-source-guide/
 
+Supercharge Your Reporting: The Journalist’s AI Prompt Playbook: https://learnprompt.org/prompts-for-journalists/
+
 coJournalist. Let your AI monitor the noise and surface leads. Connect your agent to scouts that monitor pages, social profiles, city councils, and your beat — while you focus on reporting: https://cojournalist.ai
 
 Epstein Network. This is a visualization of the people whose faces are in the [Epstein Library](https://www.justice.gov/epstein) dataset. The circles (nodes) are people, and the lines (edges) between them are when two people are in the same photograph together: https://epstein.photos/
@@ -29,7 +31,9 @@ The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DN
 
 Cloak Browser. Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed: https://github.com/CloakHQ/CloakBrowser
 
-Leaf. Terminal Markdown previewer - GUI-like experience: https://github.com/RivoLink/leaf
+Leaf. Terminal Markdown previewer, GUI-like experience: https://github.com/RivoLink/leaf
+
+Twitter Profile History Lookup: https://twitter.lolarchiver.com/
 
 Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
 
@@ -40,6 +44,8 @@ SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — 
 **Universal Search & AI:**
 
 Free LLM API Resources. A list of free LLM inference resources accessible via API: https://github.com/cheahjs/free-llm-api-resources
+
+CodeGraph. Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local: https://github.com/colbymchenry/codegraph
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
@@ -71,7 +77,11 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Software Development & APIs:**
 
+Data Peek. A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat: https://github.com/Rohithgilla12/data-peek
 
+mapcn. Beautiful map components. 100% Free, Zero config, one command setup: https://github.com/AnmolSaini16/mapcn
+
+Open Infrastructure Map, a view of infrastructure data in OpenStreetMap: https://github.com/openinframap/openinframap
 
 ----
 
