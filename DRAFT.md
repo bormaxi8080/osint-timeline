@@ -57,6 +57,8 @@ Prefab. Artificial nanofabrication of integrated photonic circuits: https://gith
 
 Token Tracker. Track Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw & Every Code token usage. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets: https://github.com/mm7894215/TokenTracker
 
+SCBE-AETHERMOORE. AI governance through geometric cost scaling. This repository is the public working tree for the SCBE-AETHERMOORE stack: a governed AI system built around hyperbolic geometry, semantic weighting, auditability, and multi-layer runtime controls: https://github.com/issdandavis/SCBE-AETHERMOORE
+
 AgentShield. AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration: https://github.com/affaan-m/agentshield
 
 Ship-Safe. CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies: https://github.com/asamassekou10/ship-safe
