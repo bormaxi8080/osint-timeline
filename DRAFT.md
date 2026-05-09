@@ -49,6 +49,8 @@ CodeGraph. Pre-indexed code knowledge graph for Claude Code — fewer tokens, fe
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
+Browserbase's official collection of agent skills to access the web: https://github.com/browserbase/skills
+
 AngelSlim. Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency: https://github.com/tencent/AngelSlim
 
 CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
@@ -84,6 +86,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 Data Peek. A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat: https://github.com/Rohithgilla12/data-peek
 
 Spec Kit. Toolkit to help you get started with Spec-Driven Development: https://github.com/github/spec-kit
+
+HeyForm simplifies the creation of conversational forms, making it accessible for anyone to gather information or feedback through engaging surveys, quizzes, and polls. We are committed to enhancing HeyForm with regular updates, including bug fixes, new features, and performance improvements: https://github.com/heyform/heyform
 
 mapcn. Beautiful map components. 100% Free, Zero config, one command setup: https://github.com/AnmolSaini16/mapcn
 
