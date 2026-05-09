@@ -121,7 +121,9 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 
 **New from CyberDetective:**
 
+Related Repos. A free online tool that helps you find repositories similar to a specific one (results can be sorted by number of stars, similarity score and date of last update)
 
+https://relatedrepos.com
 
 ----
 
