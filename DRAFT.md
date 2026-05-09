@@ -49,6 +49,8 @@ CodeGraph. Pre-indexed code knowledge graph for Claude Code — fewer tokens, fe
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
+AngelSlim. Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency: https://github.com/tencent/AngelSlim
+
 CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
 
 Prefab. Artificial nanofabrication of integrated photonic circuits: https://github.com/PreFab-Photonics/PreFab
@@ -79,6 +81,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 Data Peek. A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat: https://github.com/Rohithgilla12/data-peek
 
+Spec Kit. Toolkit to help you get started with Spec-Driven Development: https://github.com/github/spec-kit
+
 mapcn. Beautiful map components. 100% Free, Zero config, one command setup: https://github.com/AnmolSaini16/mapcn
 
 Open Infrastructure Map, a view of infrastructure data in OpenStreetMap: https://github.com/openinframap/openinframap
@@ -88,6 +92,8 @@ Open Infrastructure Map, a view of infrastructure data in OpenStreetMap: https:/
 **Linux & DevOps:**
 
 **MOS** is a lightweight operating system based on [Devuan](https://www.devuan.org/), designed specifically for small, energy‑efficient home servers: https://github.com/ich777/mos-releases
+
+LUKSbox. Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows: https://github.com/PentHertz/LUKSbox
 
 VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces. With this tool you can do everything you'd normally do using VirusTotal's web page: https://github.com/VirusTotal/vt-cli/
 
