@@ -77,6 +77,8 @@ CocoIndex. Data transformation framework for AI. Ultra performant, with incremen
 
 Prefab. Artificial nanofabrication of integrated photonic circuits: https://github.com/PreFab-Photonics/PreFab
 
+Medusa AI Security Scanner. AI-first security scanner with 76 analyzers, 9,600+ detection rules, and repo poisoning detection for AI/ML, LLM agents, and MCP servers. Scan any GitHub repo with: medusa scan --git user/repo: https://github.com/Pantheon-Security/medusa
+
 Token Tracker. Track Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, OpenClaw & Every Code token usage. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets: https://github.com/mm7894215/TokenTracker
 
 SCBE-AETHERMOORE. AI governance through geometric cost scaling. This repository is the public working tree for the SCBE-AETHERMOORE stack: a governed AI system built around hyperbolic geometry, semantic weighting, auditability, and multi-layer runtime controls: https://github.com/issdandavis/SCBE-AETHERMOORE
@@ -108,6 +110,8 @@ Data Peek. A minimal, fast, database client desktop application. Built for devel
 Spec Kit. Toolkit to help you get started with Spec-Driven Development: https://github.com/github/spec-kit
 
 HeyForm simplifies the creation of conversational forms, making it accessible for anyone to gather information or feedback through engaging surveys, quizzes, and polls. We are committed to enhancing HeyForm with regular updates, including bug fixes, new features, and performance improvements: https://github.com/heyform/heyform
+
+TablePro. Native database client for Mac and iPhone. MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more: https://github.com/TableProApp/TablePro
 
 mapcn. Beautiful map components. 100% Free, Zero config, one command setup: https://github.com/AnmolSaini16/mapcn
 
