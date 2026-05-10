@@ -23,6 +23,22 @@ OSINT of Nicaragua by Unishka Research Service: https://substack.com/home/post/p
 
 ----
 
+Looking for a job as an OSINT Analyst?  
+  
+After recently losing my job due to my role being cut, I have been digging through job listings. I have also seen several others in my network seeking new careers as well.  
+  
+I have been searching the job boards and LinkedIn, but wanted to do something a little more proactive. I created a routine in Claude code to help filter the noise. I wanted to share to help others.
+
+OSINT Job Tracker:
+
+https://www.notion.so/thecommongeek/912662c4ff1f4200a1ec12f59acaaff2?v=08bd1620baff40ce901c5fc10ec23469
+
+Claude Code Instructions:
+
+https://github.com/denniskeefe/job-search/blob/main/SKILL.md
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 NMapView. Turn Nmap XML into a searchable, portable HTML report for analysis, triage, and pentest reporting: https://github.com/dreizehnutters/NmapView
@@ -39,6 +55,8 @@ Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
 
 SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required: https://github.com/spotbye/SpotiFLAC
 
+Docker Steam Headless. A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI: https://github.com/Steam-Headless/docker-steam-headless
+
 ----
 
 **Universal Search & AI:**
@@ -48,6 +66,8 @@ Free LLM API Resources. A list of free LLM inference resources accessible via AP
 CodeGraph. Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local: https://github.com/colbymchenry/codegraph
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
+
+Goose. An open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM: https://github.com/aaif-goose/goose
 
 Browserbase's official collection of agent skills to access the web: https://github.com/browserbase/skills
 
@@ -120,6 +140,8 @@ SigDigger. Qt-based digital signal analyzer, using Suscan core and Sigutils DSP 
 ESP-Claw, a "Chat Coding" AI agent framework for IoT devices: https://github.com/espressif/esp-claw/
 
 A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation: https://github.com/kritishmohapatra/100_Days_100_IoT_Projects
+
+Dex Retargeting. Various retargeting optimizers to translate human hand motion to robot hand motion: https://github.com/dexsuite/dex-retargeting
 
 valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: https://github.com/Zorig/valveFM
 
