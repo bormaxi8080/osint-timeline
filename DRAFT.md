@@ -111,6 +111,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Software Development & APIs:**
 
+GitNexus. The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration: https://github.com/abhigyanpatwari/GitNexus
+
 Data Peek. A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat: https://github.com/Rohithgilla12/data-peek
 
 Spec Kit. Toolkit to help you get started with Spec-Driven Development: https://github.com/github/spec-kit
