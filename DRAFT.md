@@ -45,6 +45,8 @@ https://github.com/denniskeefe/job-search/blob/main/SKILL.md
 
 NMapView. Turn Nmap XML into a searchable, portable HTML report for analysis, triage, and pentest reporting: https://github.com/dreizehnutters/NmapView
 
+Thunderbit. The Next Gen AI Web Scraper: https://thunderbit.com/
+
 The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more: https://github.com/jason5ng32/myip
 
 Cloak Browser. Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed: https://github.com/CloakHQ/CloakBrowser
