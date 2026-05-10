@@ -17,6 +17,8 @@ Supercharge Your Reporting: The Journalist’s AI Prompt Playbook: https://learn
 
 coJournalist. Let your AI monitor the noise and surface leads. Connect your agent to scouts that monitor pages, social profiles, city councils, and your beat — while you focus on reporting: https://cojournalist.ai
 
+Awesome Free SAAS. an awesome list of free SaaS (software as a service) for you: https://github.com/LlamaGenAI/awesome-free-saas
+
 Epstein Network. This is a visualization of the people whose faces are in the [Epstein Library](https://www.justice.gov/epstein) dataset. The circles (nodes) are people, and the lines (edges) between them are when two people are in the same photograph together: https://epstein.photos/
 
 OSINT of Nicaragua by Unishka Research Service: https://substack.com/home/post/p-195616592
@@ -46,6 +48,8 @@ NMapView. Turn Nmap XML into a searchable, portable HTML report for analysis, tr
 The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more: https://github.com/jason5ng32/myip
 
 Cloak Browser. Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed: https://github.com/CloakHQ/CloakBrowser
+
+Endpoint Hunter. OWASP-focused automated reconnaissance tool for web application security testing. Performs subdomain enumeration, URL harvesting, filtering, and intelligent endpoint classification to identify high-risk attack surfaces. Built for bug bounty hunters and penetration testers: https://github.com/banguhub/endpoint-hunter
 
 Leaf. Terminal Markdown previewer, GUI-like experience: https://github.com/RivoLink/leaf
 
@@ -124,6 +128,8 @@ Open Infrastructure Map, a view of infrastructure data in OpenStreetMap: https:/
 **MOS** is a lightweight operating system based on [Devuan](https://www.devuan.org/), designed specifically for small, energy‑efficient home servers: https://github.com/ich777/mos-releases
 
 LUKSbox. Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows: https://github.com/PentHertz/LUKSbox
+
+SkySend. Minimalist, end-to-end encrypted, self-hostable file and note sharing. Zero-knowledge server - files and notes are encrypted in the browser before upload. No accounts, no telemetry, built for speed and security: https://github.com/Eirias/skysend
 
 VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces. With this tool you can do everything you'd normally do using VirusTotal's web page: https://github.com/VirusTotal/vt-cli/
 
