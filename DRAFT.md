@@ -165,6 +165,8 @@ SkySend. Minimalist, end-to-end encrypted, self-hostable file and note sharing. 
 
 VirusTotal CLI, a tool designed for those who love both VirusTotal and command-line interfaces. With this tool you can do everything you'd normally do using VirusTotal's web page: https://github.com/VirusTotal/vt-cli/
 
+Designed for Developers and DevOps Engineers, Lens provides an unparalleled experience for managing and troubleshooting Kubernetes workloads through one intuitive context-aware UI. For teams and organizations, Lens has proven to be the most effective way to learn Kubernetes, boost team productivity and reduce tools required for cloud native development. It's trusted by the world's best product teams; from innovative startups to iconic enterprises. Lens is the #1 choice for Kubernetes with over 1 million users globally: https://github.com/lensapp/lens
+
 Ultimate source for Nothing OS firmware, stock OTA images, community apps, projects, resources and comprehensive guides for Nothing & CMF devices: https://github.com/spike0en/nothing_archive
 
 Stalwart. All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV): https://github.com/stalwartlabs/stalwart
