@@ -23,6 +23,8 @@ Epstein Network. This is a visualization of the people whose faces are in the [
 
 OSINT of Nicaragua by Unishka Research Service: https://substack.com/home/post/p-195616592
 
+Yosemite Crew is an open-source operating system designed for animal health industry. At its core is a free, fully customizable Practice Management System (PMS) that unifies pet care operations, bringing together pet owners, pet businesses, and developers into one innovative ecosystem: https://github.com/YosemiteCrew/Yosemite-Crew
+
 ----
 
 Looking for a job as an OSINT Analyst?  
@@ -53,6 +55,8 @@ Cloak Browser. Stealth Chromium that passes every bot detection test. Drop-in Pl
 
 Endpoint Hunter. OWASP-focused automated reconnaissance tool for web application security testing. Performs subdomain enumeration, URL harvesting, filtering, and intelligent endpoint classification to identify high-risk attack surfaces. Built for bug bounty hunters and penetration testers: https://github.com/banguhub/endpoint-hunter
 
+**FastALPR** is a high-performance, customizable Automatic License Plate Recognition (ALPR) system. We offer fast and efficient ONNX models by default, but you can easily swap in your own models if needed: https://github.com/ankandrew/fast-alpr
+
 Leaf. Terminal Markdown previewer, GUI-like experience: https://github.com/RivoLink/leaf
 
 Twitter Profile History Lookup: https://twitter.lolarchiver.com/
@@ -62,6 +66,10 @@ Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
 SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required: https://github.com/spotbye/SpotiFLAC
 
 Docker Steam Headless. A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI: https://github.com/Steam-Headless/docker-steam-headless
+
+AndroidForensics. Automated Android forensic toolkit - extract device info, apps, contacts, call logs, SMS, system logs, and more via ADB for security audits and investigations: https://github.com/DouglasFreshHabian/androidForensics
+
+Android IMSI Catcher Detector. `AIMSICD` is an Android app to detect [IMSI-Catchers](https://en.wikipedia.org/wiki/IMSI-catcher). These devices are false mobile towers (base stations) acting between the target mobile phone(s) and the real towers of service providers. As such they are considered a Man-In-The-Middle (MITM) attack. This surveillance technology is also known as "[StingRay](https://en.wikipedia.org/wiki/Stingray_phone_tracker)", "Cellular Interception" and alike: https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 
 Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/SagerNet/sing-box) universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet: https://github.com/hiddify/hiddify-app
 
@@ -132,6 +140,10 @@ Open Infrastructure Map, a view of infrastructure data in OpenStreetMap: https:/
 **Linux & DevOps:**
 
 **MOS** is a lightweight operating system based on [Devuan](https://www.devuan.org/), designed specifically for small, energy‑efficient home servers: https://github.com/ich777/mos-releases
+
+DNS-Blocklists. For a better internet - keep the internet clean: https://github.com/hagezi/dns-blocklists
+
+Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community: https://github.com/OISF/suricata
 
 LUKSbox. Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows: https://github.com/PentHertz/LUKSbox
 
