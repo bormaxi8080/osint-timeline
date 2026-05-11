@@ -83,6 +83,8 @@ CodeGraph. Pre-indexed code knowledge graph for Claude Code — fewer tokens, fe
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
+**OptiLLM** is an OpenAI API-compatible optimizing inference proxy that implements 20+ state-of-the-art techniques to dramatically improve LLM accuracy and performance on reasoning tasks - without requiring any model training or fine-tuning: https://github.com/algorithmicsuperintelligence/optillm
+
 Goose. An open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM: https://github.com/aaif-goose/goose
 
 Browserbase's official collection of agent skills to access the web: https://github.com/browserbase/skills
