@@ -43,6 +43,14 @@ https://github.com/denniskeefe/job-search/blob/main/SKILL.md
 
 ----
 
+Copilot for Obsidian is your in‑vault AI assistant with chat-based vault search, web and YouTube support, powerful context processing, and ever-expanding agentic capabilities within Obsidian's highly customizable workspace - all while keeping your data under **your** control
+
+Link: https://www.obsidiancopilot.com
+
+GitHub: https://github.com/logancyang/obsidian-copilot
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 NMapView. Turn Nmap XML into a searchable, portable HTML report for analysis, triage, and pentest reporting: https://github.com/dreizehnutters/NmapView
