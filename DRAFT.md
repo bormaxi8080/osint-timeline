@@ -23,6 +23,8 @@ Epstein Network. This is a visualization of the people whose faces are in the [
 
 OSINT of Nicaragua by Unishka Research Service: https://substack.com/home/post/p-195616592
 
+Environmental monitoring and geospatial research often depend on many specialized tools Start.Me page: https://start.me/p/p1LqPo/robert-s-links-air-land-sea
+
 Yosemite Crew is an open-source operating system designed for animal health industry. At its core is a free, fully customizable Practice Management System (PMS) that unifies pet care operations, bringing together pet owners, pet businesses, and developers into one innovative ecosystem: https://github.com/YosemiteCrew/Yosemite-Crew
 
 ----
@@ -150,6 +152,8 @@ Open Infrastructure Map, a view of infrastructure data in OpenStreetMap: https:/
 **Linux & DevOps:**
 
 **MOS** is a lightweight operating system based on [Devuan](https://www.devuan.org/), designed specifically for small, energy‑efficient home servers: https://github.com/ich777/mos-releases
+
+Free online domain analysis. Server Info, Meta-Tags, Spyder-Map, Connection-Urls, Screenshot, Domain Whois, Trace Route, HTTP Security, DNS Server, HSTS Check, Headers, Server Status, Email Configuration, Block Lists, Cookies, Social Tags, Linked Pages, Global Ranking and more: https://redmorph.com/
 
 DNS-Blocklists. For a better internet - keep the internet clean: https://github.com/hagezi/dns-blocklists
 
