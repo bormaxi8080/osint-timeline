@@ -59,6 +59,10 @@ NMapView. Turn Nmap XML into a searchable, portable HTML report for analysis, tr
 
 Thunderbit. The Next Gen AI Web Scraper: https://thunderbit.com/
 
+Website downloader works with `wget` and `archiver` to download all websites assets and compress then sends it back to the user through socket channel: https://github.com/AhmadIbrahiim/Website-downloader
+
+Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid: https://github.com/streaak/keyhacks
+
 The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more: https://github.com/jason5ng32/myip
 
 Cloak Browser. Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed: https://github.com/CloakHQ/CloakBrowser
@@ -92,6 +96,8 @@ Free LLM API Resources. A list of free LLM inference resources accessible via AP
 CodeGraph. Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local: https://github.com/colbymchenry/codegraph
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
+
+OpenSandbox is a **general-purpose sandbox platform** for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training: https://github.com/alibaba/OpenSandbox
 
 **OptiLLM** is an OpenAI API-compatible optimizing inference proxy that implements 20+ state-of-the-art techniques to dramatically improve LLM accuracy and performance on reasoning tasks - without requiring any model training or fine-tuning: https://github.com/algorithmicsuperintelligence/optillm
 
@@ -138,6 +144,8 @@ Floci. Light, fluffy, and always free - The AWS Local Emulator alternative: http
 GitNexus. The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration: https://github.com/abhigyanpatwari/GitNexus
 
 Data Peek. A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat: https://github.com/Rohithgilla12/data-peek
+
+Codeg (Codegen). Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker: https://github.com/xintaofei/codeg
 
 Spec Kit. Toolkit to help you get started with Spec-Driven Development: https://github.com/github/spec-kit
 
