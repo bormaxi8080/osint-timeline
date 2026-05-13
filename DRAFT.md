@@ -29,6 +29,8 @@ Yosemite Crew is an open-source operating system designed for animal health indu
 
 Global Censorship Index. Real-time internet-freedom rankings based on 2.3B+ measurements across 200 countries. Each row links to a country profile with evidence trail and ML-classified incidents: https://voidly.ai/censorship-index
 
+Computer Science courses with video lectures. List of Computer Science courses with video lectures: https://github.com/Developer-Y/cs-video-courses
+
 ----
 
 Looking for a job as an OSINT Analyst?  
@@ -94,6 +96,8 @@ Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/S
 **Universal Search & AI:**
 
 Free LLM API Resources. A list of free LLM inference resources accessible via API: https://github.com/cheahjs/free-llm-api-resources
+
+OpenHuman. Your Personal AI super intelligence. Private, Simple and extremely powerful: https://github.com/tinyhumansai/openhuman
 
 CodeGraph. Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local: https://github.com/colbymchenry/codegraph
 
