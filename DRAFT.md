@@ -27,6 +27,8 @@ Environmental monitoring and geospatial research often depend on many specialize
 
 Yosemite Crew is an open-source operating system designed for animal health industry. At its core is a free, fully customizable Practice Management System (PMS) that unifies pet care operations, bringing together pet owners, pet businesses, and developers into one innovative ecosystem: https://github.com/YosemiteCrew/Yosemite-Crew
 
+Global Censorship Index. Real-time internet-freedom rankings based on 2.3B+ measurements across 200 countries. Each row links to a country profile with evidence trail and ML-classified incidents: https://voidly.ai/censorship-index
+
 ----
 
 Looking for a job as an OSINT Analyst?  
