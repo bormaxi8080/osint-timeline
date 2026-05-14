@@ -8,8 +8,6 @@ Press
 
 ----
 
-
-
 Awesome Free SAAS. an awesome list of free SaaS (software as a service) for you: https://github.com/LlamaGenAI/awesome-free-saas
 
 Epstein Network. This is a visualization of the people whose faces are in the [Epstein Library](https://www.justice.gov/epstein) dataset. The circles (nodes) are people, and the lines (edges) between them are when two people are in the same photograph together: https://epstein.photos/
@@ -32,6 +30,12 @@ GitHub: https://github.com/logancyang/obsidian-copilot
 
 Leaf. Terminal Markdown previewer, GUI-like experience: https://github.com/RivoLink/leaf
 
+MetaRadar. A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected: https://github.com/BLE-Research-Group/MetaRadar
+
+YourSteaID. Qt GUI application for downloading videos, playlists and monitoring streams: https://github.com/ivan-an/YouStealD
+
+ShareTrace. Reveal the identity behind a share link: https://github.com/soxoj/sharetrace
+
 Twitter Profile History Lookup: https://twitter.lolarchiver.com/
 
 Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
@@ -49,6 +53,8 @@ Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/S
 ----
 
 **Universal Search & AI:**
+
+Steno is the AI powered intelligence layer for all your confidential conversations. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs: https://github.com/ruzin/stenoai
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 

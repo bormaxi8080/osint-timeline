@@ -1,7 +1,5 @@
 ![OSINTech Timeline](img/162.jpg)
 
-# OSINTech’s Timeline #162
-
 **Gopnik Art**
 
 ----
