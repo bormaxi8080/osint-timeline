@@ -63,7 +63,11 @@ NMapView. Turn Nmap XML into a searchable, portable HTML report for analysis, tr
 
 Thunderbit. The Next Gen AI Web Scraper: https://thunderbit.com/
 
+ONYPHE. A cyber defense search engine for OSINT & threat intelligence, collecting internet-sourced data to find threats: https://search.onyphe.io/
+
 Website downloader works with `wget` and `archiver` to download all websites assets and compress then sends it back to the user through socket channel: https://github.com/AhmadIbrahiim/Website-downloader
+
+PyDNS Scanner. A modern, high-performance DNS scanner with a beautiful Terminal User Interface (TUI) built with Textual. This tool can scan millions of IP addresses to find working DNS servers with optional Slipstream proxy testing and automatic multi-platform client download: https://github.com/sy54dmin/pydns-scanner
 
 Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid: https://github.com/streaak/keyhacks
 
@@ -101,7 +105,11 @@ OpenHuman. Your Personal AI super intelligence. Private, Simple and extremely po
 
 CodeGraph. Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local: https://github.com/colbymchenry/codegraph
 
+MARM Systems. Turn AI into a persistent, memory-powered collaborator. Universal MCP Server (supports HTTP, STDIO, and WebSocket) enabling cross-platform AI memory, multi-agent coordination, and context sharing. Built with MARM protocol for structured reasoning that evolves with your work: https://github.com/curatedhealth/marm-systems
+
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
+
+Superserve. Peristent and secure sandboxes for AI Agents, powered by Firecracker microVMs: https://github.com/superserve-ai/superserve
 
 OpenSandbox is a **general-purpose sandbox platform** for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training: https://github.com/alibaba/OpenSandbox
 
@@ -169,6 +177,8 @@ Open Infrastructure Map, a view of infrastructure data in OpenStreetMap: https:/
 
 **MOS** is a lightweight operating system based on [Devuan](https://www.devuan.org/), designed specifically for small, energy‑efficient home servers: https://github.com/ich777/mos-releases
 
+Live Custom Ubunti from Scratch. This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch. A Linux to call your own: https://github.com/mvallim/live-custom-ubuntu-from-scratch
+
 Free online domain analysis. Server Info, Meta-Tags, Spyder-Map, Connection-Urls, Screenshot, Domain Whois, Trace Route, HTTP Security, DNS Server, HSTS Check, Headers, Server Status, Email Configuration, Block Lists, Cookies, Social Tags, Linked Pages, Global Ranking and more: https://redmorph.com/
 
 DNS-Blocklists. For a better internet - keep the internet clean: https://github.com/hagezi/dns-blocklists
@@ -212,6 +222,22 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 Related Repos. A free online tool that helps you find repositories similar to a specific one (results can be sorted by number of stars, similarity score and date of last update)
 
 https://relatedrepos.com
+
+Public Procurement Portals – An OSINT Goldmine   
+  
+International Procurement Portals  
+United States Procurement Portals  
+Canada-Wide Procurement Portals  
+British Columbia Procurement Portals  
+Procurement Aggregators and Meta-Sources  
+Finding More Portals  
+Why Is The Procurement Process So Underrated As A Source of Information?  
+From a Cybersecurity Perspective  
+From an Investigative Perspective  
+From a Civic Engagement Perspective  
+Procurement Data Is Excellent for Historical Research
+
+https://appliedawareness.ca/public-procurement-portals-an-osint-goldmine/
 
 ----
 
