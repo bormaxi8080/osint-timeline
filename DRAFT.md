@@ -26,6 +26,8 @@ GitHub: https://github.com/logancyang/obsidian-copilot
 
 **OSINT Tools, Services and Investigations:**
 
+UrlVet (SafeSurf). Open-source phishing detection engine — paste any URL and get a trust score, a fully explainable verdict, and a shareable security report with live page preview, all in real time: https://github.com/abhizaik/urlvet
+
 **FastALPR** is a high-performance, customizable Automatic License Plate Recognition (ALPR) system. We offer fast and efficient ONNX models by default, but you can easily swap in your own models if needed: https://github.com/ankandrew/fast-alpr
 
 Leaf. Terminal Markdown previewer, GUI-like experience: https://github.com/RivoLink/leaf
