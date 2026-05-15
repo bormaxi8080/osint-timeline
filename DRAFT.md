@@ -10,9 +10,25 @@ Press
 
 Awesome Free SAAS. an awesome list of free SaaS (software as a service) for you: https://github.com/LlamaGenAI/awesome-free-saas
 
-Epstein Network. This is a visualization of the people whose faces are in the [Epstein Library](https://www.justice.gov/epstein) dataset. The circles (nodes) are people, and the lines (edges) between them are when two people are in the same photograph together: https://epstein.photos/
+Epstein Network. This is a visualization of the people whose faces are in the [Epstein Library](https://www.justice.gov/epstein) dataset. The circles (nodes) are people, and the lines (edges) between them are when two people are in the same photograph together
 
-Yosemite Crew is an open-source operating system designed for animal health industry. At its core is a free, fully customizable Practice Management System (PMS) that unifies pet care operations, bringing together pet owners, pet businesses, and developers into one innovative ecosystem: https://github.com/YosemiteCrew/Yosemite-Crew
+https://epstein.photos/
+
+Yosemite Crew is an open-source operating system designed for animal health industry. At its core is a free, fully customizable Practice Management System (PMS) that unifies pet care operations, bringing together pet owners, pet businesses, and developers into one innovative ecosystem
+
+https://github.com/YosemiteCrew/Yosemite-Crew
+
+Translate Documents Online. Upload a PDF, Word, or PowerPoint file, pick your language, and get it back translated — tables, images, and formatting all in place. Four translation engines, 100+ languages, done in seconds:
+
+https://www.doctranslating.com/
+
+----
+
+OpenPostings is an OpenSource ATS job aggregator and application tracking app. **It pulls jobs that were posted in the last 24 hours** or that has no posted date. 
+
+Over 100000+ companies from multiple ATSs all sourced into 1 location:
+
+https://github.com/Masterjx9/OpenPostings
 
 ----
 
@@ -60,6 +76,18 @@ Steno is the AI powered intelligence layer for all your confidential conversatio
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
+Open Design. Local-first, open-source alternative to Anthropic's Claude Design.
+
+19 Skills ·  71 brand-grade Design Systems.
+Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
+Sandboxed preview · HTML/PDF/PPTX/MP4 export.
+
+Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI: https://github.com/nexu-io/open-design
+
+Video Use. Edit videos with coding agents: https://github.com/browser-use/video-use
+
+Jarvis. A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything, knows location and time, can check the web, control Chrome, track nutrition, and more with support for unlimited MCPs / tools without context rot: https://github.com/isair/jarvis
+
 CocoIndex. Data transformation framework for AI. Ultra performant, with incremental processing: https://github.com/cocoindex-io/cocoindex
 
 Prefab. Artificial nanofabrication of integrated photonic circuits: https://github.com/PreFab-Photonics/PreFab
@@ -90,7 +118,7 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Software Development & APIs:**
 
-
+TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg: https://github.com/glincker/thesvg
 
 ----
 
