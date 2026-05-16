@@ -96,6 +96,8 @@ Medusa AI Security Scanner. AI-first security scanner with 76 analyzers, 9,600+ 
 
 SCBE-AETHERMOORE. AI governance through geometric cost scaling. This repository is the public working tree for the SCBE-AETHERMOORE stack: a governed AI system built around hyperbolic geometry, semantic weighting, auditability, and multi-layer runtime controls: https://github.com/issdandavis/SCBE-AETHERMOORE
 
+WindSurf API. Windsurf-to-OpenAI compatible API proxy: https://github.com/dwgx/WindsurfAPI
+
 AgentShield. AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration: https://github.com/affaan-m/agentshield
 
 Ship-Safe. CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies: https://github.com/asamassekou10/ship-safe
@@ -124,6 +126,8 @@ TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open sourc
 
 **Linux & DevOps:**
 
+DPI Checkers. Repository contains checkers that allow you to determine if your residential ISP (or a server in a data center) has DPI, as well as the specific methods (and their parameters) the censor uses for restrictions: https://github.com/hyperion-cs/dpi-checkers
+
 Stalwart. All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV): https://github.com/stalwartlabs/stalwart
 
 Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
@@ -133,6 +137,8 @@ Kaku. A fast, out-of-the-box terminal built for AI coding: https://github.com/tw
 ----
 
 **Hardware & Devices:**
+
+Teleop. Turns your phone or VR headset into a robot arm teleoperation device by leveraging WebXR: https://github.com/SpesRobotics/teleop
 
 A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation: https://github.com/kritishmohapatra/100_Days_100_IoT_Projects
 
