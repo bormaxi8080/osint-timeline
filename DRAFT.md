@@ -122,6 +122,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg: https://github.com/glincker/thesvg
 
+Otel GUI. A lightweight, zero-config OpenTelemetry trace viewer for local development: https://github.com/metafab/otel-gui
+
 ----
 
 **Linux & DevOps:**
