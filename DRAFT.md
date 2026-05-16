@@ -30,6 +30,25 @@ https://www.doctranslating.com/
 
 ----
 
+Professional Membership Portals: An Excellent Resource for Due Diligence and Investigations  
+  
+Guide by Ionatan Waisgluss:  
+  
+What Are Professional Membership Portals?  
+Why Verify Registration and Status?  
+What Other Information Can These Portals Reveal?  
+Jurisdiction Matters  
+Professional Membership Portals  
+Global and International Credential Verification  
+United States  
+European Professional Registers  
+Good Search Habits  
+Pivoting on Technologies (i.e. Portal Software)
+
+https://appliedawareness.ca/professional-membership-portals-an-excellent-resource-for-due-diligence-and-investigations/
+
+----
+
 OpenPostings is an OpenSource ATS job aggregator and application tracking app. **It pulls jobs that were posted in the last 24 hours** or that has no posted date. 
 
 Over 100000+ companies from multiple ATSs all sourced into 1 location:
@@ -82,6 +101,10 @@ Steno is the AI powered intelligence layer for all your confidential conversatio
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
+PaperBanana: Automating Academic Illustration For AI Scientists:
+
+https://github.com/dwzhu-pku/PaperBanana
+
 Open Design. Local-first, open-source alternative to Anthropic's Claude Design.
 
 19 Skills ·  71 brand-grade Design Systems.
@@ -126,6 +149,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Software Development & APIs:**
 
+Astro. The web framework for content-driven websites. Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more: https://astro.build/
+
 TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg: https://github.com/glincker/thesvg
 
 Otel GUI. A lightweight, zero-config OpenTelemetry trace viewer for local development: https://github.com/metafab/otel-gui
@@ -158,7 +183,9 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 
 **New from CyberDetective:**
 
+OPENOSINT. OSINT agent, MCP server, and CLI for Open Source Intelligence. Search info by email, username, domain and more:
 
+https://openosint.tech/
 
 ----
 
