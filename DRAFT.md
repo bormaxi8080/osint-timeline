@@ -101,9 +101,9 @@ Steno is the AI powered intelligence layer for all your confidential conversatio
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
-PaperBanana: Automating Academic Illustration For AI Scientists:
+Adala is an **A**utonomous **DA**ta (**L**abeling) **A**gent framework. Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we refer to as a "runtime", synonymous with LLM: https://github.com/HumanSignal/Adala
 
-https://github.com/dwzhu-pku/PaperBanana
+PaperBanana: Automating Academic Illustration For AI Scientists: https://github.com/dwzhu-pku/PaperBanana
 
 Open Design. Local-first, open-source alternative to Anthropic's Claude Design.
 
