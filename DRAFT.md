@@ -28,6 +28,10 @@ Translate Documents Online. Upload a PDF, Word, or PowerPoint file, pick your la
 
 https://www.doctranslating.com/
 
+BookLore. A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics:
+
+https://github.com/mvanhorn/booklore/
+
 ----
 
 Professional Membership Portals: An Excellent Resource for Due Diligence and Investigations  
@@ -100,6 +104,8 @@ Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/S
 Steno is the AI powered intelligence layer for all your confidential conversations. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs: https://github.com/ruzin/stenoai
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
+
+OpenHands Software Agent SDK. The SDK is a composable Python library that contains all of our agentic tech. It's the engine that powers everything else below. Define agents in code, then run them locally, or scale to 1000s of agents in the cloud: https://github.com/OpenHands/OpenHands
 
 Adala is an **A**utonomous **DA**ta (**L**abeling) **A**gent framework. Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we refer to as a "runtime", synonymous with LLM: https://github.com/HumanSignal/Adala
 
