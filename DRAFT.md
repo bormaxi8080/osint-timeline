@@ -105,6 +105,8 @@ Steno is the AI powered intelligence layer for all your confidential conversatio
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
 
+Open Brain. Semantic memory for AI agents. Postgres + pgvector + MCP. Capture, classify, retrieve: https://github.com/shawnpetros/open-brain
+
 OpenHands Software Agent SDK. The SDK is a composable Python library that contains all of our agentic tech. It's the engine that powers everything else below. Define agents in code, then run them locally, or scale to 1000s of agents in the cloud: https://github.com/OpenHands/OpenHands
 
 Adala is an **A**utonomous **DA**ta (**L**abeling) **A**gent framework. Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we refer to as a "runtime", synonymous with LLM: https://github.com/HumanSignal/Adala
@@ -166,6 +168,8 @@ Otel GUI. A lightweight, zero-config OpenTelemetry trace viewer for local develo
 **Linux & DevOps:**
 
 DPI Checkers. Repository contains checkers that allow you to determine if your residential ISP (or a server in a data center) has DPI, as well as the specific methods (and their parameters) the censor uses for restrictions: https://github.com/hyperion-cs/dpi-checkers
+
+Terax AI. Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React: https://github.com/crynta/Terax-AI
 
 Stalwart. All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV): https://github.com/stalwartlabs/stalwart
 
