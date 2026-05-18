@@ -177,6 +177,8 @@ Otel GUI. A lightweight, zero-config OpenTelemetry trace viewer for local develo
 
 **Linux & DevOps:**
 
+Nextcloud server, a safe home for all your data: https://github.com/nextcloud/server
+
 DPI Checkers. Repository contains checkers that allow you to determine if your residential ISP (or a server in a data center) has DPI, as well as the specific methods (and their parameters) the censor uses for restrictions: https://github.com/hyperion-cs/dpi-checkers
 
 Terax AI. Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React: https://github.com/crynta/Terax-AI
