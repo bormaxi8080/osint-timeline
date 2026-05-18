@@ -157,7 +157,11 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Software Development & APIs:**
 
+DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more: https://github.com/freeCodeCamp/devdocs
+
 Astro. The web framework for content-driven websites. Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more: https://astro.build/
+
+OpenWA. Free, Open Source, Self-Hosted WhatsApp API Gateway: https://github.com/rmyndharis/OpenWA
 
 TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg: https://github.com/glincker/thesvg
 
