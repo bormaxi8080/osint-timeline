@@ -107,6 +107,10 @@ Claude-red is a curated library of offensive security skills designed for the Cl
 
 Open Brain. Semantic memory for AI agents. Postgres + pgvector + MCP. Capture, classify, retrieve: https://github.com/shawnpetros/open-brain
 
+Playwright Computer Use. Easily use the Claude `computer` tool to let an agent interact with a web browser on your machine (playwright): https://github.com/invariantlabs-ai/playwright-computer-use
+
+Heym. Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime: https://github.com/heymrun/heym/
+
 OpenHands Software Agent SDK. The SDK is a composable Python library that contains all of our agentic tech. It's the engine that powers everything else below. Define agents in code, then run them locally, or scale to 1000s of agents in the cloud: https://github.com/OpenHands/OpenHands
 
 Adala is an **A**utonomous **DA**ta (**L**abeling) **A**gent framework. Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we refer to as a "runtime", synonymous with LLM: https://github.com/HumanSignal/Adala
@@ -161,6 +165,8 @@ DevDocs combines multiple developer documentations in a clean and organized web 
 
 Astro. The web framework for content-driven websites. Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more: https://astro.build/
 
+Pipedream provides a free, hosted platform for connecting apps and developing event-driven automations. The platform has over 1,000 fully-integrated applications, so you can use pre-built components to quickly send messages to Slack, add a new row to Google Sheets, and more. You can also run any Node.js, Python, Golang, or Bash code when you need custom logic: https://github.com/PipedreamHQ/pipedream
+
 OpenWA. Free, Open Source, Self-Hosted WhatsApp API Gateway: https://github.com/rmyndharis/OpenWA
 
 TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg: https://github.com/glincker/thesvg
@@ -176,6 +182,8 @@ DPI Checkers. Repository contains checkers that allow you to determine if your r
 Terax AI. Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React: https://github.com/crynta/Terax-AI
 
 Stalwart. All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV): https://github.com/stalwartlabs/stalwart
+
+AirPipe. Self-hosted file transfer with a passphrase that works anywhere. Files go peer-to-peer between any two devices. The relay never sees your bytes: https://github.com/Sanyam-G/Airpipe
 
 Zero Password Manager. Open-source self-hosted password manager built with Flutter. Store passwords and crypto seed phrases securely without cloud storage: https://github.com/SoulNaturalist/zero_password_manager
 
