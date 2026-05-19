@@ -107,6 +107,8 @@ Claude-red is a curated library of offensive security skills designed for the Cl
 
 Open Brain. Semantic memory for AI agents. Postgres + pgvector + MCP. Capture, classify, retrieve: https://github.com/shawnpetros/open-brain
 
+**EverOS** is a unified home for applying, building, and evaluating long-term memory in self-evolving agents: https://github.com/EverMind-AI/EverOS
+
 Playwright Computer Use. Easily use the Claude `computer` tool to let an agent interact with a web browser on your machine (playwright): https://github.com/invariantlabs-ai/playwright-computer-use
 
 Heym. Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime: https://github.com/heymrun/heym/
