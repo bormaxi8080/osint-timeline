@@ -177,6 +177,8 @@ Otel GUI. A lightweight, zero-config OpenTelemetry trace viewer for local develo
 
 **Linux & DevOps:**
 
+The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS: https://github.com/Zeal-Operating-System/ZealOS
+
 Nextcloud server, a safe home for all your data: https://github.com/nextcloud/server
 
 DPI Checkers. Repository contains checkers that allow you to determine if your residential ISP (or a server in a data center) has DPI, as well as the specific methods (and their parameters) the censor uses for restrictions: https://github.com/hyperion-cs/dpi-checkers
