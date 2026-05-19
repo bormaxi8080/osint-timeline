@@ -113,6 +113,12 @@ Heym. Self-hosted AI workflow automation platform with visual canvas, agents, RA
 
 OpenHands Software Agent SDK. The SDK is a composable Python library that contains all of our agentic tech. It's the engine that powers everything else below. Define agents in code, then run them locally, or scale to 1000s of agents in the cloud: https://github.com/OpenHands/OpenHands
 
+Agentic Inbox. A self-hosted email client with an AI agent, running entirely on Cloudflare Workers: https://github.com/cloudflare/agentic-inbox
+
+Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense: https://github.com/luckyPipewrench/pipelock
+
+Codex Autoresearch Skill. A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept: https://github.com/leo-lilinxiao/codex-autoresearch
+
 Adala is an **A**utonomous **DA**ta (**L**abeling) **A**gent framework. Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we refer to as a "runtime", synonymous with LLM: https://github.com/HumanSignal/Adala
 
 PaperBanana: Automating Academic Illustration For AI Scientists: https://github.com/dwzhu-pku/PaperBanana
@@ -180,6 +186,8 @@ Otel GUI. A lightweight, zero-config OpenTelemetry trace viewer for local develo
 The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS: https://github.com/Zeal-Operating-System/ZealOS
 
 Nextcloud server, a safe home for all your data: https://github.com/nextcloud/server
+
+socktop is a remote system monitor with a rich TUI interface, inspired by `top` and `btop`, that communicates with a lightweight remote agent over WebSockets: https://github.com/jasonwitty/socktop
 
 DPI Checkers. Repository contains checkers that allow you to determine if your residential ISP (or a server in a data center) has DPI, as well as the specific methods (and their parameters) the censor uses for restrictions: https://github.com/hyperion-cs/dpi-checkers
 
