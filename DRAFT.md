@@ -101,6 +101,8 @@ Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/S
 
 **Universal Search & AI:**
 
+Cronicle. A simple, distributed task scheduler and runner with a web based UI: https://github.com/jhuckaby/Cronicle
+
 Steno is the AI powered intelligence layer for all your confidential conversations. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs: https://github.com/ruzin/stenoai
 
 Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
