@@ -1,32 +1,46 @@
 # Timeline Summarized Draft
 
 
-Rat Death
-
-
 Press
 
 ----
 
-Awesome Free SAAS. an awesome list of free SaaS (software as a service) for you:
+OSINT Anatomy / VoidStealer: Debugging Chrome to Steal Its Secrets. A Novel Debugger-based ABE Bypass Spotted in the Wild: https://www.gendigital.com/blog/insights/research/voidstealer-abe-bypass
 
-https://github.com/LlamaGenAI/awesome-free-saas
+Chrome keeps saved passwords locked behind one master key. VoidStealer steals that key using a tool Chrome cannot block. When it is done, passwords, open sessions, and payment cards are all readable. The technique had been on GitHub for over six months. Nobody had used it in the wild until now.  
+  
+Chrome encrypts passwords with a key that Windows DPAPI hands out to any program running as the same user. Google fixed this in July 2024 with App-Bound Encryption, or ABE, binding the key to a service that only releases it to Chrome. Lumma Stealer, Meduza Stealer, Whitesnake, and Lumar all found bypasses within months. VoidStealer appeared on HackForums on December 12, 2025 and reached twelve versions before v2.0 on March 13, 2026.  
+  
+It worked, and then it did not.
+  
+VoidStealer spawns a hidden Chrome instance with SW_HIDE, attaches as a debugger, and waits. Chrome decrypts its master key during startup. VoidStealer scans chrome.dll for OSCrypt.AppBoundProvider.Decrypt.ResultCode, the exact point right after decryption, which stays present across Chrome versions. Hardware breakpoints via DR0 and DR7 through SetThreadContext write nothing to the browser. When the breakpoint hits, the v20_master_key is in R15 for Chrome and R14 for Edge. Two ReadProcessMemory calls, and it is gone. Stolen session cookies bypass passwords and 2FA entirely because the session was already verified.  
+  
+VoidStealer also falls back to the older injection technique if the debugger approach fails, though that method is noisier and easier to detect  
+  
+Gen Digital confirmed the code came from ElevationKatz by researcher Meckazin, public on GitHub for over six months. VoidStealer is the first infostealer to use it in the wild. Chrome, Edge, Brave, Opera, and Vivaldi are in range. Firefox is not affected  
+  
+Watch for debugger attachment to browser processes. Legitimate software never does this  
+  
+→ Processes attaching to chrome.exe or msedge.exe via DebugActiveProcess  
+→ Hidden browser instances with SW_HIDE or headless mode  
+→ ReadProcessMemory calls from unknown processes targeting browser processes  
+→ Chrome or Edge with unexpected parent processes  
+  
+SHA-256 hash for VoidStealer v2.0:  
+f783fde5cf7930e4b3054393efadd3675b505cbef8e9d7ae58aa35b435adeea4  
+  
+Stop storing passwords in the browser. Use Bitwarden or 1Password instead. Keep Windows and Chrome updated, avoid unverified software, and use endpoint protection that monitors process behavior.
+  
+Research & writing: Jolanda de Koff  
+Sharing is fine. Copying without credit is not.
+
+Full Breakdown: https://hackingpassion.com/voidstealer-chrome-abe-bypass/
+
+----
 
 **PPG-Toolbox** is an open-source platform designed for camera-based physiological sensing, also known as remote photoplethysmography (rPPG):
 
 https://github.com/ubicomplab/rPPG-Toolbox
-
-Epstein Network. This is a visualization of the people whose faces are in the [Epstein Library](https://www.justice.gov/epstein) dataset. The circles (nodes) are people, and the lines (edges) between them are when two people are in the same photograph together:
-
-https://epstein.photos/
-
-Yosemite Crew is an open-source operating system designed for animal health industry. At its core is a free, fully customizable Practice Management System (PMS) that unifies pet care operations, bringing together pet owners, pet businesses, and developers into one innovative ecosystem
-
-https://github.com/YosemiteCrew/Yosemite-Crew
-
-Translate Documents Online. Upload a PDF, Word, or PowerPoint file, pick your language, and get it back translated — tables, images, and formatting all in place. Four translation engines, 100+ languages, done in seconds:
-
-https://www.doctranslating.com/
 
 BookLore. A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics:
 
@@ -53,41 +67,7 @@ https://appliedawareness.ca/professional-membership-portals-an-excellent-resourc
 
 ----
 
-OpenPostings is an OpenSource ATS job aggregator and application tracking app. **It pulls jobs that were posted in the last 24 hours** or that has no posted date. 
-
-Over 100000+ companies from multiple ATSs all sourced into 1 location:
-
-https://github.com/Masterjx9/OpenPostings
-
-----
-
-Copilot for Obsidian is your in‑vault AI assistant with chat-based vault search, web and YouTube support, powerful context processing, and ever-expanding agentic capabilities within Obsidian's highly customizable workspace - all while keeping your data under **your** control
-
-Link: https://www.obsidiancopilot.com
-
-GitHub: https://github.com/logancyang/obsidian-copilot
-
-----
-
 **OSINT Tools, Services and Investigations:**
-
-UrlVet (SafeSurf). Open-source phishing detection engine — paste any URL and get a trust score, a fully explainable verdict, and a shareable security report with live page preview, all in real time: https://github.com/abhizaik/urlvet
-
-**FastALPR** is a high-performance, customizable Automatic License Plate Recognition (ALPR) system. We offer fast and efficient ONNX models by default, but you can easily swap in your own models if needed: https://github.com/ankandrew/fast-alpr
-
-Leaf. Terminal Markdown previewer, GUI-like experience: https://github.com/RivoLink/leaf
-
-MetaRadar. A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected: https://github.com/BLE-Research-Group/MetaRadar
-
-YourSteaID. Qt GUI application for downloading videos, playlists and monitoring streams: https://github.com/ivan-an/YouStealD
-
-ShareTrace. Reveal the identity behind a share link: https://github.com/soxoj/sharetrace
-
-Twitter Profile History Lookup: https://twitter.lolarchiver.com/
-
-Web-Check.xyz - X-Ray vision for Websites: https://web-check.xyz/
-
-SpotiFLAG. Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required: https://github.com/spotbye/SpotiFLAC
 
 Docker Steam Headless. A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI: https://github.com/Steam-Headless/docker-steam-headless
 
@@ -101,23 +81,7 @@ Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/S
 
 **Universal Search & AI:**
 
-Cronicle. A simple, distributed task scheduler and runner with a web based UI: https://github.com/jhuckaby/Cronicle
-
-Steno is the AI powered intelligence layer for all your confidential conversations. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs: https://github.com/ruzin/stenoai
-
-Claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface - from SQLi to shellcode, EDR evasion to exploit development: https://github.com/SnailSploit/Claude-Red
-
-Open Brain. Semantic memory for AI agents. Postgres + pgvector + MCP. Capture, classify, retrieve: https://github.com/shawnpetros/open-brain
-
-**EverOS** is a unified home for applying, building, and evaluating long-term memory in self-evolving agents: https://github.com/EverMind-AI/EverOS
-
-Playwright Computer Use. Easily use the Claude `computer` tool to let an agent interact with a web browser on your machine (playwright): https://github.com/invariantlabs-ai/playwright-computer-use
-
-Heym. Self-hosted AI workflow automation platform with visual canvas, agents, RAG, HITL, MCP, and observability in one runtime: https://github.com/heymrun/heym/
-
-OpenHands Software Agent SDK. The SDK is a composable Python library that contains all of our agentic tech. It's the engine that powers everything else below. Define agents in code, then run them locally, or scale to 1000s of agents in the cloud: https://github.com/OpenHands/OpenHands
-
-Agentic Inbox. A self-hosted email client with an AI agent, running entirely on Cloudflare Workers: https://github.com/cloudflare/agentic-inbox
+Free LLM API. OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only: https://github.com/tashfeenahmed/freellmapi
 
 Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense: https://github.com/luckyPipewrench/pipelock
 
@@ -171,14 +135,6 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Software Development & APIs:**
 
-DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more: https://github.com/freeCodeCamp/devdocs
-
-Astro. The web framework for content-driven websites. Astro powers the world's fastest marketing sites, blogs, e-commerce websites, and more: https://astro.build/
-
-Pipedream provides a free, hosted platform for connecting apps and developing event-driven automations. The platform has over 1,000 fully-integrated applications, so you can use pre-built components to quickly send messages to Slack, add a new row to Google Sheets, and more. You can also run any Node.js, Python, Golang, or Bash code when you need custom logic: https://github.com/PipedreamHQ/pipedream
-
-OpenWA. Free, Open Source, Self-Hosted WhatsApp API Gateway: https://github.com/rmyndharis/OpenWA
-
 TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg: https://github.com/glincker/thesvg
 
 Otel GUI. A lightweight, zero-config OpenTelemetry trace viewer for local development: https://github.com/metafab/otel-gui
@@ -186,16 +142,6 @@ Otel GUI. A lightweight, zero-config OpenTelemetry trace viewer for local develo
 ----
 
 **Linux & DevOps:**
-
-The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS: https://github.com/Zeal-Operating-System/ZealOS
-
-Nextcloud server, a safe home for all your data: https://github.com/nextcloud/server
-
-socktop is a remote system monitor with a rich TUI interface, inspired by `top` and `btop`, that communicates with a lightweight remote agent over WebSockets: https://github.com/jasonwitty/socktop
-
-DPI Checkers. Repository contains checkers that allow you to determine if your residential ISP (or a server in a data center) has DPI, as well as the specific methods (and their parameters) the censor uses for restrictions: https://github.com/hyperion-cs/dpi-checkers
-
-Terax AI. Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React: https://github.com/crynta/Terax-AI
 
 Stalwart. All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV): https://github.com/stalwartlabs/stalwart
 
@@ -209,9 +155,7 @@ Kaku. A fast, out-of-the-box terminal built for AI coding: https://github.com/tw
 
 **Hardware & Devices:**
 
-Teleop. Turns your phone or VR headset into a robot arm teleoperation device by leveraging WebXR: https://github.com/SpesRobotics/teleop
 
-A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation: https://github.com/kritishmohapatra/100_Days_100_IoT_Projects
 
 Dex Retargeting. Various retargeting optimizers to translate human hand motion to robot hand motion: https://github.com/dexsuite/dex-retargeting
 
@@ -221,9 +165,7 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 
 **New from CyberDetective:**
 
-OPENOSINT. OSINT agent, MCP server, and CLI for Open Source Intelligence. Search info by email, username, domain and more:
 
-https://openosint.tech/
 
 ----
 

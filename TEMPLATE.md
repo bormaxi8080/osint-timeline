@@ -1,7 +1,5 @@
 ![OSINTech Timeline](img/147.jpg)
 
-# OSINTech’s Timeline #148
-
 drowning in generated content
 the world stands in line for 
 virtual bread
