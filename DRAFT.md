@@ -105,6 +105,8 @@ Android IMSI Catcher Detector. `AIMSICD` is an Android app to detect [IMSI-Cat
 
 Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/SagerNet/sing-box) universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet: https://github.com/hiddify/hiddify-app
 
+Transmission is a fast, easy, and free BitTorrent client. It comes in several flavors: A native macOS GUI application, GTK+ and Qt GUI applications for Linux, BSD, etc, A Qt-based Windows-compatible GUI application, A headless daemon for servers and routers, A web UI for remote controlling any of the above: https://github.com/transmission/transmission
+
 ----
 
 **Universal Search & AI:**
