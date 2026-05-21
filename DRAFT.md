@@ -38,6 +38,8 @@ Full Breakdown: https://hackingpassion.com/voidstealer-chrome-abe-bypass/
 
 ----
 
+LeoLabs. PERSISTENT ORBITAL INTELLIGENCE. Safeguarding our way of life on Earth with the living map of activity in space: https://leolabs.space/
+
 **PPG-Toolbox** is an open-source platform designed for camera-based physiological sensing, also known as remote photoplethysmography (rPPG):
 
 https://github.com/ubicomplab/rPPG-Toolbox
