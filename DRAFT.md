@@ -69,6 +69,10 @@ https://appliedawareness.ca/professional-membership-portals-an-excellent-resourc
 
 **OSINT Tools, Services and Investigations:**
 
+Graphtreon. Track, rank, and visualize Patreon creator stats like earnings and growth:
+
+https://graphtreon.com
+
 Docker Steam Headless. A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI: https://github.com/Steam-Headless/docker-steam-headless
 
 AndroidForensics. Automated Android forensic toolkit - extract device info, apps, contacts, call logs, SMS, system logs, and more via ADB for security audits and investigations: https://github.com/DouglasFreshHabian/androidForensics
