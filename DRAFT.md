@@ -89,6 +89,8 @@ Free LLM API. OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI
 
 Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense: https://github.com/luckyPipewrench/pipelock
 
+PromptZero. Zero trace. Full answer. Transparent Claude API proxy that anonymizes PII and sensitive data before it leaves your environment. From pentesters, to pentesters: https://github.com/openbashok/promptzero
+
 Codex Autoresearch Skill. A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept: https://github.com/leo-lilinxiao/codex-autoresearch
 
 Adala is an **A**utonomous **DA**ta (**L**abeling) **A**gent framework. Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we refer to as a "runtime", synonymous with LLM: https://github.com/HumanSignal/Adala
