@@ -113,6 +113,8 @@ Transmission is a fast, easy, and free BitTorrent client. It comes in several fl
 
 Free LLM API. OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only: https://github.com/tashfeenahmed/freellmapi
 
+SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal: https://github.com/aiming-lab/SimpleMem
+
 Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense: https://github.com/luckyPipewrench/pipelock
 
 PromptZero. Zero trace. Full answer. Transparent Claude API proxy that anonymizes PII and sensitive data before it leaves your environment. From pentesters, to pentesters: https://github.com/openbashok/promptzero
@@ -187,7 +189,7 @@ Kaku. A fast, out-of-the-box terminal built for AI coding: https://github.com/tw
 
 **Hardware & Devices:**
 
-
+PromptZero is a natural-language operator for the Flipper Zero. Talk to it like you'd talk to a person - it generates payloads, deploys them, and runs them, all from a single sentence: https://github.com/xunholy/promptzero
 
 Dex Retargeting. Various retargeting optimizers to translate human hand motion to robot hand motion: https://github.com/dexsuite/dex-retargeting
 
