@@ -60,6 +60,8 @@ Full Breakdown: https://hackingpassion.com/voidstealer-chrome-abe-bypass/
 
 ----
 
+Awesome OSINT Arsenal. Curated OSINT & recon toolkit for Kali Linux - 100+ tools, one-command installer, covering SOCMINT, GEOINT, network recon, dark web, forensics & more: https://github.com/rawfilejson/awesome-osint-arsenal
+
 LeoLabs. PERSISTENT ORBITAL INTELLIGENCE. Safeguarding our way of life on Earth with the living map of activity in space: https://leolabs.space/
 
 **PPG-Toolbox** is an open-source platform designed for camera-based physiological sensing, also known as remote photoplethysmography (rPPG):
@@ -106,6 +108,8 @@ Android IMSI Catcher Detector. `AIMSICD` is an Android app to detect [IMSI-Cat
 Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/SagerNet/sing-box) universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet: https://github.com/hiddify/hiddify-app
 
 Transmission is a fast, easy, and free BitTorrent client. It comes in several flavors: A native macOS GUI application, GTK+ and Qt GUI applications for Linux, BSD, etc, A Qt-based Windows-compatible GUI application, A headless daemon for servers and routers, A web UI for remote controlling any of the above: https://github.com/transmission/transmission
+
+GuardDog is a CLI tool to Identify malicious PyPI and npm packages: https://github.com/DataDog/guarddog
 
 ----
 
@@ -168,6 +172,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 ----
 
 **Software Development & APIs:**
+
+**SchemaSpy** is a database metadata analyzer. It helps your database administrators and developers visualize, navigate and understand your data model. With an easy-to-use HTML-based report, traversing the entity-relationship diagram has never been simpler: https://github.com/schemaspy/schemaspy
 
 TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg: https://github.com/glincker/thesvg
 
