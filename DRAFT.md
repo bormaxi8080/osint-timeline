@@ -105,6 +105,8 @@ AndroidForensics. Automated Android forensic toolkit - extract device info, apps
 
 Android IMSI Catcher Detector. `AIMSICD` is an Android app to detect [IMSI-Catchers](https://en.wikipedia.org/wiki/IMSI-catcher). These devices are false mobile towers (base stations) acting between the target mobile phone(s) and the real towers of service providers. As such they are considered a Man-In-The-Middle (MITM) attack. This surveillance technology is also known as "[StingRay](https://en.wikipedia.org/wiki/Stingray_phone_tracker)", "Cellular Interception" and alike: https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 
+Python client for the [Get SMS Online](https://getsms.online/) API. Receive SMS online and get one-time verification codes programmatically for WhatsApp, Telegram, Google, and 700+ other services: https://github.com/getsms-online/get.sms.online-python
+
 Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/SagerNet/sing-box) universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet: https://github.com/hiddify/hiddify-app
 
 Transmission is a fast, easy, and free BitTorrent client. It comes in several flavors: A native macOS GUI application, GTK+ and Qt GUI applications for Linux, BSD, etc, A Qt-based Windows-compatible GUI application, A headless daemon for servers and routers, A web UI for remote controlling any of the above: https://github.com/transmission/transmission
