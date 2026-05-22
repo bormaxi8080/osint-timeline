@@ -101,6 +101,8 @@ https://graphtreon.com
 
 Docker Steam Headless. A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI: https://github.com/Steam-Headless/docker-steam-headless
 
+Autobrr. Modern, easy to use download automation for torrents and usenet: https://github.com/autobrr/autobrr
+
 AndroidForensics. Automated Android forensic toolkit - extract device info, apps, contacts, call logs, SMS, system logs, and more via ADB for security audits and investigations: https://github.com/DouglasFreshHabian/androidForensics
 
 Android IMSI Catcher Detector. `AIMSICD` is an Android app to detect [IMSI-Catchers](https://en.wikipedia.org/wiki/IMSI-catcher). These devices are false mobile towers (base stations) acting between the target mobile phone(s) and the real towers of service providers. As such they are considered a Man-In-The-Middle (MITM) attack. This surveillance technology is also known as "[StingRay](https://en.wikipedia.org/wiki/Stingray_phone_tracker)", "Cellular Interception" and alike: https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
