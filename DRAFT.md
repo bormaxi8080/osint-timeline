@@ -105,6 +105,8 @@ Docker Steam Headless. A Headless Steam Docker image supporting NVIDIA GPU and a
 
 Autobrr. Modern, easy to use download automation for torrents and usenet: https://github.com/autobrr/autobrr
 
+Crusible SigInt. Passive OSINT engine: one seed domain → full infrastructure cluster. Automates Ryan McDonald's scam-kit fingerprinting methodology. crt.sh · urlscan · DNS · RDAP · JS wallet drain detection: https://github.com/neatlabs-ai/crucible-sigint
+
 AndroidForensics. Automated Android forensic toolkit - extract device info, apps, contacts, call logs, SMS, system logs, and more via ADB for security audits and investigations: https://github.com/DouglasFreshHabian/androidForensics
 
 Android IMSI Catcher Detector. `AIMSICD` is an Android app to detect [IMSI-Catchers](https://en.wikipedia.org/wiki/IMSI-catcher). These devices are false mobile towers (base stations) acting between the target mobile phone(s) and the real towers of service providers. As such they are considered a Man-In-The-Middle (MITM) attack. This surveillance technology is also known as "[StingRay](https://en.wikipedia.org/wiki/Stingray_phone_tracker)", "Cellular Interception" and alike: https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
@@ -124,6 +126,8 @@ GuardDog is a CLI tool to Identify malicious PyPI and npm packages: https://gith
 Free LLM API. OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only: https://github.com/tashfeenahmed/freellmapi
 
 Agent Skills for Marketing - SEO, Social, Influencer & More. 160+ open-source skills for SEO, content, 40+ page types, paid ads, channels, and strategies. Add project context; get tailored, production-ready output. Cursor, Claude Code, OpenClaw - no lock-in: https://github.com/kostja94/marketing-skills
+
+RocketRide. High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment: https://github.com/rocketride-org/rocketride-server
 
 Stop Slop. A skill file for removing AI tells from prose: https://github.com/hardikpandya/stop-slop
 
