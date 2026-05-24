@@ -60,6 +60,8 @@ Full Breakdown: https://hackingpassion.com/voidstealer-chrome-abe-bypass/
 
 ----
 
+OSINT of Democratic Republic of the Congo (DRC): https://substack.com/home/post/p-197857984
+
 Awesome OSINT Arsenal. Curated OSINT & recon toolkit for Kali Linux - 100+ tools, one-command installer, covering SOCMINT, GEOINT, network recon, dark web, forensics & more: https://github.com/rawfilejson/awesome-osint-arsenal
 
 LeoLabs. PERSISTENT ORBITAL INTELLIGENCE. Safeguarding our way of life on Earth with the living map of activity in space: https://leolabs.space/
@@ -121,6 +123,16 @@ GuardDog is a CLI tool to Identify malicious PyPI and npm packages: https://gith
 
 Free LLM API. OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only: https://github.com/tashfeenahmed/freellmapi
 
+Agent Skills for Marketing - SEO, Social, Influencer & More. 160+ open-source skills for SEO, content, 40+ page types, paid ads, channels, and strategies. Add project context; get tailored, production-ready output. Cursor, Claude Code, OpenClaw - no lock-in: https://github.com/kostja94/marketing-skills
+
+Stop Slop. A skill file for removing AI tells from prose: https://github.com/hardikpandya/stop-slop
+
+**KaliGPT**. An Agentic assistance in Linux CLI for Ethical Hacking & Cybersecurity to use AI with ease to learn and master CyberSecurity: https://github.com/SudoHopeX/KaliGPT
+
+Xalgorix. The Most Powerful Open-Source AI Pentesting Agent: https://github.com/xalgord/xalgorix
+
+ReasonX. MLLM-Guided Intrinsic Image Decomposition: https://alaradirik.github.io/reasonx/
+
 SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal: https://github.com/aiming-lab/SimpleMem
 
 Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense: https://github.com/luckyPipewrench/pipelock
@@ -181,6 +193,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg: https://github.com/glincker/thesvg
 
+Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler: https://github.com/FreeCAD/FreeCAD
+
 Otel GUI. A lightweight, zero-config OpenTelemetry trace viewer for local development: https://github.com/metafab/otel-gui
 
 ----
@@ -209,7 +223,9 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 
 **New from CyberDetective:**
 
+BraveDown. There are plenty of free online tools for downloading content from various social media platforms. TikTok, Twitter, VK, Odnoklassniki, Weibo, Threads and others.
 
+https://bravedown.com/
 
 ----
 
