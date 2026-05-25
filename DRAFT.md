@@ -107,6 +107,10 @@ Autobrr. Modern, easy to use download automation for torrents and usenet: https:
 
 Crusible SigInt. Passive OSINT engine: one seed domain → full infrastructure cluster. Automates Ryan McDonald's scam-kit fingerprinting methodology. crt.sh · urlscan · DNS · RDAP · JS wallet drain detection: https://github.com/neatlabs-ai/crucible-sigint
 
+DeblurGAN. Image Deblurring using Generative Adversarial Networks: https://github.com/KupynOrest/DeblurGAN
+
+ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution: https://github.com/xinntao/ESRGAN
+
 AndroidForensics. Automated Android forensic toolkit - extract device info, apps, contacts, call logs, SMS, system logs, and more via ADB for security audits and investigations: https://github.com/DouglasFreshHabian/androidForensics
 
 Android IMSI Catcher Detector. `AIMSICD` is an Android app to detect [IMSI-Catchers](https://en.wikipedia.org/wiki/IMSI-catcher). These devices are false mobile towers (base stations) acting between the target mobile phone(s) and the real towers of service providers. As such they are considered a Man-In-The-Middle (MITM) attack. This surveillance technology is also known as "[StingRay](https://en.wikipedia.org/wiki/Stingray_phone_tracker)", "Cellular Interception" and alike: https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
@@ -192,6 +196,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 ----
 
 **Software Development & APIs:**
+
+AI Pair Programming in Your Terminal. **Aider** lets you pair program with LLMs to start a new project or build on your existing codebase: https://github.com/Aider-AI/aider
 
 **SchemaSpy** is a database metadata analyzer. It helps your database administrators and developers visualize, navigate and understand your data model. With an easy-to-use HTML-based report, traversing the entity-relationship diagram has never been simpler: https://github.com/schemaspy/schemaspy
 
