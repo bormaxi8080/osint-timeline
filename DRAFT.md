@@ -107,6 +107,8 @@ Autobrr. Modern, easy to use download automation for torrents and usenet: https:
 
 Crusible SigInt. Passive OSINT engine: one seed domain → full infrastructure cluster. Automates Ryan McDonald's scam-kit fingerprinting methodology. crt.sh · urlscan · DNS · RDAP · JS wallet drain detection: https://github.com/neatlabs-ai/crucible-sigint
 
+Deskreen turns any device with a web browser into a secondary screen for your computer: https://github.com/pavlobu/deskreen
+
 DeblurGAN. Image Deblurring using Generative Adversarial Networks: https://github.com/KupynOrest/DeblurGAN
 
 ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution: https://github.com/xinntao/ESRGAN
