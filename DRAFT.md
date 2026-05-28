@@ -27,6 +27,8 @@ UFO Monument
 
 ----
 
+OSINT Anatomy / Google API keys keep working after you delete them: https://www.aikido.dev/blog/google-api-keys-deletion
+
 OSINT Anatomy / VoidStealer: Debugging Chrome to Steal Its Secrets. A Novel Debugger-based ABE Bypass Spotted in the Wild: https://www.gendigital.com/blog/insights/research/voidstealer-abe-bypass
 
 Chrome keeps saved passwords locked behind one master key. VoidStealer steals that key using a tool Chrome cannot block. When it is done, passwords, open sessions, and payment cards are all readable. The technique had been on GitHub for over six months. Nobody had used it in the wild until now.  
@@ -109,6 +111,10 @@ Crusible SigInt. Passive OSINT engine: one seed domain → full infrastructure c
 
 Deskreen turns any device with a web browser into a secondary screen for your computer: https://github.com/pavlobu/deskreen
 
+AIMap. Internet-scale discovery and security testing platform for exposed AI agent infrastructure: https://github.com/BishopFox/aimap
+
+Phantomstars. Automated detection and tracking of fake engagement on GitHub - daily CI, zero infrastructure: https://github.com/tg12/phantomstars
+
 DeblurGAN. Image Deblurring using Generative Adversarial Networks: https://github.com/KupynOrest/DeblurGAN
 
 ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution: https://github.com/xinntao/ESRGAN
@@ -118,6 +124,8 @@ AndroidForensics. Automated Android forensic toolkit - extract device info, apps
 Android IMSI Catcher Detector. `AIMSICD` is an Android app to detect [IMSI-Catchers](https://en.wikipedia.org/wiki/IMSI-catcher). These devices are false mobile towers (base stations) acting between the target mobile phone(s) and the real towers of service providers. As such they are considered a Man-In-The-Middle (MITM) attack. This surveillance technology is also known as "[StingRay](https://en.wikipedia.org/wiki/Stingray_phone_tracker)", "Cellular Interception" and alike: https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 
 Python client for the [Get SMS Online](https://getsms.online/) API. Receive SMS online and get one-time verification codes programmatically for WhatsApp, Telegram, Google, and 700+ other services: https://github.com/getsms-online/get.sms.online-python
+
+MiroFish. A Simple and Universal Swarm Intelligence Engine, Predicting Anything: https://github.com/666ghj/MiroFish
 
 Hiddify. A multi-platform proxy client based on [Sing-box](https://github.com/SagerNet/sing-box) universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet: https://github.com/hiddify/hiddify-app
 
@@ -129,9 +137,21 @@ GuardDog is a CLI tool to Identify malicious PyPI and npm packages: https://gith
 
 **Universal Search & AI:**
 
+Webwright. A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks: https://github.com/microsoft/Webwright
+
+Postiz. An alternative to Buffer.com, Hypefury, Twitter Hunter, etc. Postiz offers everything you need to manage your social media posts, build an audience, capture leads, and grow your business: https://github.com/gitroomhq/postiz-app
+
 Free LLM API. OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only: https://github.com/tashfeenahmed/freellmapi
 
+Nango. # Build product integrations with AI. Connect your product & AI agents with 800+ APIs. Build, run, and maintain integrations with AI in code, on infrastructure built for scale: https://github.com/NangoHQ/nango
+
 Agent Skills for Marketing - SEO, Social, Influencer & More. 160+ open-source skills for SEO, content, 40+ page types, paid ads, channels, and strategies. Add project context; get tailored, production-ready output. Cursor, Claude Code, OpenClaw - no lock-in: https://github.com/kostja94/marketing-skills
+
+Alibaba Page Agent. JavaScript in-page GUI agent. Control web interfaces with natural language: https://github.com/alibaba/page-agent
+
+ReMe. Memory Management Kit for Agents - Remember Me, Refine Me: https://github.com/agentscope-ai/ReMe
+
+CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities: https://github.com/Ed1s0nZ/CyberStrikeAI
 
 RocketRide. High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment: https://github.com/rocketride-org/rocketride-server
 
@@ -152,6 +172,12 @@ PromptZero. Zero trace. Full answer. Transparent Claude API proxy that anonymize
 Codex Autoresearch Skill. A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept: https://github.com/leo-lilinxiao/codex-autoresearch
 
 Adala is an **A**utonomous **DA**ta (**L**abeling) **A**gent framework. Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labeling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we refer to as a "runtime", synonymous with LLM: https://github.com/HumanSignal/Adala
+
+Hindsight. Agent Memory That Learns: https://github.com/vectorize-io/hindsight
+
+mb: mini-browser for Agents. Browser CLI for agents. Each command is a small Unix tool - reads args, writes stdout, composes with pipes and `&&`: https://github.com/runablehq/mini-browser
+
+OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving: https://github.com/volcengine/OpenViking
 
 PaperBanana: Automating Academic Illustration For AI Scientists: https://github.com/dwzhu-pku/PaperBanana
 
@@ -202,6 +228,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 AI Pair Programming in Your Terminal. **Aider** lets you pair program with LLMs to start a new project or build on your existing codebase: https://github.com/Aider-AI/aider
 
 **SchemaSpy** is a database metadata analyzer. It helps your database administrators and developers visualize, navigate and understand your data model. With an easy-to-use HTML-based report, traversing the entity-relationship diagram has never been simpler: https://github.com/schemaspy/schemaspy
+
+pgGraph. Open-source graph database superpowers for your existing Postgres data: https://github.com/Evokoa/pgGraph
 
 TheSVG. 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg: https://github.com/glincker/thesvg
 
