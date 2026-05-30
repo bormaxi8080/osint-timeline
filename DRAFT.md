@@ -34,7 +34,7 @@ OSINT of Ukraine by Unishka Research Service: https://substack.com/home/post/p-1
 
 **OSINT Tools, Services and Investigations:**
 
-
+Katolin. Automatically install all Kali linux tools: https://github.com/LionSec/katoolin
 
 ----
 
