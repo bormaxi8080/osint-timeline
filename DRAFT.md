@@ -128,7 +128,9 @@ valveFM. Vintage FM radio TUI for streaming stations from radio-browser.info: ht
 
 **New from CyberDetective:**
 
+AgenticEarth. An AI assistant with access to 123 geospatial datasets. It allows you to gather a wealth of information about any location on Earth and visualise the results on a map:
 
+https://agenticearth.app/
 
 ----
 
