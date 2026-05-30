@@ -41,6 +41,10 @@ OSINT Anatomy / Google API keys keep working after you delete them: https://www.
 
 Nango. Build product integrations with AI. Connect your product & AI agents with 800+ APIs. Build, run, and maintain integrations with AI in code, on infrastructure built for scale: https://github.com/NangoHQ/nango
 
+Obsidian Skills. Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI: https://github.com/kepano/obsidian-skills
+
+Insanely Fast Whisper. An opinionated CLI to transcribe Audio files w/ Whisper on-device! Powered by Transformers, Optimum & flash-attn. Transcribe 150 minutes (2.5 hours) of audio in less than 98 seconds - with [OpenAI's Whisper Large v3](https://huggingface.co/openai/whisper-large-v3). Blazingly fast transcription is now a reality: https://github.com/Vaibhavs10/insanely-fast-whisper
+
 **KaliGPT**. An Agentic assistance in Linux CLI for Ethical Hacking & Cybersecurity to use AI with ease to learn and master CyberSecurity: https://github.com/SudoHopeX/KaliGPT
 
 Xalgorix. The Most Powerful Open-Source AI Pentesting Agent: https://github.com/xalgord/xalgorix
