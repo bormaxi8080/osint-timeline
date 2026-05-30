@@ -28,6 +28,7 @@ OSINT Anatomy / Google API keys keep working after you delete them: https://www.
 
 ----
 
+OSINT of Ukraine by Unishka Research Service: https://substack.com/home/post/p-199179906
 
 ----
 
