@@ -36,6 +36,8 @@ OSINT of Ukraine by Unishka Research Service: https://substack.com/home/post/p-1
 
 Katolin. Automatically install all Kali linux tools: https://github.com/LionSec/katoolin
 
+AirTrail. A modern, open-source personal flight tracking system: https://github.com/johanohly/AirTrail
+
 ----
 
 **Universal Search & AI:**
