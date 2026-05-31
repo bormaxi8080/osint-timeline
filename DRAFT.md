@@ -112,7 +112,7 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Software Development & APIs:**
 
-
+ASPRON. The interface dissolves. The effect remains. The evidence survives. ASPRON is a dissolvable application proof-of-concept: a temporary workflow capsule that performs one bounded task, visualizes a policy boundary, then dissolves the working capability while preserving reduced evidence. This repository contains a browser-only prototype for the ASPRON Safe Intake Capsule: https://github.com/9TEVE-O/ASPRON-
 
 ----
 
