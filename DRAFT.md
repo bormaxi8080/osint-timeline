@@ -42,6 +42,8 @@ AirTrail. A modern, open-source personal flight tracking system: https://github.
 
 **Universal Search & AI:**
 
+Kimi Code CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, execute shell commands, search and fetch web pages, and autonomously plan and adjust actions during execution: https://github.com/MoonshotAI/kimi-cli
+
 Nango. Build product integrations with AI. Connect your product & AI agents with 800+ APIs. Build, run, and maintain integrations with AI in code, on infrastructure built for scale: https://github.com/NangoHQ/nango
 
 Obsidian Skills. Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI: https://github.com/kepano/obsidian-skills
