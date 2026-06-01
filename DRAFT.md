@@ -36,13 +36,19 @@ OSINT of Ukraine by Unishka Research Service: https://substack.com/home/post/p-1
 
 Katolin. Automatically install all Kali linux tools: https://github.com/LionSec/katoolin
 
+TXFetch. Blockchain transaction retrieval tool for OSINT and crypto forensics. Search by timestamp, amount and memo across multiple networks. Find blockchain transactions by time, amount and memo - without the TX hash: https://github.com/xaynov-osint/txfetch
+
 AirTrail. A modern, open-source personal flight tracking system: https://github.com/johanohly/AirTrail
+
+Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram or webUI. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning: https://github.com/freqtrade/freqtrade
 
 ----
 
 **Universal Search & AI:**
 
 Kimi Code CLI is an AI agent that runs in the terminal, helping you complete software development tasks and terminal operations. It can read and edit code, execute shell commands, search and fetch web pages, and autonomously plan and adjust actions during execution: https://github.com/MoonshotAI/kimi-cli
+
+Continuum. A persistent, multi-agent Model Context Protocol (MCP) server. Continuum gives AI coding agents - Claude Code, OpenCode, Codex, Gemini CLI - a shared, live view of a codebase and a memory that survives across agents and sessions: https://github.com/redstone-md/Continuum
 
 Nango. Build product integrations with AI. Connect your product & AI agents with 800+ APIs. Build, run, and maintain integrations with AI in code, on infrastructure built for scale: https://github.com/NangoHQ/nango
 
