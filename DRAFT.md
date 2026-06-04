@@ -34,6 +34,8 @@ UFO Monument
 
 **Universal Search & AI:**
 
+Odysseus. A self-hosted AI workspace - meant to be the self-hosted version of the UI experience you get from ChatGPT and Claude. But with more jank and fun. Running on your own hardware, with your own data - local-first, privacy-first, and no trojan: https://github.com/pewdiepie-archdaemon/odysseus
+
 AgentShield. AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration: https://github.com/affaan-m/agentshield
 
 Ship-Safe. CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies: https://github.com/asamassekou10/ship-safe
@@ -67,6 +69,8 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 ----
 
 **Hardware & Devices:**
+
+Polycut is a tool designed to import SVG files and convert them to 2D GCode to run on 3D Printers that have blades/pens/knives/foil stampers or other tools attached. It also directly supports uploading to a networked 3D Printer via Klipper. Think of it as an alternative to buying a Cricut if you already have a 3D Printer: https://github.com/IridiumIO/PolyCut
 
 Dex Retargeting. Various retargeting optimizers to translate human hand motion to robot hand motion: https://github.com/dexsuite/dex-retargeting
 
