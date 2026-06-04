@@ -34,13 +34,29 @@ OSINT of Ukraine by Unishka Research Service: https://substack.com/home/post/p-1
 
 **OSINT Tools, Services and Investigations:**
 
-Katolin. Automatically install all Kali linux tools: https://github.com/LionSec/katoolin
+Awesome Security lists for SOC/CERT/CTI:
 
-TXFetch. Blockchain transaction retrieval tool for OSINT and crypto forensics. Search by timestamp, amount and memo across multiple networks. Find blockchain transactions by time, amount and memo - without the TX hash: https://github.com/xaynov-osint/txfetch
+https://github.com/mthcht/awesome-lists
 
-AirTrail. A modern, open-source personal flight tracking system: https://github.com/johanohly/AirTrail
+Air/Land/Sea OSINT. StartMe page by Robert Bourgoing. Forest map, fire map, land cover, marine traffic, vessels list, flight tracking and more:
 
-Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram or webUI. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning: https://github.com/freqtrade/freqtrade
+https://start.me/p/p1LqPo/robert-s-links-air-land-sea
+
+TXFetch. Blockchain transaction retrieval tool for OSINT and crypto forensics. Search by timestamp, amount and memo across multiple networks. Find blockchain transactions by time, amount and memo - without the TX hash:
+
+https://github.com/xaynov-osint/txfetch
+
+AirTrail. A modern, open-source personal flight tracking system:
+
+https://github.com/johanohly/AirTrail
+
+Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram or webUI. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning:
+
+https://github.com/freqtrade/freqtrade
+
+SikkerAPI. Cybersecurity platform for IP reputation & threat intelligence from a global honeypot network:
+
+https://sikkerapi.com
 
 ----
 
@@ -124,7 +140,9 @@ ASPRON. The interface dissolves. The effect remains. The evidence survives. ASPR
 
 **Linux & DevOps:**
 
+Katolin. Automatically install all Kali linux tools:
 
+https://github.com/LionSec/katoolin
 
 ----
 
