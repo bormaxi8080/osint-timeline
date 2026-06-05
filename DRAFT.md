@@ -52,19 +52,21 @@ Deepsafe Scan. Universal preflight security scanner for AI coding agents. Detect
 
 Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations: https://github.com/gadievron/raptor
 
+VisorGoose. Gov-TLD Ollama discovery via CT logs, Shodan, and DNS; detects CVE-2025-63389, cloud proxy takeovers, and RAG/distilled models across 25 government TLD patterns: https://github.com/nuclide-research/VisorGoose
+
 PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic: https://github.com/promptfoo/promptfoo
 
 ----
 
 **Software Development & APIs:**
 
-
+Matadata Remover. Privacy-focused metadata removal that runs entirely in your browser with WebAssembly. Files are processed locally and are never uploaded: https://github.com/iAnonymous3000/metadata-remover
 
 ----
 
 **Linux & DevOps:**
 
-
+Marzban (the Persian word for "border guard" - pronounced /mærz'ban/) is a proxy management tool that provides a simple and easy-to-use user interface for managing hundreds of proxy accounts powered by [Xray-core](https://github.com/XTLS/Xray-core) and built using Python and Reactjs: https://github.com/Gozargah/Marzban
 
 ----
 
