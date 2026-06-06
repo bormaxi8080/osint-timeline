@@ -28,7 +28,7 @@ UFO Monument
 
 **OSINT Tools, Services and Investigations:**
 
-
+A scriptable WhatsApp client built on [`whatsmeow`](https://github.com/tulir/whatsmeow). Pairs as a linked WhatsApp Web device, mirrors your messages into a local SQLite store, and gives you offline search, sending, and chat/group/contact management from the command line: https://github.com/openclaw/wacli
 
 ----
 
