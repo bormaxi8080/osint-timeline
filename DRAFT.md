@@ -132,6 +132,8 @@ A scriptable WhatsApp client built on [`whatsmeow`](https://github.com/tulir/wh
 
 Odysseus. A self-hosted AI workspace - meant to be the self-hosted version of the UI experience you get from ChatGPT and Claude. But with more jank and fun. Running on your own hardware, with your own data - local-first, privacy-first, and no trojan: https://github.com/pewdiepie-archdaemon/odysseus
 
+Asm. One tool to manage every AI agent's skills. Stop juggling skill directories across Claude Code, Codex, Cursor, Windsurf, and 10+ other AI agents. **agent-skill-manager** (`asm`) gives you a single TUI and CLI to install, search, audit, and organize all your agent skills - everywhere: https://github.com/luongnv89/asm
+
 AgentShield. AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration: https://github.com/affaan-m/agentshield
 
 Ship-Safe. CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies: https://github.com/asamassekou10/ship-safe
@@ -176,7 +178,7 @@ Dex Retargeting. Various retargeting optimizers to translate human hand motion t
 
 **New from CyberDetective:**
 
-
+INTELON. Data leaks search engine (only the names of data sources/files are displayed free of charge and without registration): https://intelon.io/
 
 ----
 
