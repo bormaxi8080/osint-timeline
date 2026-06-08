@@ -126,6 +126,8 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 
 A scriptable WhatsApp client built on [`whatsmeow`](https://github.com/tulir/whatsmeow). Pairs as a linked WhatsApp Web device, mirrors your messages into a local SQLite store, and gives you offline search, sending, and chat/group/contact management from the command line: https://github.com/openclaw/wacli
 
+Media Downloader. Beautiful native macOS video downloader. Download and trim in one app: https://github.com/pixel-point/media-downloader
+
 ----
 
 **Universal Search & AI:**
