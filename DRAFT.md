@@ -22,7 +22,9 @@ UFO Monument
 
 ----
 
-Horizon.  Your own AI-powered news radar. Generates daily briefings: https://github.com/Thysrael/Horizon
+Human Trafficking Open-Source Start Page: https://start.me/p/RM8Lyv/human-trafficking-open-source-startpage
+
+Horizon. Your own AI-powered news radar. Generates daily briefings: https://github.com/Thysrael/Horizon
 
 ----
 
@@ -165,6 +167,8 @@ Matadata Remover. Privacy-focused metadata removal that runs entirely in your br
 ----
 
 **Linux & DevOps:**
+
+dnsfs. Store your data in others DNS resolvers cache, True cloud storage: https://github.com/benjojo/dnsfs
 
 Marzban (the Persian word for "border guard" - pronounced /mærz'ban/) is a proxy management tool that provides a simple and easy-to-use user interface for managing hundreds of proxy accounts powered by [Xray-core](https://github.com/XTLS/Xray-core) and built using Python and Reactjs: https://github.com/Gozargah/Marzban
 
