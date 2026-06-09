@@ -134,6 +134,8 @@ Media Downloader. Beautiful native macOS video downloader. Download and trim in 
 
 **Universal Search & AI:**
 
+**OBLITERATUS** is the most advanced open-source toolkit for understanding and removing refusal behaviors from large language models - and every single run makes it smarter. It implements abliteration - a family of techniques that identify and surgically remove the internal representations responsible for content refusal, without retraining or fine-tuning. The result: a model that responds to all prompts without artificial gatekeeping, while preserving its core language capabilities: https://github.com/elder-plinius/OBLITERATUS
+
 Odysseus. A self-hosted AI workspace - meant to be the self-hosted version of the UI experience you get from ChatGPT and Claude. But with more jank and fun. Running on your own hardware, with your own data - local-first, privacy-first, and no trojan: https://github.com/pewdiepie-archdaemon/odysseus
 
 Asm. One tool to manage every AI agent's skills. Stop juggling skill directories across Claude Code, Codex, Cursor, Windsurf, and 10+ other AI agents. **agent-skill-manager** (`asm`) gives you a single TUI and CLI to install, search, audit, and organize all your agent skills - everywhere: https://github.com/luongnv89/asm
