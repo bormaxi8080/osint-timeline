@@ -138,6 +138,12 @@ Media Downloader. Beautiful native macOS video downloader. Download and trim in 
 
 Odysseus. A self-hosted AI workspace - meant to be the self-hosted version of the UI experience you get from ChatGPT and Claude. But with more jank and fun. Running on your own hardware, with your own data - local-first, privacy-first, and no trojan: https://github.com/pewdiepie-archdaemon/odysseus
 
+Local Deep Research. AI-powered research assistant for deep, agentic research. Performs deep, agentic research using multiple LLMs and search engines with proper citations: https://github.com/LearningCircuit/local-deep-research
+
+Superpowers. An agentic skills framework & software development methodology that works: https://github.com/obra/superpowers
+
+TokenTamer. A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know: https://github.com/borhen68/TokenTamer
+
 Asm. One tool to manage every AI agent's skills. Stop juggling skill directories across Claude Code, Codex, Cursor, Windsurf, and 10+ other AI agents. **agent-skill-manager** (`asm`) gives you a single TUI and CLI to install, search, audit, and organize all your agent skills - everywhere: https://github.com/luongnv89/asm
 
 AgentShield. AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration: https://github.com/affaan-m/agentshield
@@ -171,6 +177,8 @@ Matadata Remover. Privacy-focused metadata removal that runs entirely in your br
 **Linux & DevOps:**
 
 dnsfs. Store your data in others DNS resolvers cache, True cloud storage: https://github.com/benjojo/dnsfs
+
+Security Scenario Generator (SecGen) creates vulnerable virtual machines, lab environments, and hacking challenges, so students can learn security penetration testing techniques. Boxes like Metasploitable2 are always the same, this project uses Vagrant, Puppet, and Ruby to create randomly vulnerable virtual machines that can be used for learning or for hosting CTF events: https://github.com/cliffe/SecGen
 
 Marzban (the Persian word for "border guard" - pronounced /mærz'ban/) is a proxy management tool that provides a simple and easy-to-use user interface for managing hundreds of proxy accounts powered by [Xray-core](https://github.com/XTLS/Xray-core) and built using Python and Reactjs: https://github.com/Gozargah/Marzban
 
