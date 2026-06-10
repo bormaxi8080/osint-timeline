@@ -142,6 +142,12 @@ Local Deep Research. AI-powered research assistant for deep, agentic research. P
 
 Superpowers. An agentic skills framework & software development methodology that works: https://github.com/obra/superpowers
 
+Claude Code Thinking Skills. 18 mental models and critical thinking frameworks for Claude Code - First Principles, Bayesian, Systems Thinking, OODA, Pre-Mortem, and more: https://github.com/tjboudreaux/cc-thinking-skills
+
+Agent Skills. Production-grade engineering skills for AI coding agents: https://github.com/addyosmani/agent-skills
+
+All Agentic Architectures. 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard: https://github.com/FareedKhan-dev/all-agentic-architectures
+
 TokenTamer. A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know: https://github.com/borhen68/TokenTamer
 
 Asm. One tool to manage every AI agent's skills. Stop juggling skill directories across Claude Code, Codex, Cursor, Windsurf, and 10+ other AI agents. **agent-skill-manager** (`asm`) gives you a single TUI and CLI to install, search, audit, and organize all your agent skills - everywhere: https://github.com/luongnv89/asm
@@ -179,6 +185,8 @@ Matadata Remover. Privacy-focused metadata removal that runs entirely in your br
 dnsfs. Store your data in others DNS resolvers cache, True cloud storage: https://github.com/benjojo/dnsfs
 
 Security Scenario Generator (SecGen) creates vulnerable virtual machines, lab environments, and hacking challenges, so students can learn security penetration testing techniques. Boxes like Metasploitable2 are always the same, this project uses Vagrant, Puppet, and Ruby to create randomly vulnerable virtual machines that can be used for learning or for hosting CTF events: https://github.com/cliffe/SecGen
+
+mieru is a secure, hard to classify, hard to probe, TCP or UDP protocol-based socks5 / HTTP / HTTPS network proxy software: https://github.com/enfein/mieru
 
 Marzban (the Persian word for "border guard" - pronounced /mærz'ban/) is a proxy management tool that provides a simple and easy-to-use user interface for managing hundreds of proxy accounts powered by [Xray-core](https://github.com/XTLS/Xray-core) and built using Python and Reactjs: https://github.com/Gozargah/Marzban
 
