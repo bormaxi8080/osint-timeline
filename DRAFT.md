@@ -128,6 +128,8 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 
 **Universal Search & AI:**
 
+Codebase Memory MCP. High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph - average repo in milliseconds. 159 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies: https://github.com/DeusData/codebase-memory-mcp
+
 Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations: https://github.com/gadievron/raptor
 
 VisorGoose. Gov-TLD Ollama discovery via CT logs, Shodan, and DNS; detects CVE-2025-63389, cloud proxy takeovers, and RAG/distilled models across 25 government TLD patterns: https://github.com/nuclide-research/VisorGoose
