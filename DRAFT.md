@@ -120,6 +120,10 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 
 ----
 
+Hacker Scripts. Based on True Stories: https://github.com/NARKOZ/hacker-scripts
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 
@@ -129,6 +133,10 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 **Universal Search & AI:**
 
 Codebase Memory MCP. High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph - average repo in milliseconds. 159 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies: https://github.com/DeusData/codebase-memory-mcp
+
+Obscura is a headless browser engine written in Rust, built for web scraping and AI agent automation. It runs real JavaScript via V8, supports the Chrome DevTools Protocol, and acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright: https://github.com/h4ckf0r0day/obscura
+
+HiveMind. AI Agent Teams That Actually Work Together. 40+ tools. 150+ templates. 5 channels. One command. Self-hosted. Open source. Free forever: https://github.com/hivementality-ai/hivemind
 
 Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations: https://github.com/gadievron/raptor
 
@@ -146,7 +154,7 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 **Linux & DevOps:**
 
-
+Apple Container. A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon: https://github.com/apple/container
 
 ----
 
