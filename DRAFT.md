@@ -128,6 +128,8 @@ Hacker Scripts. Based on True Stories: https://github.com/NARKOZ/hacker-scripts
 
 Obscura is a headless browser engine written in Rust, built for web scraping and AI agent automation. It runs real JavaScript via V8, supports the Chrome DevTools Protocol, and acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright: https://github.com/h4ckf0r0day/obscura
 
+OpenTabs. Browser automation clicks buttons. OpenTabs calls APIs. Your AI calls real web APIs through your browser session - no screenshots, no DOM scraping: https://github.com/opentabs-dev/opentabs
+
 ----
 
 **Universal Search & AI:**
