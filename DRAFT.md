@@ -126,7 +126,7 @@ Hacker Scripts. Based on True Stories: https://github.com/NARKOZ/hacker-scripts
 
 **OSINT Tools, Services and Investigations:**
 
-
+Obscura is a headless browser engine written in Rust, built for web scraping and AI agent automation. It runs real JavaScript via V8, supports the Chrome DevTools Protocol, and acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright: https://github.com/h4ckf0r0day/obscura
 
 ----
 
@@ -134,11 +134,15 @@ Hacker Scripts. Based on True Stories: https://github.com/NARKOZ/hacker-scripts
 
 Codebase Memory MCP. High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph - average repo in milliseconds. 159 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies: https://github.com/DeusData/codebase-memory-mcp
 
-Obscura is a headless browser engine written in Rust, built for web scraping and AI agent automation. It runs real JavaScript via V8, supports the Chrome DevTools Protocol, and acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright: https://github.com/h4ckf0r0day/obscura
+Headroom. Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server: https://github.com/chopratejas/headroom
 
 HiveMind. AI Agent Teams That Actually Work Together. 40+ tools. 150+ templates. 5 channels. One command. Self-hosted. Open source. Free forever: https://github.com/hivementality-ai/hivemind
 
+ClawCodex. A production-oriented Python rebuild of Claude Code — real architecture, reliable CLI agent. Ported from the TypeScript reference implementation and extended with a Python-native runtime: https://github.com/agentforce314/clawcodex/tree/main
+
 Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations: https://github.com/gadievron/raptor
+
+SkillEngine. Production-grade engineering skills for AI coding agents: https://github.com/borhen68/SkillEngine
 
 VisorGoose. Gov-TLD Ollama discovery via CT logs, Shodan, and DNS; detects CVE-2025-63389, cloud proxy takeovers, and RAG/distilled models across 25 government TLD patterns: https://github.com/nuclide-research/VisorGoose
 
@@ -150,11 +154,17 @@ PromptFoo. Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerabi
 
 BigSet. Build and maintain any dataset from the live web, that refreshes regularly. BigSet infers the schema automatically, sends autonomous agents to research it on the live web, verifies what they find against real sources, deduplicates, and hands you a structured dataset. Download as CSV or XLSX. You can even set a refresh cadence (30 min, 6 hours, 12 hours, daily, weekly) and the agents re-run on schedule, pulling fresh data so the dataset never goes stale: https://github.com/tinyfish-io/bigset
 
+JSON-Server. Get a full fake REST API with zero coding in less than 30 seconds (seriously): https://github.com/typicode/json-server
+
+Browsery Tools. 136+ free browser-based tools for productivity & developers. 100% client-side - no servers, no uploads, full privacy. Image & on-device AI tools, file/format converters, code formatters, calculators, generators, and more: https://github.com/aghyad97/browserytools
+
 ----
 
 **Linux & DevOps:**
 
 Apple Container. A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon: https://github.com/apple/container
+
+Rosemary. Cross-platform transparent network tunneling. No TUN/TAP. No proxychains. No proxy settings: https://github.com/blue0x1/rosemary
 
 ----
 
