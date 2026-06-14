@@ -130,6 +130,8 @@ Obscura is a headless browser engine written in Rust, built for web scraping and
 
 OpenTabs. Browser automation clicks buttons. OpenTabs calls APIs. Your AI calls real web APIs through your browser session - no screenshots, no DOM scraping: https://github.com/opentabs-dev/opentabs
 
+Hacker Scoper. CLI tool for filtering URLs/IPs with automatically-updated Bug Bounty program scope rules: https://github.com/ItsIgnacioPortal/hacker-scoper
+
 ----
 
 **Universal Search & AI:**
@@ -165,6 +167,8 @@ Browsery Tools. 136+ free browser-based tools for productivity & developers. 100
 **Linux & DevOps:**
 
 Apple Container. A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon: https://github.com/apple/container
+
+Proxer. A modern HTTP and HTTPS interception proxy with custom-made extensions support: https://github.com/Skuntir/Proxer
 
 Rosemary. Cross-platform transparent network tunneling. No TUN/TAP. No proxychains. No proxy settings: https://github.com/blue0x1/rosemary
 
