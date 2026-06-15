@@ -126,9 +126,13 @@ Hacker Scripts. Based on True Stories: https://github.com/NARKOZ/hacker-scripts
 
 **OSINT Tools, Services and Investigations:**
 
+Just Hire Me. Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials: https://github.com/vasu-devs/justhireme
+
 Obscura is a headless browser engine written in Rust, built for web scraping and AI agent automation. It runs real JavaScript via V8, supports the Chrome DevTools Protocol, and acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright: https://github.com/h4ckf0r0day/obscura
 
 OpenTabs. Browser automation clicks buttons. OpenTabs calls APIs. Your AI calls real web APIs through your browser session - no screenshots, no DOM scraping: https://github.com/opentabs-dev/opentabs
+
+SingleFile. Web Extension for saving a faithful copy of a complete web page in a single HTML file: https://github.com/gildas-lormeau/SingleFile
 
 Hacker Scoper. CLI tool for filtering URLs/IPs with automatically-updated Bug Bounty program scope rules: https://github.com/ItsIgnacioPortal/hacker-scoper
 
@@ -143,6 +147,8 @@ Headroom. Compress tool outputs, logs, files, and RAG chunks before they reach t
 HiveMind. AI Agent Teams That Actually Work Together. 40+ tools. 150+ templates. 5 channels. One command. Self-hosted. Open source. Free forever: https://github.com/hivementality-ai/hivemind
 
 ClawCodex. A production-oriented Python rebuild of Claude Code — real architecture, reliable CLI agent. Ported from the TypeScript reference implementation and extended with a Python-native runtime: https://github.com/agentforce314/clawcodex/tree/main
+
+SurfSense. An open source, privacy focused alternative to NotebookLM for teams with no data limits: https://github.com/MODSetter/SurfSense
 
 Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations: https://github.com/gadievron/raptor
 
@@ -171,6 +177,8 @@ Apple Container. A tool for creating and running Linux containers using lightwei
 Proxer. A modern HTTP and HTTPS interception proxy with custom-made extensions support: https://github.com/Skuntir/Proxer
 
 Rosemary. Cross-platform transparent network tunneling. No TUN/TAP. No proxychains. No proxy settings: https://github.com/blue0x1/rosemary
+
+DPI Detector. DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP, DNS blocking and 16-20KB connection drops: https://github.com/Runnin4ik/dpi-detector
 
 ----
 
