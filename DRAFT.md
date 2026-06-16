@@ -138,6 +138,8 @@ OpenTabs. Browser automation clicks buttons. OpenTabs calls APIs. Your AI calls 
 
 SingleFile. Web Extension for saving a faithful copy of a complete web page in a single HTML file: https://github.com/gildas-lormeau/SingleFile
 
+Pile is a desktop app for reflective journaling. It's about simplicity, keeping your data local, and enhancing your journaling experience with AI: https://github.com/UdaraJay/Pile
+
 Hacker Scoper. CLI tool for filtering URLs/IPs with automatically-updated Bug Bounty program scope rules: https://github.com/ItsIgnacioPortal/hacker-scoper
 
 ----
@@ -149,6 +151,15 @@ Codebase Memory MCP. High-performance code intelligence MCP server. Indexes code
 Headroom. Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server: https://github.com/chopratejas/headroom
 
 HiveMind. AI Agent Teams That Actually Work Together. 40+ tools. 150+ templates. 5 channels. One command. Self-hosted. Open source. Free forever: https://github.com/hivementality-ai/hivemind
+
+Gortex. High-performance code graph and code intelligence engine, supports 257 languages, multi repositories, with access via CLI, MCP Server, and API. Built for AI coding agents - expose only needed information, cutting token usage up to 50x. 100% local: https://github.com/zzet/gortex/
+
+Nasiko is a developer control plane that transforms how you build, deploy, and manage AI agents at scale. Built with modern microservices architecture, Nasiko provides everything needed to run production AI agent ecosystems: https://github.com/Nasiko-Labs/nasiko
+
+Devin Desktop. Manage fleets of local and cloud agents from one surface.  
+Plan, delegate, review, and ship without leaving your editor: https://devin.ai/desktop
+
+Rowboat. Open-source AI coworker that turns work into a knowledge graph and acts on it. Rowboat connects to your email and meeting notes, builds a long-lived knowledge graph, and uses that context to help you get work done - privately, on your machine.: https://github.com/rowboatlabs/rowboat
 
 ClawCodex. A production-oriented Python rebuild of Claude Code — real architecture, reliable CLI agent. Ported from the TypeScript reference implementation and extended with a Python-native runtime: https://github.com/agentforce314/clawcodex/tree/main
 
@@ -170,6 +181,8 @@ BigSet. Build and maintain any dataset from the live web, that refreshes regular
 
 JSON-Server. Get a full fake REST API with zero coding in less than 30 seconds (seriously): https://github.com/typicode/json-server
 
+mise prepares your development environment before each command runs. It keeps project tools, environment variables, and tasks in one `mise.toml` file so new shells, checkouts, and CI jobs all start from the same setup: https://github.com/jdx/mise
+
 Browsery Tools. 136+ free browser-based tools for productivity & developers. 100% client-side - no servers, no uploads, full privacy. Image & on-device AI tools, file/format converters, code formatters, calculators, generators, and more: https://github.com/aghyad97/browserytools
 
 ----
@@ -177,6 +190,8 @@ Browsery Tools. 136+ free browser-based tools for productivity & developers. 100
 **Linux & DevOps:**
 
 Apple Container. A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon: https://github.com/apple/container
+
+OrbStack is the fast, light, and easy way to run Docker containers and Linux machines. It's a supercharged WSL and Docker Desktop alternative, all in one easy-to-use app: https://github.com/orbstack/orbstack
 
 Proxer. A modern HTTP and HTTPS interception proxy with custom-made extensions support: https://github.com/Skuntir/Proxer
 
