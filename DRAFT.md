@@ -120,6 +120,10 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 
 ----
 
+Australian OSINT start.me Dashboard by hz: https://start.me/p/L10kJ6/australian-osint
+
+OSINT South Africa by DaVinci: https://start.me/p/KMAbkB/osint-south-africa
+
 Hacker Scripts. Based on True Stories: https://github.com/NARKOZ/hacker-scripts
 
 ----
@@ -190,7 +194,9 @@ Dex Retargeting. Various retargeting optimizers to translate human hand motion t
 
 **New from CyberDetective:**
 
+People Investigations Tools. Username search, phone numbers search, traffic violation search, vital records search, inmate records, genealogy, social security number search, face recognition, court records:
 
+https://start.me/p/QLDmA2/people-investigation-personell-intelligence
 
 ----
 
