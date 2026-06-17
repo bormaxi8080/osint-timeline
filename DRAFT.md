@@ -161,6 +161,8 @@ Plan, delegate, review, and ship without leaving your editor: https://devin.ai/d
 
 AI Engineer Coach. Better agentic engineering. Analyze your AI coding assistant usage - any harness, one dashboard: https://github.com/microsoft/AI-Engineering-Coach
 
+VibeDoctor. Deterministic Issue Finder in Vibe Coded Apps in Python and JS. A health check for code you didn't write line by line: https://github.com/neural-axis/VibeDoctor
+
 Rowboat. Open-source AI coworker that turns work into a knowledge graph and acts on it. Rowboat connects to your email and meeting notes, builds a long-lived knowledge graph, and uses that context to help you get work done - privately, on your machine.: https://github.com/rowboatlabs/rowboat
 
 [Agent Skills](https://agentskills.io/) for Bayesian modeling, causal inference, and probabilistic thinking. Compatible with Claude Code, Kimi Code, Cursor, Gemini CLI, and any agent that supports the [Agent Skills spec](https://agentskills.io/specification): https://github.com/Learning-Bayesian-Statistics/baygent-skills
