@@ -159,7 +159,11 @@ Nasiko is a developer control plane that transforms how you build, deploy, and m
 Devin Desktop. Manage fleets of local and cloud agents from one surface.  
 Plan, delegate, review, and ship without leaving your editor: https://devin.ai/desktop
 
+AI Engineer Coach. Better agentic engineering. Analyze your AI coding assistant usage - any harness, one dashboard: https://github.com/microsoft/AI-Engineering-Coach
+
 Rowboat. Open-source AI coworker that turns work into a knowledge graph and acts on it. Rowboat connects to your email and meeting notes, builds a long-lived knowledge graph, and uses that context to help you get work done - privately, on your machine.: https://github.com/rowboatlabs/rowboat
+
+[Agent Skills](https://agentskills.io/) for Bayesian modeling, causal inference, and probabilistic thinking. Compatible with Claude Code, Kimi Code, Cursor, Gemini CLI, and any agent that supports the [Agent Skills spec](https://agentskills.io/specification): https://github.com/Learning-Bayesian-Statistics/baygent-skills
 
 ClawCodex. A production-oriented Python rebuild of Claude Code — real architecture, reliable CLI agent. Ported from the TypeScript reference implementation and extended with a Python-native runtime: https://github.com/agentforce314/clawcodex/tree/main
 
