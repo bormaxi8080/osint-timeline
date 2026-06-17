@@ -130,6 +130,8 @@ Hacker Scripts. Based on True Stories: https://github.com/NARKOZ/hacker-scripts
 
 **OSINT Tools, Services and Investigations:**
 
+OpenOSINT. AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only: https://github.com/OpenOSINT/OpenOSINT
+
 Just Hire Me. Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials: https://github.com/vasu-devs/justhireme
 
 Obscura is a headless browser engine written in Rust, built for web scraping and AI agent automation. It runs real JavaScript via V8, supports the Chrome DevTools Protocol, and acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright: https://github.com/h4ckf0r0day/obscura
