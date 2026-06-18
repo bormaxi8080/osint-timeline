@@ -160,6 +160,10 @@ HiveMind. AI Agent Teams That Actually Work Together. 40+ tools. 150+ templates.
 
 Gortex. High-performance code graph and code intelligence engine, supports 257 languages, multi repositories, with access via CLI, MCP Server, and API. Built for AI coding agents - expose only needed information, cutting token usage up to 50x. 100% local: https://github.com/zzet/gortex/
 
+**OpenKB (Open Knowledge Base)** is an open-source system (in CLI) that compiles raw documents into a structured, interlinked wiki-style knowledge base using LLMs, powered by [**PageIndex**](https://github.com/VectifyAI/PageIndex) for vectorless long document retrieval: https://github.com/VectifyAI/OpenKB
+
+PixelRAG. The end of web parsing. The beginning of scalable pixel-native search. PixelRAG renders documents - web pages, PDFs, images - as screenshots and retrieves over the images directly. Visual structure that HTML parsing throws away - tables, charts, layout, infographics 0 stays intact, so the reader model can actually answer questions about it: https://github.com/StarTrail-org/PixelRAG
+
 Nasiko is a developer control plane that transforms how you build, deploy, and manage AI agents at scale. Built with modern microservices architecture, Nasiko provides everything needed to run production AI agent ecosystems: https://github.com/Nasiko-Labs/nasiko
 
 Devin Desktop. Manage fleets of local and cloud agents from one surface.  
