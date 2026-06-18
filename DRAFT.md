@@ -120,6 +120,8 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 
 ----
 
+Sayari. Analyze global corporate & trade data to uncover hidden supply chain, financial, and third-party risks: https://sayari.com
+
 Australian OSINT start.me Dashboard by hz: https://start.me/p/L10kJ6/australian-osint
 
 OSINT South Africa by DaVinci: https://start.me/p/KMAbkB/osint-south-africa
@@ -137,6 +139,8 @@ Just Hire Me. Local-first AI job intelligence workbench for scraping roles, rank
 Obscura is a headless browser engine written in Rust, built for web scraping and AI agent automation. It runs real JavaScript via V8, supports the Chrome DevTools Protocol, and acts as a drop-in replacement for headless Chrome with Puppeteer and Playwright: https://github.com/h4ckf0r0day/obscura
 
 OpenTabs. Browser automation clicks buttons. OpenTabs calls APIs. Your AI calls real web APIs through your browser session - no screenshots, no DOM scraping: https://github.com/opentabs-dev/opentabs
+
+xResolver. Xbox Resolver and PSN Resolver with Gamertag IP Puller: https://github.com/lancremastered/xresolver
 
 SingleFile. Web Extension for saving a faithful copy of a complete web page in a single HTML file: https://github.com/gildas-lormeau/SingleFile
 
