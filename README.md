@@ -29,6 +29,8 @@ Free to read. Manually curated. Minimal noise.
 
 ## 📌 Timelines
 
+[OSINTech's Timeline (167) - 18.06.2026](./timelines/osintech-timeline_167_18.06.2026.md)
+
 [OSINTech's Timeline (166) - 11.06.2026](./timelines/osintech-timeline_166_11.06.2026.md)
 
 [OSINTech's Timeline (165) - 04.06.2026](./timelines/osintech-timeline_165_04.06.2026.md)
@@ -37,10 +39,10 @@ Free to read. Manually curated. Minimal noise.
 
 [OSINTech's Timeline (163) - 21.05.2026](./timelines/osintech-timeline_163_21.05.2026.md)
 
-[OSINTech's Timeline (162) - 14.05.2026](./timelines/osintech-timeline_162_14.05.2026.md)
-
 <details>
 <summary>See more</summary>
+
+[OSINTech's Timeline (162) - 14.05.2026](./timelines/osintech-timeline_162_14.05.2026.md)
 
 [OSINTech's Timeline (161) - 07.05.2026](./timelines/osintech-timeline_161_07.05.2026.md)
 
