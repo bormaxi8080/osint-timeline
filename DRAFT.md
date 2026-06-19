@@ -124,13 +124,19 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 
 **OSINT Tools, Services and Investigations:**
 
+X/Twitter OSINT API. An API designed to gather open source intelligence from public X profiles without accessing the official API: https://github.com/noahclark556/X-Twitter-OSINT-API
 
+EmailCrawl is a professional-grade OSINT (Open Source Intelligence) tool designed for advanced email address extraction through comprehensive web crawling. Built for cybersecurity professionals, penetration testers, and intelligence analysts: https://github.com/techenthusiast167/EMAIL-CRAWL
+
+Security Suite. Open-source security suite for OSINT, web scanning, API testing, SIEM integration, and AI-powered analysis: https://github.com/TheSecuredAnalyst/security-suite
 
 ----
 
 **Universal Search & AI:**
 
+**DeepEval** is a simple-to-use, open-source LLM evaluation framework, for evaluating large-language model systems. It is similar to Pytest but specialized for unit testing LLM apps. DeepEval incorporates the latest research to run evals via metrics such as G-Eval, task completion, answer relevancy, hallucination, etc., which uses LLM-as-a-judge and other NLP models that run locally on your machine: https://github.com/confident-ai/deepeval
 
+Context Sync. Local persistent memory store for LLM applications including continue.dev, cursor, claude desktop, github copilot, codex, antigravity, etc: https://github.com/Intina47/context-sync
 
 ----
 
