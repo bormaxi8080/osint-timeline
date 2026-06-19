@@ -118,6 +118,8 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 
 ----
 
+Learning about AI often means jumping between guides, tools, privacy notes, API docs, and prompt examples. This curated dashboard brings those resources together in one place, so professionals, educators, and small teams can explore ChatGPT and AI tools with more structure: https://start.me/p/GEYb4M/a-i-chatgpt
+
 
 
 ----
@@ -148,7 +150,7 @@ Context Sync. Local persistent memory store for LLM applications including conti
 
 **Linux & DevOps:**
 
-
+Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Wi: https://github.com/nicolargo/glances
 
 ----
 
