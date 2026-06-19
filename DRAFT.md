@@ -122,7 +122,7 @@ https://github.com/Yeachan-Heo/oh-my-claudecode
 
 Learning about AI often means jumping between guides, tools, privacy notes, API docs, and prompt examples. This curated dashboard brings those resources together in one place, so professionals, educators, and small teams can explore ChatGPT and AI tools with more structure: https://start.me/p/GEYb4M/a-i-chatgpt
 
-
+OSINT of Panama by Unishka Research Service: https://substack.com/home/post/p-200445545
 
 ----
 
@@ -141,6 +141,10 @@ Security Suite. Open-source security suite for OSINT, web scanning, API testing,
 **DeepEval** is a simple-to-use, open-source LLM evaluation framework, for evaluating large-language model systems. It is similar to Pytest but specialized for unit testing LLM apps. DeepEval incorporates the latest research to run evals via metrics such as G-Eval, task completion, answer relevancy, hallucination, etc., which uses LLM-as-a-judge and other NLP models that run locally on your machine: https://github.com/confident-ai/deepeval
 
 Context Sync. Local persistent memory store for LLM applications including continue.dev, cursor, claude desktop, github copilot, codex, antigravity, etc: https://github.com/Intina47/context-sync
+
+HyperExtract. Smart Knowledge Extraction CLI. Transform documents into structured knowledge with one command: https://github.com/yifanfeng97/Hyper-Extract
+
+IAGA Sentinel. The EU AI Act conformity evidence layer for AI agents: https://github.com/EdoardoBambini/IAGA-Sentinel
 
 ----
 
