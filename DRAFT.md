@@ -144,6 +144,8 @@ Context Sync. Local persistent memory store for LLM applications including conti
 
 HyperExtract. Smart Knowledge Extraction CLI. Transform documents into structured knowledge with one command: https://github.com/yifanfeng97/Hyper-Extract
 
+Repo2RLEnv synthesizes **verifiable** training and evaluation data from existing repositories, exports it into a uniform spec, and pushes it straight to the Hugging Face Hub. The output spec is [Harbor](https://github.com/harbor-framework/harbor)'s, so every dataset you produce drops directly into any Harbor-compatible runtime - no glue code: https://github.com/mathieuflamant/repo2rlenv
+
 IAGA Sentinel. The EU AI Act conformity evidence layer for AI agents: https://github.com/EdoardoBambini/IAGA-Sentinel
 
 ----
