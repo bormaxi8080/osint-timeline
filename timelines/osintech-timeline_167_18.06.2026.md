@@ -21,7 +21,7 @@ Analyze global corporate & trade data to uncover hidden supply chain, financial,
 
 🔗 https://sayari.com
 
-📌 Your project could be included in this timeline as a key project. For collaboration inquiries, please contact:
+📌 Your project could be included in this timeline as a key project. For collaboration inquiries, please contact me: @OSINTech
 
 ----
 
