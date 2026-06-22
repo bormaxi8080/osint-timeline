@@ -134,6 +134,8 @@ EmailCrawl is a professional-grade OSINT (Open Source Intelligence) tool designe
 
 Security Suite. Open-source security suite for OSINT, web scanning, API testing, SIEM integration, and AI-powered analysis: https://github.com/TheSecuredAnalyst/security-suite
 
+Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs: https://github.com/Yamato-Security/hayabusa
+
 ----
 
 **Universal Search & AI:**
@@ -142,9 +144,13 @@ Security Suite. Open-source security suite for OSINT, web scanning, API testing,
 
 Context Sync. Local persistent memory store for LLM applications including continue.dev, cursor, claude desktop, github copilot, codex, antigravity, etc: https://github.com/Intina47/context-sync
 
+Dream Server. Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation: https://github.com/Light-Heart-Labs/DreamServer
+
 HyperExtract. Smart Knowledge Extraction CLI. Transform documents into structured knowledge with one command: https://github.com/yifanfeng97/Hyper-Extract
 
 Repo2RLEnv synthesizes **verifiable** training and evaluation data from existing repositories, exports it into a uniform spec, and pushes it straight to the Hugging Face Hub. The output spec is [Harbor](https://github.com/harbor-framework/harbor)'s, so every dataset you produce drops directly into any Harbor-compatible runtime - no glue code: https://github.com/mathieuflamant/repo2rlenv
+
+UniRL is a Framework for Unified Multimodal Model Reinforcement Learning: https://github.com/Tencent-Hunyuan/UniRL
 
 IAGA Sentinel. The EU AI Act conformity evidence layer for AI agents: https://github.com/EdoardoBambini/IAGA-Sentinel
 
@@ -152,13 +158,15 @@ IAGA Sentinel. The EU AI Act conformity evidence layer for AI agents: https://gi
 
 **Software Development & APIs:**
 
-
+PDF Inspector. Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions: https://github.com/firecrawl/pdf-inspector
 
 ----
 
 **Linux & DevOps:**
 
 Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Wi: https://github.com/nicolargo/glances
+
+SiliconScope. Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking: https://github.com/kennss/SiliconScope
 
 ----
 
