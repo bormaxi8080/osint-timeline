@@ -128,6 +128,8 @@ OSINT of Panama by Unishka Research Service: https://substack.com/home/post/p-20
 
 **OSINT Tools, Services and Investigations:**
 
+DeepFace. A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python: https://github.com/serengil/deepface
+
 X/Twitter OSINT API. An API designed to gather open source intelligence from public X profiles without accessing the official API: https://github.com/noahclark556/X-Twitter-OSINT-API
 
 EmailCrawl is a professional-grade OSINT (Open Source Intelligence) tool designed for advanced email address extraction through comprehensive web crawling. Built for cybersecurity professionals, penetration testers, and intelligence analysts: https://github.com/techenthusiast167/EMAIL-CRAWL
