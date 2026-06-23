@@ -152,6 +152,8 @@ HyperExtract. Smart Knowledge Extraction CLI. Transform documents into structure
 
 Deer Flow. An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours: https://github.com/bytedance/deer-flow
 
+LuxTTS. A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime: https://github.com/ysharma3501/LuxTTS
+
 Repo2RLEnv synthesizes **verifiable** training and evaluation data from existing repositories, exports it into a uniform spec, and pushes it straight to the Hugging Face Hub. The output spec is [Harbor](https://github.com/harbor-framework/harbor)'s, so every dataset you produce drops directly into any Harbor-compatible runtime - no glue code: https://github.com/mathieuflamant/repo2rlenv
 
 UniRL is a Framework for Unified Multimodal Model Reinforcement Learning: https://github.com/Tencent-Hunyuan/UniRL
@@ -182,7 +184,7 @@ SiliconScope. Sudoless Apple Silicon system monitor (native SwiftUI GUI) with AN
 
 **New from CyberDetective:**
 
-
+A practical China OSINT workflow. Baidu search syntax and operator behavior, People and professional-biography dorks, Government, regulatory, and licensing dorks and more: https://github.com/ArgeliusLabs/chinese_osint_search_dorks
 
 ----
 
