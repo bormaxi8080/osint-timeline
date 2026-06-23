@@ -148,6 +148,8 @@ Dream Server. Turn your PC, Mac, or Linux box into an AI server. LLM inference, 
 
 HyperExtract. Smart Knowledge Extraction CLI. Transform documents into structured knowledge with one command: https://github.com/yifanfeng97/Hyper-Extract
 
+Deer Flow. An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours: https://github.com/bytedance/deer-flow
+
 Repo2RLEnv synthesizes **verifiable** training and evaluation data from existing repositories, exports it into a uniform spec, and pushes it straight to the Hugging Face Hub. The output spec is [Harbor](https://github.com/harbor-framework/harbor)'s, so every dataset you produce drops directly into any Harbor-compatible runtime - no glue code: https://github.com/mathieuflamant/repo2rlenv
 
 UniRL is a Framework for Unified Multimodal Model Reinforcement Learning: https://github.com/Tencent-Hunyuan/UniRL
