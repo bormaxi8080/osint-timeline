@@ -154,6 +154,10 @@ Dream Server. Turn your PC, Mac, or Linux box into an AI server. LLM inference, 
 
 HyperExtract. Smart Knowledge Extraction CLI. Transform documents into structured knowledge with one command: https://github.com/yifanfeng97/Hyper-Extract
 
+DeepPaperNote is an agent skill for deep-reading a single paper and generating high-quality Obsidian-style research notes. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more: https://github.com/917Dhj/DeepPaperNote
+
+Memanto. A companion memory agent with its own intelligence that keeps your agents focused on their tasks. Persistent memory for Claude Code, Cursor, Codex, and 14+ other agents, built on the world's first information-theoretic search engine. 100% free, open source, and runs entirely on your machine - no API keys, no vector database, no backend to babysit: https://github.com/moorcheh-ai/memanto
+
 Knowere. Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN: https://github.com/zilliztech/knowhere
 
 Deer Flow. An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours: https://github.com/bytedance/deer-flow
@@ -169,6 +173,8 @@ IAGA Sentinel. The EU AI Act conformity evidence layer for AI agents: https://gi
 ----
 
 **Software Development & APIs:**
+
+A curated list of awesome GitHub Profile which updates in real time: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 PDF Inspector. Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions: https://github.com/firecrawl/pdf-inspector
 
