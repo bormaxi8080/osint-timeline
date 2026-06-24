@@ -128,11 +128,15 @@ OSINT of Panama by Unishka Research Service: https://substack.com/home/post/p-20
 
 **OSINT Tools, Services and Investigations:**
 
+Claude Obsidian Assistant. The repository is simple, give Claude and yourself a structured place to write, and tell it what you want. The vault comes with a Johnny Decimal folder system, a `/obsidian` skill for syncing projects, and some themes to make it more fun. There's also a `CLAUDE.md` at the root that gives Claude context on how the vault works. **It's a template meant to be adjusted after setup**, but it helps initialize Claude with some understanding of the structure faster. You can go in without it and probably be fine. Everything else is just you explaining your preferences to Claude and letting it build from there: https://github.com/nemocake/claude-obsidian-assistant
+
 DeepFace. A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python: https://github.com/serengil/deepface
 
 X/Twitter OSINT API. An API designed to gather open source intelligence from public X profiles without accessing the official API: https://github.com/noahclark556/X-Twitter-OSINT-API
 
 EmailCrawl is a professional-grade OSINT (Open Source Intelligence) tool designed for advanced email address extraction through comprehensive web crawling. Built for cybersecurity professionals, penetration testers, and intelligence analysts: https://github.com/techenthusiast167/EMAIL-CRAWL
+
+OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights - built openly, for everyone, forever free: https://github.com/Open-Dev-Society/OpenStock
 
 Security Suite. Open-source security suite for OSINT, web scanning, API testing, SIEM integration, and AI-powered analysis: https://github.com/TheSecuredAnalyst/security-suite
 
@@ -149,6 +153,8 @@ Context Sync. Local persistent memory store for LLM applications including conti
 Dream Server. Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation: https://github.com/Light-Heart-Labs/DreamServer
 
 HyperExtract. Smart Knowledge Extraction CLI. Transform documents into structured knowledge with one command: https://github.com/yifanfeng97/Hyper-Extract
+
+Knowere. Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN: https://github.com/zilliztech/knowhere
 
 Deer Flow. An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours: https://github.com/bytedance/deer-flow
 
