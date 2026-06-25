@@ -156,6 +156,12 @@ HyperExtract. Smart Knowledge Extraction CLI. Transform documents into structure
 
 DeepPaperNote is an agent skill for deep-reading a single paper and generating high-quality Obsidian-style research notes. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more: https://github.com/917Dhj/DeepPaperNote
 
+Open Agent Builder. Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution: https://github.com/firecrawl/open-agent-builder
+
+Hermes WebUI. The best way to use Hermes Agent from the web or from your phone: https://github.com/nesquena/hermes-webui
+
+ADE Document Processing Skills. Agent skills for LandingAI's Agentic Document Extraction (ADE) - production-ready document AI for agentic coding assistants: https://github.com/landing-ai/ade-document-processing-skills
+
 Memanto. A companion memory agent with its own intelligence that keeps your agents focused on their tasks. Persistent memory for Claude Code, Cursor, Codex, and 14+ other agents, built on the world's first information-theoretic search engine. 100% free, open source, and runs entirely on your machine - no API keys, no vector database, no backend to babysit: https://github.com/moorcheh-ai/memanto
 
 Knowere. Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN: https://github.com/zilliztech/knowhere
@@ -176,7 +182,11 @@ IAGA Sentinel. The EU AI Act conformity evidence layer for AI agents: https://gi
 
 A curated list of awesome GitHub Profile which updates in real time: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
+APK Studio. Open-source, cross platform Qt6 based IDE for reverse-engineering Android application packages. It features a friendly IDE-like layout including code editor with syntax highlighting support for small code files: https://github.com/vaibhavpandeyvpz/apkstudio
+
 PDF Inspector. Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions: https://github.com/firecrawl/pdf-inspector
+
+LiteParse is a standalone OSS PDF parsing tool focused exclusively on **fast and light** parsing. It provides high-quality spatial text parsing with bounding boxes, without proprietary LLM features or cloud dependencies. Everything runs locally on your machine: https://github.com/run-llama/liteparse
 
 ----
 
