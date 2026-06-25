@@ -374,6 +374,7 @@ Free to read. Manually curated. Minimal noise.
 
 ## 📌 All article covers in [LinkedIn](https://www.linkedin.com/in/osintech/details/featured/)
 
+![alt text](./img/163-168.png)
 ![alt text](./img/157-162.png)
 ![alt text](./img/151-156.png)
 ![alt text](./img/145-150.png)
