@@ -20,11 +20,13 @@ UFO Monument
 
 ----
 
-
+OSINTClaw. Automating OSINT Tasks with OpenClaw (or Hermes): https://aaroncti.com/osintclaw/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+Aegis OSINT Map. Real-time OSINT situational awareness platform — global threat events, submarine cables, oil/gas pipelines, military bases, live flights, ship tracking, CCTV feeds, country instability index, and intel dossiers on an interactive 3D globe: https://github.com/FNBIP/aegis-osint-map
 
 onionRus. Parallel multi-circuit downloader over Tor for high-speed anonymous downloads: https://github.com/g0vguy/onionRush
 
@@ -33,6 +35,12 @@ onionRus. Parallel multi-circuit downloader over Tor for high-speed anonymous do
 **Universal Search & AI:**
 
 Loop Engineering. Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost: https://github.com/cobusgreyling/loop-engineering
+
+Flue. The sandbox agent framework. Not another SDK. Build autonomous agents and powerful AI workflows with Flue's programmable TypeScript harness: https://github.com/withastro/flue
+
+n8n MCP. A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you: https://github.com/czlonkowski/n8n-mcp
+
+AgeniusDesk Community Edition. The command center for n8n automation operators: multi-instance management, real-time error tracking, AI-assisted debugging, a Code Lab, and one-click container deployment. Self-hosted, source-available (MIT): https://github.com/Mfrostbutter/ageniusdesk-ce
 
 ----
 
