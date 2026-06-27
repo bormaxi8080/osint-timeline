@@ -22,6 +22,8 @@ UFO Monument
 
 OSINTClaw. Automating OSINT Tasks with OpenClaw (or Hermes): https://aaroncti.com/osintclaw/
 
+OSINT of Malaysia by Unishka Research Service: https://substack.com/home/post/p-203521729
+
 ----
 
 **OSINT Tools, Services and Investigations:**
