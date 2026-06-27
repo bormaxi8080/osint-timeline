@@ -56,6 +56,8 @@ RoboRev. Continuous background code review database for agents, work faster and 
 
 Just-AI. Just a Command Runner expansion through AI. This repository is a fork of [`just`](https://github.com/casey/just) with additional `just-ai` functionality. The core `just` behavior stays the same: recipes from a `justfile` still run through the regular `just` binary, recipe syntax is unchanged, and existing projects do not need AI configuration. `just-ai` is shipped as an extension next to `just`, not as a replacement for it. It uses `just --dump --dump-format json` to read a structured description of the `justfile`, builds compact project context, scores command risk locally, and sends that context to a configured OpenAI-compatible provider only for AI commands: https://github.com/bormaxi8080/just-ai
 
+DevOps AI Guidelines & Learning Path. First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines: https://github.com/VersusControl/devops-ai-guidelines
+
 ----
 
 **Hardware & Devices:**
