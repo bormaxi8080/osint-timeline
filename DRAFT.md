@@ -44,6 +44,8 @@ n8n MCP. A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n
 
 AgeniusDesk Community Edition. The command center for n8n automation operators: multi-instance management, real-time error tracking, AI-assisted debugging, a Code Lab, and one-click container deployment. Self-hosted, source-available (MIT): https://github.com/Mfrostbutter/ageniusdesk-ce
 
+Agents View. Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents: https://github.com/kenn-io/agentsview
+
 ----
 
 **Software Development & APIs:**
@@ -64,7 +66,9 @@ DevOps AI Guidelines & Learning Path. First AI Journey for DevOps - with compreh
 
 **Hardware & Devices:**
 
+NRF Box. Open-source ESP32-powered tool to scan, jam, spoof, and master BLE, Wi-Fi, and 2.4GHz networks: https://github.com/cifertech/nRFBox
 
+SPectre. Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration: https://github.com/francescopace/espectre
 
 ----
 
