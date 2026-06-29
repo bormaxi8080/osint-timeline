@@ -44,15 +44,19 @@ n8n MCP. A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n
 
 Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents - swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device: https://github.com/omnigent-ai/omnigent
 
-AgeniusDesk Community Edition. The command center for n8n automation operators: multi-instance management, real-time error tracking, AI-assisted debugging, a Code Lab, and one-click container deployment. Self-hosted, source-available (MIT): https://github.com/Mfrostbutter/ageniusdesk-ce
+Codag analyzes your code for LLM API calls and AI frameworks, then generates interactive workflow graphs - directly inside VSCode: https://github.com/codag-megalith/codag-visualizer
 
 Agents View. Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents: https://github.com/kenn-io/agentsview
+
+AgeniusDesk Community Edition. The command center for n8n automation operators: multi-instance management, real-time error tracking, AI-assisted debugging, a Code Lab, and one-click container deployment. Self-hosted, source-available (MIT): https://github.com/Mfrostbutter/ageniusdesk-ce
 
 ----
 
 **Software Development & APIs:**
 
 GitHub Copilot SDK. Multi-platform SDK for integrating GitHub Copilot Agent into apps and services: https://github.com/github/copilot-sdk
+
+Noumena Code is an AI coding assistant that runs from your terminal. It can inspect a codebase, edit files, run commands, and help carry multi-step development workflows: https://github.com/Noumena-Network/code
 
 RoboRev. Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code: https://github.com/kenn-io/roborev
 
