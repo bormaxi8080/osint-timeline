@@ -20,15 +20,25 @@ UFO Monument
 
 ----
 
-OSINTClaw. Automating OSINT Tasks with OpenClaw (or Hermes): https://aaroncti.com/osintclaw/
+Fact-Checking Sites Around the World. Worldwide map with 400+ fact-checking projects in different countries: https://reporterslab.org/fact-checking/
+
+For churches and faith-based organizations, safety planning often means bringing together many practical resources: emergency plans, training guides, preparedness checklists, and current security updates: https://start.me/p/19EGzY/church-security-and-emergency-planning-resources
 
 OSINT of Malaysia by Unishka Research Service: https://substack.com/home/post/p-203521729
+
+OSINT Nigeria. Government & Open Data, Companies & Business Intelligence, Property & Land, Financial Intelligence, Telecom & Internet Infrastructure, Maritime & Aviation, People & Professional Intelligence, Geospatial Intelligence: https://github.com/zerometa-hq/OSINT-Tools-Nigeria/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
 Aegis OSINT Map. Real-time OSINT situational awareness platform — global threat events, submarine cables, oil/gas pipelines, military bases, live flights, ship tracking, CCTV feeds, country instability index, and intel dossiers on an interactive 3D globe: https://github.com/FNBIP/aegis-osint-map
+
+OSINTClaw. Automating OSINT Tasks with OpenClaw (or Hermes): https://aaroncti.com/osintclaw/
+
+Account Recovery Assistant. A safe guided assistant for recovering rightful account access through official recovery channels: https://github.com/bortoq/account-recovery-assistant
+
+Mesh Market syncs folders directly between a user's own devices with no central server. On a local network, devices find each other over mDNS multicast. Over the internet, peers are located through **BitTorrent Mainline DHT** using an infohash derived from the folder swarm secret; SDP and ICE candidates are then exchanged over that DHT transport to establish a hole-punched WebRTC data channel. Every file block is encrypted with XChaCha20-Poly1305 before leaving the device: https://github.com/e1berd/mesh-market
 
 onionRus. Parallel multi-circuit downloader over Tor for high-speed anonymous downloads: https://github.com/g0vguy/onionRush
 
@@ -37,6 +47,8 @@ onionRus. Parallel multi-circuit downloader over Tor for high-speed anonymous do
 **Universal Search & AI:**
 
 Loop Engineering. Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost: https://github.com/cobusgreyling/loop-engineering
+
+Infinity Loop is a desktop app for **visual knowledge exploration**. You type a concept - "Quantum Entanglement", "History of Jazz", "How TCP/IP works" - and AI builds a live graph: idea nodes, connections between them, sources and images pulled straight from the web: https://github.com/arelove/infinity-loop
 
 Flue. The sandbox agent framework. Not another SDK. Build autonomous agents and powerful AI workflows with Flue's programmable TypeScript harness: https://github.com/withastro/flue
 
@@ -47,6 +59,10 @@ Omnigent is an open-source AI agent framework and meta-harness: orchestrate Clau
 Codag analyzes your code for LLM API calls and AI frameworks, then generates interactive workflow graphs - directly inside VSCode: https://github.com/codag-megalith/codag-visualizer
 
 Agents View. Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents: https://github.com/kenn-io/agentsview
+
+Squad. Multi-AI agent terminal collaboration tool: https://github.com/mco-org/squad
+
+Ornith-1.0 is a self-improving open-source models for agentic coding: https://github.com/deepreinforce-ai/Ornith-1
 
 AgeniusDesk Community Edition. The command center for n8n automation operators: multi-instance management, real-time error tracking, AI-assisted debugging, a Code Lab, and one-click container deployment. Self-hosted, source-available (MIT): https://github.com/Mfrostbutter/ageniusdesk-ce
 
