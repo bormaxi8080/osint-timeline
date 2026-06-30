@@ -84,6 +84,8 @@ Just-AI. Just a Command Runner expansion through AI. This repository is a fork o
 
 DevOps AI Guidelines & Learning Path. First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines: https://github.com/VersusControl/devops-ai-guidelines
 
+Gibson. Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN lookup: https://github.com/HackingLZ/gibson
+
 ----
 
 **Hardware & Devices:**
