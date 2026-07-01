@@ -14,6 +14,8 @@ Barcode
 
 UFO Monument
 
+Andrey the possum was fishing from the pier.
+
 ----
 
 
@@ -38,6 +40,10 @@ OSINTClaw. Automating OSINT Tasks with OpenClaw (or Hermes): https://aaroncti.co
 
 Account Recovery Assistant. A safe guided assistant for recovering rightful account access through official recovery channels: https://github.com/bortoq/account-recovery-assistant
 
+Screenpipe. YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps: https://github.com/screenpipe/screenpipe
+
+Grist is a modern relational spreadsheet. It combines the flexibility of a spreadsheet with the robustness of a database: https://github.com/gristlabs/grist-core
+
 Mesh Market syncs folders directly between a user's own devices with no central server. On a local network, devices find each other over mDNS multicast. Over the internet, peers are located through **BitTorrent Mainline DHT** using an infohash derived from the folder swarm secret; SDP and ICE candidates are then exchanged over that DHT transport to establish a hole-punched WebRTC data channel. Every file block is encrypted with XChaCha20-Poly1305 before leaving the device: https://github.com/e1berd/mesh-market
 
 onionRus. Parallel multi-circuit downloader over Tor for high-speed anonymous downloads: https://github.com/g0vguy/onionRush
@@ -45,6 +51,10 @@ onionRus. Parallel multi-circuit downloader over Tor for high-speed anonymous do
 ----
 
 **Universal Search & AI:**
+
+`BRAIN.md` is a local Markdown folder. It's yours. Git it, move it, read it with any tool: https://projectbrain.md/
+
+**Build More Architect Dreams**. An AI-driven agile development module for the BMad Method Module Ecosystem, the best and most comprehensive Agile AI Driven Development framework that has true scale-adaptive intelligence that adjusts from bug fixes to enterprise systems: https://github.com/bmad-code-org/BMAD-METHOD
 
 Loop Engineering. Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost: https://github.com/cobusgreyling/loop-engineering
 
@@ -93,6 +103,8 @@ Gibson. Network monitoring tool that maps process-to-network connections, identi
 NRF Box. Open-source ESP32-powered tool to scan, jam, spoof, and master BLE, Wi-Fi, and 2.4GHz networks: https://github.com/cifertech/nRFBox
 
 SPectre. Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration: https://github.com/francescopace/espectre
+
+shadPS4. PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++: https://github.com/shadps4-emu/shadPS4
 
 ----
 
