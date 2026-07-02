@@ -72,6 +72,12 @@ Agents View. Local-first session search, analytics, insights, and token use stat
 
 Squad. Multi-AI agent terminal collaboration tool: https://github.com/mco-org/squad
 
+DocumentID. Open-source platform for extracting structured data from documents using AI: https://github.com/DocumindHQ/documind
+
+OmniGraph. Lakehouse native graph engine with git-style workflows: https://github.com/ModernRelay/omnigraph
+
+Open Montage. World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio: https://github.com/calesthio/OpenMontage
+
 Ornith-1.0 is a self-improving open-source models for agentic coding: https://github.com/deepreinforce-ai/Ornith-1
 
 AgeniusDesk Community Edition. The command center for n8n automation operators: multi-instance management, real-time error tracking, AI-assisted debugging, a Code Lab, and one-click container deployment. Self-hosted, source-available (MIT): https://github.com/Mfrostbutter/ageniusdesk-ce
