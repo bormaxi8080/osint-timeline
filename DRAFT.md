@@ -41,6 +41,8 @@ Collaborator is an end-to-end environment for agentic development. Terminals, co
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu - one CLI, zero API fees: https://github.com/Panniantong/Agent-Reach
 
+DeepInnovator. AI Research Assistant - Idea Spark & Scientific Discovery: https://github.com/HKUDS/DeepInnovator
+
 Sec-Gemini is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats: https://github.com/google/sec-gemini
 
 Recon & Pentest Skill Pack. 156 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with browser fingerprint evasion, anti-bot bypass, hardcoded credential hunting, SCADA/ICS enumeration: https://github.com/uphiago/recon-skills/
