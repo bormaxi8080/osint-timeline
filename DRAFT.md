@@ -43,6 +43,8 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 DeepInnovator. AI Research Assistant - Idea Spark & Scientific Discovery: https://github.com/HKUDS/DeepInnovator
 
+Sumkar. Your AI re-reads the same files over and over. Sumkar reads them once. Compress a file to a navigable index, persist it to disk, serve it on every read... even across sessions. ~40% fewer file tokens per read (measured, reproducible). Powered by Herald, the context engine from ESMC: https://github.com/alyfe-how/sumkar
+
 Sec-Gemini is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats: https://github.com/google/sec-gemini
 
 Recon & Pentest Skill Pack. 156 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with browser fingerprint evasion, anti-bot bypass, hardcoded credential hunting, SCADA/ICS enumeration: https://github.com/uphiago/recon-skills/
