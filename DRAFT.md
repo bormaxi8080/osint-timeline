@@ -27,6 +27,8 @@ Visual Ping. Find your next scoop before it’s news. The first signal rarely lo
 
 **OSINT Tools, Services and Investigations:**
 
+Add Dashboard++ to your Obsidian vault. This repository is an Obsidian vault that demonstrates using the Dashboard++ method for organizing and navigating notes: https://github.com/TfTHacker/DashboardPlusPlus
+
 StaffSpy. Staff fetcher library for LinkedIn - obtain experiences, schools, skills & contact info: https://github.com/cullenwatson/StaffSpy
 
 TorLink. A sleek, zero-setup torrent finder and downloader that lives right in your terminal: https://github.com/baairon/torlink/tree/main
