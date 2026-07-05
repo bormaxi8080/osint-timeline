@@ -65,6 +65,8 @@ Recon & Pentest Skill Pack. 156 offensive security skills for recon and pentest.
 
 FingerprintJS is an open-source, client-side, browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged: https://github.com/fingerprintjs/fingerprintjs
 
+CodeVisualizer is a powerful VS Code extension that provides two main visualization capabilities: function-level flowcharts for understanding code control flow, and codebase-level dependency graphs for analyzing project structure and module relationships: https://github.com/DucPhamNgoc08/CodeVisualizer
+
 Canvas Mind. A modern low-code visual programming IDE built on NodeGraphQt and qfluentwidgets, supporting drag-and-drop component orchestration, asynchronous execution, file operations, loop control, and one-click export of workflows into standalone runnable projects—enabling seamless transition from development to deployment: https://github.com/martin98-afk/CanvasMind
 
 EmexDE. IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps: https://github.com/emexlab/emexDE
