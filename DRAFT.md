@@ -47,6 +47,8 @@ RepoWise. Codebase intelligence for AI and humans: code health scores, auto-gene
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu - one CLI, zero API fees: https://github.com/Panniantong/Agent-Reach
 
+Skill Manager. A native macOS app to manage skills across coding agents - Claude Code, Cursor, Copilot CLI, Codex, Gemini CLI: https://github.com/yibie/skills-manager
+
 Agent-Native is an open-source framework for apps where agents and UI share the same actions, state, and context: https://github.com/BuilderIO/agent-native
 
 DeepInnovator. AI Research Assistant - Idea Spark & Scientific Discovery: https://github.com/HKUDS/DeepInnovator
@@ -70,6 +72,10 @@ CodeVisualizer is a powerful VS Code extension that provides two main visualizat
 Canvas Mind. A modern low-code visual programming IDE built on NodeGraphQt and qfluentwidgets, supporting drag-and-drop component orchestration, asynchronous execution, file operations, loop control, and one-click export of workflows into standalone runnable projects—enabling seamless transition from development to deployment: https://github.com/martin98-afk/CanvasMind
 
 EmexDE. IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps: https://github.com/emexlab/emexDE
+
+Scrumboy. Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support: https://github.com/markrai/scrumboy
+
+Kaneo. All you need. Nothing you don't. Open source project management that works for you, not against you: https://github.com/usekaneo/kaneo
 
 ----
 
