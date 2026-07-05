@@ -43,7 +43,11 @@ TempMail is a simple web application that allows you to generate temporary email
 
 Collaborator is an end-to-end environment for agentic development. Terminals, context files, and running code - all arranged on an infinite canvas in one place. No context switching, no tab hunting. Just your agents and your work, side by side. The app is early-stage and in active development, with native desktop targets for macOS, Windows, and Linux. On Windows, terminal sessions can target both PowerShell and WSL2 distros: https://github.com/collabs-inc/collab-public
 
+RepoWise. Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP: https://github.com/repowise-dev/repowise
+
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu - one CLI, zero API fees: https://github.com/Panniantong/Agent-Reach
+
+Agent-Native is an open-source framework for apps where agents and UI share the same actions, state, and context: https://github.com/BuilderIO/agent-native
 
 DeepInnovator. AI Research Assistant - Idea Spark & Scientific Discovery: https://github.com/HKUDS/DeepInnovator
 
@@ -63,11 +67,15 @@ FingerprintJS is an open-source, client-side, browser fingerprinting library tha
 
 Canvas Mind. A modern low-code visual programming IDE built on NodeGraphQt and qfluentwidgets, supporting drag-and-drop component orchestration, asynchronous execution, file operations, loop control, and one-click export of workflows into standalone runnable projects—enabling seamless transition from development to deployment: https://github.com/martin98-afk/CanvasMind
 
+EmexDE. IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps: https://github.com/emexlab/emexDE
+
 ----
 
 **Linux & DevOps:**
 
 ZTM (Zero Trust Mesh) is a privacy-first open-source decentralized end-to-end encrypted software defined network, based on HTTP/2 tunnels. Experience boundless connectivity and mesh the globe: https://github.com/flomesh-io/ztm
+
+EasyTier. A simple, decentralized mesh VPN with WireGuard support: https://github.com/EasyTier/EasyTier
 
 ----
 
