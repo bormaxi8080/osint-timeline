@@ -47,7 +47,7 @@ For **churches and faith-based organizations**, safety planning often means brin
 
 ## 🛠 OSINT Tools, Services & Investigations
 
-**Aegis OSINT Map.** Real-time OSINT situational awareness platform - global threat events, submarine cables, oil/gas pipelines, military bases, live flights, ship tracking, CCTV feeds, country instability index, and intel dossiers on an interactive 3D globe:
+**Aegis OSINT Map.** Real-time OSINT situational awareness platform — global threat events, submarine cables, oil/gas pipelines, military bases, live flights, ship tracking, CCTV feeds, country instability index, and intel dossiers on an interactive 3D globe:
 
 🔗 https://github.com/FNBIP/aegis-osint-map
 

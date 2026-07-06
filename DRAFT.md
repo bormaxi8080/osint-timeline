@@ -53,6 +53,10 @@ Agent-Native is an open-source framework for apps where agents and UI share the 
 
 DeepInnovator. AI Research Assistant - Idea Spark & Scientific Discovery: https://github.com/HKUDS/DeepInnovator
 
+Stash. The one place your agents connect to all your data - GitHub, Drive, Gmail,   
+Notion, Slack and more - plus an agent-native Drive in Markdown and HTML   
+where their sessions, files, and pages all land: https://github.com/Fergana-Labs/stash/
+
 Sumkar. Your AI re-reads the same files over and over. Sumkar reads them once. Compress a file to a navigable index, persist it to disk, serve it on every read... even across sessions. ~40% fewer file tokens per read (measured, reproducible). Powered by Herald, the context engine from ESMC: https://github.com/alyfe-how/sumkar
 
 Sec-Gemini is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats: https://github.com/google/sec-gemini
