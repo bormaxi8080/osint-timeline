@@ -31,6 +31,10 @@ Add Dashboard++ to your Obsidian vault. This repository is an Obsidian vault tha
 
 StaffSpy. Staff fetcher library for LinkedIn - obtain experiences, schools, skills & contact info: https://github.com/cullenwatson/StaffSpy
 
+Netrix Astra v2. The world's most sophisticated street level image geolocation software: https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool/
+
+Ensta is a simple, reliable and up-to-date python package for Instagram API. Both authenticated and anonymous requests are supported: https://github.com/diezo/ensta
+
 TorLink. A sleek, zero-setup torrent finder and downloader that lives right in your terminal: https://github.com/baairon/torlink/tree/main
 
 BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees: https://github.com/Billionmail/BillionMail
