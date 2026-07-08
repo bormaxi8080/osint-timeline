@@ -21,6 +21,10 @@ Andrey the possum was fishing from the pier.
 
 ----
 
+CrossTrace. A Cross-Domain Dataset of Grounded Scientific Reasoning Traces for Hypothesis Generation: https://github.com/andrewbouras/crosstrace
+
+OpenScholarXIV is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository: https://github.com/ScholarXIV/OpenScholarXIV
+
 Visual Ping. Find your next scoop before it’s news. The first signal rarely looks like a headline. It looks like a new docket entry, a scrubbed agency page, a revised filing, or a post that disappears before anyone screenshots it. Visualping watches those pages for you and alerts you the moment something changes: https://visualping.io/
 
 ----
@@ -50,6 +54,8 @@ Collaborator is an end-to-end environment for agentic development. Terminals, co
 Cube Sandbox is a high-performance, out-of-the-box secure sandbox service built on RustVMM and KVM. It supports both single-node deployment and easy scaling to multi-node clusters. It is compatible with the E2B SDK and can create a hardware-isolated, fully serviceable sandbox in under 60ms with less than 5MB of memory overhead: https://github.com/TencentCloud/CubeSandbox
 
 RepoWise. Codebase intelligence for AI and humans - code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP: https://github.com/repowise-dev/repowise
+
+Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile: https://github.com/stablyai/orca
 
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu - one CLI, zero API fees: https://github.com/Panniantong/Agent-Reach
 
@@ -94,6 +100,10 @@ Kaneo. All you need. Nothing you don't. Open source project management that work
 **Linux & DevOps:**
 
 Zero Drive. A CLI tool + Android app for decentralized, encrypted file storage over Nostr. Your files are encrypted client-side and stored on Blossom CDN servers; metadata is published as encrypted Nostr kind-30078 events. Only your mnemonic phrase can unlock everything: https://github.com/portbuster1337/zerodrive
+
+Vyxel Apps. Open-source GitHub-powered Android app store: https://github.com/NikhilKain/vyxel-apps
+
+AppUpdater. A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app: https://github.com/s1ntoneli/AppUpdater
 
 ZTM (Zero Trust Mesh) is a privacy-first open-source decentralized end-to-end encrypted software defined network, based on HTTP/2 tunnels. Experience boundless connectivity and mesh the globe: https://github.com/flomesh-io/ztm
 
