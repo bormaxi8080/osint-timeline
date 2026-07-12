@@ -1,0 +1,259 @@
+![OSINTech Timeline](img/170.jpg)
+
+**Joke**
+
+----
+
+**Week of 3 — 9 July 2026**
+
+Every week, I manually curate tools, research, and services that are genuinely useful for OSINT, digital investigations, security research, and adjacent fields.
+
+No hype. No SEO noise. No "AI startups that change everything".  
+Only things you can **open, verify, and actually use**.
+
+----
+
+## 🧭 Featured Project
+
+Ever opened a new codebase and felt completely lost? **CodeFlow** turns any GitHub repository or local codebase into an interactive architecture map in seconds.
+
+- **No installation required** — runs entirely in your browser
+- **No data collection** — your code never leaves your machine
+- **No accounts** — just paste a URL or select local files and go
+- **Works offline** — analyze local files without internet
+
+https://github.com/braedonsaunders/codeflow
+
+Your project can be featured here. To collaborate, please send me a private message: @OSINTech
+
+----
+
+## 🌍 Regional & Thematic OSINT
+
+**CrossTrace.** A Cross-Domain Dataset of Grounded Scientific Reasoning Traces for Hypothesis Generation:
+
+🔗 https://github.com/andrewbouras/crosstrace
+
+**OpenScholarXIV** is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository:
+
+🔗 https://github.com/ScholarXIV/OpenScholarXIV
+
+**Visual Ping.** Find your next scoop before it’s news. The first signal rarely looks like a headline. It looks like a new docket entry, a scrubbed agency page, a revised filing, or a post that disappears before anyone screenshots it. Visualping watches those pages for you and alerts you the moment something changes:
+
+🔗 https://visualping.io/
+
+----
+
+## 🛠 OSINT Tools, Services & Investigations
+
+Add **Dashboard++** to your Obsidian vault. This repository is an Obsidian vault that demonstrates using the Dashboard++ method for organizing and navigating notes:
+
+🔗 https://github.com/TfTHacker/DashboardPlusPlus
+
+**StaffSpy.** Staff fetcher library for LinkedIn - obtain experiences, schools, skills & contact info:
+
+🔗 https://github.com/cullenwatson/StaffSpy
+
+**Netrix Astra v2.** The world's most sophisticated street level image geolocation software:
+
+🔗 https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool/
+
+**Ensta** is a simple, reliable and up-to-date python package for Instagram API. Both authenticated and anonymous requests are supported:
+
+🔗 https://github.com/diezo/ensta
+
+**TorLink.** A sleek, zero-setup torrent finder and downloader that lives right in your terminal:
+
+🔗 https://github.com/baairon/torlink/tree/main
+
+**mail2telegram.** Forward email to telegram with Cloudflare Email Routing:
+
+🔗 https://github.com/TBXark/mail2telegram
+
+**BillionMail** gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees:
+
+🔗 https://github.com/Billionmail/BillionMail
+
+**TempMail** is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses:
+
+🔗 https://github.com/mehmetkahya0/temp-mail
+
+----
+
+## 🤖 Universal Search & AI
+
+**Collaborator** is an end-to-end environment for agentic development. Terminals, context files, and running code - all arranged on an infinite canvas in one place. No context switching, no tab hunting. Just your agents and your work, side by side. The app is early-stage and in active development, with native desktop targets for macOS, Windows, and Linux. On Windows, terminal sessions can target both PowerShell and WSL2 distros:
+
+🔗 https://github.com/collabs-inc/collab-public
+
+**Cube Sandbox** is a high-performance, out-of-the-box secure sandbox service built on RustVMM and KVM. It supports both single-node deployment and easy scaling to multi-node clusters. It is compatible with the E2B SDK and can create a hardware-isolated, fully serviceable sandbox in under 60ms with less than 5MB of memory overhead:
+
+🔗 https://github.com/TencentCloud/CubeSandbox
+
+**RepoWise.** Codebase intelligence for AI and humans - code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP:
+
+🔗 https://github.com/repowise-dev/repowise
+
+**Orca** is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile:
+
+🔗 https://github.com/stablyai/orca
+
+**Agent Reach.** Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu - one CLI, zero API fees:
+
+🔗 https://github.com/Panniantong/Agent-Reach
+
+**Skill Manager.** A native macOS app to manage skills across coding agents - Claude Code, Cursor, Copilot CLI, Codex, Gemini CLI:
+
+🔗 https://github.com/yibie/skills-manager
+
+**Pocket TTS.** A lightweight text-to-speech (TTS) application designed to run efficiently on CPUs. Forget about the hassle of using GPUs and web APIs serving TTS models. With Kyutai's Pocket TTS, generating audio is just a pip install and a function call away:
+
+🔗 https://github.com/kyutai-labs/pocket-tts
+
+**Agent-Native** is an open-source framework for apps where agents and UI share the same actions, state, and context:
+
+🔗 https://github.com/BuilderIO/agent-native
+
+**DeepInnovator.** AI Research Assistant - Idea Spark & Scientific Discovery:
+
+🔗 https://github.com/HKUDS/DeepInnovator
+
+**Stash.** The one place your agents connect to all your data - GitHub, Drive, Gmail,   
+Notion, Slack and more - plus an agent-native Drive in Markdown and HTML   
+where their sessions, files, and pages all land:
+
+🔗 https://github.com/Fergana-Labs/stash/
+
+**Sumkar.** Your AI re-reads the same files over and over. Sumkar reads them once. Compress a file to a navigable index, persist it to disk, serve it on every read... even across sessions. ~40% fewer file tokens per read (measured, reproducible). Powered by Herald, the context engine from ESMC:
+
+🔗 https://github.com/alyfe-how/sumkar
+
+**Sec-Gemini** is a cutting-edge AI model designed to enhance cybersecurity capabilities and empower defenders in the ongoing battle against cyber threats:
+
+🔗 https://github.com/google/sec-gemini
+
+**DeepZero** is an automated vulnerability research framework that parses, decompiles, and analyzes thousands of Windows kernel drivers for exploitable IOCTLs natively using AI agents:
+
+🔗 https://github.com/416rehman/deepzero
+
+**Recon & Pentest Skill Pack.** 156 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with browser fingerprint evasion, anti-bot bypass, hardcoded credential hunting, SCADA/ICS enumeration:
+
+🔗 https://github.com/uphiago/recon-skills/
+
+----
+
+## 👨‍💻 Software Development & APIs
+
+**FingerprintJS** is an open-source, client-side, browser fingerprinting library that queries browser attributes and computes a hashed visitor identifier from them. Unlike cookies and local storage, a fingerprint stays the same in incognito/private mode and even when browser data is purged:
+
+🔗 https://github.com/fingerprintjs/fingerprintjs
+
+**Open SERP.** Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction:
+
+🔗 https://github.com/karust/openserp
+
+**CodeVisualizer** is a powerful VS Code extension that provides two main visualization capabilities: function-level flowcharts for understanding code control flow, and codebase-level dependency graphs for analyzing project structure and module relationships:
+
+🔗 https://github.com/DucPhamNgoc08/CodeVisualizer
+
+**Canvas Mind.** A modern low-code visual programming IDE built on NodeGraphQt and qfluentwidgets, supporting drag-and-drop component orchestration, asynchronous execution, file operations, loop control, and one-click export of workflows into standalone runnable projects-enabling seamless transition from development to deployment:
+
+🔗 https://github.com/martin98-afk/CanvasMind
+
+**EmexDE.** IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps:
+
+🔗 https://github.com/emexlab/emexDE
+
+**Scrumboy.** Self-hosted kanban & project management with shareable boards, voice commands, sticky-notes, multi-language and MCP support:
+
+🔗 https://github.com/markrai/scrumboy
+
+**Kaneo.** All you need. Nothing you don't. Open source project management that works for you, not against you:
+
+🔗 https://github.com/usekaneo/kaneo
+
+----
+
+## 🐧 Linux & DevOps
+
+**Zero Drive.** A CLI tool + Android app for decentralized, encrypted file storage over Nostr. Your files are encrypted client-side and stored on Blossom CDN servers; metadata is published as encrypted Nostr kind-30078 events. Only your mnemonic phrase can unlock everything:
+
+🔗 https://github.com/portbuster1337/zerodrive
+
+**Vyxel Apps.** Open-source GitHub-powered Android app store:
+
+🔗 https://github.com/NikhilKain/vyxel-apps
+
+**AppUpdater.** A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app:
+
+🔗 https://github.com/s1ntoneli/AppUpdater
+
+**ZTM (Zero Trust Mesh)** is a privacy-first open-source decentralized end-to-end encrypted software defined network, based on HTTP/2 tunnels. Experience boundless connectivity and mesh the globe:
+
+🔗 https://github.com/flomesh-io/ztm
+
+**EasyTier.** A simple, decentralized mesh VPN with WireGuard support:
+
+🔗 https://github.com/EasyTier/EasyTier
+
+----
+
+## 🔌 Hardware & Devices
+
+**Flipper Zero File Database:**
+
+🔗 https://github.com/GaelHF/FlipperDB
+
+----
+
+## 🚨 From CyberDetective
+
+**How To Track Polymarket Whales**
+
+Guide by Arkham:
+
+1. Find the Most Profitable Traders
+
+2. Arkham Intel Tags
+
+3. Use Blockchain Intelligence Tools
+
+🔗 https://info.arkm.com/research/how-to-track-polymarket-whales
+
++Tool by  henk Van Ess:
+
+🔗 https://searchwhisperer.ai/polymarket/
+
+----
+## 📌 Where to Follow
+
+- **Substack:** https://osintech.substack.com  
+- **LinkedIn:** https://www.linkedin.com/in/osintech/details/featured/
+
+If this timeline saves you time, it’s doing its job.  
+Free to read. Manually curated. Minimal noise.
+
+---
+
+## 📌 Donates
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/osintech)
+
+---
+
+## 📌 Legal and ethical note
+
+All tools and techniques documented in the dataset are presented for informational,  
+educational and information security purposes only.
+
+The dataset does not promote or endorse illegal activities.  
+Users are responsible for complying with applicable laws and ethical standards.
+
+---
+
+## 📌 About future updates
+
+The dataset is updated on a regular basis.  
+Future posts will document changes, notable additions and emerging trends observed within the dataset.
+
+This post serves as an introduction and reference point for those updates.
