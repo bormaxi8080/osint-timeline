@@ -31,7 +31,7 @@ Andrey the possum was fishing from the pier.
 
 **Universal Search & AI:**
 
-
+Mesh LLM pools GPUs and memory across machines and exposes the result as one OpenAI-compatible API at `http://localhost:9337/v1`. Start one node, add more nodes later, and let the mesh decide whether a model runs locally, routes to a peer, or uses Skippy stage splits for models that are too large for one box: https://github.com/Mesh-LLM/mesh-llm
 
 ----
 
