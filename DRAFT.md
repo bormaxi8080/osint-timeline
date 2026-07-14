@@ -45,7 +45,7 @@ Dork Agent. LLM-powered agent for automated Google Dorking in bug hunting & pent
 
 **Linux & DevOps:**
 
-
+Rustnet. Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed: https://github.com/domcyrus/rustnet
 
 ----
 
