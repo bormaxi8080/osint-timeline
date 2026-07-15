@@ -15,7 +15,13 @@ Andrey the possum was fishing from the pier.
 
 ----
 
-VoIP vs Mobile Numbers for SMS Verification: What Works in 2026: https://getsms.online/blog/voip-mobile-numbers-sms-verification
+VoIP vs Mobile Numbers for SMS Verification: What Works in 2026?
+
+https://getsms.online/blog/voip-mobile-numbers-sms-verification
+
+OSINT Tools Switzerland. A comprehensive collection of Open Source Intelligence (OSINT) resources for investigating Swiss entities, individuals, and public information. This repository follows the OSINT-for-Countries-V2.0 framework:
+
+https://github.com/Provereno-Media/OSINT-Tools-Switzerland
 
 ----
 
@@ -29,6 +35,14 @@ https://getsms.online/
 
 Global Ping. A global network of probes to run network tests like ping, traceroute and DNS resolve: https://github.com/jsdelivr/globalping
 
+Firefox Privacy Containers. Firefox extension for routing Containers through dedicated proxies, request headers, and host rules—giving security testers and power users clear, isolated browser identities for authenticated testing, multi-account work, and traffic analysis: https://github.com/nil0x42/firefox-privacy-containers
+
+ArchivedV. Tracking and Saving Unarchived Singing from Youtube Stream: https://github.com/jasonyang-ee/ArchivedV
+
+tunnelto.dev. Expose your local web server to the internet with a public URL: https://github.com/tunneltodev/tunnelto
+
+DriveLite. The Supabase for File Storage. A modular, self-hostable backend with end-to-end encryption: https://github.com/DriveLite/DriveLite
+
 ----
 
 **Universal Search & AI:**
@@ -41,13 +55,19 @@ Dork Agent. LLM-powered agent for automated Google Dorking in bug hunting & pent
 
 **Software Development & APIs:**
 
+Cap. ree, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges: https://github.com/tiagozip/cap
 
+Ironbullet. Pipeline-based HTTP automation toolkit like openbullet: https://github.com/notgate/Ironbullet
 
 ----
 
 **Linux & DevOps:**
 
 Rustnet. Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed: https://github.com/domcyrus/rustnet
+
+Dtop. Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration: https://github.com/amir20/dtop
+
+DockMon. Modern Docker container monitoring with auto-restart and alerts: https://github.com/darthnorse/dockmon
 
 ----
 
