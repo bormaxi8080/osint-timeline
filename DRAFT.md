@@ -31,6 +31,19 @@ https://getsms.online/
 
 ----
 
+Page Deltas. Monitor competitor pricing, public docs, careers pages, regulatory updates - anything on the open web - and let AI analyze the changes for you. Get an alert the moment something meaningful changes:
+
+https://pagedeltas.com/
+
+----
+
+Zephira AI. Search Official Company Data, UBOs & Financials from Official Registries Worldwide:
+
+https://zephira.ai/
+
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Global Ping. A global network of probes to run network tests like ping, traceroute and DNS resolve: https://github.com/jsdelivr/globalping
