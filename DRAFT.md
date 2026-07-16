@@ -107,7 +107,12 @@ FlipperZero Wi-Fi Network Security. This Project explores the evolution of Wi-Fi
 
 **New from CyberDetective:**
 
-
+  
+Stats and detailed info about 6K+ Telegram bots and 6k+ TON mini apps.  
+  
+It will be useful both to people conducting investigations related to Telegram and to developers analyzing which apps are currently popular. And, of course, to anyone simply looking for useful Telegram bots to improve their daily lives.  
+  
+https://www.findmini.app
 
 ----
 
