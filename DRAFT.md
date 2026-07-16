@@ -40,7 +40,7 @@ https://redradar.ai/
 
 **OSINT Tools, Services and Investigations:**
 
-
+Google Mantis. A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities: https://github.com/google/mantis/tree/main/
 
 ----
 
