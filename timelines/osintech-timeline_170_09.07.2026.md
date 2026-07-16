@@ -22,7 +22,7 @@ Ever opened a new codebase and felt completely lost? **CodeFlow** turns any Gi
 - **No accounts** — just paste a URL or select local files and go
 - **Works offline** — analyze local files without internet
 
-https://github.com/braedonsaunders/codeflow
+🔗 https://github.com/braedonsaunders/codeflow
 
 Your project can be featured here. To collaborate, please send me a private message: @OSINTech
 
