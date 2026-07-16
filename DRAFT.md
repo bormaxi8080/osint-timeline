@@ -55,6 +55,8 @@ Global Ping. A global network of probes to run network tests like ping, tracerou
 
 Firefox Privacy Containers. Firefox extension for routing Containers through dedicated proxies, request headers, and host rules—giving security testers and power users clear, isolated browser identities for authenticated testing, multi-account work, and traffic analysis: https://github.com/nil0x42/firefox-privacy-containers
 
+Lookyloo is a web interface that allows users to capture a website page and then display a tree of domains that call each other: https://github.com/Lookyloo/lookyloo
+
 ArchivedV. Tracking and Saving Unarchived Singing from Youtube Stream: https://github.com/jasonyang-ee/ArchivedV
 
 tunnelto.dev. Expose your local web server to the internet with a public URL: https://github.com/tunneltodev/tunnelto
@@ -68,6 +70,8 @@ DriveLite. The Supabase for File Storage. A modular, self-hostable backend with 
 Hermes Browser Extension is not a browser chatbot. It is a Chrome/Edge/Chromium side panel for the real Hermes Agent runtime. Choose a local gateway, attach to a signed-in Hermes Cloud agent tab, or connect to a self-hosted remote API/dashboard. Local and remote API connections can use the models, tools, skills, sessions, memory, and MCP servers already configured in Hermes; Cloud and dashboard-ticket connections are intentionally Chat-only: https://github.com/abundantbeing/hermes-browser-extension
 
 Open Connector. Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI: https://github.com/oomol-lab/open-connector
+
+Ruflo. The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated: https://github.com/ruvnet/ruflo
 
 Mesh LLM pools GPUs and memory across machines and exposes the result as one OpenAI-compatible API at `http://localhost:9337/v1`. Start one node, add more nodes later, and let the mesh decide whether a model runs locally, routes to a peer, or uses Skippy stage splits for models that are too large for one box: https://github.com/Mesh-LLM/mesh-llm
 
