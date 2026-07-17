@@ -54,7 +54,7 @@ Airgorah. A WiFi security auditing software mainly based on aircrack-ng tools su
 
 **Universal Search & AI:**
 
-
+LEANN is an innovative vector database that democratizes personal AI. Transform your laptop into a powerful RAG system that can index and search through millions of documents while using **97% less storage** than traditional solutions without accuracy loss: https://github.com/StarTrail-org/LEANN
 
 ----
 
