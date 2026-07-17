@@ -42,9 +42,13 @@ https://redradar.ai/
 
 Google Mantis. A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities: https://github.com/google/mantis/tree/main/
 
-Local-first Facebook SOCMINT platform - automated profile intelligence, interaction network graphs, co-interactor analysis, and CNN face clustering. No LLM, no Docker, no cloud dependency. If anyone want to check AI-Powered version check the link below: https://github.com/jeet-ganguly/birdy-edwards-lite
+Birdy Edwards. Local-first Facebook SOCMINT platform - automated profile intelligence, interaction network graphs, co-interactor analysis, and CNN face clustering. No LLM, no Docker, no cloud dependency. If anyone want to check AI-Powered version check the link below: https://github.com/jeet-ganguly/birdy-edwards-lite
 
 Profile summary for GitHub. Visualize GitHub profile stats, including language distribution and commit volume: https://profile-summary-for-github.com/
+
+TempFastMail. # Self Hosted Temporary Fast Email Box. First self-hosted, disposable fast email inbox that receives and displays messages: https://github.com/kasteckis/TempFastMail
+
+Airgorah. A WiFi security auditing software mainly based on aircrack-ng tools suite: https://github.com/martin-olivier/airgorah
 
 ----
 
@@ -56,7 +60,7 @@ Profile summary for GitHub. Visualize GitHub profile stats, including language d
 
 **Software Development & APIs:**
 
-
+Reqpane. Chrome extension for capturing API calls: https://github.com/ancs21/reqpane
 
 ----
 
