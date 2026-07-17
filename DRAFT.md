@@ -42,6 +42,10 @@ https://redradar.ai/
 
 Google Mantis. A modular, stack-agnostic toolkit of security review skills for AI coding agents to autonomously find, reproduce, and patch vulnerabilities: https://github.com/google/mantis/tree/main/
 
+Local-first Facebook SOCMINT platform - automated profile intelligence, interaction network graphs, co-interactor analysis, and CNN face clustering. No LLM, no Docker, no cloud dependency. If anyone want to check AI-Powered version check the link below: https://github.com/jeet-ganguly/birdy-edwards-lite
+
+Profile summary for GitHub. Visualize GitHub profile stats, including language distribution and commit volume: https://profile-summary-for-github.com/
+
 ----
 
 **Universal Search & AI:**
