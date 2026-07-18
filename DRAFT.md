@@ -58,6 +58,8 @@ Airgorah. A WiFi security auditing software mainly based on aircrack-ng tools su
 
 LEANN is an innovative vector database that democratizes personal AI. Transform your laptop into a powerful RAG system that can index and search through millions of documents while using **97% less storage** than traditional solutions without accuracy loss: https://github.com/StarTrail-org/LEANN
 
+ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node graph interface empowers creatives to generate images, videos, 3D models, audio, and more: https://github.com/Comfy-Org/ComfyUI
+
 ----
 
 **Software Development & APIs:**
