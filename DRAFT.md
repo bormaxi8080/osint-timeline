@@ -44,6 +44,8 @@ Google Mantis. A modular, stack-agnostic toolkit of security review skills for A
 
 Birdy Edwards. Local-first Facebook SOCMINT platform - automated profile intelligence, interaction network graphs, co-interactor analysis, and CNN face clustering. No LLM, no Docker, no cloud dependency. If anyone want to check AI-Powered version check the link below: https://github.com/jeet-ganguly/birdy-edwards-lite
 
+SearchPhone. Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo) and automatic report generation: https://github.com/HackUnderway/SearchPhone
+
 Profile summary for GitHub. Visualize GitHub profile stats, including language distribution and commit volume: https://profile-summary-for-github.com/
 
 TempFastMail. # Self Hosted Temporary Fast Email Box. First self-hosted, disposable fast email inbox that receives and displays messages: https://github.com/kasteckis/TempFastMail
@@ -66,7 +68,7 @@ Reqpane. Chrome extension for capturing API calls: https://github.com/ancs21/req
 
 **Linux & DevOps:**
 
-
+**Rota** is a modern, full-stack proxy rotation platform that combines enterprise-grade proxy management with a beautiful, real-time web dashboard. Built with performance and scalability in mind, Rota handles thousands of requests per second while providing comprehensive monitoring, analytics, and control through an intuitive interface: https://github.com/alpkeskin/rota
 
 ----
 
