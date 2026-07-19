@@ -58,7 +58,11 @@ Airgorah. A WiFi security auditing software mainly based on aircrack-ng tools su
 
 LEANN is an innovative vector database that democratizes personal AI. Transform your laptop into a powerful RAG system that can index and search through millions of documents while using **97% less storage** than traditional solutions without accuracy loss: https://github.com/StarTrail-org/LEANN
 
+Automated AI Web Research Ollama. A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own. And more, not limited to but including saving the findings for you: https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama
+
 ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node graph interface empowers creatives to generate images, videos, 3D models, audio, and more: https://github.com/Comfy-Org/ComfyUI
+
+**PageSage** is a web application that uses **Retrieval Augmented Generation (RAG)** to allow users to communicate with a PDF document. It works by vectorizing uploaded pdfs and then using a pre-trained model to generate text: https://github.com/FloatinggOnion/pdf-rag-app
 
 ----
 
