@@ -60,6 +60,8 @@ LEANN is an innovative vector database that democratizes personal AI. Transform 
 
 KnowNote. A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better: https://github.com/MrSibe/KnowNote
 
+omp. The most capable agent surface that ships. Continuously tuned by real-world use — complete out of the box, open all the way down: https://github.com/can1357/oh-my-pi
+
 Automated AI Web Research Ollama. A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own. And more, not limited to but including saving the findings for you: https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama
 
 ComfyUI is the AI creation engine for visual professionals who demand control over every model, every parameter, and every output. Its powerful and modular node graph interface empowers creatives to generate images, videos, 3D models, audio, and more: https://github.com/Comfy-Org/ComfyUI
