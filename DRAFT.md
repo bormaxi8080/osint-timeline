@@ -48,6 +48,8 @@ SearchPhone. Phone number OSINT toolkit with multi-API search (Google, GitHub, N
 
 Profile summary for GitHub. Visualize GitHub profile stats, including language distribution and commit volume: https://profile-summary-for-github.com/
 
+Koodo Reader. A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web: https://github.com/koodo-reader/koodo-reader
+
 TempFastMail. # Self Hosted Temporary Fast Email Box. First self-hosted, disposable fast email inbox that receives and displays messages: https://github.com/kasteckis/TempFastMail
 
 Airgorah. A WiFi security auditing software mainly based on aircrack-ng tools suite: https://github.com/martin-olivier/airgorah
@@ -80,11 +82,13 @@ Reqpane. Chrome extension for capturing API calls: https://github.com/ancs21/req
 
 **Rota** is a modern, full-stack proxy rotation platform that combines enterprise-grade proxy management with a beautiful, real-time web dashboard. Built with performance and scalability in mind, Rota handles thousands of requests per second while providing comprehensive monitoring, analytics, and control through an intuitive interface: https://github.com/alpkeskin/rota
 
+**cleanmac.sh** is a shell script designed to help you clean up unnecessary files on your macOS system. It removes cache files, logs, temporary files, and more, freeing up valuable disk space and improving system performance: https://github.com/hkdobrev/cleanmac
+
 ----
 
 **Hardware & Devices:**
 
-
+Secluso. A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption: https://github.com/secluso/core
 
 ----
 
