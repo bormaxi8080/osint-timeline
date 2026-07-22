@@ -58,6 +58,8 @@ Airgorah. A WiFi security auditing software mainly based on aircrack-ng tools su
 
 **Universal Search & AI:**
 
+Claude Auto Retry. Auto-retry Claude Code on subscription rate limits, API overload (529/5xx) and safeguard false positives - waits for the printed reset, exponential backoff, tmux-based: https://github.com/cheapestinference/claude-auto-retry
+
 LEANN is an innovative vector database that democratizes personal AI. Transform your laptop into a powerful RAG system that can index and search through millions of documents while using **97% less storage** than traditional solutions without accuracy loss: https://github.com/StarTrail-org/LEANN
 
 KnowNote. A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better: https://github.com/MrSibe/KnowNote
