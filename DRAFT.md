@@ -44,6 +44,8 @@ Google Mantis. A modular, stack-agnostic toolkit of security review skills for A
 
 Birdy Edwards. Local-first Facebook SOCMINT platform - automated profile intelligence, interaction network graphs, co-interactor analysis, and CNN face clustering. No LLM, no Docker, no cloud dependency. If anyone want to check AI-Powered version check the link below: https://github.com/jeet-ganguly/birdy-edwards-lite
 
+OSINT Mapping Tool. A small web app for organizing OSINT research. Jot down identifiers (social handles, phones, vehicles, whatever), pin places on a map (Google or OpenStreetMap), and wire the two together. Nothing leaves your browser: https://github.com/anonymousRAID/OSINT-Mapping-Tool
+
 SearchPhone. Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo) and automatic report generation: https://github.com/HackUnderway/SearchPhone
 
 Profile summary for GitHub. Visualize GitHub profile stats, including language distribution and commit volume: https://profile-summary-for-github.com/
@@ -81,6 +83,8 @@ Reqpane. Chrome extension for capturing API calls: https://github.com/ancs21/req
 ----
 
 **Linux & DevOps:**
+
+SSHM is a beautiful command-line tool that transforms how you manage and connect to your SSH hosts. Built with Go and featuring an intuitive TUI interface, it makes SSH connection management effortless and enjoyable: https://github.com/Gu1llaum-3/sshm
 
 **Rota** is a modern, full-stack proxy rotation platform that combines enterprise-grade proxy management with a beautiful, real-time web dashboard. Built with performance and scalability in mind, Rota handles thousands of requests per second while providing comprehensive monitoring, analytics, and control through an intuitive interface: https://github.com/alpkeskin/rota
 
