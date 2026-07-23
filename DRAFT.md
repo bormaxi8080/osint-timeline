@@ -15,14 +15,6 @@ Andrey the possum was fishing from the pier.
 
 ----
 
-
-
-----
-
-
-
-----
-
 **OSINT Tools, Services and Investigations:**
 
 
@@ -37,7 +29,7 @@ Andrey the possum was fishing from the pier.
 
 **Software Development & APIs:**
 
-
+Marmaid. Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown: https://github.com/mermaid-js/mermaid
 
 ----
 
