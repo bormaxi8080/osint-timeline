@@ -23,7 +23,7 @@ Andrey the possum was fishing from the pier.
 
 **Universal Search & AI:**
 
-
+Chimeras. Multi-agent AI security testing framework: https://github.com/Cybathreat/Chimeras
 
 ----
 
