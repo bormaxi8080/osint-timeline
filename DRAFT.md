@@ -25,6 +25,8 @@ Andrey the possum was fishing from the pier.
 
 Chimeras. Multi-agent AI security testing framework: https://github.com/Cybathreat/Chimeras
 
+Transcriber. AI-powered transcription for audio & video with Whisper - self-hosted, fast, and open-source: https://github.com/BrendownFerreira/transcriber
+
 ----
 
 **Software Development & APIs:**
