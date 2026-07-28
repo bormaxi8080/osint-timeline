@@ -47,6 +47,8 @@ Marmaid. Generation of diagrams like flowcharts or sequence diagrams from text i
 
 **Linux & DevOps:**
 
+Certimate. An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually: https://github.com/certimate-go/certimate
+
 tty7. A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty: https://github.com/l0ng-ai/tty7/
 
 ----
