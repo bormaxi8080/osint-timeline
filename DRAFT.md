@@ -39,6 +39,8 @@ HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, G
 
 **Software Development & APIs:**
 
+Kameleo. Anti-detect browser for web scraping and automation. Engine-level fingerprint masking for Chromium and Firefox. Self-hosted, Docker-ready. Integrates with Selenium, Playwright, and Puppeteer via SDKs in Python, JavaScript, and C#: https://github.com/kameleo-io/kameleo
+
 Marmaid. Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown: https://github.com/mermaid-js/mermaid
 
 ----
