@@ -35,6 +35,8 @@ HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, G
 
 **AirLLM** optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run **405B Llama3.1** on **8GB vram**now: https://github.com/0xSojalSec/airllm
 
+ghidraMCP is an Model Context Protocol server for allowing LLMs to autonomously reverse engineer applications. It exposes numerous tools from core Ghidra functionality to MCP clients: https://github.com/LaurieWired/GhidraMCP
+
 ----
 
 **Software Development & APIs:**
@@ -48,6 +50,14 @@ Marmaid. Generation of diagrams like flowcharts or sequence diagrams from text i
 **Linux & DevOps:**
 
 Certimate. An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually: https://github.com/certimate-go/certimate
+
+Process Interactive Kill is a command line tool that helps to find and kill process. It works like pkill command but search is interactive: https://github.com/jacek-kurlit/pik
+
+Cull. Interactive TUI disk space analyzer. Scan directories, find what's eating your disk, and delete it - all from the terminal: https://github.com/legostin/cull
+
+Drip. Self-hosted tunneling solution to expose localhost securely - unlimited bandwidth, no third-party servers: https://github.com/Gouryella/drip
+
+Cronmaster. Cronjob management UI with human readable syntax, live logging and log history for your cronjobs: https://github.com/fccview/cronmaster
 
 tty7. A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty: https://github.com/l0ng-ai/tty7
 
