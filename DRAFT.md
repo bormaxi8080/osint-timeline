@@ -17,7 +17,17 @@ Andrey the possum was fishing from the pier.
 
 **OSINT Tools, Services and Investigations:**
 
+Archives Portal Europe. Search by person or company name. Hundreds of millions of documents, manuscripts, administrative records, maps etc, 650K+ archival collections, 40 countries, 25 languages:
 
+https://www.archivesportaleurope.net/advanced-search/search-in-archives/
+
+IndexMundi. Global country statistics, indicators, and comparative maps for socio-economic analysis:
+
+https://www.indexmundi.com/
+
+Stix Viewer. Visualize and explore STIX data for threat intelligence and analysis:
+
+https://stix-viewer.threatlandscape.io/
 
 ----
 
@@ -59,7 +69,7 @@ Drip. Self-hosted tunneling solution to expose localhost securely - unlimited ba
 
 Cronmaster. Cronjob management UI with human readable syntax, live logging and log history for your cronjobs: https://github.com/fccview/cronmaster
 
-tty7. A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty: https://github.com/l0ng-ai/tty7
+tty7. A terminal workbench in pure Rust - shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty: https://github.com/l0ng-ai/tty7
 
 lazyports is a terminal UI tool to visualize and manage network ports. It provides an interactive table to inspect listening processes and kill them easily: https://github.com/v9mirza/LazyPorts
 
@@ -67,13 +77,18 @@ lazyports is a terminal UI tool to visualize and manage network ports. It provid
 
 **Hardware & Devices:**
 
+WiFi 2Flipper. Allows local storage of info to Flipper Zero via the BadKB and Mass Storage Apps:
 
+https://github.com/Skrimbo-Jones/Wifi2Flipper
 
 ----
 
 **New from CyberDetective:**
 
+  
+A list of services and tools for searching for addresses, neighbours’ names, telephone numbers, mentions in public records, social media profiles and other information about people in the United States of America:
 
+https://start.me/p/GEQXv7/osint-us
 
 ----
 
