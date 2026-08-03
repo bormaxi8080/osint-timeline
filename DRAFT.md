@@ -27,7 +27,9 @@ Andrey the possum was fishing from the pier.
 
 **Software Development & APIs:**
 
+Presidio. An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines: https://github.com/data-privacy-stack/presidio
 
+Iroh. IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps: https://github.com/n0-computer/iroh
 
 ----
 
