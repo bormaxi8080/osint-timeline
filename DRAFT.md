@@ -25,6 +25,8 @@ ScraperAI is an open-source, AI-powered tool designed to simplify web scraping f
 
 Swarms is the most reliable, scalable, and adaptive multi-agent orchestration framework available today. We provide a comprehensive suite of production-ready, prebuilt multi-agent architectures, including sequential, concurrent, and hierarchical systems. Additionally, Swarms offers backward compatibility with leading agent frameworks and interoperability with protocols such as MCP, x402, skills, and much more: https://github.com/kyegomez/swarms
 
+jcode is built to be as performant and resource efficient as possible. Every metric is optimized to the bone, which is important for scaling multi-session workflows. Here we sample a few metrics to show the difference: RAM usage and boot up: https://github.com/1jehuang/jcode
+
 ----
 
 **Software Development & APIs:**
