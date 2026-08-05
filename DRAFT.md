@@ -29,6 +29,8 @@ HackTools. The all-in-one browser extension for offensive security professional
 
 Open Interpreter. A coding agent for open models like Kimi K3: https://github.com/openinterpreter/openinterpreter
 
+AI that gets your everyday tasks done. OpenWorker is an open-source AI coworker that lives on your desktop and delivers **finished work**, not just chat: a polished document, a Slack reply with the numbers, an updated calendar, a triaged inbox. It runs on your machine and doesn't lock you into any model: bring your own API key for OpenAI, Anthropic, Google, or an open-weight provider, or run fully local with Ollama. Your data leaves your machine only through the model and integrations _you_ choose: https://github.com/andrewyng/openworker
+
 Swarms is the most reliable, scalable, and adaptive multi-agent orchestration framework available today. We provide a comprehensive suite of production-ready, prebuilt multi-agent architectures, including sequential, concurrent, and hierarchical systems. Additionally, Swarms offers backward compatibility with leading agent frameworks and interoperability with protocols such as MCP, x402, skills, and much more: https://github.com/kyegomez/swarms
 
 Open Kritt. Orchestrate AI agents to find real vulnerabilities in code. An open-source, self-hosted security research platform that turns focused AI analysis into de-duplicated, ranked findings with configurable validation and enrichment: https://github.com/Kritt-ai/open-kritt
