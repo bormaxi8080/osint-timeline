@@ -15,7 +15,11 @@ Andrey the possum was fishing from the pier.
 
 **OSINT Tools, Services and Investigations:**
 
-Falco is a real browser engine in roughly **36,000 lines of Rust**. It parses HTML, applies CSS, executes JavaScript, loads images, computes layout, and paints to a canvas — either as a **PNG file** or a live **interactive window** where you can scroll, click links, fill out forms, and navigate: https://github.com/poxk/Falco
+Falco is a real browser engine in roughly **36,000 lines of Rust**. It parses HTML, applies CSS, executes JavaScript, loads images, computes layout, and paints to a canvas - either as a PNG file or a live interactive window where you can scroll, click links, fill out forms, and navigate: https://github.com/poxk/Falco
+
+ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels: https://github.com/scraperai/scraperai
+
+Job Seek. An open-source job aggregator that monitors 4,400+ company career pages directly. Roles land here within hours of the company posting them — once, in canonical form, with no third-party reposts: https://github.com/colophon-group/jobseek
 
 HackTools. The all-in-one browser extension for offensive security professionals. HackTools, is a web extension facilitating your web application penetration tests, it includes **cheat sheets** as well as all the **tools** used during a test such as XSS payloads, Reverse shells and much more: https://github.com/LasCC/HackTools
 
@@ -23,7 +27,7 @@ HackTools. The all-in-one browser extension for offensive security professional
 
 **Universal Search & AI:**
 
-ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels: https://github.com/scraperai/scraperai
+Open Interpreter. A coding agent for open models like Kimi K3: https://github.com/openinterpreter/openinterpreter
 
 Swarms is the most reliable, scalable, and adaptive multi-agent orchestration framework available today. We provide a comprehensive suite of production-ready, prebuilt multi-agent architectures, including sequential, concurrent, and hierarchical systems. Additionally, Swarms offers backward compatibility with leading agent frameworks and interoperability with protocols such as MCP, x402, skills, and much more: https://github.com/kyegomez/swarms
 
