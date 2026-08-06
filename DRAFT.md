@@ -9,7 +9,11 @@ Andrey the possum was fishing from the pier.
 
 ----
 
+JAPAN Web Archive. 1B+ web pages and files. WARP NDL Web Archiving Project. Search HTML, PDF and MS Office files:
 
+https://warp.ndl.go.jp/en/
+
+Time to visit us again at [**OSINTGuide.com**](https://www.linkedin.com/safety/go/?url=http%3A%2F%2FOSINTGuide%2Ecom&urlhash=0SbY&mt=oaYsN2VGEdXHgVfL2vKzaUpppcRe0KkNAqqu8PM2FvAj1TDwKeKxc1BYpJp1ptxB6tAEHn02tlV48cSK7Oprxx02i51TuejP30bjz-yoAVH_i_FTjAPoXAKnUts&isSdui=true), we just added 10 new tools to the directory, and 10 new methods articles to the OSINT Methods series.
 
 ----
 
