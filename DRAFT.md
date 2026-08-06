@@ -18,7 +18,11 @@ Andrey the possum was fishing from the pier.
 
 **Universal Search & AI:**
 
+AI Engineering. Step-by-step tutorials on building LLM apps and AI Agents:
 
+https://aiengineering.beehiiv.com/
+
+Semantica. Graph-Native Infrastructure for Context and Accountable AI Systems: https://github.com/semantica-agi/semantica
 
 ----
 
