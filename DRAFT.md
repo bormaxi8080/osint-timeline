@@ -24,6 +24,8 @@ https://aiengineering.beehiiv.com/
 
 Semantica. Graph-Native Infrastructure for Context and Accountable AI Systems: https://github.com/semantica-agi/semantica
 
+Taipy. Turns Data and AI algorithms into production-ready web applications in no time: https://github.com/Avaiga/taipy
+
 ----
 
 **Software Development & APIs:**
