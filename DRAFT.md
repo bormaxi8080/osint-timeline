@@ -19,6 +19,8 @@ Falco is a real browser engine in roughly **36,000 lines of Rust**. It parses H
 
 ScraperAI is an open-source, AI-powered tool designed to simplify web scraping for users of all skill levels: https://github.com/scraperai/scraperai
 
+Markdown To Image. This React component is used to render Markdown into a beautiful poster image, with support for copying as an image: https://github.com/gcui-art/markdown-to-image
+
 Job Seek. An open-source job aggregator that monitors 4,400+ company career pages directly. Roles land here within hours of the company posting them — once, in canonical form, with no third-party reposts: https://github.com/colophon-group/jobseek
 
 HackTools. The all-in-one browser extension for offensive security professionals. HackTools, is a web extension facilitating your web application penetration tests, it includes **cheat sheets** as well as all the **tools** used during a test such as XSS payloads, Reverse shells and much more: https://github.com/LasCC/HackTools
@@ -59,13 +61,19 @@ ntfy.sh | Send push notifications to your phone or desktop via PUT/POST: https:/
 
 **Hardware & Devices:**
 
-
+Flipper Zero Lightning Distance. An app that calculates the distance of a lightning strike based on time between seeing the flash and hearing the thunderclap: https://github.com/AMARAN-THINE/Flipper-Lightning-Distance
 
 ----
 
 **New from CyberDetective:**
 
+Social Media OSINT Tools. 597 tools list - Facebook, Twitter X, Instagram, Youtube, People Search Engines, TikTok, Pinterest, Reddit, VKontakte, WhatsApp, Tumblr, LinkedIn, Telegram, Twitch, Mastodon:
 
+https://www.osintguide.com/en/tools/category/social-media
+
+Ghostint OSINT Tracker. Free online tool (open-source) OSINT Spatial Intelligence & Entity Mapping Tool. Visualize your investigations quickly and easily:
+
+https://tracker.prohacking77.me/
 
 ----
 
