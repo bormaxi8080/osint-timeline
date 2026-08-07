@@ -16,6 +16,8 @@ One Liner OSINT. A collection of powerful one-liner commands for Open-Source Int
 
 Phishing Email Analyzer. Python CLI tool that analyzes .eml files for phishing indicators — SPF/DKIM/DMARC, URL heuristics, VirusTotal, PDF reports: https://github.com/simoamine/phishing-email-analyzer
 
+Awesome OSINT MCP Servers. A curated list of MCP servers for OSINT: https://github.com/soxoj/awesome-osint-mcp-servers
+
 ----
 
 **Universal Search & AI:**
@@ -26,7 +28,11 @@ https://aiengineering.beehiiv.com/
 
 Semantica. Graph-Native Infrastructure for Context and Accountable AI Systems: https://github.com/semantica-agi/semantica
 
+DeepCode. Open Agentic Coding (Paper2Code & Text2Web & Text2Backend): https://github.com/HKUDS/DeepCode
+
 Taipy. Turns Data and AI algorithms into production-ready web applications in no time: https://github.com/Avaiga/taipy
+
+Book To Skill. Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work: https://github.com/virgiliojr94/book-to-skill
 
 ----
 
@@ -38,7 +44,7 @@ Taipy. Turns Data and AI algorithms into production-ready web applications in no
 
 **Linux & DevOps:**
 
-
+ShizuWall. Android firewall without VPN. Privacy-first, local-only, powered by Shizuku / local ADB daemon / Root: https://github.com/AhmetCanArslan/ShizuWall
 
 ----
 
@@ -47,6 +53,8 @@ Taipy. Turns Data and AI algorithms into production-ready web applications in no
 Flipper Access Audit. Flipper Zero app for defensive auditing of access-control credentials and tags: https://github.com/matthewkayne/flipper-access-audit
 
 Damn Vulnerable Drone is an intentionally vulnerable drone hacking simulator based on the popular ArduPilot/MAVLink architecture, providing a realistic environment for hands-on drone hacking: https://github.com/nicholasaleks/Damn-Vulnerable-Drone
+
+NTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface: https://github.com/smittix/intercept
 
 ----
 
