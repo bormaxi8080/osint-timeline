@@ -28,6 +28,8 @@ https://aiengineering.beehiiv.com/
 
 Semantica. Graph-Native Infrastructure for Context and Accountable AI Systems: https://github.com/semantica-agi/semantica
 
+**Codeman** is a self-hosted mission control for AI coding agents. It spawns Claude Code, OpenCode, Codex, Antigravity, or Gemini CLI inside persistent tmux sessions, streams the real terminal to any browser, and keeps agents productive after you walk away: it re-prompts on idle, resumes when a usage limit resets, runs scheduled jobs, and shows every background agent working in real time: https://github.com/Ark0N/Codeman
+
 DeepCode. Open Agentic Coding (Paper2Code & Text2Web & Text2Backend): https://github.com/HKUDS/DeepCode
 
 Taipy. Turns Data and AI algorithms into production-ready web applications in no time: https://github.com/Avaiga/taipy
