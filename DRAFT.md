@@ -18,6 +18,8 @@ Awesome OSINT MCP Servers. A curated list of MCP servers for OSINT: https://gith
 
 Phishing Email Analyzer. Python CLI tool that analyzes .eml files for phishing indicators — SPF/DKIM/DMARC, URL heuristics, VirusTotal, PDF reports: https://github.com/simoamine/phishing-email-analyzer
 
+Dumb Assets. A stupid simple asset tracker for keeping track of your physical assets, their components, and applicable warranties and routine maintenance: https://github.com/DumbWareio/DumbAssets
+
 LeafWiki. Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required: https://github.com/perber/leafwiki
 
 ----
