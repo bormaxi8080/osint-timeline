@@ -8,7 +8,17 @@ Andrey the possum was fishing from the pier.
 
 OSINT of Jamaica by Unishka Research Service: https://substack.com/home/post/p-209776545
 
+GHOST OSINT CRM. Global Human Operations & Surveillance Tracking: Open-source investigation management platform for tracking people, connections, and intelligence data. Because Excel spreadsheets are for accountants, not investigators. Non-commercial license: https://github.com/elm1nst3r/GHOST-osint-crm
+
 Last Signal. A self-hosted dead man's switch for delivering encrypted messages (E2EE) to your loved ones - when you're gone or unresponsive: https://github.com/giovantenne/lastsignal
+
+----
+
+Artist Ninja Image Search. Free reverse image search online tool. Find matching images, partly matching images and similar images.  
+
+https://artist.ninja/reverse-image-search
+  
+The image links do not have previews, but do take the time to browse through the various links. A distinctive feature of this tool is that the links at the top of the list may bear no resemblance at all to the original image, whilst those further down the list may, on the contrary, prove to be much more suitable.
 
 ----
 
@@ -52,6 +62,10 @@ Executor. Connect Any Agent to Everything. The missing integration layer for AI 
 
 qm. A multiplayer agent harness for work. In Slack and on the web: https://github.com/yc-software/qm
 
+PXX. Local-first AI coding agent runtime — your models, fail-closed safety, evidence-gated self-improvement: https://github.com/cdnwetzel/pxx
+
+Prime Agent. A self-improving RLM agent for coding workflows and long-running autonomous tasks: https://github.com/PrimeIntellect-ai/prime-agent
+
 Anydoc. Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings: https://github.com/firecrawl/anydoc/tree/main
 
 DeepCode. Open Agentic Coding (Paper2Code & Text2Web & Text2Backend): https://github.com/HKUDS/DeepCode
@@ -79,6 +93,8 @@ Eventum. Realistic synthetic events for testing, demos, and pipelines - streamed
 ----
 
 **Linux & DevOps:**
+
+Cloudflare OS. Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems: https://github.com/cloudflare/cloudflare-os
 
 ShizuWall. Android firewall without VPN. Privacy-first, local-only, powered by Shizuku / local ADB daemon / Root: https://github.com/AhmetCanArslan/ShizuWall
 
