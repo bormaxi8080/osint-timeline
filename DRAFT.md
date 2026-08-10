@@ -24,9 +24,15 @@ Phishing Email Analyzer. Python CLI tool that analyzes .eml files for phishing i
 
 Dumb Assets. A stupid simple asset tracker for keeping track of your physical assets, their components, and applicable warranties and routine maintenance: https://github.com/DumbWareio/DumbAssets
 
+Clypra. A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities: https://github.com/AIEraDev/Clypra
+
 LeafWiki. Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required: https://github.com/perber/leafwiki
 
 Moji. A lightweight, clean desktop app for opening, reading, editing, and exporting Markdown files: https://github.com/alexishida/Moji
+
+CLing. Instant fuzzy find any file on macOS: https://github.com/FuzzyIdeas/Cling
+
+OctoBot. Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface: https://github.com/Drakkar-Software/OctoBot
 
 ----
 
@@ -40,6 +46,14 @@ Semantica. Graph-Native Infrastructure for Context and Accountable AI Systems: h
 
 **Codeman** is a self-hosted mission control for AI coding agents. It spawns Claude Code, OpenCode, Codex, Antigravity, or Gemini CLI inside persistent tmux sessions, streams the real terminal to any browser, and keeps agents productive after you walk away: it re-prompts on idle, resumes when a usage limit resets, runs scheduled jobs, and shows every background agent working in real time: https://github.com/Ark0N/Codeman
 
+AgentENV (AENV) is a distributed platform for running agent environments at scale: https://github.com/kvcache-ai/AgentENV
+
+Executor. Connect Any Agent to Everything. The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment: https://github.com/UsefulSoftwareCo/executor
+
+qm. A multiplayer agent harness for work. In Slack and on the web: https://github.com/yc-software/qm
+
+Anydoc. Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings: https://github.com/firecrawl/anydoc/tree/main
+
 DeepCode. Open Agentic Coding (Paper2Code & Text2Web & Text2Backend): https://github.com/HKUDS/DeepCode
 
 Taipy. Turns Data and AI algorithms into production-ready web applications in no time: https://github.com/Avaiga/taipy
@@ -52,7 +66,15 @@ Book To Skill. Turn any technical book PDF into a Claude Code skill — ready to
 
 **Software Development & APIs:**
 
+Agent Development Kit (ADK) 2.0. An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control: https://github.com/google/adk-python
 
+A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response: https://github.com/ranahaani/GNews
+
+Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs: https://github.com/microsoft/flint-chart
+
+GitX is a portable AI-agent skill for creating clean Git commits, tagged branches, and safe pushes across Codex, Claude Code, Cursor, and other skills-compatible agents: https://github.com/MusoyanGrigor/gitx-skill
+
+Eventum. Realistic synthetic events for testing, demos, and pipelines - streamed live or generated in bulk: https://github.com/eventum-generator/eventum
 
 ----
 
