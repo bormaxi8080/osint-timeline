@@ -32,6 +32,8 @@ Profanity Filtering. Super fast profanity filter supporting 107 languages. 22,8
 
 Phishing Email Analyzer. Python CLI tool that analyzes .eml files for phishing indicators — SPF/DKIM/DMARC, URL heuristics, VirusTotal, PDF reports: https://github.com/simoamine/phishing-email-analyzer
 
+AiSOC. Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable: https://github.com/beenuar/AiSOC
+
 Dumb Assets. A stupid simple asset tracker for keeping track of your physical assets, their components, and applicable warranties and routine maintenance: https://github.com/DumbWareio/DumbAssets
 
 Clypra. A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities: https://github.com/AIEraDev/Clypra
@@ -95,6 +97,8 @@ Eventum. Realistic synthetic events for testing, demos, and pipelines - streamed
 **Linux & DevOps:**
 
 Cloudflare OS. Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems: https://github.com/cloudflare/cloudflare-os
+
+Minarca. Self-hosted opensource data backup for Linux, Windows and Mac: https://github.com/ikus060/minarca
 
 ShizuWall. Android firewall without VPN. Privacy-first, local-only, powered by Shizuku / local ADB daemon / Root: https://github.com/AhmetCanArslan/ShizuWall
 
