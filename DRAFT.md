@@ -1,8 +1,16 @@
 # Timeline Summarized Draft
 
+Tree Leaf
 
+Cereal
 
-Andrey the possum was fishing from the pier.
+Life
+
+Andrey the possum was fishing from the pier
+
+Trash
+
+Wire
 
 ----
 
