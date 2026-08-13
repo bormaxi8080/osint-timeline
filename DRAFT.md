@@ -68,6 +68,10 @@ PXX. Local-first AI coding agent runtime — your models, fail-closed safety, ev
 
 Prime Agent. A self-improving RLM agent for coding workflows and long-running autonomous tasks: https://github.com/PrimeIntellect-ai/prime-agent
 
+All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container: https://github.com/agent-infra/sandbox
+
+MCP Scanner. A Python tool for scanning MCP (Model Context Protocol) servers and tools for potential security findings. The MCP Scanner combines Cisco AI Defense inspect API, YARA rules and LLM-as-a-judge to detect malicious MCP tools: https://github.com/cisco-ai-defense/mcp-scanner
+
 Anydoc. Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings: https://github.com/firecrawl/anydoc/tree/main
 
 DeepCode. Open Agentic Coding (Paper2Code & Text2Web & Text2Backend): https://github.com/HKUDS/DeepCode
@@ -84,7 +88,9 @@ Book To Skill. Turn any technical book PDF into a Claude Code skill — ready to
 
 Agent Development Kit (ADK) 2.0. An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control: https://github.com/google/adk-python
 
-A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response: https://github.com/ranahaani/GNews
+PEV2. A VueJS component to show a graphical vizualization of a PostgreSQL execution plan: https://github.com/dalibo/pev2
+
+GNews. A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response: https://github.com/ranahaani/GNews
 
 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs: https://github.com/microsoft/flint-chart
 
@@ -97,6 +103,8 @@ Eventum. Realistic synthetic events for testing, demos, and pipelines - streamed
 **Linux & DevOps:**
 
 Cloudflare OS. Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems: https://github.com/cloudflare/cloudflare-os
+
+JetKVM is a high-performance, open-source KVM over IP (Keyboard, Video, Mouse) solution designed for efficient remote management of computers, servers, and workstations. Whether you're dealing with boot failures, installing a new operating system, adjusting BIOS settings, or simply taking control of a machine from afar, JetKVM provides the tools to get it done effectively: https://github.com/jetkvm/kvm
 
 Minarca. Self-hosted opensource data backup for Linux, Windows and Mac: https://github.com/ikus060/minarca
 
