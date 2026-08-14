@@ -16,6 +16,8 @@ Wire
 
 **Registry Lookup.** The open database of legal entities. One search across the world's company registries. Find the legal entity behind a business name using registry numbers, status, addresses, LEIs, and official identifiers: https://registry-lookup.com/
 
+OSINT of Myanmar by Unishka Research Service: https://substack.com/home/post/p-210589613
+
 ----
 
 Artist Ninja Image Search. Free reverse image search online tool. Find matching images, partly matching images and similar images.  
@@ -30,11 +32,21 @@ The image links do not have previews, but do take the time to browse through the
 
 Fleetbase is a modular logistics and supply chain operating system designed to streamline management, planning, optimization, and operational control across various sectors of the supply chain industry: https://github.com/fleetbase/fleetbase
 
+Watermarks Remover. Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD: https://github.com/guillaumemeyer/watermarks-remover
+
 ----
 
 **Universal Search & AI:**
 
+/last30days-skill. AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary: https://github.com/mvanhorn/last30days-skill
 
+MCP Context Forge. An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins: https://github.com/IBM/mcp-context-forge
+
+Tracely is a tool designed for tracing and monitoring AI model interactions, enabling you to gain real-time insights into your models' performance. This repository offers a straightforward interface for integrating tracing into your Python applications: https://github.com/evidentlyai/tracely
+
+GraphGen. Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation: https://github.com/InternScience/GraphGen
+
+Graft. Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase: https://github.com/NanoNets/Graft
 
 ----
 
@@ -60,7 +72,9 @@ NTERCEPT, a free and open-source platform that unites the best signal intelligen
 
 **New from CyberDetective:**
 
+Information Gathering using Spiderfoot: A Practical Walkthrough:
 
+https://www.infosectrain.com/blog/information-gathering-using-spiderfoot-a-practical-walkthrough
 
 ----
 
