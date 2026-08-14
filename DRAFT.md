@@ -34,6 +34,8 @@ Fleetbase is a modular logistics and supply chain operating system designed to s
 
 Watermarks Remover. Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD: https://github.com/guillaumemeyer/watermarks-remover
 
+Human Text Editor HTE. This simulates human typing for free and has many cool features that help with typing and replacing existing text with modified text in a human like way without deleting the entire text block and just pasting the new text. Example: Hi how are you = Hello how are you (Change Hi with Hello only): https://github.com/Wart050/Human-Text-Editor-HTE
+
 ----
 
 **Universal Search & AI:**
