@@ -14,7 +14,7 @@ Wire
 
 ----
 
-
+**Registry Lookup.** The open database of legal entities. One search across the world's company registries. Find the legal entity behind a business name using registry numbers, status, addresses, LEIs, and official identifiers: https://registry-lookup.com/
 
 ----
 
@@ -28,7 +28,7 @@ The image links do not have previews, but do take the time to browse through the
 
 **OSINT Tools, Services and Investigations:**
 
-
+Fleetbase is a modular logistics and supply chain operating system designed to streamline management, planning, optimization, and operational control across various sectors of the supply chain industry: https://github.com/fleetbase/fleetbase
 
 ----
 
@@ -40,7 +40,7 @@ The image links do not have previews, but do take the time to browse through the
 
 **Software Development & APIs:**
 
-
+Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates: https://github.com/BlessedRebuS/Krawl
 
 ----
 
