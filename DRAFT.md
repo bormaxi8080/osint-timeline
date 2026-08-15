@@ -12,6 +12,8 @@ Trash
 
 Wire
 
+Rose
+
 ----
 
 **Registry Lookup.** The open database of legal entities. One search across the world's company registries. Find the legal entity behind a business name using registry numbers, status, addresses, LEIs, and official identifiers: https://registry-lookup.com/
