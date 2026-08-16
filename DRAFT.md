@@ -14,6 +14,8 @@ Wire
 
 Rose
 
+Bomb
+
 ----
 
 **Registry Lookup.** The open database of legal entities. One search across the world's company registries. Find the legal entity behind a business name using registry numbers, status, addresses, LEIs, and official identifiers: https://registry-lookup.com/
@@ -56,11 +58,21 @@ GraphGen. Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthe
 
 Graft. Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase: https://github.com/NanoNets/Graft
 
+Multi Agent Generator. Low-code/no-code python library that transforms plain English instructions into fully configured multi-agent AI teams: https://github.com/aakriti1318/multi-agent-generator
+
+Corsair is the unified integration layer for your agents. Connect your Corsair instance to your agent and immediately get access to every integration. Your agent never sees the credentials, and you control exactly what it can do: https://github.com/corsairdev/corsair
+
+Skales. Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks: https://github.com/skalesapp/skales
+
+Exxperts. Local-first AI agents with governed, approval-gated memory. Any model provider; MCP tools and web search built in. Nothing remembered without your say-so, nothing leaves your machine: https://github.com/EXXETA/exxperts
+
 ----
 
 **Software Development & APIs:**
 
 Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates: https://github.com/BlessedRebuS/Krawl
+
+Anakin. Open-source web scraping API. Turn any website into clean markdown or structured JSON. Anti-detect browser, proxy auto-selection, self-hosted: https://github.com/Anakin-Inc/anakin
 
 ----
 
