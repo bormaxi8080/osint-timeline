@@ -42,6 +42,10 @@ Human Text Editor HTE. This simulates human typing for free and has many cool fe
 
 **Universal Search & AI:**
 
+LLM Proxy Router + Coding Agent - High-Availability LLM API Proxy with Desktop GUI. A local Electron application that runs a **fallback LLM proxy server** on your machine, plus a built-in **coding agent**. Configure a list of provider endpoints (API base URLs, API keys via environment variables, model names), and the proxy automatically routes requests to the fastest healthy endpoint, falls back through the rest in parallel when one fails, and learns at runtime to optimize routing: https://github.com/burny143/llm-router
+
+fenic turns AI-assisted exploration of structured and unstructured data into reusable, inspectable DataFrame pipelines: https://github.com/typedef-ai/fenic
+
 /last30days-skill. AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary: https://github.com/mvanhorn/last30days-skill
 
 MCP Context Forge. An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool calling, and supports plugins: https://github.com/IBM/mcp-context-forge
