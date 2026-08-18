@@ -64,7 +64,13 @@ Corsair is the unified integration layer for your agents. Connect your Corsair i
 
 Skales. Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks: https://github.com/skalesapp/skales
 
+**RepoRewind** is a next-generation developer tool that transforms dry `git log` histories into breathtaking 3D WebGL visualizations. It instantly spins up a local server and opens a beautiful dark-mode interface where your repository is represented as a living, glowing 3D network graph: https://github.com/Cristofervaltz/RepoRewind
+
 Exxperts. Local-first AI agents with governed, approval-gated memory. Any model provider; MCP tools and web search built in. Nothing remembered without your say-so, nothing leaves your machine: https://github.com/EXXETA/exxperts
+
+Vault-LD. An open spec for Markdown vaults as linked data. YAML-LD frontmatter + a shared [@context](https://github.com/context) = an RDF knowledge graph. Prose for humans and LLMs, triples for machines: https://github.com/The-Knowledge-Graph-Guys/vault-ld
+
+PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations: https://github.com/s0ld13rr/pentestcode
 
 ----
 
