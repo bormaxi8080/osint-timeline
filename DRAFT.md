@@ -38,6 +38,8 @@ Fleetbase is a modular logistics and supply chain operating system designed to s
 
 Semtools. Semantic search and document parsing tools for the command line: https://github.com/run-llama/semtools
 
+Transcription Suite. A fully local and private Speech-To-Text app, offering multiple model backends, diarization & calendar mode - Available for Windows, macOS & Linux: https://github.com/homelab-00/TranscriptionSuite
+
 Watermarks Remover. Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD: https://github.com/guillaumemeyer/watermarks-remover
 
 Human Text Editor HTE. This simulates human typing for free and has many cool features that help with typing and replacing existing text with modified text in a human like way without deleting the entire text block and just pasting the new text. Example: Hi how are you = Hello how are you (Change Hi with Hello only): https://github.com/Wart050/Human-Text-Editor-HTE
