@@ -70,6 +70,8 @@ Skales. Personal AI desktop agent for Windows, macOS, Linux, Android & iOS. Set 
 
 **RepoRewind** is a next-generation developer tool that transforms dry `git log` histories into breathtaking 3D WebGL visualizations. It instantly spins up a local server and opens a beautiful dark-mode interface where your repository is represented as a living, glowing 3D network graph: https://github.com/Cristofervaltz/RepoRewind
 
+Shepherd is an open source, fully featured, digital adoption platform (DAP) and user on-boarding service: https://github.com/shipshapecode/shepherd
+
 Exxperts. Local-first AI agents with governed, approval-gated memory. Any model provider; MCP tools and web search built in. Nothing remembered without your say-so, nothing leaves your machine: https://github.com/EXXETA/exxperts
 
 Vault-LD. An open spec for Markdown vaults as linked data. YAML-LD frontmatter + a shared [@context](https://github.com/context) = an RDF knowledge graph. Prose for humans and LLMs, triples for machines: https://github.com/The-Knowledge-Graph-Guys/vault-ld
