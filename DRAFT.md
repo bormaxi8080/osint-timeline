@@ -28,7 +28,7 @@ Bomb
 
 **Universal Search & AI:**
 
-
+NVIDIA Labs Object Oriented Agents. the Pythonic way to build AI Agents: https://github.com/NVIDIA-NeMo/labs-OO-Agents
 
 ----
 
