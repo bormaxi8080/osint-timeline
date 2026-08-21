@@ -24,6 +24,8 @@ Bomb
 
 ScriptCat, a browser extension that can execute userscript: https://github.com/scriptscat/scriptcat
 
+PDF Document Layout Analysis. A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on: https://github.com/huridocs/pdf-document-layout-analysis
+
 ----
 
 **Universal Search & AI:**
@@ -38,11 +40,17 @@ Awesome Legal Skills. A curated collection of the finest open-source agent skill
 
 Google Docs MCP. The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing: https://github.com/a-bonus/google-docs-mcp
 
+Pythia. Interpreting Transformers Across Time and Scale. This repository is for EleutherAI's project _Pythia_ which combines interpretability analysis and scaling laws to understand how knowledge develops and evolves during training in autoregressive transformers: https://github.com/EleutherAI/pythia
+
+**MatrAIx** is a population-scale, persona-driven infrastructure for evaluating AI systems and interactive products with heterogeneous simulated users. Instead of testing against a generic or interchangeable user, MatrAIx instantiates sampled persona records as LLM agents and runs them through reproducible tasks across four environments - **Survey**, **AI Chatbot**, **Web**, and **App** (native desktop and mobile, including macOS and iOS): https://github.com/MatrAIx-ai/MatrAIx-Persona-8B
+
+SkillDeck. Native macOS SwiftUI app for managing multiple AI code agent skills: https://github.com/crossoverJie/SkillDeck
+
 ----
 
 **Software Development & APIs:**
 
-
+JsonDB a pure java database that stores its data as Json Files: https://github.com/Jsondb/jsondb-core
 
 ----
 
