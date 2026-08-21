@@ -16,7 +16,7 @@ Bomb
 
 ----
 
-
+OSINT of Papua New Guinea by Unishka Research Service: https://substack.com/home/post/p-212003152
 
 ----
 
