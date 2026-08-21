@@ -60,7 +60,17 @@ JsonDB a pure java database that stores its data as Json Files: https://github.c
 
 **Linux & DevOps:**
 
+Terminator is a cross-platform SSH client built with [Wails v3](https://v3.wails.io/) and Go. Supports self-hosted servers for sync.
 
+Features:
+- **Encryption.** All sensitive data is encrypted locally using Argon2id and AES-256GCM.
+- **Sync** encrypted data across multiple devices. Data is encrypted _before_ it leaves the client!
+- **Lightweight.** ~15MB binaries, ~10MB RAM.
+- Cross-platform:
+    - [Windows](https://github.com/terminator-ssh/terminator-desktop/releases/latest/download/Terminator-windows-stable-Setup.exe)
+    - [Linux](https://github.com/terminator-ssh/terminator-desktop/releases/latest/download/Terminator-linux-stable.AppImage)
+    - [MacOS](https://github.com/terminator-ssh/terminator-desktop/releases/latest/download/Terminator-macos-stable-Setup.pkg)
+- Local first. You _don't have to_ use a server!: https://github.com/terminator-ssh/terminator-desktop
 
 ----
 
