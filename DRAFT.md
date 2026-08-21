@@ -46,6 +46,8 @@ Pythia. Interpreting Transformers Across Time and Scale. This repository is for 
 
 **MatrAIx** is a population-scale, persona-driven infrastructure for evaluating AI systems and interactive products with heterogeneous simulated users. Instead of testing against a generic or interchangeable user, MatrAIx instantiates sampled persona records as LLM agents and runs them through reproducible tasks across four environments - **Survey**, **AI Chatbot**, **Web**, and **App** (native desktop and mobile, including macOS and iOS): https://github.com/MatrAIx-ai/MatrAIx-Persona-8B
 
+CatchMe. Makes Your Agents Truly Personal. CatchMe ships as an agent-compatible skill for CLI agents (OpenClaw, NanoBot, Claude, Cursor, etc.). Run CatchMe independently. Your agents query memories via CLI commands only: https://github.com/HKUDS/CatchMe
+
 SkillDeck. Native macOS SwiftUI app for managing multiple AI code agent skills: https://github.com/crossoverJie/SkillDeck
 
 ----
