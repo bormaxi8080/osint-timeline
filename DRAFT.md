@@ -22,9 +22,11 @@ Bomb
 
 **OSINT Tools, Services and Investigations:**
 
+PDF Document Layout Analysis. A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on: https://github.com/huridocs/pdf-document-layout-analysis
+
 ScriptCat, a browser extension that can execute userscript: https://github.com/scriptscat/scriptcat
 
-PDF Document Layout Analysis. A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on: https://github.com/huridocs/pdf-document-layout-analysis
+vPhone Workstation. A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window: https://github.com/zqxwce/vphone-ws
 
 ----
 
