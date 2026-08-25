@@ -24,9 +24,13 @@ OSINT of Papua New Guinea by Unishka Research Service: https://substack.com/home
 
 PDF Document Layout Analysis. A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on: https://github.com/huridocs/pdf-document-layout-analysis
 
+Doop. The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in: https://github.com/kgoedecke/doop
+
 ScriptCat, a browser extension that can execute userscript: https://github.com/scriptscat/scriptcat
 
 vPhone Workstation. A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window: https://github.com/zqxwce/vphone-ws
+
+VoiceStudio. A unified toolkit for text-style prompted speech synthesis, voice adaptation, and editing: https://github.com/latentforge/VoiceStudio
 
 ----
 
@@ -35,6 +39,10 @@ vPhone Workstation. A native macOS app for managing virtual iPhones - browse, cr
 NVIDIA Labs Object Oriented Agents. the Pythonic way to build AI Agents: https://github.com/NVIDIA-NeMo/labs-OO-Agents
 
 Neo4j Agent Memory. A graph-native memory system for AI agents and context graphs. Store conversations, build knowledge graphs, and let your agents learn from their own reasoning — all backed by Neo4j: https://github.com/neo4j-labs/agent-memory
+
+OpenLive. Open, self-hosted runtime for real-time voice agents — a Rust recreation of ChatGPT's Advanced Voice Mode (GPT-Live), model-neutral: https://github.com/byte271/Openlive
+
+PraisonAI. Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs: https://github.com/MervinPraison/PraisonAI
 
 XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work: https://github.com/xerj-org/xerj
 
@@ -54,11 +62,15 @@ SkillDeck. Native macOS SwiftUI app for managing multiple AI code agent skills: 
 
 **Software Development & APIs:**
 
+Armada. A multi-cluster batch queuing system for high-throughput workloads on Kubernetes: https://github.com/armadaproject/armada
+
 JsonDB a pure java database that stores its data as Json Files: https://github.com/Jsondb/jsondb-core
 
 ----
 
 **Linux & DevOps:**
+
+logto. Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC: https://github.com/logto-io/logto
 
 Terminator is a cross-platform SSH client built with [Wails v3](https://v3.wails.io/) and Go. Supports self-hosted servers for sync.
 
@@ -78,7 +90,7 @@ Features:
 
 This CLI framework is based on [`sploitkit`](https://github.com/dhondta/python-sploitkit/) and is an attempt to gather hacking techniques and exploits especially focused on **drone hacking**. For the ease of use, the interface has a layout that looks like Metasploit: https://github.com/dronesploit/dronesploit
 
-PhantomTap. A Flipper Zero that stops guessing and starts reasoning: ML-guided RFID/NFC fuzzing & access-control auditing that turns raw card reads into a prioritized, explainable security assessment. Defensive-use only: https://github.com/Krishita17/PhantomTap
+PhantomTap. A Flipper Zero that stops guessing and starts reasoning. ML-guided RFID/NFC fuzzing & access-control auditing that turns raw card reads into a prioritized, explainable security assessment. Defensive-use only: https://github.com/Krishita17/PhantomTap
 
 NTERCEPT. A free and open-source platform that unites the best signal intelligence tools into a single, accessible interface: https://github.com/smittix/intercept
 
