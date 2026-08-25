@@ -14,6 +14,8 @@ Rose
 
 Bomb
 
+Medicines
+
 ----
 
 OSINT of Papua New Guinea by Unishka Research Service: https://substack.com/home/post/p-212003152
@@ -40,7 +42,7 @@ NVIDIA Labs Object Oriented Agents. the Pythonic way to build AI Agents: https:/
 
 Neo4j Agent Memory. A graph-native memory system for AI agents and context graphs. Store conversations, build knowledge graphs, and let your agents learn from their own reasoning — all backed by Neo4j: https://github.com/neo4j-labs/agent-memory
 
-OpenLive. Open, self-hosted runtime for real-time voice agents — a Rust recreation of ChatGPT's Advanced Voice Mode (GPT-Live), model-neutral: https://github.com/byte271/Openlive
+OpenLive. Open, self-hosted runtime for real-time voice agents - a Rust recreation of ChatGPT's Advanced Voice Mode (GPT-Live), model-neutral: https://github.com/byte271/Openlive
 
 PraisonAI. Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs: https://github.com/MervinPraison/PraisonAI
 
