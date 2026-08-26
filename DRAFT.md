@@ -16,15 +16,19 @@ Bomb
 
 Medicines
 
+Linus
+
 ----
 
 OSINT of Papua New Guinea by Unishka Research Service: https://substack.com/home/post/p-212003152
+
+Pangram. An AI detector that actually works. Detect AI-generated content with 99.98% accuracy. Trusted by universities, schools, and enterprises worldwide: https://www.pangram.com/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-PDF Document Layout Analysis. A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on: https://github.com/huridocs/pdf-document-layout-analysis
+Tandem Browser. AI-Human symbiotic browser - browse the web as one entity: https://github.com/hydro13/tandem-browser
 
 Doop. The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in: https://github.com/kgoedecke/doop
 
@@ -33,6 +37,10 @@ ScriptCat, a browser extension that can execute userscript: https://github.com/s
 vPhone Workstation. A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window: https://github.com/zqxwce/vphone-ws
 
 VoiceStudio. A unified toolkit for text-style prompted speech synthesis, voice adaptation, and editing: https://github.com/latentforge/VoiceStudio
+
+**MJ PDF** is a fast, simple, powerful and totally private PDF reader: https://github.com/mudlej/mj_pdf
+
+PDF Document Layout Analysis. A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on: https://github.com/huridocs/pdf-document-layout-analysis
 
 ----
 
