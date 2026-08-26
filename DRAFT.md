@@ -26,6 +26,31 @@ Pangram. An AI detector that actually works. Detect AI-generated content with 99
 
 ----
 
+Birdy-Edwards 2.0 Launched.
+  
+That response pushed me to build harder. Today v2.0 - Birdy-Edwards Wraith - is live.  
+  
+What changed:  
+  
+→ Flexibility - Terminate in any step and generate report  
+→ Reel caption AI intelligence - entities, narrative types, threat indicators  
+→ Batch investigation - 10 mixed URLs, one run, full pipeline  
+→ Co-commentor coordination matrix - visual proof of who moves together  
+→ HOG + CNN hybrid face detection - more accurate across image sizes  
+→ AI confidence % badge on country detection  
+→ Telegram PDF delivery on investigation completion  
+→ Investigation queue - run 5 back to back  
+→ Hindi, Urdu, Arabic render correctly in PDF reports  
+-> Date and Time modification if wrong date gathered etc.  
+  
+Still 100% local. Still zero cloud. Still free and open source .  
+  
+If you work in Facebook OSINT, SOCMINT, threat intelligence, investigative journalism, or security research  this was built for you:
+
+https://github.com/jeet-ganguly/birdy-edwards
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 Tandem Browser. AI-Human symbiotic browser - browse the web as one entity: https://github.com/hydro13/tandem-browser
@@ -52,6 +77,14 @@ Neo4j Agent Memory. A graph-native memory system for AI agents and context graph
 
 OpenLive. Open, self-hosted runtime for real-time voice agents - a Rust recreation of ChatGPT's Advanced Voice Mode (GPT-Live), model-neutral: https://github.com/byte271/Openlive
 
+Holy Claude. AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools: https://github.com/CoderLuii/holyclaude
+
+FreeToken. Unlock datacenter-class intelligence on the hardware you already own — Run 290B+ frontier MoE models locally on your gaming PC at blistering interactive speeds: https://github.com/FlashML-org/FreeToken
+
+IX. Understand any codebase instantly. System intelligence for codebases, built for humans and AI: https://github.com/ix-infrastructure/Ix
+
+Neocarta. Library built for generating semantic layer graphs for query routing, query generation and data discovery: https://github.com/neo4j-labs/neocarta
+
 PraisonAI. Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs: https://github.com/MervinPraison/PraisonAI
 
 XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work: https://github.com/xerj-org/xerj
@@ -59,6 +92,8 @@ XERJ is the new way for AI to search data. Its autoindex capability activates ag
 Awesome Legal Skills. A curated collection of the finest open-source agent skills for legal work, bringing together contributions from practicing lawyers, in-house counsel, academics, and legal technologists. Built on portable, open standards rather than proprietary agent formats, it aims to make AI accessible and practical for legal professionals: https://github.com/lawve-ai/awesome-legal-skills
 
 Google Docs MCP. The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing: https://github.com/a-bonus/google-docs-mcp
+
+PDFtoChat. Chat with your PDFs in seconds. Powered by Together AI and Chroma: https://github.com/Nutlope/pdftochat
 
 Pythia. Interpreting Transformers Across Time and Scale. This repository is for EleutherAI's project _Pythia_ which combines interpretability analysis and scaling laws to understand how knowledge develops and evolves during training in autoregressive transformers: https://github.com/EleutherAI/pythia
 
@@ -71,6 +106,8 @@ SkillDeck. Native macOS SwiftUI app for managing multiple AI code agent skills: 
 ----
 
 **Software Development & APIs:**
+
+Pipelex. Declarative language for composable Al workflows. Devtool for agents and mere humans: https://github.com/Pipelex/pipelex
 
 Armada. A multi-cluster batch queuing system for high-throughput workloads on Kubernetes: https://github.com/armadaproject/armada
 
