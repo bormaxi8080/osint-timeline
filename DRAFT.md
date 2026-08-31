@@ -80,7 +80,9 @@ The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disr
 
 **New from CyberDetective:**
 
+AIRCRAFTDEFECTS. 1,757,827 Federal Aviation Administration service difficulty reports archive (1995-01-01 to 2026-08-26) with infographics and detailed statistics:
 
+https://aircraftdefects.com/
 
 ----
 
