@@ -18,7 +18,7 @@ Linus
 
 ----
 
-
+Verification Toolset by Julia Bayer: https://start.me/p/ZGAzN7/verification-toolset
 
 ----
 
@@ -42,7 +42,11 @@ GuppyLM. A ~9M parameter LLM that talks like a small fish: https://github.com/ar
 
 Antology Atlas. Understand what your codebase builds, why it is structured that way, and what a change could affect. One shared Markdown ontology for humans and coding agents—visualized for people, accessible to agents through MCP, and reviewed with Git. Local-first. Open source: https://github.com/wlsdks/ontology-atlas
 
+AIPass. Persistent Agent Workspace - AI agents that remember, collaborate, and never start from zero: https://github.com/AIOSAI/AIPass
+
 ClaudeMeter. macOS menu bar app for tracking Claude.ai plan usage in real-time. Monitor 5-hour session, 7-day weekly, and Sonnet-specific limits with color-coded indicators and smart notifications: https://github.com/eddmann/ClaudeMeter
+
+Inferoa. Inference-native Tokenmaxxing Agent Harness for Loop Engineering: https://github.com/agentic-in/inferoa
 
 LatticeDB. Embedded single-file knowledge graph database with vector search and full-text search for AI/RAG apps: https://github.com/jeffhajewski/latticedb§
 
@@ -53,6 +57,10 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 ----
 
 **Software Development & APIs:**
+
+Mitosis. Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more: https://github.com/BuilderIO/mitosis
+
+Herm. Terminal-native AI coding agent running in containers: https://github.com/aduermael/herm
 
 DBX. 20 MB lightweight cross-platform client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker: https://github.com/t8y2/dbx
 
