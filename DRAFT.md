@@ -26,6 +26,8 @@ Linus
 
 Tare is a modern AI-powered browser built with Electron and React, combining fast web browsing, intelligent chat, page understanding, and automation tools in one lightweight desktop client: https://github.com/hezongxi/Tare
 
+h5i. Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~3× faster and ~86% less peak memory than headless Chromium: https://github.com/h5i-dev/h5i
+
 IWA Chrome. Undetectable offensive toolkit inside Chrome: https://github.com/CICADA8-Research/iwa-tools
 
 Mailflare. Email client with custom domain based on Cloudflare: https://github.com/hieunc229/mailflare
@@ -40,9 +42,13 @@ GuppyLM. A ~9M parameter LLM that talks like a small fish: https://github.com/ar
 
 Antology Atlas. Understand what your codebase builds, why it is structured that way, and what a change could affect. One shared Markdown ontology for humans and coding agents—visualized for people, accessible to agents through MCP, and reviewed with Git. Local-first. Open source: https://github.com/wlsdks/ontology-atlas
 
+ClaudeMeter. macOS menu bar app for tracking Claude.ai plan usage in real-time. Monitor 5-hour session, 7-day weekly, and Sonnet-specific limits with color-coded indicators and smart notifications: https://github.com/eddmann/ClaudeMeter
+
 LatticeDB. Embedded single-file knowledge graph database with vector search and full-text search for AI/RAG apps: https://github.com/jeffhajewski/latticedb§
 
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
+
+OpenSearch-VL provides a fully open recipe for training strong multimodal deep search agents through high-quality data curation, diverse visual/search tools, and fatal-aware agentic reinforcement learning: https://github.com/shawn0728/OpenSearch-VL
 
 ----
 
