@@ -46,6 +46,8 @@ AIPass. Persistent Agent Workspace - AI agents that remember, collaborate, and n
 
 ClaudeMeter. macOS menu bar app for tracking Claude.ai plan usage in real-time. Monitor 5-hour session, 7-day weekly, and Sonnet-specific limits with color-coded indicators and smart notifications: https://github.com/eddmann/ClaudeMeter
 
+Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal: https://github.com/google-antigravity/antigravity-cli
+
 Inferoa. Inference-native Tokenmaxxing Agent Harness for Loop Engineering: https://github.com/agentic-in/inferoa
 
 LatticeDB. Embedded single-file knowledge graph database with vector search and full-text search for AI/RAG apps: https://github.com/jeffhajewski/latticedb§
