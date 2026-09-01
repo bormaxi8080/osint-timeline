@@ -52,6 +52,10 @@ LatticeDB. Embedded single-file knowledge graph database with vector search and 
 
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
 
+TBL - Translate Books with LLMs. Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits: https://github.com/hydropix/TranslateBooksWithLLMs
+
+Claude Screenshot Uploader. Upload macOS screenshots to your server over SSH and get the remote path on your clipboard — ready to paste into a remote Claude Code/Codex session. Menu bar app via xbar: https://github.com/mdrzn/claude-screenshot-uploader
+
 OpenSearch-VL provides a fully open recipe for training strong multimodal deep search agents through high-quality data curation, diverse visual/search tools, and fatal-aware agentic reinforcement learning: https://github.com/shawn0728/OpenSearch-VL
 
 ----
