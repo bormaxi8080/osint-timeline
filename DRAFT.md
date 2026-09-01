@@ -48,6 +48,8 @@ ClaudeMeter. macOS menu bar app for tracking Claude.ai plan usage in real-time. 
 
 Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal: https://github.com/google-antigravity/antigravity-cli
 
+Cate. An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace: https://github.com/0-AI-UG/cate
+
 Inferoa. Inference-native Tokenmaxxing Agent Harness for Loop Engineering: https://github.com/agentic-in/inferoa
 
 LatticeDB. Embedded single-file knowledge graph database with vector search and full-text search for AI/RAG apps: https://github.com/jeffhajewski/latticedb§
