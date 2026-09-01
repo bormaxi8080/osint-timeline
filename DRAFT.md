@@ -20,6 +20,8 @@ Linus
 
 Verification Toolset by Julia Bayer: https://start.me/p/ZGAzN7/verification-toolset
 
+fcc-model-check is a Bash health-check utility for validating model routing between Free Claude Code (FCC) with NVIDIA NIM and other models: https://github.com/bormaxi8080/fcc-model-check
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -44,7 +46,9 @@ Antology Atlas. Understand what your codebase builds, why it is structured that 
 
 AIPass. Persistent Agent Workspace - AI agents that remember, collaborate, and never start from zero: https://github.com/AIOSAI/AIPass
 
-ClaudeMeter. macOS menu bar app for tracking Claude.ai plan usage in real-time. Monitor 5-hour session, 7-day weekly, and Sonnet-specific limits with color-coded indicators and smart notifications: https://github.com/eddmann/ClaudeMeter
+Claude Meter. macOS menu bar app for tracking Claude.ai plan usage in real-time. Monitor 5-hour session, 7-day weekly, and Sonnet-specific limits with color-coded indicators and smart notifications: https://github.com/eddmann/ClaudeMeter
+
+Claude Rank. AI Readiness and Search Visibility scanner for Claude Code. Find out if AI engines can discover, crawl, and cite your site — then fix what's blocking them: https://github.com/Houseofmvps/claude-rank
 
 Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal: https://github.com/google-antigravity/antigravity-cli
 
