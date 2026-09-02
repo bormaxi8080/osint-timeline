@@ -22,6 +22,10 @@ Verification Toolset by Julia Bayer: https://start.me/p/ZGAzN7/verification-tool
 
 fcc-model-check is a Bash health-check utility for validating model routing between Free Claude Code (FCC) with NVIDIA NIM and other models: https://github.com/bormaxi8080/fcc-model-check
 
+Claude Code + Ollama Local Setup. Run Claude Code locally with Ollama on Windows, with a simple launcher, setup guide, and CPU/GPU troubleshooting notes: https://github.com/emilycodes-cmd/claude-code-ollama-local
+
+Awesome Workflow Automation. A curated list of Workflow Automation Software, Engines and Tools: https://github.com/dariubs/awesome-workflow-automation
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -33,6 +37,8 @@ h5i. Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~3×
 IWA Chrome. Undetectable offensive toolkit inside Chrome: https://github.com/CICADA8-Research/iwa-tools
 
 Mailflare. Email client with custom domain based on Cloudflare: https://github.com/hieunc229/mailflare
+
+Medusa is a speedy, parallel, and modular, login brute-forcer.: https://github.com/jmk-foofus/medusa
 
 iOS OCR Server. An iOS OCR Server Using Apple’s Vision Framework: https://github.com/riddleling/iOS-OCR-Server
 
@@ -52,6 +58,8 @@ Claude Rank. AI Readiness and Search Visibility scanner for Claude Code. Find ou
 
 Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal: https://github.com/google-antigravity/antigravity-cli
 
+Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log: https://github.com/apache/maka
+
 Cate. An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace: https://github.com/0-AI-UG/cate
 
 Inferoa. Inference-native Tokenmaxxing Agent Harness for Loop Engineering: https://github.com/agentic-in/inferoa
@@ -61,6 +69,10 @@ LatticeDB. Embedded single-file knowledge graph database with vector search and 
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
 
 TBL - Translate Books with LLMs. Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits: https://github.com/hydropix/TranslateBooksWithLLMs
+
+Penligent.ai - AI2PentestTool. 200+ Seamless Integrations with Leading Security & Pentesting Tools: https://github.com/penligent/AI2PentestTool
+
+Voder. Voice Operation and Design Engine with Reproduction capabilities: https://github.com/HAKORADev/VODER
 
 Claude Screenshot Uploader. Upload macOS screenshots to your server over SSH and get the remote path on your clipboard — ready to paste into a remote Claude Code/Codex session. Menu bar app via xbar: https://github.com/mdrzn/claude-screenshot-uploader
 
@@ -74,6 +86,8 @@ Mitosis. Write components once, run everywhere. Compiles to React, Vue, Qwik, So
 
 Herm. Terminal-native AI coding agent running in containers: https://github.com/aduermael/herm
 
+Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI: https://github.com/vicanso/zedis
+
 DBX. 20 MB lightweight cross-platform client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker: https://github.com/t8y2/dbx
 
 Gridex. A native macOS / windows / Linux database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface: https://github.com/gridex/gridex
@@ -82,9 +96,11 @@ Gridex. A native macOS / windows / Linux database IDE built with Swift and AppKi
 
 **Linux & DevOps:**
 
-Medusa is a speedy, parallel, and modular, login brute-forcer.: https://github.com/jmk-foofus/medusa
+WailBrew. Minimalistic Homebrew GUI made with Go, Wails and React: https://github.com/wickenico/WailBrew
 
 Sniffnet. Comfortably monitor your network traffic: https://github.com/GyulyVGC/sniffnet
+
+Sync-in Server · Sovereign platform for file storage, sharing, synchronization, and collaboration: https://github.com/Sync-in/server
 
 ----
 
