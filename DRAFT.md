@@ -106,6 +106,8 @@ Sniffnet. Comfortably monitor your network traffic: https://github.com/GyulyVGC/
 
 Sync-in Server · Sovereign platform for file storage, sharing, synchronization, and collaboration: https://github.com/Sync-in/server
 
+Pritunl is a distributed enterprise vpn server built using the OpenVPN protocol: https://github.com/pritunl/pritunl
+
 AdGuardHome. Network-wide ads & trackers blocking DNS server: https://github.com/AdguardTeam/AdGuardHome
 
 VaultWarden. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs: https://github.com/dani-garcia/vaultwarden
