@@ -84,6 +84,8 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 
 **Software Development & APIs:**
 
+Vite. Next generation frontend tooling: https://github.com/vitejs/vite
+
 Mitosis. Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more: https://github.com/BuilderIO/mitosis
 
 Herm. Terminal-native AI coding agent running in containers: https://github.com/aduermael/herm
