@@ -60,6 +60,12 @@ Antigravity CLI brings the reasoning, execution, and orchestration capabilities 
 
 Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log: https://github.com/apache/maka
 
+Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders: https://github.com/simstudioai/sim
+
+Claudish To English. A Claude Code plugin that shows a **plain-English rewrite** of each assistant message, produced by a **local LLM via ollama** (default), the **codex CLI**, the **Anthropic API**, or any **OpenAI-compatible API**. It is **display-only**: Claude's own reasoning and the saved transcript keep the original text - only what you read on screen changes: https://github.com/gvzdv/claudish-to-english
+
+iFixAI. Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds: https://github.com/ifixai-ai/iFixAi
+
 Cate. An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace: https://github.com/0-AI-UG/cate
 
 Inferoa. Inference-native Tokenmaxxing Agent Harness for Loop Engineering: https://github.com/agentic-in/inferoa
