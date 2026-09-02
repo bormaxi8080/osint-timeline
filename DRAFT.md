@@ -72,6 +72,8 @@ TBL - Translate Books with LLMs. Translate full-length books and documents with 
 
 Penligent.ai - AI2PentestTool. 200+ Seamless Integrations with Leading Security & Pentesting Tools: https://github.com/penligent/AI2PentestTool
 
+LibreChat. Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active: https://github.com/danny-avila/LibreChat
+
 Voder. Voice Operation and Design Engine with Reproduction capabilities: https://github.com/HAKORADev/VODER
 
 Claude Screenshot Uploader. Upload macOS screenshots to your server over SSH and get the remote path on your clipboard — ready to paste into a remote Claude Code/Codex session. Menu bar app via xbar: https://github.com/mdrzn/claude-screenshot-uploader
@@ -101,6 +103,10 @@ WailBrew. Minimalistic Homebrew GUI made with Go, Wails and React: https://githu
 Sniffnet. Comfortably monitor your network traffic: https://github.com/GyulyVGC/sniffnet
 
 Sync-in Server · Sovereign platform for file storage, sharing, synchronization, and collaboration: https://github.com/Sync-in/server
+
+AdGuardHome. Network-wide ads & trackers blocking DNS server: https://github.com/AdguardTeam/AdGuardHome
+
+VaultWarden. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs: https://github.com/dani-garcia/vaultwarden
 
 ----
 
