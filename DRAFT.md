@@ -28,6 +28,8 @@ Linus
 
 **Universal Search & AI:**
 
+Kestra. Event Driven Orchestration & Scheduling Platform for Mission Critical Applications: https://github.com/kestra-io/kestra
+
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
 
 TBL - Translate Books with LLMs. Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits: https://github.com/hydropix/TranslateBooksWithLLMs
