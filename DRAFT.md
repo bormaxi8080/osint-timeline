@@ -46,6 +46,8 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 
 **Software Development & APIs:**
 
+GreptimeDB. The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage: https://github.com/GreptimeTeam/greptimedb
+
 DBX. 20 MB lightweight cross-platform client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker: https://github.com/t8y2/dbx
 
 Gridex. A native macOS / windows / Linux database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface: https://github.com/gridex/gridex
@@ -53,6 +55,8 @@ Gridex. A native macOS / windows / Linux database IDE built with Swift and AppKi
 ----
 
 **Linux & DevOps:**
+
+mobecli. Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps: https://github.com/mobile-next/mobilecli
 
 Pritunl is a distributed enterprise vpn server built using the OpenVPN protocol: https://github.com/pritunl/pritunl
 
