@@ -46,6 +46,8 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 
 **Software Development & APIs:**
 
+**Aura IDE** is an open-source desktop coding harness. Aura turns AI coding into a visible loop: inspect the work, review the diff, run validation, keep the receipt. Chat is where the model talks. Aura is where the model works. Aura owns the root conversation and final response. It can complete work directly or use your reusable Agents and workflows while keeping tools, diffs, validation, and the final receipt visible: https://github.com/CarpseDeam/Aura-IDE
+
 GreptimeDB. The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage: https://github.com/GreptimeTeam/greptimedb
 
 DBX. 20 MB lightweight cross-platform client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker: https://github.com/t8y2/dbx
