@@ -28,6 +28,8 @@ Linus
 
 **Universal Search & AI:**
 
+Sibyl. Collective intelligence runtime for AI agents. Knowledge graph + persistent memory: https://github.com/hyperb1iss/sibyl
+
 Kestra. Event Driven Orchestration & Scheduling Platform for Mission Critical Applications: https://github.com/kestra-io/kestra
 
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
