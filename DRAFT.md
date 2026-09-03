@@ -38,6 +38,8 @@ IWA Chrome. Undetectable offensive toolkit inside Chrome: https://github.com/CIC
 
 Mailflare. Email client with custom domain based on Cloudflare: https://github.com/hieunc229/mailflare
 
+Lonkero. Wraps around your attack surface. Professional-grade scanner for real penetration testing. Fast. Modular. Rust: https://github.com/bountyyfi/lonkero
+
 Medusa is a speedy, parallel, and modular, login brute-forcer.: https://github.com/jmk-foofus/medusa
 
 iOS OCR Server. An iOS OCR Server Using Apple’s Vision Framework: https://github.com/riddleling/iOS-OCR-Server
@@ -65,6 +67,8 @@ Sim is the collaborative workspace to build, deploy, and monitor AI agents and w
 Claudish To English. A Claude Code plugin that shows a **plain-English rewrite** of each assistant message, produced by a **local LLM via ollama** (default), the **codex CLI**, the **Anthropic API**, or any **OpenAI-compatible API**. It is **display-only**: Claude's own reasoning and the saved transcript keep the original text - only what you read on screen changes: https://github.com/gvzdv/claudish-to-english
 
 iFixAI. Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds: https://github.com/ifixai-ai/iFixAi
+
+ZG. ZvecGrep is a Local-first search across your workspace, built for humans and AI agents: https://github.com/zvec-ai/zvec-grep
 
 Cate. An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace: https://github.com/0-AI-UG/cate
 
@@ -96,7 +100,9 @@ Mitosis. Write components once, run everywhere. Compiles to React, Vue, Qwik, So
 
 Herm. Terminal-native AI coding agent running in containers: https://github.com/aduermael/herm
 
-Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI: https://github.com/vicanso/zedis
+Mekka. Experimental source-available SQLite/libSQL backend for human-and-agent-native workflows, with Studio and scoped MCP access: https://github.com/yiaany/Mekka
+
+Zedis. A blazing-fast, native Redis GUI built with Rust and GPUI: https://github.com/vicanso/zedis
 
 DBX. 20 MB lightweight cross-platform client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker: https://github.com/t8y2/dbx
 
@@ -111,6 +117,8 @@ WailBrew. Minimalistic Homebrew GUI made with Go, Wails and React: https://githu
 Sniffnet. Comfortably monitor your network traffic: https://github.com/GyulyVGC/sniffnet
 
 Sync-in Server · Sovereign platform for file storage, sharing, synchronization, and collaboration: https://github.com/Sync-in/server
+
+mirrord. Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic: https://github.com/metalbear-co/mirrord
 
 Pritunl is a distributed enterprise vpn server built using the OpenVPN protocol: https://github.com/pritunl/pritunl
 
