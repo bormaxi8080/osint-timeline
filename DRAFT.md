@@ -22,11 +22,13 @@ Linus
 
 **OSINT Tools, Services and Investigations:**
 
-
+Izum StoryFlow is an open‑source cross‑platform ebook reader (Next.js/Tauri v2) supporting EPUB, PDF, MOBI, FB2, TXT, MD. Features: scroll/page modes, search, bookmarks, annotations, dictionaries/translation, split‑screen, themes, sync. Also TTS, audio sync, OPDS/Calibre, Yandex Books, and self‑hosted sync server: https://github.com/izum-vinipuhov/Izum-StoryFlow
 
 ----
 
 **Universal Search & AI:**
+
+Agentic AI APIs by Chris Porter. The ultimate collection of APIs for building autonomous AI agents - 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today: https://github.com/cporter202/agentic-ai-apis
 
 Sibyl. Collective intelligence runtime for AI agents. Knowledge graph + persistent memory: https://github.com/hyperb1iss/sibyl
 
@@ -51,6 +53,8 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 **Software Development & APIs:**
 
 **Aura IDE** is an open-source desktop coding harness. Aura turns AI coding into a visible loop: inspect the work, review the diff, run validation, keep the receipt. Chat is where the model talks. Aura is where the model works. Aura owns the root conversation and final response. It can complete work directly or use your reusable Agents and workflows while keeping tools, diffs, validation, and the final receipt visible: https://github.com/CarpseDeam/Aura-IDE
+
+OpenVibe is an open-source, locally running agentic coding environment built with Tauri, Rust, React, and Monaco. It combines an AI conversation workspace, code editing, source control, terminal and language-server integration, MCP tools, sub-agent research, and an isolated agent-controlled browser in one lightweight desktop application: https://github.com/nihmadev/OpenVibe
 
 GreptimeDB. The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage: https://github.com/GreptimeTeam/greptimedb
 
