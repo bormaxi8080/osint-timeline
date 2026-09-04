@@ -36,6 +36,8 @@ Kestra. Event Driven Orchestration & Scheduling Platform for Mission Critical Ap
 
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
 
+ANAL (Agent Notation, Actually Lean) is a compact, token-lean serialization format for data flowing between agents and models. It needs no model retraining: it wins by matching the tokenizer rather than fighting it: https://github.com/SomeoneUnlicensed/anal
+
 TBL - Translate Books with LLMs. Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits: https://github.com/hydropix/TranslateBooksWithLLMs
 
 Penligent.ai - AI2PentestTool. 200+ Seamless Integrations with Leading Security & Pentesting Tools: https://github.com/penligent/AI2PentestTool
@@ -53,6 +55,8 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 **Software Development & APIs:**
 
 **Aura IDE** is an open-source desktop coding harness. Aura turns AI coding into a visible loop: inspect the work, review the diff, run validation, keep the receipt. Chat is where the model talks. Aura is where the model works. Aura owns the root conversation and final response. It can complete work directly or use your reusable Agents and workflows while keeping tools, diffs, validation, and the final receipt visible: https://github.com/CarpseDeam/Aura-IDE
+
+bb is an agentic IDE that builds itself. It can control, customize, and automate itself, laying the groundwork for your own software factory: https://github.com/get-bb/bb§
 
 OpenVibe is an open-source, locally running agentic coding environment built with Tauri, Rust, React, and Monaco. It combines an AI conversation workspace, code editing, source control, terminal and language-server integration, MCP tools, sub-agent research, and an isolated agent-controlled browser in one lightweight desktop application: https://github.com/nihmadev/OpenVibe
 
