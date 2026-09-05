@@ -16,7 +16,7 @@ Linus
 
 ----
 
-OSINT slovakia by Unishka Research Service: https://substack.com/home/post/p-214000840
+OSINT Slovakia by Unishka Research Service: https://substack.com/home/post/p-214000840
 
 ----
 
