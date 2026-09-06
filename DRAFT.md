@@ -18,6 +18,8 @@ Linus
 
 War Room. Open-source geopolitical intelligence dashboard live news, multi-stream video, satellite tracking, AI briefings, and market data in one browser interface: https://github.com/AfterPacket/war-room
 
+My Atlas.Earth. A geospatial intelligence platform built from [China eVTOL News](https://www.chinaevtolnews.com/), combining explorable maps, network graphs, and trend analytics to map financial rounds, government plans, and the strategic footprint of major civilian players: https://myatlas.earth/
+
 OSINT Slovakia by Unishka Research Service: https://substack.com/home/post/p-214000840
 
 ----
