@@ -46,6 +46,8 @@ Rove - the agent multiplexer for your terminal. Run coding agents on parallel ta
 
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
 
+VNX Orchestration. Governance-first orchestration for Claude Code, Codex, and Gemini CLI — parallel workers, receipts, quality gates, and full provenance: https://github.com/Vinix24/vnx-orchestration
+
 sandboxed.sh. Safe runtime for autonomous on-chain AI agents: isolated sandboxes, Library skills, encrypted secrets: https://github.com/Th0rgal/sandboxed.sh
 
 Kooky. A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click Node and branch switching: https://github.com/iAmCorey/kooky
