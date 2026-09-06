@@ -16,6 +16,8 @@ Linus
 
 ----
 
+War Room. Open-source geopolitical intelligence dashboard live news, multi-stream video, satellite tracking, AI briefings, and market data in one browser interface: https://github.com/AfterPacket/war-room
+
 OSINT Slovakia by Unishka Research Service: https://substack.com/home/post/p-214000840
 
 ----
@@ -32,9 +34,19 @@ Agentic AI APIs by Chris Porter. The ultimate collection of APIs for building au
 
 Sibyl. Collective intelligence runtime for AI agents. Knowledge graph + persistent memory: https://github.com/hyperb1iss/sibyl
 
+LiveAgent. A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded: https://github.com/Stack-Cairn/LiveAgent
+
 Kestra. Event Driven Orchestration & Scheduling Platform for Mission Critical Applications: https://github.com/kestra-io/kestra
 
+wmux. Run Claude Code, Codex & Gemini in parallel on Windows & macOS - git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions: https://github.com/openwong2kim/wmux
+
+Rove - the agent multiplexer for your terminal. Run coding agents on parallel tasks with isolated worktrees and persistent sessions: https://github.com/Sma1lboy/rove
+
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
+
+sandboxed.sh. Safe runtime for autonomous on-chain AI agents: isolated sandboxes, Library skills, encrypted secrets: https://github.com/Th0rgal/sandboxed.sh
+
+Kooky. A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click Node and branch switching: https://github.com/iAmCorey/kooky
 
 ANAL (Agent Notation, Actually Lean) is a compact, token-lean serialization format for data flowing between agents and models. It needs no model retraining: it wins by matching the tokenizer rather than fighting it: https://github.com/SomeoneUnlicensed/anal
 
@@ -53,6 +65,10 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 ----
 
 **Software Development & APIs:**
+
+OmiRoute. Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors: https://github.com/diegosouzapw/OmniRoute
+
+LeapMux. A terminal works fine for one or two coding agents side-by-side. At three or four - one refactoring, one on tests, one chasing a failing build - shell tabs stop helping: you lose track of which one owns which branch, the agents clobber each other's working tree, and a stray tmux crash or dev-box reboot means re-launching each agent with `--resume` and rebuilding the layout by hand: https://github.com/leapmux/leapmux
 
 **Aura IDE** is an open-source desktop coding harness. Aura turns AI coding into a visible loop: inspect the work, review the diff, run validation, keep the receipt. Chat is where the model talks. Aura is where the model works. Aura owns the root conversation and final response. It can complete work directly or use your reusable Agents and workflows while keeping tools, diffs, validation, and the final receipt visible: https://github.com/CarpseDeam/Aura-IDE
 
