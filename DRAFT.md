@@ -28,6 +28,8 @@ OSINT Slovakia by Unishka Research Service: https://substack.com/home/post/p-214
 
 Izum StoryFlow is an open‑source cross‑platform ebook reader (Next.js/Tauri v2) supporting EPUB, PDF, MOBI, FB2, TXT, MD. Features: scroll/page modes, search, bookmarks, annotations, dictionaries/translation, split‑screen, themes, sync. Also TTS, audio sync, OPDS/Calibre, Yandex Books, and self‑hosted sync server: https://github.com/izum-vinipuhov/Izum-StoryFlow
 
+Malware Research Hub. Self-contained malware research hub: curated catalog of 80 families (1971-2024) + 2,764 real encrypted samples, indexed and searchable. Local Flask app, bilingual: https://github.com/darama22/Malware-Research-Hub
+
 ----
 
 **Universal Search & AI:**
