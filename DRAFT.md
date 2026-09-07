@@ -90,6 +90,8 @@ Gridex. A native macOS / windows / Linux database IDE built with Swift and AppKi
 
 **Linux & DevOps:**
 
+SSH MCP server. Execute commands, transfer files, and forward ports on remote servers via MCP: https://github.com/overklassniy/ssh-mcp
+
 mobecli. Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps: https://github.com/mobile-next/mobilecli
 
 Pritunl is a distributed enterprise vpn server built using the OpenVPN protocol: https://github.com/pritunl/pritunl
