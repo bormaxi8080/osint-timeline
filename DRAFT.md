@@ -26,7 +26,11 @@ OSINT Slovakia by Unishka Research Service: https://substack.com/home/post/p-214
 
 **OSINT Tools, Services and Investigations:**
 
+PhoneNumber-OSINT. An OSINT tool for gathering information about phone numbers: https://github.com/spider863644/PhoneNumber-OSINT
+
 Izum StoryFlow is an open‑source cross‑platform ebook reader (Next.js/Tauri v2) supporting EPUB, PDF, MOBI, FB2, TXT, MD. Features: scroll/page modes, search, bookmarks, annotations, dictionaries/translation, split‑screen, themes, sync. Also TTS, audio sync, OPDS/Calibre, Yandex Books, and self‑hosted sync server: https://github.com/izum-vinipuhov/Izum-StoryFlow
+
+Nyx. Self-contained script for cleaning forensic traces on Linux, macOS, and Windows: https://github.com/evilsocket/nyx
 
 Malware Research Hub. Self-contained malware research hub: curated catalog of 80 families (1971-2024) + 2,764 real encrypted samples, indexed and searchable. Local Flask app, bilingual: https://github.com/darama22/Malware-Research-Hub
 
@@ -48,7 +52,7 @@ Rove - the agent multiplexer for your terminal. Run coding agents on parallel ta
 
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
 
-VNX Orchestration. Governance-first orchestration for Claude Code, Codex, and Gemini CLI — parallel workers, receipts, quality gates, and full provenance: https://github.com/Vinix24/vnx-orchestration
+VNX Orchestration. Governance-first orchestration for Claude Code, Codex, and Gemini CLI - parallel workers, receipts, quality gates, and full provenance: https://github.com/Vinix24/vnx-orchestration
 
 sandboxed.sh. Safe runtime for autonomous on-chain AI agents: isolated sandboxes, Library skills, encrypted secrets: https://github.com/Th0rgal/sandboxed.sh
 
@@ -93,6 +97,8 @@ Gridex. A native macOS / windows / Linux database IDE built with Swift and AppKi
 **Linux & DevOps:**
 
 SSH MCP server. Execute commands, transfer files, and forward ports on remote servers via MCP: https://github.com/overklassniy/ssh-mcp
+
+AlterSend. Send files directly between devices over the internet - no cloud storage, no size limits: https://github.com/denislupookov/altersend
 
 mobecli. Universal command-line tool for managing iOS and Android devices, simulators, emulators and apps: https://github.com/mobile-next/mobilecli
 
