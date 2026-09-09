@@ -28,6 +28,8 @@ OSINT Slovakia by Unishka Research Service: https://substack.com/home/post/p-214
 
 PhoneNumber-OSINT. An OSINT tool for gathering information about phone numbers: https://github.com/spider863644/PhoneNumber-OSINT
 
+Moli Browser. A browser engine built for AI agents. Real JavaScript, DOM, and browser APIs · One-shot, non-retained layout and CPU rendering · CLI, CDP, WebDriver Classic, and WebDriver BiDi: https://github.com/moli-browser/moli-
+
 Izum StoryFlow is an open‑source cross‑platform ebook reader (Next.js/Tauri v2) supporting EPUB, PDF, MOBI, FB2, TXT, MD. Features: scroll/page modes, search, bookmarks, annotations, dictionaries/translation, split‑screen, themes, sync. Also TTS, audio sync, OPDS/Calibre, Yandex Books, and self‑hosted sync server: https://github.com/izum-vinipuhov/Izum-StoryFlow
 
 Nyx. Self-contained script for cleaning forensic traces on Linux, macOS, and Windows: https://github.com/evilsocket/nyx
