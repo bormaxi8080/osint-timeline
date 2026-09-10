@@ -50,17 +50,21 @@ Sibyl. Collective intelligence runtime for AI agents. Knowledge graph + persiste
 
 LiveAgent. A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded: https://github.com/Stack-Cairn/LiveAgent
 
+CHAP, the Collaborative Human Agent Protocol, is a MCP/A2A-compatible runtime for auditable human-agent work: approvals, overrides, handoffs, escalation and verifiable evidence logs: https://github.com/BrightbeamAI/chap
+
+Self-hosted AI agent harness in a single Go binary - writes, sandbox-tests and repairs its own tools, and lets Claude Code, Codex and any MCP client build and share them: https://github.com/agenvoy/Agenvoy
+
 Kestra. Event Driven Orchestration & Scheduling Platform for Mission Critical Applications: https://github.com/kestra-io/kestra
 
 wmux. Run Claude Code, Codex & Gemini in parallel on Windows & macOS - git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions: https://github.com/openwong2kim/wmux
 
-Rove - the agent multiplexer for your terminal. Run coding agents on parallel tasks with isolated worktrees and persistent sessions: https://github.com/Sma1lboy/rove
+Rove. The agent multiplexer for your terminal. Run coding agents on parallel tasks with isolated worktrees and persistent sessions: https://github.com/Sma1lboy/rove
 
 Open Octa is an open-source AIOps Agent installed on Windows & macOS: https://github.com/openocta/openocta
 
 VNX Orchestration. Governance-first orchestration for Claude Code, Codex, and Gemini CLI - parallel workers, receipts, quality gates, and full provenance: https://github.com/Vinix24/vnx-orchestration
 
-sandboxed.sh. Safe runtime for autonomous on-chain AI agents: isolated sandboxes, Library skills, encrypted secrets: https://github.com/Th0rgal/sandboxed.sh
+sandboxed.sh. Safe runtime for autonomous on-chain AI agents - isolated sandboxes, Library skills, encrypted secrets: https://github.com/Th0rgal/sandboxed.sh
 
 Reef is the first open-source infrastructure for continual self-improving agents. It connects agent inference, feedback, learning, and versioned delivery. Use it to train model weights with Slime and SGLang, or improve an agent's harness, including its prompts, rules, and skills: https://github.com/Human-Agent-Society/reef/tree/main/
 
@@ -91,6 +95,8 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 OmiRoute. Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors: https://github.com/diegosouzapw/OmniRoute
 
 Video Scraping APIs. A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms: https://github.com/cporter202/video-scraping-apis
+
+You can run one Claude Code session in a terminal. GraphCode lets you run ten - connected, unattended, and still yours to attach to and correct mid-run. Each node is a unit of work inside a real CLI coding-agent session; each edge is a hand-off, message, or spawn between them. They are live terminals, not headless jobs: https://github.com/scgopi/GraphCode
 
 LeapMux. A terminal works fine for one or two coding agents side-by-side. At three or four - one refactoring, one on tests, one chasing a failing build - shell tabs stop helping: you lose track of which one owns which branch, the agents clobber each other's working tree, and a stray tmux crash or dev-box reboot means re-launching each agent with `--resume` and rebuilding the layout by hand: https://github.com/leapmux/leapmux
 
