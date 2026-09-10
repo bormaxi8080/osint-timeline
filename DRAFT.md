@@ -14,7 +14,7 @@ Linus
 
 ----
 
-
+The **FinanceDatabase** serves the role of providing anyone with any type of financial product categorization entirely for free. To achieve this, the FinanceDatabase relies on community involvement to add, edit, and remove tickers over time. This is made easy enough that anyone, even those with a lack of coding experience, can contribute because of the use of CSV files that can be manually edited with ease: https://github.com/JerBouma/FinanceDatabase
 
 ----
 
