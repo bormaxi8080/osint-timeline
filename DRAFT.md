@@ -26,6 +26,8 @@ The **FinanceDatabase** serves the role of providing anyone with any type of f
 
 **Universal Search & AI:**
 
+Avibe. The local-first Agent OS - your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode from your browser or any chat app: https://github.com/avibe-bot/avibe
+
 MulmoTerminal. Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT: https://github.com/receptron/mulmoterminal
 
 DashClaw. Remote approvals, policy checks, and execution evidence for unattended AI agents: https://github.com/ucsandman/DashClaw
@@ -76,7 +78,11 @@ The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disr
 
 **New from CyberDetective:**
 
+Additional Nicknames: Why They're Important for OSINT and How to Find Them.
 
+Guide by NoimosinyOSINT: Username search. Search by email. Search by avatar. WHOIS. Searching for links to websites and profiles. Search by full names.
+
+https://noimosiny.com/resources/blog/additional-nicknames
 
 ----
 
