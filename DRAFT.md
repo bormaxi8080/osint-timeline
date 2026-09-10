@@ -30,6 +30,10 @@ PhoneNumber-OSINT. An OSINT tool for gathering information about phone numbers: 
 
 Moli Browser. A browser engine built for AI agents. Real JavaScript, DOM, and browser APIs · One-shot, non-retained layout and CPU rendering · CLI, CDP, WebDriver Classic, and WebDriver BiDi: https://github.com/moli-browser/moli-
 
+Digital Asset Inventory. Local-first scanner for discovering accounts and digital assets from data you already have: bookmarks, password-manager exports, browser history, local email archives, and saved Google/Apple connected-app pages: https://github.com/Panda-Lewandowski/digital_asset_inventory
+
+Instagram Private Graph. Analyze the followers and following accounts that a private (hidden) Instagram account interacts with: https://github.com/0x6rss/instagram-private-graph
+
 Izum StoryFlow is an open‑source cross‑platform ebook reader (Next.js/Tauri v2) supporting EPUB, PDF, MOBI, FB2, TXT, MD. Features: scroll/page modes, search, bookmarks, annotations, dictionaries/translation, split‑screen, themes, sync. Also TTS, audio sync, OPDS/Calibre, Yandex Books, and self‑hosted sync server: https://github.com/izum-vinipuhov/Izum-StoryFlow
 
 Nyx. Self-contained script for cleaning forensic traces on Linux, macOS, and Windows: https://github.com/evilsocket/nyx
@@ -79,6 +83,8 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 **Software Development & APIs:**
 
 OmiRoute. Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors: https://github.com/diegosouzapw/OmniRoute
+
+Video Scraping APIs. A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms: https://github.com/cporter202/video-scraping-apis
 
 LeapMux. A terminal works fine for one or two coding agents side-by-side. At three or four - one refactoring, one on tests, one chasing a failing build - shell tabs stop helping: you lose track of which one owns which branch, the agents clobber each other's working tree, and a stray tmux crash or dev-box reboot means re-launching each agent with `--resume` and rebuilding the layout by hand: https://github.com/leapmux/leapmux
 
