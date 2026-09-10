@@ -62,7 +62,13 @@ VNX Orchestration. Governance-first orchestration for Claude Code, Codex, and Ge
 
 sandboxed.sh. Safe runtime for autonomous on-chain AI agents: isolated sandboxes, Library skills, encrypted secrets: https://github.com/Th0rgal/sandboxed.sh
 
+Reef is the first open-source infrastructure for continual self-improving agents. It connects agent inference, feedback, learning, and versioned delivery. Use it to train model weights with Slime and SGLang, or improve an agent's harness, including its prompts, rules, and skills: https://github.com/Human-Agent-Society/reef/tree/main/
+
+HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure: https://github.com/HarnessRouter/harnessrouter
+
 Kooky. A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click Node and branch switching: https://github.com/iAmCorey/kooky
+
+DashClaw. Remote approvals, policy checks, and execution evidence for unattended AI agents: https://github.com/ucsandman/DashClaw
 
 ANAL (Agent Notation, Actually Lean) is a compact, token-lean serialization format for data flowing between agents and models. It needs no model retraining: it wins by matching the tokenizer rather than fighting it: https://github.com/SomeoneUnlicensed/anal
 
