@@ -26,6 +26,8 @@ Linus
 
 **Universal Search & AI:**
 
+MulmoTerminal. Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT: https://github.com/receptron/mulmoterminal
+
 DashClaw. Remote approvals, policy checks, and execution evidence for unattended AI agents: https://github.com/ucsandman/DashClaw
 
 ANAL (Agent Notation, Actually Lean) is a compact, token-lean serialization format for data flowing between agents and models. It needs no model retraining: it wins by matching the tokenizer rather than fighting it: https://github.com/SomeoneUnlicensed/anal
