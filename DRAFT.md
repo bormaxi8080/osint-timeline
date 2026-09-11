@@ -50,6 +50,10 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 
 **Software Development & APIs:**
 
+CCCC. Coordinate your coding agents like a group chat - read receipts, delivery tracking, and remote ops from your phone. One pip install, zero infrastructure. A production‑minded orchestrator for 24/7 workflow: https://github.com/ChesterRa/CCCC
+
+Heeler. Native iOS agent console for herdr - watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you: https://github.com/ZingerLittleBee/Heeler
+
 bb is an agentic IDE that builds itself. It can control, customize, and automate itself, laying the groundwork for your own software factory: https://github.com/get-bb/bb§
 
 OpenVibe is an open-source, locally running agentic coding environment built with Tauri, Rust, React, and Monaco. It combines an AI conversation workspace, code editing, source control, terminal and language-server integration, MCP tools, sub-agent research, and an isolated agent-controlled browser in one lightweight desktop application: https://github.com/nihmadev/OpenVibe
