@@ -18,6 +18,10 @@ The **FinanceDatabase** serves the role of providing anyone with any type of f
 
 ----
 
+OpenCompany. Run an entire company with a headcount of one. OpenCompany is the operating layer for one-person businesses powered by agents. You bring the vision and the judgment calls. Your agents do the work: every function, around the clock, at the speed of software: https://github.com/tinyhumansai/opencompany
+
+----
+
 **OSINT Tools, Services and Investigations:**
 
 
@@ -82,9 +86,9 @@ The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disr
 
 **New from CyberDetective:**
 
-Additional Nicknames: Why They're Important for OSINT and How to Find Them.
+Awesome Telegram. Apps, Bots, Bot Templates, Libraries: 
 
-Guide by NoimosinyOSINT: Username search. Search by email. Search by avatar. WHOIS. Searching for links to websites and profiles. Search by full names.
+Additional Nicknames: Why They're Important for OSINT and How to Find Them. Guide by NoimosinyOSINT: Username search. Search by email. Search by avatar. WHOIS. Searching for links to websites and profiles. Search by full names.
 
 https://noimosiny.com/resources/blog/additional-nicknames
 
