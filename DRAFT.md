@@ -20,6 +20,8 @@ Find The Scam. The best security tool to see whether a website is legitimate or 
 
 OpenCompany. Run an entire company with a headcount of one. OpenCompany is the operating layer for one-person businesses powered by agents. You bring the vision and the judgment calls. Your agents do the work: every function, around the clock, at the speed of software: https://github.com/tinyhumansai/opencompany
 
+OSINT of Bosnia and Herzegovina by Unishka Research Service: https://substack.com/home/post/p-214883631
+
 ----
 
 **OSINT Tools, Services and Investigations:**
