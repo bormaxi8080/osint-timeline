@@ -16,7 +16,7 @@ Linus
 
 The **FinanceDatabase** serves the role of providing anyone with any type of financial product categorization entirely for free. To achieve this, the FinanceDatabase relies on community involvement to add, edit, and remove tickers over time. This is made easy enough that anyone, even those with a lack of coding experience, can contribute because of the use of CSV files that can be manually edited with ease: https://github.com/JerBouma/FinanceDatabase
 
-----
+Find The Scam. The best security tool to see whether a website is legitimate or might be fraudulent. Look into the legitimacy and repute of a website: https://findthescam.net/
 
 OpenCompany. Run an entire company with a headcount of one. OpenCompany is the operating layer for one-person businesses powered by agents. You bring the vision and the judgment calls. Your agents do the work: every function, around the clock, at the speed of software: https://github.com/tinyhumansai/opencompany
 
@@ -24,7 +24,9 @@ OpenCompany. Run an entire company with a headcount of one. OpenCompany is the o
 
 **OSINT Tools, Services and Investigations:**
 
+**Secare** (from Latin _secāre_ - _to cut_) lets you selectively disable any YouTube UI element with a single click. Want to browse subscriptions without shorts? Hide them. Watching a video without distractions? Kill the sidebar and comments. Your YouTube, your rules: https://github.com/RichardPickman/Secare
 
+Docstrange. Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR: https://github.com/NanoNets/docstrange
 
 ----
 
@@ -33,6 +35,8 @@ OpenCompany. Run an entire company with a headcount of one. OpenCompany is the o
 Avibe. The local-first Agent OS - your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode from your browser or any chat app: https://github.com/avibe-bot/avibe
 
 MulmoTerminal. Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT: https://github.com/receptron/mulmoterminal
+
+KServe. Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes: https://github.com/kserve/kserve
 
 DashClaw. Remote approvals, policy checks, and execution evidence for unattended AI agents: https://github.com/ucsandman/DashClaw
 
@@ -58,9 +62,13 @@ CCCC. Coordinate your coding agents like a group chat - read receipts, delivery 
 
 Heeler. Native iOS agent console for herdr - watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you: https://github.com/ZingerLittleBee/Heeler
 
+Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows: https://github.com/max-sixty/worktrunk
+
 bb is an agentic IDE that builds itself. It can control, customize, and automate itself, laying the groundwork for your own software factory: https://github.com/get-bb/bb§
 
 OpenVibe is an open-source, locally running agentic coding environment built with Tauri, Rust, React, and Monaco. It combines an AI conversation workspace, code editing, source control, terminal and language-server integration, MCP tools, sub-agent research, and an isolated agent-controlled browser in one lightweight desktop application: https://github.com/nihmadev/OpenVibe
+
+Wechaty is a conversational RPA SDK that simplifies the process of building chatbots. It's like a Swiss Army knife for chatbot development, providing a universal interface to various messaging platforms such as WhatsApp, WeChat, and more. With Wechaty, you write your bot code once, and it runs on any of the supported platforms. This means you can focus on creating engaging conversational experiences without worrying about the underlying complexities of each platform's API. It's open-source, easy to use, and backed by a vibrant community that's ready to help you bring your chatbot ideas to life: https://github.com/wechaty/wechaty
 
 GreptimeDB. The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage: https://github.com/GreptimeTeam/greptimedb
 
