@@ -36,6 +36,10 @@ Docstrange. Extract and convert data from any document, images, pdfs, word doc, 
 
 Avibe. The local-first Agent OS - your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode from your browser or any chat app: https://github.com/avibe-bot/avibe
 
+Clodex. A visual manager for fleets of Claude Code and Codex agents - real terminals, live context and cost, agents that message each other, across your Mac and any Linux box: https://github.com/avirtual/clodex
+
+KAgentic. Desktop kanban board for orchestrating agentic workflows: https://github.com/Kangentic/kangentic
+
 MulmoTerminal. Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Local, tmux-backed, MIT: https://github.com/receptron/mulmoterminal
 
 KServe. Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes: https://github.com/kserve/kserve
