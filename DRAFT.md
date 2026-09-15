@@ -42,6 +42,8 @@ KServe. Standardized Distributed Generative and Predictive AI Inference Platform
 
 DashClaw. Remote approvals, policy checks, and execution evidence for unattended AI agents: https://github.com/ucsandman/DashClaw
 
+SIMURG. Zero-leak online detection of LLM decoding corruption and Free Web Search for your AI agents! Catch repetition loops, language drift and garbage mid-stream, before the user sees a bad token. Works with any OpenAI-compatible API: https://github.com/doofzoff/SIMURG
+
 ANAL (Agent Notation, Actually Lean) is a compact, token-lean serialization format for data flowing between agents and models. It needs no model retraining: it wins by matching the tokenizer rather than fighting it: https://github.com/SomeoneUnlicensed/anal
 
 TBL - Translate Books with LLMs. Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits: https://github.com/hydropix/TranslateBooksWithLLMs
@@ -66,7 +68,11 @@ Heeler. Native iOS agent console for herdr - watch and drive the coding agents o
 
 Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows: https://github.com/max-sixty/worktrunk
 
-bb is an agentic IDE that builds itself. It can control, customize, and automate itself, laying the groundwork for your own software factory: https://github.com/get-bb/bb§
+Tortie. A calm agent multiplexer with familiar IDE features, for macOS: https://github.com/gregce/tortie
+
+bb is an agentic IDE that builds itself. It can control, customize, and automate itself, laying the groundwork for your own software factory: https://github.com/get-bb/bb
+
+Blueprint. Draw your database on an infinite canvas, then take the SQL with you: https://github.com/Aidenable/Blueprint
 
 OpenVibe is an open-source, locally running agentic coding environment built with Tauri, Rust, React, and Monaco. It combines an AI conversation workspace, code editing, source control, terminal and language-server integration, MCP tools, sub-agent research, and an isolated agent-controlled browser in one lightweight desktop application: https://github.com/nihmadev/OpenVibe
 
