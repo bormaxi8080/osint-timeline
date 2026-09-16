@@ -28,11 +28,15 @@ OSINT of Bosnia and Herzegovina by Unishka Research Service: https://substack.co
 
 **Secare** (from Latin _secāre_ - _to cut_) lets you selectively disable any YouTube UI element with a single click. Want to browse subscriptions without shorts? Hide them. Watching a video without distractions? Kill the sidebar and comments. Your YouTube, your rules: https://github.com/RichardPickman/Secare
 
+It's A Plan. Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products: https://github.com/croffasia/itsaplan
+
 Docstrange. Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR: https://github.com/NanoNets/docstrange
 
 ----
 
 **Universal Search & AI:**
+
+Claude Code Best Practices. From vibe coding to agentic engineering - practice makes claude perfect: https://github.com/shanraisshan/claude-code-best-practice
 
 Avibe. The local-first Agent OS - your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode from your browser or any chat app: https://github.com/avibe-bot/avibe
 
@@ -46,7 +50,7 @@ KServe. Standardized Distributed Generative and Predictive AI Inference Platform
 
 DashClaw. Remote approvals, policy checks, and execution evidence for unattended AI agents: https://github.com/ucsandman/DashClaw
 
-Evener. A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models: https://github.com/prime-radiant-inc/evener
+Evener. A coding agent - give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models: https://github.com/prime-radiant-inc/evener
 
 SIMURG. Zero-leak online detection of LLM decoding corruption and Free Web Search for your AI agents! Catch repetition loops, language drift and garbage mid-stream, before the user sees a bad token. Works with any OpenAI-compatible API: https://github.com/doofzoff/SIMURG
 
