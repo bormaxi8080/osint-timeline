@@ -46,6 +46,8 @@ KServe. Standardized Distributed Generative and Predictive AI Inference Platform
 
 DashClaw. Remote approvals, policy checks, and execution evidence for unattended AI agents: https://github.com/ucsandman/DashClaw
 
+Evener. A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models: https://github.com/prime-radiant-inc/evener
+
 SIMURG. Zero-leak online detection of LLM decoding corruption and Free Web Search for your AI agents! Catch repetition loops, language drift and garbage mid-stream, before the user sees a bad token. Works with any OpenAI-compatible API: https://github.com/doofzoff/SIMURG
 
 ANAL (Agent Notation, Actually Lean) is a compact, token-lean serialization format for data flowing between agents and models. It needs no model retraining: it wins by matching the tokenizer rather than fighting it: https://github.com/SomeoneUnlicensed/anal
@@ -93,6 +95,8 @@ Gridex. A native macOS / windows / Linux database IDE built with Swift and AppKi
 **Linux & DevOps:**
 
 AdGuardHome. Network-wide ads & trackers blocking DNS server: https://github.com/AdguardTeam/AdGuardHome
+
+tgrep. Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally: https://github.com/microsoft/tgrep
 
 VaultWarden. Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs: https://github.com/dani-garcia/vaultwarden
 
