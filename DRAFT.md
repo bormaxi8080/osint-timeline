@@ -12,7 +12,7 @@ Linus
 
 ----
 
-
+ANdroid Titanium Broser. Secure open-source Android browser with support for extensions: https://github.com/jqssun/android-titanium-browser
 
 ----
 
@@ -24,6 +24,13 @@ Linus
 
 **Universal Search & AI:**
 
+OCP - Open Claude Code. Turn your Claude Pro/Max subscription into an OpenAI-compatible API for your IDEs and devices - LAN auth, per-key quotas, response cache, disciplined cli.js alignment. $0 extra cost: https://github.com/dtzp555-max/ocp
+
+Claude Code Proxy. A proxy server that enables **Claude Code** to work with OpenAI-compatible API providers. Convert Claude API requests to OpenAI API calls, allowing you to use various LLM providers through the Claude Code CLI: https://github.com/fuergaosi233/claude-code-proxy
+
+Antigravity Claude Proxy. Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot): https://github.com/badrisnarayanan/antigravity-claude-proxy
+
+Paseo. Orchestrate multiple coding agents from desktop and mobile: https://github.com/getpaseo/paseo
 
 Penligent.ai - AI2PentestTool. 200+ Seamless Integrations with Leading Security & Pentesting Tools: https://github.com/penligent/AI2PentestTool
 
@@ -39,6 +46,8 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 
 **Software Development & APIs:**
 
+Oxigraph is both a graph database and a [RDF](https://www.w3.org/TR/rdf11-primer/) and [SPARQL](https://www.w3.org/TR/sparql11-overview/) toolkit. Its goal is to provide a compliant, safe, and fast graph database based on the [RocksDB](https://rocksdb.org/) key-value store. It also provides a set of utilities for RDF basic manipulation (parsing, serialization, canonicalization) and building SPARQL implementations (SPARQL results parsers/serializers, SPARQL parser...): https://github.com/oxigraph/oxigraph
+
 GreptimeDB. The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage: https://github.com/GreptimeTeam/greptimedb
 
 DBX. 20 MB lightweight cross-platform client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker: https://github.com/t8y2/dbx
@@ -49,7 +58,11 @@ Gridex. A native macOS / windows / Linux database IDE built with Swift and AppKi
 
 **Linux & DevOps:**
 
+Zeek is a powerful network analysis framework that is much different from the typical IDS you may know: https://github.com/zeek/zeek
 
+ghgrab. A simple, pretty terminal tool that lets you browse and download files from GitHub, GitLab, Codeberg, Gitea, and Forgejo without leaving your CLI: https://github.com/abhixdd/ghgrab
+
+Folder Host. Your own private cloud in one executable. Share files, collaborate on code, and manage users without complex setup: https://github.com/MertJSX/folderhost
 
 ----
 
