@@ -12,13 +12,13 @@ Linus
 
 ----
 
-ANdroid Titanium Broser. Secure open-source Android browser with support for extensions: https://github.com/jqssun/android-titanium-browser
+Android Titanium Broser. Secure open-source Android browser with support for extensions: https://github.com/jqssun/android-titanium-browser
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+Speakr is a personal, self-hosted web application designed for transcribing audio recordings: https://github.com/murtaza-nasir/speakr
 
 ----
 
