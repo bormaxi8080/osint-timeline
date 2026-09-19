@@ -30,6 +30,8 @@ Claude Code Proxy. A proxy server that enables **Claude Code** to work with Op
 
 Antigravity Claude Proxy. Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot): https://github.com/badrisnarayanan/antigravity-claude-proxy
 
+BrainAPI is a knowledge graph–powered AI memory layer that transforms unstructured data into structured knowledge, enabling intelligent search, recommendations, and contextual memory for AI agents and applications: https://github.com/Lumen-Labs/brainapi2
+
 Paseo. Orchestrate multiple coding agents from desktop and mobile: https://github.com/getpaseo/paseo
 
 Penligent.ai - AI2PentestTool. 200+ Seamless Integrations with Leading Security & Pentesting Tools: https://github.com/penligent/AI2PentestTool
