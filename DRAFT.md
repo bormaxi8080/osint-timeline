@@ -34,6 +34,8 @@ BrainAPI is a knowledge graph–powered AI memory layer that transforms unstruct
 
 Paseo. Orchestrate multiple coding agents from desktop and mobile: https://github.com/getpaseo/paseo
 
+nopus catches coding-agent answers that disappear into abstract LLM babble. Using deterministic prose checks, it flags responses that cross your chosen complexity threshold and sends them back for one clearer rewrite: https://github.com/Vistyy/nopus
+
 Penligent.ai - AI2PentestTool. 200+ Seamless Integrations with Leading Security & Pentesting Tools: https://github.com/penligent/AI2PentestTool
 
 LibreChat. Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active: https://github.com/danny-avila/LibreChat
