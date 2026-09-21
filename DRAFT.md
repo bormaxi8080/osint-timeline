@@ -20,6 +20,8 @@ Android Titanium Broser. Secure open-source Android browser with support for ext
 
 Speakr is a personal, self-hosted web application designed for transcribing audio recordings: https://github.com/murtaza-nasir/speakr
 
+**Self-hosted GPS tracking app for Android.** Colota sends your location to your own server over HTTP(S). It works offline, supports geofencing, and has no analytics or telemetry: https://github.com/dietrichmax/colota
+
 ----
 
 **Universal Search & AI:**
