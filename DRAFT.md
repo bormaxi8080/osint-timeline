@@ -20,6 +20,8 @@ Android Titanium Broser. Secure open-source Android browser with support for ext
 
 Speakr is a personal, self-hosted web application designed for transcribing audio recordings: https://github.com/murtaza-nasir/speakr
 
+Instagram Oldest Posts. Browser-based OSINT tool for finding and exporting the oldest posts from Instagram profiles: https://github.com/Provereno-Media/instagram-oldest-posts
+
 **Self-hosted GPS tracking app for Android.** Colota sends your location to your own server over HTTP(S). It works offline, supports geofencing, and has no analytics or telemetry: https://github.com/dietrichmax/colota
 
 ----
@@ -51,6 +53,8 @@ OpenSearch-VL provides a fully open recipe for training strong multimodal deep s
 ----
 
 **Software Development & APIs:**
+
+Matrix One. AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intelligent agents and applications: https://github.com/matrixorigin/matrixone
 
 Oxigraph is both a graph database and a [RDF](https://www.w3.org/TR/rdf11-primer/) and [SPARQL](https://www.w3.org/TR/sparql11-overview/) toolkit. Its goal is to provide a compliant, safe, and fast graph database based on the [RocksDB](https://rocksdb.org/) key-value store. It also provides a set of utilities for RDF basic manipulation (parsing, serialization, canonicalization) and building SPARQL implementations (SPARQL results parsers/serializers, SPARQL parser...): https://github.com/oxigraph/oxigraph
 
