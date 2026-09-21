@@ -78,13 +78,15 @@ Folder Host. Your own private cloud in one executable. Share files, collaborate 
 
 **Hardware & Devices:**
 
-
+FlipperZero Camera. Camera application for Flipper Zero: https://github.com/Z4urce/flipperzero-camera
 
 ----
 
 **New from CyberDetective:**
 
+OSINT METHODS. 39 step-by-step guides to the most common OSINT techniques. Beginner, intermediate and advanced levels:
 
+https://www.osintguide.com/en/methods
 
 ----
 
