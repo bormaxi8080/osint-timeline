@@ -18,6 +18,10 @@ Android Titanium Broser. Secure open-source Android browser with support for ext
 
 **OSINT Tools, Services and Investigations:**
 
+yj_nearbyglasses. attempting to detect smart glasses nearby and warn you: https://github.com/yjeanrenaud/yj_nearbyglasses
+
+Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features: https://github.com/f/textream
+
 Speakr is a personal, self-hosted web application designed for transcribing audio recordings: https://github.com/murtaza-nasir/speakr
 
 Instagram Oldest Posts. Browser-based OSINT tool for finding and exporting the oldest posts from Instagram profiles: https://github.com/Provereno-Media/instagram-oldest-posts
