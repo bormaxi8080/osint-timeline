@@ -42,13 +42,17 @@ Awesome AI Security Tools. A curated list of public-source, research, and commer
 
 **Hardware & Devices:**
 
+flipperducky badUSB payload generator. GUI (Graphic user interface) in HTML, CSS, JavaScript, to make easyer and faster to create payload (.txt) for you Flipper Zero's bad-USB function:
 
+https://github.com/grugnoymeme/flipperducky-badUSB-payload-generator
 
 ----
 
 **New from CyberDetective:**
 
+FieldCalc. 48+ free geoint tools. Coordinate converter, Map Area and distance calculators, Elevation, Sunrise/Sunset/Time Zone, File converters:
 
+https://fieldcalc.app/tools
 
 ----
 
