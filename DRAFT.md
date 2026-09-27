@@ -20,6 +20,8 @@ FaceSeek. Find a face from one photo: https://faceseek.cc/
 
 OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, interact with, and extract information from web pages autonomously: https://github.com/billy-enrizky/openbrowser-ai
 
+hwatu. Headless verification browser for AI coding agents: 35 ms one-call checks, pixel diffs, live human hand-off: https://github.com/hongnoul/hwatu
+
 Awesome AI Security Tools. A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity - autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, LLM red-teaming, and more: https://github.com/scadastrangelove/awesome-ai-security-tools
 
 ----
@@ -27,6 +29,8 @@ Awesome AI Security Tools. A curated list of public-source, research, and commer
 **Universal Search & AI:**
 
 Fable Orchestrator. Keep Claude Fable 5 in the chair all day without draining your usage limit — token-frugal multi-agent orchestration plugin for Claude Code: tier routing (Sonnet 5 does the work), Requirements Ledger, enforced guard hooks, automatic teammate reaping: https://github.com/Rylaa/fable5-opus5.5-orchestrator
+
+Agent Manager. The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI: https://github.com/YoanWai/agent-manager
 
 Armory. Curated, production-grade skills for AI coding agents. Battle-tested workflows for developers who use AI seriously: https://github.com/Mathews-Tom/armory
 
@@ -38,7 +42,7 @@ Wife. Local-first, evidence-aware memory and project continuity for AI coding ag
 
 **Software Development & APIs:**
 
-
+Antislop. Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code: https://github.com/miqdadbadjuber/anti-slop
 
 ----
 
