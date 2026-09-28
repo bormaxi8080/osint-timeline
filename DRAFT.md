@@ -22,6 +22,8 @@ OpenBrowser is a framework for intelligent browser automation. It combines direc
 
 hwatu. Headless verification browser for AI coding agents: 35 ms one-call checks, pixel diffs, live human hand-off: https://github.com/hongnoul/hwatu
 
+md2pdf. Offline Markdown to PDF: edit, preview and print to PDF in the browser: https://github.com/overklassniy/md2pdf
+
 Awesome AI Security Tools. A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity - autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, LLM red-teaming, and more: https://github.com/scadastrangelove/awesome-ai-security-tools
 
 ----
@@ -41,6 +43,8 @@ Wife. Local-first, evidence-aware memory and project continuity for AI coding ag
 ----
 
 **Software Development & APIs:**
+
+0-Code. An autonomous development loop for Claude Code and OpenCode. The agent plans, writes, tests and commits on its own; the loop keeps going after the session ends. Zero runtime dependencies: https://github.com/0-SOFT/0-CODE
 
 Antislop. Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code: https://github.com/miqdadbadjuber/anti-slop
 
