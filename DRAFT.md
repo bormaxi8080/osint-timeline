@@ -38,6 +38,10 @@ Armory. Curated, production-grade skills for AI coding agents. Battle-tested wor
 
 Sandbase Harness. Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console: https://github.com/sandbaseai/sandbase-harness
 
+9 Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits: https://github.com/decolua/9router
+
+TokenJam. Reduce token use by up to 40%. TokenJam reads your agent's telemetry, finds overspending, and suggests fixes. Works with Claude Code, Codex, and your own SDK or API agents. Shows it all in a local browser dashboard. Runs entirely on your machine: https://github.com/Metabuilder-Labs/tokenjam
+
 Wife. Local-first, evidence-aware memory and project continuity for AI coding agents. Checkpoints, context packs and auditable receipts without telemetry: https://github.com/ma-nucho-pro/wife
 
 ----
@@ -52,7 +56,9 @@ Antislop. Rules for an AI coding agent to filter out generic AI-generated UI des
 
 **Linux & DevOps:**
 
+Muxi. Deploy intelligence. Open-source infrastructure for AI agents in production: https://github.com/muxi-ai/muxi
 
+Herdr GPU UI. Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon: https://github.com/penso/herdr-gpui
 
 ----
 
