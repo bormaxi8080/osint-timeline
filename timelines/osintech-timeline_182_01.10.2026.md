@@ -42,7 +42,7 @@ Your project can be featured here. To collaborate, please send me a private mess
 
 🔗 https://github.com/hongnoul/hwatu
 
-**md2pdf.** Offline Markdown to PDF: edit, preview and print to PDF in the browser:
+**md2pdf.** Offline Markdown to PDF - edit, preview and print to PDF in the browser:
 
 🔗 https://github.com/overklassniy/md2pdf
 
