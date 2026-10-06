@@ -16,11 +16,13 @@ Linus
 
 **OSINT Tools, Services and Investigations:**
 
-
+ReClip. Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI: https://github.com/averygan/reclip
 
 ----
 
 **Universal Search & AI:**
+
+AIPex. AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator, Claude Chrome and Agent Browser: https://github.com/AIPexStudio/AIPex
 
 Coven. Local-first runtime for project-scoped AI coding-agent sessions, with durable state, authority boundaries, and multi-harness interoperability: https://github.com/OpenCoven/coven
 
