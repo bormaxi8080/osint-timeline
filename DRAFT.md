@@ -2,9 +2,25 @@
 
 Bomb
 
+Plague
+
 Medicines
 
-Linus
+Madonna
+
+Geopolitics
+
+The World's End
+
+Swift
+
+Light
+
+The Warning
+
+Papers
+
+Ozzy
 
 ----
 
