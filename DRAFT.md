@@ -26,7 +26,7 @@ Portal
 
 ----
 
-
+OSINT Slovenia by Unishka Research Service: https://substack.com/home/post/p-219219841
 
 ----
 
