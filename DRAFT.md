@@ -54,13 +54,13 @@ BunQueue. High-performance job queue for Bun. SQLite by default, PostgreSQL mult
 
 **Linux & DevOps:**
 
-
+BlueTUI. TUI for managing bluetooth on Linux: https://github.com/pythops/bluetui
 
 ----
 
 **Hardware & Devices:**
 
-
+Flipper OS Installer. Small Rust program designed to run from a Linux initramfs and install a complete Flipper OS: https://github.com/flipperdevices/flipperos-installer
 
 ----
 
