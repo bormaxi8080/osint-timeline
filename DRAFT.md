@@ -32,7 +32,9 @@ OSINT Slovenia by Unishka Research Service: https://substack.com/home/post/p-219
 
 **OSINT Tools, Services and Investigations:**
 
+OnlyDrive. Zero-friction multi-account Google Drive pooler with native mounting, S3 emulation, and Model Context Protocol (MCP) support: https://github.com/yava-code/OnlyDrive
 
+OSS-Scanner. An open-source project source code scanning tool that leverages open-source SAST, SCA, and dependency checking tools to assess security posture. Its aim is to assist organizations in mitigating software supply chain risks and ensuring secure usage of open-source projects: https://github.com/verifioss/oss-scanner
 
 ----
 
@@ -41,6 +43,14 @@ OSINT Slovenia by Unishka Research Service: https://substack.com/home/post/p-219
 Learn Harness Engineering. A project-based course on building the environment, state management, verification, and control mechanisms that make AI coding agents work reliably: https://github.com/walkinglabs/learn-harness-engineering
 
 Better Codex. A task board and Agent system inside Codex Desktop. Local-first, open source, macOS and Windows: https://github.com/Ericwong5021/better-codex
+
+Mensarium is a self-hosted agent harness. You install **Core** on a server or a laptop, pair your other computers, and give the agent work from a browser or Telegram. The model never touches a machine directly: it only proposes an action, Core checks it against a policy, asks you when the action changes something, and sends the machine a signed request. Everything, from chats to keys and the activity log, stays on your hardware: https://github.com/NGdust/mensarium
+
+NodeDB. The memory & storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible: https://github.com/NodeDB-Lab/nodedb
+
+Maister. Self-hosted execution and governance for reproducible AI-powered software delivery over private code: https://github.com/maister-dev/maister
+
+Knotra. AI workflows you can verify, inspect and resume. Turn a task into a repeatable process: models do the reasoning, code checks the result, and people approve the steps that need judgment. Knotra keeps the execution history and files across restarts: https://github.com/michael-bill/knotra
 
 HoneyComb. AI coding agents forget. They forget across sessions, and they forget across tools. A decision you reached in Claude Code at midnight is invisible to Cursor the next morning. Honeycomb fixes that. Learn something once; recall it everywhere: https://github.com/legioncodeinc/honeycomb
 
