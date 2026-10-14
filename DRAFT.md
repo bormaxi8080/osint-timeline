@@ -34,6 +34,8 @@ OSINT Slovenia by Unishka Research Service: https://substack.com/home/post/p-219
 
 OnlyDrive. Zero-friction multi-account Google Drive pooler with native mounting, S3 emulation, and Model Context Protocol (MCP) support: https://github.com/yava-code/OnlyDrive
 
+Hexestra is an AI-native penetration testing IDE where human operators and the AI Agent work on the same operational surface—sharing the browser, terminal, traffic, shells, asset graph, task plan, evidence, and controls: https://github.com/ABSllk/Hexestra
+
 OSS-Scanner. An open-source project source code scanning tool that leverages open-source SAST, SCA, and dependency checking tools to assess security posture. Its aim is to assist organizations in mitigating software supply chain risks and ensuring secure usage of open-source projects: https://github.com/verifioss/oss-scanner
 
 ----
