@@ -22,9 +22,13 @@ Ozzy
 
 Portal
 
+Cosmos
+
 ----
 
+Compabase. A very good database of companies in Poland🇵🇱🇵🇱🇵🇱, with a huge amount of information:  Financials, Statistics, Bank accounts, Debt, Real estate, Public aid, Tenders, Trademarks, Regulatory authorisations, Authorized Representatives, Partners, Beneficial owners, Connections, Competitors, Change history. Partly free. 3,853,010 companies in the database:
 
+https://compabase.com/
 
 ----
 
@@ -36,7 +40,7 @@ Portal
 
 **Universal Search & AI:**
 
-
+Tellurion. Ghostty for macOS, rebuilt to watch AI coding agents work live. Claude Code, Codex and more in a vertical sidebar, a code editor that types in their edits as they happen, a live code map, a backend view (Cloudflare, Supabase, Vercel), Visual Fix, agent races and change review: https://github.com/steventsvik/Tellurion
 
 ----
 
@@ -48,7 +52,7 @@ Portal
 
 **Linux & DevOps:**
 
-
+Shell-RS. High-performance native SSH client in Rust, GPU-rendered with GPUI: host manager, terminal, WinSCP-style SFTP and port forwarding: https://github.com/since2006/shell-rs
 
 ----
 
