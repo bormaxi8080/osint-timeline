@@ -34,11 +34,13 @@ https://compabase.com/
 
 **OSINT Tools, Services and Investigations:**
 
-
+TrendRadar. AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts: https://github.com/sansan0/TrendRadar
 
 ----
 
 **Universal Search & AI:**
+
+BrowserCode is a browser-based playground for fast-prototyping full-stack apps and sharing them instantly. It runs on BrowserPod, a multi-language WebAssembly sandbox (Node.js, Rust, and Python in preview), with no installs, no servers, and no cloud compute: https://github.com/leaningtech/browsercode
 
 Tellurion. Ghostty for macOS, rebuilt to watch AI coding agents work live. Claude Code, Codex and more in a vertical sidebar, a code editor that types in their edits as they happen, a live code map, a backend view (Cloudflare, Supabase, Vercel), Visual Fix, agent races and change review: https://github.com/steventsvik/Tellurion
 
