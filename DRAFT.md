@@ -48,7 +48,7 @@ Tellurion. Ghostty for macOS, rebuilt to watch AI coding agents work live. Claud
 
 **Software Development & APIs:**
 
-
+Rutis. A plugin runtime for software that iterates on itself — the substrate where agents write, swap and hot-reload their own plugins in Rust, TypeScript, Python and Go, across processes and machines: https://github.com/arcships/rutis
 
 ----
 
