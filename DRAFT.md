@@ -46,6 +46,8 @@ BrowserCode is a browser-based playground for fast-prototyping full-stack apps a
 
 Tellurion. Ghostty for macOS, rebuilt to watch AI coding agents work live. Claude Code, Codex and more in a vertical sidebar, a code editor that types in their edits as they happen, a live code map, a backend view (Cloudflare, Supabase, Vercel), Visual Fix, agent races and change review: https://github.com/steventsvik/Tellurion
 
+**SolonGate Agent Security** is SolonGate's open source, local first security gateway for AI coding agents. It checks tool calls against your policies before they run, with secret detection, rate limits and a local audit trail: https://github.com/solongate/agent-security
+
 Strata. Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input: https://github.com/Niko1221/Strata
 
 ----
