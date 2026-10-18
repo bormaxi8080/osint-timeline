@@ -36,6 +36,8 @@ https://compabase.com/
 
 TrendRadar. AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts: https://github.com/sansan0/TrendRadar
 
+Facebook GraphQL Scraper. Scrape Facebook GraphQL data without an API key - profiles, posts, comments, reactions, groups, marketplace, search_engine: https://github.com/XD-MHLOO/facebook-gql-scraper
+
 job-ops. DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process: https://github.com/DaKheera47/job-ops
 
 ----
