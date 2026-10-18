@@ -82,13 +82,15 @@ Flipper Zero external app to control TEA5767 FM radio boards with PT I2C volume 
 
 **New from CyberDetective:**
 
-SKYACCESS
-
-Not only book a seat, but also find a wealth of information about private jets worldwide: aircraft specifications, upcoming departures, statistics (+MCP data server).
-
-5,000+ live flights from 900+ certified charter operators:
+SKYACCESS. Not only book a seat, but also find a wealth of information about private jets worldwide: aircraft specifications, upcoming departures, statistics (+MCP data server). 5,000+ live flights from 900+ certified charter operators:
 
 https://skyaccess.com/
+
+SynthID Detector
+
+Identify AI generated media: Images (JPG, JPEG, PNG, BMP, WEBP, AVIF, HEIC, HEIF, TIFF, TIF, GIF), Video (MP4, MOV, WEBM), Audio (WAV, MP3, OGG, FLAC, AAC, M4A):
+
+https://synthid.com/
 
 ----
 
