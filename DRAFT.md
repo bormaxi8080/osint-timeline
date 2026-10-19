@@ -30,6 +30,14 @@ Compabase. A very good database of companies in Poland🇵🇱🇵🇱🇵🇱, 
 
 https://compabase.com/
 
+From Email to Google Reviews. Manual OSINT Using Google Contacts:
+
+https://www.osint.industries/post/from-email-to-google-reviews-manual-osint-using-google-contacts
+
+Mobile Network Hacking. Reconnaissance on Your Local Mobile Network:
+
+https://hackers-arise.com/mobile-network-hacking-reconnaissance-on-your-local-mobile-network/
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -61,6 +69,12 @@ Rutis. A plugin runtime for software that iterates on itself — the substrate w
 ----
 
 **Linux & DevOps:**
+
+Fail2Ban UI is a management platform for operating Fail2Ban across one or more Linux hosts. It provides a central place to review bans, search and unban IP addresses, manage jails and filters, and receive notifications: https://github.com/swissmakers/fail2ban-ui
+
+Pulse. Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures: https://github.com/rcourtman/pulse
+
+wavemon is an ncurses-based monitoring application for wireless network devices on Linux: https://github.com/uoaerg/wavemon
 
 Shell-RS. High-performance native SSH client in Rust, GPU-rendered with GPUI: host manager, terminal, WinSCP-style SFTP and port forwarding: https://github.com/since2006/shell-rs
 
