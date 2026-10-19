@@ -54,6 +54,10 @@ job-ops. DevOps principles applied to job hunting. A self-hosted pipeline to tra
 
 BrowserCode is a browser-based playground for fast-prototyping full-stack apps and sharing them instantly. It runs on BrowserPod, a multi-language WebAssembly sandbox (Node.js, Rust, and Python in preview), with no installs, no servers, and no cloud compute: https://github.com/leaningtech/browsercode
 
+KiwiFS. Markdown filesystem for agents and teams. Searchable. Structured. Versioned. One binary, zero config: https://github.com/kiwifs/kiwifs
+
+Ankole. The open source Agent Harness with a Company Brain. Self-hosted AI Agents for Slack, Teams, Lark, DingTalk, WeCom, and more. An open source alternative to Claude Tag: https://github.com/AgentBull/ankole
+
 Tellurion. Ghostty for macOS, rebuilt to watch AI coding agents work live. Claude Code, Codex and more in a vertical sidebar, a code editor that types in their edits as they happen, a live code map, a backend view (Cloudflare, Supabase, Vercel), Visual Fix, agent races and change review: https://github.com/steventsvik/Tellurion
 
 **SolonGate Agent Security** is SolonGate's open source, local first security gateway for AI coding agents. It checks tool calls against your policies before they run, with secret detection, rate limits and a local audit trail: https://github.com/solongate/agent-security
