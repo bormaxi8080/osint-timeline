@@ -58,6 +58,8 @@ KiwiFS. Markdown filesystem for agents and teams. Searchable. Structured. Versio
 
 Ankole. The open source Agent Harness with a Company Brain. Self-hosted AI Agents for Slack, Teams, Lark, DingTalk, WeCom, and more. An open source alternative to Claude Tag: https://github.com/AgentBull/ankole
 
+Trigora. High-performance, lightweight durable execution for long-running AI agents and programs: https://github.com/trigora-dev/trigora
+
 OLMOCR. Toolkit for linearizing PDFs for LLM datasets/training: https://github.com/allenai/olmocr
 
 Tellurion. Ghostty for macOS, rebuilt to watch AI coding agents work live. Claude Code, Codex and more in a vertical sidebar, a code editor that types in their edits as they happen, a live code map, a backend view (Cloudflare, Supabase, Vercel), Visual Fix, agent races and change review: https://github.com/steventsvik/Tellurion
@@ -73,6 +75,8 @@ Strata. Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windo
 ArkType. TypeScript's 1:1 validator, optimized from editor to runtime: https://github.com/arktypeio/arktype
 
 Drawflow simple flow library allows you to create data flows easily and quickly: https://github.com/jerosoler/Drawflow
+
+Jantt. The AI-native JSON Gantt chart engine. Dependency-free interactive timelines with React, script-tag, CLI, topological DAG solver, and formal JSON schema: https://github.com/AhmadHassan-BTed/jantt
 
 Rutis. A plugin runtime for software that iterates on itself - the substrate where agents write, swap and hot-reload their own plugins in Rust, TypeScript, Python and Go, across processes and machines: https://github.com/arcships/rutis
 
