@@ -54,7 +54,11 @@ job-ops. DevOps principles applied to job hunting. A self-hosted pipeline to tra
 
 BrowserCode is a browser-based playground for fast-prototyping full-stack apps and sharing them instantly. It runs on BrowserPod, a multi-language WebAssembly sandbox (Node.js, Rust, and Python in preview), with no installs, no servers, and no cloud compute: https://github.com/leaningtech/browsercode
 
+Eleven. Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you: https://github.com/Zfinix/eleven
+
 KiwiFS. Markdown filesystem for agents and teams. Searchable. Structured. Versioned. One binary, zero config: https://github.com/kiwifs/kiwifs
+
+Dexto. Agent harness and tookit for building AI agents and agentic applications. CLI and SDKs included: https://github.com/truffle-ai/dexto
 
 Ankole. The open source Agent Harness with a Company Brain. Self-hosted AI Agents for Slack, Teams, Lark, DingTalk, WeCom, and more. An open source alternative to Claude Tag: https://github.com/AgentBull/ankole
 
@@ -71,6 +75,8 @@ Strata. Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windo
 ----
 
 **Software Development & APIs:**
+
+CleanCode. Bring Claude Code, Codex, and your favorite CLI agents together to delegate tasks and share results. Let AI build your automation workflows, then run and reuse them — all on one canvas: https://github.com/chen-985211/cleancode
 
 ArkType. TypeScript's 1:1 validator, optimized from editor to runtime: https://github.com/arktypeio/arktype
 
