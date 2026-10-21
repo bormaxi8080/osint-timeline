@@ -80,6 +80,8 @@ CleanCode. Bring Claude Code, Codex, and your favorite CLI agents together to de
 
 ArkType. TypeScript's 1:1 validator, optimized from editor to runtime: https://github.com/arktypeio/arktype
 
+SchemaGate. Schema selection that gives the LLM only the tables the caller is allowed to read. Row-level-security-aware table pruning for LangChain, MCP and any SQL agent. Postgres, Oracle, MySQL, SQL Server. 75% fewer prompt tokens: https://github.com/ashishsinha1602/schemagate
+
 Drawflow simple flow library allows you to create data flows easily and quickly: https://github.com/jerosoler/Drawflow
 
 Jantt. The AI-native JSON Gantt chart engine. Dependency-free interactive timelines with React, script-tag, CLI, topological DAG solver, and formal JSON schema: https://github.com/AhmadHassan-BTed/jantt
@@ -89,6 +91,8 @@ Rutis. A plugin runtime for software that iterates on itself - the substrate whe
 ----
 
 **Linux & DevOps:**
+
+toolong. A terminal application to view, tail, merge, and search log files (plus JSONL): https://github.com/Textualize/toolong
 
 Fail2Ban UI is a management platform for operating Fail2Ban across one or more Linux hosts. It provides a central place to review bans, search and unban IP addresses, manage jails and filters, and receive notifications: https://github.com/swissmakers/fail2ban-ui
 
