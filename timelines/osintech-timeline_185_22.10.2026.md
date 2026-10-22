@@ -73,7 +73,7 @@ Your project can be featured here. To collaborate, please send me a private mess
 
 🔗 https://github.com/google-research/harness2
 
-**AIOS.** The local-first control plane for long-horizon coding agents: cross-session project memory (ContextDB), adaptive workflow routing, multi-agent teams, resumable overnight runs, and verifiable evidence — on top of Codex CLI, Claude Code, Gemini CLI, OpenCode, Hermes, Grok, WorkBuddy, Pi, ZCode, and Qoder:
+**AIOS.** The local-first control plane for long-horizon coding agents: cross-session project memory (ContextDB), adaptive workflow routing, multi-agent teams, resumable overnight runs, and verifiable evidence - on top of Codex CLI, Claude Code, Gemini CLI, OpenCode, Hermes, Grok, WorkBuddy, Pi, ZCode, and Qoder:
 
 🔗 https://github.com/rexleimo/aios
 
