@@ -46,6 +46,10 @@ TrendRadar. AI-driven public opinion & trend monitor with multi-platform aggrega
 
 Facebook GraphQL Scraper. Scrape Facebook GraphQL data without an API key - profiles, posts, comments, reactions, groups, marketplace, search_engine: https://github.com/XD-MHLOO/facebook-gql-scraper
 
+Chrome Crawler. LLM Agent in Chrome's sidebar: https://github.com/ir00nman/chrome-crawler
+
+XMatrix. Group chat for humans and coding agents. Mention [@claude](https://github.com/claude), [@codex](https://github.com/codex), [@cursor](https://github.com/cursor) or [@gemini](https://github.com/gemini) in a channel: the agent runs on your machine with your own subscription and keeps the team's pages current: https://github.com/LambdaLabsHQ/xmatrix
+
 job-ops. DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process: https://github.com/DaKheera47/job-ops
 
 ----
@@ -53,6 +57,10 @@ job-ops. DevOps principles applied to job hunting. A self-hosted pipeline to tra
 **Universal Search & AI:**
 
 BrowserCode is a browser-based playground for fast-prototyping full-stack apps and sharing them instantly. It runs on BrowserPod, a multi-language WebAssembly sandbox (Node.js, Rust, and Python in preview), with no installs, no servers, and no cloud compute: https://github.com/leaningtech/browsercode
+
+A harness2 is the system around a model that enables it to act as an agent: prompts, tools, memory, skills, orchestration, and more. **Harnessing** is the process of optimizing that system. Harness² is a plug-and-play framework for **recursive agent harnessing** in an open world, where agents encounter tasks unseen during harness design: https://github.com/google-research/harness2
+
+AIOS. The local-first control plane for long-horizon coding agents: cross-session project memory (ContextDB), adaptive workflow routing, multi-agent teams, resumable overnight runs, and verifiable evidence — on top of Codex CLI, Claude Code, Gemini CLI, OpenCode, Hermes, Grok, WorkBuddy, Pi, ZCode, and Qoder: https://github.com/rexleimo/aios
 
 Eleven. Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you: https://github.com/Zfinix/eleven
 
@@ -76,11 +84,15 @@ Strata. Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windo
 
 **Software Development & APIs:**
 
-CleanCode. Bring Claude Code, Codex, and your favorite CLI agents together to delegate tasks and share results. Let AI build your automation workflows, then run and reuse them — all on one canvas: https://github.com/chen-985211/cleancode
+CleanCode. Bring Claude Code, Codex, and your favorite CLI agents together to delegate tasks and share results. Let AI build your automation workflows, then run and reuse them - all on one canvas: https://github.com/chen-985211/cleancode
+
+Apple FoundationDB - the open source, distributed, transactional key-value store: https://github.com/apple/foundationdb
 
 ArkType. TypeScript's 1:1 validator, optimized from editor to runtime: https://github.com/arktypeio/arktype
 
 SchemaGate. Schema selection that gives the LLM only the tables the caller is allowed to read. Row-level-security-aware table pruning for LangChain, MCP and any SQL agent. Postgres, Oracle, MySQL, SQL Server. 75% fewer prompt tokens: https://github.com/ashishsinha1602/schemagate
+
+TraceKit. Tamper-evident tracing, policy gates and cross-checks for AI agents: see what the agent did, and why: https://github.com/Cygnux-Labs/Tracekit
 
 Drawflow simple flow library allows you to create data flows easily and quickly: https://github.com/jerosoler/Drawflow
 
