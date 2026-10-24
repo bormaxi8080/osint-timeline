@@ -36,7 +36,7 @@ Cosmos
 
 **Universal Search & AI:**
 
-
+Swap Claude Code between your own Claude subscription accounts, by hand or automatically near the limits. No proxy, no restart: https://github.com/Dudude-bit/ccswap
 
 ----
 
@@ -47,6 +47,8 @@ Drawflow simple flow library allows you to create data flows easily and quickly:
 Jantt. The AI-native JSON Gantt chart engine. Dependency-free interactive timelines with React, script-tag, CLI, topological DAG solver, and formal JSON schema: https://github.com/AhmadHassan-BTed/jantt
 
 Rutis. A plugin runtime for software that iterates on itself - the substrate where agents write, swap and hot-reload their own plugins in Rust, TypeScript, Python and Go, across processes and machines: https://github.com/arcships/rutis
+
+Open reverse engineering - PE/ELF/Mach-O, x86/x64/AArch64, graphs, pseudocode. Rust engine, no network. Desktop · CLI · browser: https://github.com/Altumptic/paranoia
 
 ----
 
