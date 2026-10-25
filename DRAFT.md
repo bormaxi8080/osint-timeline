@@ -22,15 +22,19 @@ Portal
 
 Cosmos
 
+Politicans
+
+Freedom
+
 ----
 
-
+ITHIL. Gather information on anyone in seconds. Query multiple intelligence modules concurrently to trace digital footprints, map relationships, and reveal connections automatically: https://ithil.rest/
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
-
+qurp. A lightweight Linux desktop extension for managing V2Ray proxy connections with ease: https://github.com/1xPwn/qurp
 
 ----
 

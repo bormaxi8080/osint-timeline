@@ -41,7 +41,7 @@ Your project can be featured here. To collaborate, please send me a private mess
 
 ## 🛠 OSINT Tools, Services & Investigations
 
-**BrowserCode**is a browser-based playground for fast-prototyping full-stack apps and sharing them instantly. It runs on BrowserPod, a multi-language WebAssembly sandbox (Node.js, Rust, and Python in preview), with no installs, no servers, and no cloud compute:
+**BrowserCode** is a browser-based playground for fast-prototyping full-stack apps and sharing them instantly. It runs on BrowserPod, a multi-language WebAssembly sandbox (Node.js, Rust, and Python in preview), with no installs, no servers, and no cloud compute:
 
 🔗 https://github.com/leaningtech/browsercode
 
