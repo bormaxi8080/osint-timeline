@@ -28,6 +28,22 @@ Freedom
 
 ----
 
+AWESOME OSINT MCP SERVERS  
+
+Network scanning  
+Threat Intelligence  
+SOCMINT  
+Public records & compliance  
+Geospatial & Geopolitical intelligence  
+Meta/ Discovery  
+Market & Trading  
+Web scraping  
+Company intelligence  
+Research intelligence  
+Blockchain intelligence
+
+https://start.me/p/aNMY5j/awesome-osint-mcp-servers
+
 ITHIL. Gather information on anyone in seconds. Query multiple intelligence modules concurrently to trace digital footprints, map relationships, and reveal connections automatically: https://ithil.rest/
 
 OSINT for law enforcement: The complete guide  
