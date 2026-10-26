@@ -7,6 +7,24 @@ Every week, I manually curate tools, research, and services that are genuinely u
 No hype. No SEO noise. No “AI startups that change everything”.  
 Only things you can **open, verify, and actually use**.
 
+## 📚 Browse Resources by Topic
+
+Explore **11 thematic collections** of tools, articles, and guides from the timelines, organized by task with source references.
+
+| Collection | Topics covered |
+|---|---|
+| [Telegram](TELEGRAM_RESOURCES.md) | Channel and message search, scraping, archiving, account research, bots, and automation. |
+| [WhatsApp](WHATSAPP_RESOURCES.md) | Profile research, forensics, activity analysis, clients, APIs, and integrations. |
+| [Discord](DISCORD_RESOURCES.md) | Server discovery, user lookup, OSINT guides, bots, and data collection. |
+| [Signal](SIGNAL_RESOURCES.md) | Investigation guides, privacy, delivery receipt research, and security articles. |
+| [Domains, IP & DNS](DOMAIN_RESEARCH_RESOURCES.md) | Domain intelligence, subdomains, WHOIS, certificates, scanners, and infrastructure research. |
+| [Facebook](FACEBOOK_RESOURCES.md) | Search, scraping, profile and network analysis, advertising, and privacy. |
+| [LinkedIn](LINKEDIN_RESOURCES.md) | Profile and employee research, contact discovery, activity timelines, and scraping. |
+| [Substack](SUBSTACK_RESOURCES.md) | Platform resources, subscriber export recovery, and related publishing and feed tools. |
+| [Job Search & Application Automation](JOB_SEARCH_RESOURCES.md) | Job aggregators, application workflows, resumes, portfolios, and career guides. |
+| [Browsers, Scraping & Multi-Account Work](BROWSER_SCRAPING_RESOURCES.md) | Crawlers, parsers, browser automation, fingerprinting, profiles, and proxies. |
+| [AI, Prompts & Agents](AI_PROMPTS_AGENTS_RESOURCES.md) | Prompt engineering, agent frameworks, MCP, coding assistants, RAG, and model infrastructure. |
+
 ![alt text](logo.png)
 
 ----
