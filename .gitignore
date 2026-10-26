@@ -7,3 +7,6 @@
 ._*.gif
 
 ._.gitignore
+
+# Local CodeBase MCP index
+.codebase-memory/
