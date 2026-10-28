@@ -80,6 +80,8 @@ TryPost. Open-source social media scheduler built for AI agents and the teams be
 
 qurp. A lightweight Linux desktop extension for managing V2Ray proxy connections with ease: https://github.com/1xPwn/qurp
 
+Ablation is an AI-assisted reverse engineering (AIARE) framework: https://github.com/Ablation-Tool/ablation
+
 ----
 
 **Universal Search & AI:**
@@ -87,6 +89,8 @@ qurp. A lightweight Linux desktop extension for managing V2Ray proxy connections
 ShowAI. The evolving interface between humans and agents - Claude Code and Codex answer with interactive pages you can edit, keep and share: https://github.com/Renaissance-Mind/ShowAI
 
 CubeLoop. A Pythonic, async-native agent harness core designed for high performance, readability, and production-grade persistence: https://github.com/cubeplexai/cubeloop
+
+Local Operator. An open-source AI agent hub for your own machine: build organizations of collaborating agents that message each other, run in the background around the clock, and share your existing AI subscriptions: https://github.com/damianvtran/local-operator
 
 JS Hook MCP. A search-first, profile-aware reverse-engineering workspace for AI agents - 735 tools across 36 domains in one MCP server: https://github.com/vmoranv/jshookmcp
 
@@ -107,6 +111,8 @@ Open Reverse Engineering - PE/ELF/Mach-O, x86/x64/AArch64, graphs, pseudocode. R
 ----
 
 **Linux & DevOps:**
+
+Net-Merge. Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers: https://github.com/rohit267/net-merge
 
 Lazy tmux it is a fast session manager and saver for tmux. You can save all your session and lazy restore it: https://github.com/alchemmist/lazy-tmux
 
