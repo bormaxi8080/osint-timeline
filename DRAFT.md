@@ -76,9 +76,15 @@ https://shadowdragon.io/resources/osint-for-law-enforcement/
 
 **OSINT Tools, Services and Investigations:**
 
+DIABOLIC FRANCE - OSINT social aid platform. Monitors housing, employment, food, health & poverty needs in France: https://github.com/Condor2026/diabolic_france
+
 TryPost. Open-source social media scheduler built for AI agents and the teams behind them. Create, schedule and publish posts to every network through MCP or the REST API, or write them yourself in a composer your team will love: https://github.com/trypostit/trypost
 
+pytgcalls. Async client API for the Telegram Calls: https://github.com/pytgcalls/pytgcalls
+
 qurp. A lightweight Linux desktop extension for managing V2Ray proxy connections with ease: https://github.com/1xPwn/qurp
+
+PDF Extracct Kit. A Comprehensive Toolkit for High-Quality PDF Content Extraction: https://github.com/opendatalab/PDF-Extract-Kit
 
 Ablation is an AI-assisted reverse engineering (AIARE) framework: https://github.com/Ablation-Tool/ablation
 
