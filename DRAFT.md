@@ -26,13 +26,20 @@ Freedom
 
 ----
 
+  
+Two Years Ago, Meta Killed CrowdTangle. Can a New AI Tool Fill the Void? Now, a new crop of AI-powered tools is trying to fill the void. [Arbiter](https://arbiter.simppl.org/) is one of the projects leading the way. The platform uses large language models (LLMs) and AI agents to pull posts from social media platforms and analyze them at scale. It collects data from social media APIs, academic data dumps, and third-party data scraping companies. The platform currently works across several social media platforms, including Facebook, Instagram, Twitter (X), YouTube, TikTok, Reddit, Bluesky, and 4chan:
+
+https://gijn.org/stories/can-arbiter-ai-tool-replace-crowdtangle-track-social-media/
+
 Download all novayagazeta.ru articles in Markdown format, along with their images. Other media types (videos, service embeds) are not downloaded.: https://github.com/novaya-gazeta-ru/archive
 
 ----
 
 **OSINT Tools, Services and Investigations:**
 
+CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications: https://github.com/musana/CF-Hero
 
+Papra. The minimalistic document archiving platform: https://github.com/papra-hq/papra
 
 ----
 
@@ -41,6 +48,10 @@ Download all novayagazeta.ru articles in Markdown format, along with their image
 Kanzo. Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup: https://github.com/emanuele-em/kanzo
 
 Where you direct your coding agents: start a job with a chat, watch them work in sandboxes, and approve what matters with the evidence: https://github.com/mikeparcewski/wicked-studio
+
+Hexscope (Polyglot) is a lightweight, high-performance binary hex viewer built as a dual-target binary polyglot. From a single, identical file (`hexscope.com`), it executes natively as a 16-bit DOS COM program on legacy hardware or DOS emulators like DOSBox and 86Box, and as a **64-bit Linux ELF executable** on modern UNIX environments: https://github.com/gregoryfenton/polyglot
+
+Pentera is an interactive Bash-based installer that gives you instant access to 150+ powerful cybersecurity and penetration testing tools with a single command: https://github.com/moktarbakay/Pentera
 
 ----
 
