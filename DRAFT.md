@@ -47,7 +47,11 @@ Papra. The minimalistic document archiving platform: https://github.com/papra-hq
 
 Kanzo. Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup: https://github.com/emanuele-em/kanzo
 
+CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features: https://github.com/cuga-project/cuga-agent
+
 Where you direct your coding agents: start a job with a chat, watch them work in sandboxes, and approve what matters with the evidence: https://github.com/mikeparcewski/wicked-studio
+
+Papermorph. An AI skill that turns books into animated, narrated, interactive web experiences: https://github.com/DozenTwelve/Papermorph
 
 Hexscope (Polyglot) is a lightweight, high-performance binary hex viewer built as a dual-target binary polyglot. From a single, identical file (`hexscope.com`), it executes natively as a 16-bit DOS COM program on legacy hardware or DOS emulators like DOSBox and 86Box, and as a **64-bit Linux ELF executable** on modern UNIX environments: https://github.com/gregoryfenton/polyglot
 
@@ -57,7 +61,11 @@ Pentera is an interactive Bash-based installer that gives you instant access to 
 
 **Software Development & APIs:**
 
+EveryInfra MCP server & agent plugin: scraper API for TikTok, Instagram, Amazon, YouTube, Xiaohongshu & Douyin. 573 data APIs across 106 platforms, from $0.56/1K calls. For Claude Code, Cursor, Codex: https://github.com/everyinfra/everyinfra-agent-plugins
+
 WebPerf Snippets. Tested JavaScript snippets that measure and debug web performance. Your AI agent runs them for you, or you run them yourself in DevTools: the same code every time: https://github.com/nucliweb/webperf-snippets
+
+AIMux. Unified LLM access layer in Rust - one API for 325 AI providers: https://github.com/arcships/aimux
 
 ub-mode is an agent skill that enforces disciplined software engineering principles when writing or changing code. It is loosely based on portions of [@poteto](https://github.com/poteto)'s rules (`poteto-mode` / `pstack`), reduced and paired with deterministic quality-gate tools: https://github.com/unclebob/ub-mode
 
@@ -66,6 +74,8 @@ ub-mode is an agent skill that enforces disciplined software engineering princi
 **Linux & DevOps:**
 
 The Architecture of Stealth: Linux Malware Techniques. Contains materials for my technical presentation exploring Linux malware tradecraft-from userland and fileless techniques to kernel rootkits, ftrace, eBPF, and defensive strategies: https://github.com/akazemi67/LinuxMalwareTechniques
+
+SysKnife. An AI that administers Linux through typed, approval-gated, Ed25519-audited actions. The model selects the action; the daemon builds the command: https://github.com/lacs-project/sysknife
 
 ----
 
