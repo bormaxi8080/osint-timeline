@@ -22,10 +22,23 @@ Cosmos
 
 Politicans
 
+Time
+
+Shoes
+
+Rat
+
 Freedom
 
-----
+Yellow
 
+Oil
+
+Sprats
+
+MAGGOTS
+
+----
   
 Two Years Ago, Meta Killed CrowdTangle. Can a New AI Tool Fill the Void? Now, a new crop of AI-powered tools is trying to fill the void. [Arbiter](https://arbiter.simppl.org/) is one of the projects leading the way. The platform uses large language models (LLMs) and AI agents to pull posts from social media platforms and analyze them at scale. It collects data from social media APIs, academic data dumps, and third-party data scraping companies. The platform currently works across several social media platforms, including Facebook, Instagram, Twitter (X), YouTube, TikTok, Reddit, Bluesky, and 4chan:
 
@@ -39,6 +52,8 @@ Download all novayagazeta.ru articles in Markdown format, along with their image
 
 CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications: https://github.com/musana/CF-Hero
 
+WhatsApp MCP Server for AI Agents - TypeScript, Baileys and Cloud API: https://github.com/heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server
+
 Papra. The minimalistic document archiving platform: https://github.com/papra-hq/papra
 
 ----
@@ -47,9 +62,13 @@ Papra. The minimalistic document archiving platform: https://github.com/papra-hq
 
 Kanzo. Self-hosted kanban for humans and agents. One 4 MB binary, starts in 2 ms, zero setup: https://github.com/emanuele-em/kanzo
 
+Skills Manager. CLI-first hub for agent skills: one npx install, manage in chat, distribute to 70+ agents: https://github.com/shenysun/skills-manager
+
 CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features: https://github.com/cuga-project/cuga-agent
 
-Where you direct your coding agents: start a job with a chat, watch them work in sandboxes, and approve what matters with the evidence: https://github.com/mikeparcewski/wicked-studio
+Octopus SI OS. A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a path toward superintelligence: https://github.com/miuuyy/Octopus-SI-OS
+
+Where you direct your coding agents - start a job with a chat, watch them work in sandboxes, and approve what matters with the evidence: https://github.com/mikeparcewski/wicked-studio
 
 Papermorph. An AI skill that turns books into animated, narrated, interactive web experiences: https://github.com/DozenTwelve/Papermorph
 
