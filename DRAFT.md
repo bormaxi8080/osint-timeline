@@ -50,11 +50,17 @@ Download all novayagazeta.ru articles in Markdown format, along with their image
 
 **OSINT Tools, Services and Investigations:**
 
+Cyber Detective's OSINT tools collection. A collection of several hundred online tools for OSINT: https://github.com/cipher387/osint_stuff_tool_collection#worldwide-events-monitoring
+
 CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications: https://github.com/musana/CF-Hero
+
+Video to Frames. FREE and really quick online tool. Upload a video to extract key frames from it. You can adjust the image quality and the number of frames (if the video is longer and the process has slowed down): https://videotoframes.com
 
 WhatsApp MCP Server for AI Agents - TypeScript, Baileys and Cloud API: https://github.com/heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server
 
 Papra. The minimalistic document archiving platform: https://github.com/papra-hq/papra
+
+RGX. High-performance full-text search across PDFs, Office documents, ZIP archives, email, media metadata and GGUF/LLM model files. ripgrep-compatible CLI, zero external dependencies: https://github.com/danalec/rgx
 
 ----
 
@@ -68,13 +74,19 @@ CUGA is an open-source generalist agent harness for the enterprise, supporting c
 
 Octopus SI OS. A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a path toward superintelligence: https://github.com/miuuyy/Octopus-SI-OS
 
-Where you direct your coding agents - start a job with a chat, watch them work in sandboxes, and approve what matters with the evidence: https://github.com/mikeparcewski/wicked-studio
+Emdash is the Open-Source Agentic Development Environment. Run multiple coding agents in parallel. Use any provider: https://github.com/generalaction/emdash
+
+DevChain. Run a team of AI coding agents. On your machine. Local-first orchestration for Claude Code, Codex, OpenCode, Antigravity, and Copilot: https://github.com/TwiTech-LAB/devchain
+
+Where you direct your coding agents. Start a job with a chat, watch them work in sandboxes, and approve what matters with the evidence: https://github.com/mikeparcewski/wicked-studio
 
 Papermorph. An AI skill that turns books into animated, narrated, interactive web experiences: https://github.com/DozenTwelve/Papermorph
 
 Hexscope (Polyglot) is a lightweight, high-performance binary hex viewer built as a dual-target binary polyglot. From a single, identical file (`hexscope.com`), it executes natively as a 16-bit DOS COM program on legacy hardware or DOS emulators like DOSBox and 86Box, and as a **64-bit Linux ELF executable** on modern UNIX environments: https://github.com/gregoryfenton/polyglot
 
 Pentera is an interactive Bash-based installer that gives you instant access to 150+ powerful cybersecurity and penetration testing tools with a single command: https://github.com/moktarbakay/Pentera
+
+TrueNAS MCP Server. Monitor and Manage your TrueNAS via LLM using an MCP plugin: https://github.com/truenas/truenas-mcp
 
 ----
 
