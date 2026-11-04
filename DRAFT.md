@@ -1,6 +1,6 @@
 # Timeline Summarized Draft
 
-Madonnas
+Good Morning, America!
 
 Geopolitics
 
@@ -37,6 +37,10 @@ Oil
 Sprats
 
 MAGGOTS
+
+Madonnas
+
+Manhattan
 
 ----
   
