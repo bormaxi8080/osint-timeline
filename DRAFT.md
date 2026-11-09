@@ -51,6 +51,8 @@ Manhattan
 
 FastBrowse. A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page: https://github.com/agent-labs-dev/fastbrowse
 
+Nox. Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning: https://github.com/kernelstub/Nox
+
 ----
 
 **Universal Search & AI:**
@@ -79,7 +81,9 @@ CaseCite is an open-source, self-hosted legal RAG caselaw research & document an
 
 **New from CyberDetective:**
 
+Open Check. 3.4+ million companies in database. Search by company name, LEI, National ID or person name (with year of birth filter). Get ownership network, risk signals, subsidiaries, connected people, history of changes and more:
 
+https://opencheck.world/
 
 ----
 
