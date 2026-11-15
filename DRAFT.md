@@ -77,13 +77,25 @@ Ouijit. Git worktree-based task manager with integrated terminals for CLI coding
 
 **Hardware & Devices:**
 
+CLI tools for better interact with Flipper Zero: https://github.com/lomalkin/flipperzero-cli-tools
 
+Flipper Zero Catalog Sample App: https://github.com/flipperdevices/flipperzero-catalog-sample-app
 
 ----
 
 **New from CyberDetective:**
 
+Country specific OSINT with Google and other search engines. Guide by Noimosiny: Country domain/subdomains. Different alphabets/"Translit". National social networks and messaging apps. Local search engines. Government registers:
 
+https://noimosiny.com/resources/blog/country-specific-osint-google-search-engines
+
+WEB CAPTURING OSINT TOOLS. Tools developed specifically for OSINT and forensic. Simple web content saving tools. Proof & Evidence Verification Tools:
+
+https://github.com/cipher387/osint_stuff_tool_collection#web-capturing-tools
+
+They sent it. Free archive of marketing email (really large). 70,965 brands, 5,125,646 emails, 187,867 sending domains:
+
+https://theysentit.com/
 
 ----
 
