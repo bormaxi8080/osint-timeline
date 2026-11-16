@@ -53,7 +53,13 @@ https://tads-things.github.io/mingzi/
 
 **OSINT Tools, Services and Investigations:**
 
+ChatCrawler is a free, web based OSINT tool that lets you track historical usernames and name changes of Telegram channels and groups, check when changes were observed and identify previous owners of Telegram usernames where records are available:
 
+https://chatcrawler.app
+
+Keelix. Naval base activity from free Sentinel-1 radar - berths, ships in port, arrivals and departures, explained with the image behind every claim:
+
+https://github.com/sparkyniner/keelix
 
 ----
 
@@ -65,13 +71,13 @@ Ouijit. Git worktree-based task manager with integrated terminals for CLI coding
 
 **Software Development & APIs:**
 
-
+CloudFrost Dev. The all-in-one developer dashboard with features for server management using docker, error logging, project management, Discord app builder and game server remote access: https://github.com/FluxpointDev/CloudFrost-Dev
 
 ----
 
 **Linux & DevOps:**
 
-
+AppLite. A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask: https://github.com/milanvarady/Applite
 
 ----
 
