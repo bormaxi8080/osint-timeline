@@ -51,6 +51,14 @@ Chinese Name Variants. Romanisation and formatting variants of a Chinese name fo
 
 https://tads-things.github.io/mingzi/
 
+Telegram channels and groups catalog. A search engine for open Telegram: a catalog of channels and groups, rankings and statistics of every venue:
+
+https://chatcrawler.app/
+
+India OSINT. Public records, open data and tools for investigating stories in India. Every link was opened and checked on the date shown beside it:
+
+https://github.com/Ghongha007/india-osint
+
 ----
 
 **OSINT Tools, Services and Investigations:**
@@ -59,13 +67,29 @@ ChatCrawler is a free, web based OSINT tool that lets you track historical usern
 
 https://chatcrawler.app
 
+OSINT Hunter. The ultimate OSINT toolkit: investigation graph, confidence scoring, alias families, map, timeline and reports. 49 modules, 400+ sites, no API keys required:
+
+https://github.com/letox4/OsintHunter
+
 Keelix. Naval base activity from free Sentinel-1 radar - berths, ships in port, arrivals and departures, explained with the image behind every claim:
 
 https://github.com/sparkyniner/keelix
 
+File Explorer. Fast file explorer written with Tauri and React:
+
+https://github.com/conaticus/FileExplorer
+
 ----
 
 **Universal Search & AI:**
+
+Thermite is open-source **autoresearch**: AI agents that run experiments in a loop, for hours or days, on your own machines. You set the goal: a number to push (tokens a second, accuracy, latency, memory, cost, a benchmark score), a list of checks to pass, or a question to answer. A judge that the agents can't see or change measures every attempt, and keeps only what it confirms. One dashboard, with a REST API and MCP, shows and steers every campaign on every machineL:
+
+https://github.com/iammrduncan/thermite
+
+DFIR-ThreatIntel MCP server. 436 tools across IOC check, CVE/KEV, actor enrichment, domain/ASN/WHOIS pivots, ransomware + breach monitoring, phishing analysis, supply-chain attacks, YARA/Sigma authoring, MITRE ATT&CK extraction, Hudson Rock infostealer search, passive DNS, IOC watchlists, investigation notebooks, shift handover, and the full security-investigator playbook library. Streamable HTTP transport:
+
+https://pranithjain.qzz.io/mcp
 
 Ouijit. Git worktree-based task manager with integrated terminals for CLI coding agents: https://github.com/ouijit/ouijit
 
