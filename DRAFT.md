@@ -51,10 +51,6 @@ Chinese Name Variants. Romanisation and formatting variants of a Chinese name fo
 
 https://tads-things.github.io/mingzi/
 
-Telegram channels and groups catalog. A search engine for open Telegram: a catalog of channels and groups, rankings and statistics of every venue:
-
-https://chatcrawler.app/
-
 India OSINT. Public records, open data and tools for investigating stories in India. Every link was opened and checked on the date shown beside it:
 
 https://github.com/Ghongha007/india-osint
