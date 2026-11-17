@@ -39,6 +39,8 @@ Madonnas
 
 Geopolitics
 
+Pink
+
 ----
   
 Watchboard. Choose one of 132 topic trackers (North Korea, Sudan, Yemen, Ebola etc) to view a news dashboard with an interactive map highlighting key events:
