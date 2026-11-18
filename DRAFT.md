@@ -57,9 +57,17 @@ India OSINT. Public records, open data and tools for investigating stories in In
 
 https://github.com/Ghongha007/india-osint
 
+Dating OSINT Tools. A curated collection of Open Source Intelligence tools, OSINT frameworks, and resources for cybersecurity research, ethical hacking, and digital investigations. Discover username lookup, people search, email OSINT, phone number lookup, social media intelligence, domain reconnaissance, IP lookup, and threat intelligence tools:
+
+https://github.com/yogsec/OSINT-Tools#dating
+
 ----
 
 **OSINT Tools, Services and Investigations:**
+
+WayTrace. OSINT tool for researchers and professionals. Reveal what a domain has exposed over time (emails, subdomains, tech, leaks) from the [Wayback Machine](https://web.archive.org/) archive:
+
+https://waytrace.org/
 
 ChatCrawler is a free, web based OSINT tool that lets you track historical usernames and name changes of Telegram channels and groups, check when changes were observed and identify previous owners of Telegram usernames where records are available:
 
@@ -69,9 +77,17 @@ OSINT Hunter. The ultimate OSINT toolkit: investigation graph, confidence scorin
 
 https://github.com/letox4/OsintHunter
 
+GitDorked. Build public-source queries, derive allowlisted repository links, and keep local research notes free of secret values:
+
+https://gitdorked.onrender.com/
+
 Keelix. Naval base activity from free Sentinel-1 radar - berths, ships in port, arrivals and departures, explained with the image behind every claim:
 
 https://github.com/sparkyniner/keelix
+
+Tor Radar. Live structure of the public Tor relay network. Relays, exits, guards, hosting concentration, churn, and bandwidth shifts from hourly public snapshots:
+
+https://ipanalytics.github.io/Tor-Radar/
 
 File Explorer. Fast file explorer written with Tauri and React:
 
@@ -84,6 +100,14 @@ https://github.com/conaticus/FileExplorer
 Thermite is open-source **autoresearch**: AI agents that run experiments in a loop, for hours or days, on your own machines. You set the goal: a number to push (tokens a second, accuracy, latency, memory, cost, a benchmark score), a list of checks to pass, or a question to answer. A judge that the agents can't see or change measures every attempt, and keeps only what it confirms. One dashboard, with a REST API and MCP, shows and steers every campaign on every machineL:
 
 https://github.com/iammrduncan/thermite
+
+Osaurus. Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution:
+
+https://github.com/osaurus-ai/osaurus
+
+SEO Prompt Master. Open-source SEO & GEO audit: a zero-dependency CLI (npx), an agent skill for Claude Code, Cursor, Codex, Gemini & Copilot, 47 SEO prompts and a cited Google/Bing/AI-search knowledge base. Checks robots.txt, sitemaps, canonicals, hreflang, structured data, Core Web Vitals and AI crawlers - then fixes them:
+
+https://github.com/umutxyp/Seo-Promt-Master
 
 DFIR-ThreatIntel MCP server. 436 tools across IOC check, CVE/KEV, actor enrichment, domain/ASN/WHOIS pivots, ransomware + breach monitoring, phishing analysis, supply-chain attacks, YARA/Sigma authoring, MITRE ATT&CK extraction, Hudson Rock infostealer search, passive DNS, IOC watchlists, investigation notebooks, shift handover, and the full security-investigator playbook library. Streamable HTTP transport:
 
