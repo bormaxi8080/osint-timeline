@@ -49,13 +49,29 @@ The World's End
 
 **OSINT Tools, Services and Investigations:**
 
+ClawFeed. AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard:
 
+https://github.com/kevinho/clawfeed
+
+Selfgraph. Empowering users with visualizations of their own network:
+
+https://github.com/hmartiro/selfgraph
+
+gdown. Google Drive public file downloader when curl/wget fails:
+
+https://github.com/wkentaro/gdown
+
+Pointless. An endless drawing canvas desktop app made with Tauri (Rust) and React:
+
+https://github.com/kkoomen/pointless
 
 ----
 
 **Universal Search & AI:**
 
+GOAT. One control surface for Claude Code, Codex, Cursor and more, across your machines. Fork of T3 Code:
 
+https://github.com/goat-si/goat
 
 ----
 
