@@ -109,6 +109,14 @@ SEO Prompt Master. Open-source SEO & GEO audit: a zero-dependency CLI (npx), an 
 
 https://github.com/umutxyp/Seo-Promt-Master
 
+AudioGhost AI. Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI:
+
+https://github.com/0x0funky/audioghost-ai
+
+psm. A black-box optimization approach for protecting Large Language Model (LLM) system prompts against adversarial extraction attacks:
+
+https://github.com/psm-defense/psm
+
 DFIR-ThreatIntel MCP server. 436 tools across IOC check, CVE/KEV, actor enrichment, domain/ASN/WHOIS pivots, ransomware + breach monitoring, phishing analysis, supply-chain attacks, YARA/Sigma authoring, MITRE ATT&CK extraction, Hudson Rock infostealer search, passive DNS, IOC watchlists, investigation notebooks, shift handover, and the full security-investigator playbook library. Streamable HTTP transport:
 
 https://pranithjain.qzz.io/mcp
@@ -127,6 +135,8 @@ CloudFrost Dev. The all-in-one developer dashboard with features for server mana
 
 AppLite. A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask: https://github.com/milanvarady/Applite
 
+Haven. Free SSH, VNC, RDP & SFTP client for Android: https://github.com/GlassHaven/Haven
+
 ----
 
 **Hardware & Devices:**
@@ -134,6 +144,10 @@ AppLite. A native macOS app store for software that isn't on the App Store, back
 CLI tools for better interact with Flipper Zero: https://github.com/lomalkin/flipperzero-cli-tools
 
 Flipper Zero Catalog Sample App: https://github.com/flipperdevices/flipperzero-catalog-sample-app
+
+OpenRemote Core. 100% open-source IoT Platform - Integrate your devices, add intelligence, build custom apps: https://github.com/openremote/core
+
+LibrePods. AirPods liberated from Apple's ecosystem: https://github.com/librepods-org/librepods
 
 ----
 
