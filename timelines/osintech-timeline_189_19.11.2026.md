@@ -6,7 +6,7 @@
 
 ----
 
-**Week of 6 - 12 November  2026**
+**Week of 13 - 19 November  2026**
 
 Every week, I manually curate tools, research, and services that are genuinely useful for OSINT, digital investigations, security research, and adjacent fields.
 
