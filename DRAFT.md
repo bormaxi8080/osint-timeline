@@ -65,6 +65,10 @@ https://xanderhutch.github.io/CyberView/
 
 **OSINT Tools, Services and Investigations:**
 
+plugin-audit. Vet third-party Claude plugins, skills, MCP servers and repos in a throwaway VM before running them:
+
+https://github.com/dl-portfolio/plugin-audit
+
 Azimut. The OSINT investigator's workbench. One case, one folder, every tool. Local-first: your media and your investigations never leave your machine:
 
 https://github.com/OsintMeThat/azimut
@@ -76,6 +80,14 @@ https://github.com/kevinho/clawfeed
 Selfgraph. Empowering users with visualizations of their own network:
 
 https://github.com/hmartiro/selfgraph
+
+Calibrain Harness. A forward-testing harness for trading crypto perpetuals with fast classification models:
+
+https://github.com/zadescoxp/calibrain-harness
+
+ARTEX is a self-hosted, LLM-driven penetration testing platform. It is not a chat wrapper around a scanner: a planner splits a goal into intents, workers execute them with real tools, and the results are written back into **two linked graphs**: one for what you know about the target, one for how the test is progressing. Every finding can carry the captured request and response that justify it, and every autonomous action passes through scope rules, approval gates and budgets:
+
+https://github.com/BaaRai/ARTEX
 
 gdown. Google Drive public file downloader when curl/wget fails:
 
@@ -89,13 +101,45 @@ https://github.com/kkoomen/pointless
 
 **Universal Search & AI:**
 
+Agency. One dashboard for all your AI agents - manage teams across Claude Code, Codex, Gemini, Aider, and more. No database required:
+
+https://github.com/christag/agency
+
+Agent Control Center. The open-source dashboard for AI agent orchestration. Manage agent fleets, track tasks, monitor costs, and orchestrate workflows - with direct CLI integration, GitHub sync, and real-time monitoring:
+
+https://github.com/DinhLamPham/AgentControlCenter
+
+AgentFlow. Every agent. Every token. Every cost. Live. Watch your pipeline execute in real time. Inspect any phase. See exactly what each agent produced and what it cost - while it's still:
+
+https://www.agflow.io/
+
+Windmill. Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n:
+
+https://www.windmill.dev/
+
+(GitHub: https://github.com/windmill-labs/windmill)
+
+Dagu. Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler:
+
+https://dagu.sh/
+
+(GitHub: https://github.com/dagucloud/dagu)
+
 Every platform now sells you an ontology. [TrustGraph](https://trustgraph.ai/) is the one you own. For enterprises deploying AI agents where decisions carry real risk, TrustGraph is the **open-source ontology runtime** that turns your documents and data into ontology-grounded knowledge, and governs what every agent and user can see from it. Unlike other platform ontologies, TrustGraph is built on W3C standards (RDF, OWL, SHACL, PROV-O) for total ownership and portability of your knowledge and business logic. Your ontology, your knowledge, and your audit trail stay yours, portable across any cloud, model or deployment:
 
 https://github.com/trustgraph-ai/trustgraph
 
-Htperresearch. Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP:
+Hyperresearch. Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP:
 
 https://github.com/jordan-gibbs/hyperresearch
+
+Scarf. Native macOS and iOS App for the Hermes AI agent - multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more:
+
+https://github.com/awizemann/scarf
+
+SwarmChat is an innovative project that enables intuitive communication with swarm robotics through natural language. This system integrates advanced audio transcription, text processing, and safety mechanisms with a live simulation environment that visualizes a swarm of agents executing behavior trees:
+
+https://github.com/Inventors-Hub/SwarmChat
 
 GOAT. One control surface for Claude Code, Codex, Cursor and more, across your machines. Fork of T3 Code:
 
@@ -113,11 +157,37 @@ https://github.com/ag-ui-protocol/ag-ui
 
 **Software Development & APIs:**
 
+Helmor. Open-source local workbench for multi-agent software development:
 
+https://github.com/dohooo/helmor
+
+DBHub is a free database schema automatic discovery and easily commenting tool. DBHub now can support mysql, mongodb and other 6 databases, it is easy to extend. DBHub has a web page for viewing all schema with comments and has an admin system for managing:
+
+https://github.com/huifenqi/dbhub
 
 ----
 
 **Linux & DevOps:**
+
+Backhaul. Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support:
+
+https://github.com/Musixal/Backhaul
+
+rs-top is a lightweight, agentless, and read-only remote system monitor. It provides a real-time TUI dashboard for monitoring multiple remote hosts simultaneously via SSH. Heavily influenced by classic tools like `top`, `htop`, and `btop`, it aims to provide a similar experience for remote servers:
+
+https://github.com/ruiiiijiiiiang/rs-top
+
+Arcane. Modern Docker Management, Designed for Everyone:
+
+https://github.com/getarcaneapp/arcane
+
+Cardamon is an audit tool for Prometheus that generates insight into unused metrics from Grafana and Prometheus:
+
+https://github.com/dominikhei/cardamon
+
+Xata. Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero:
+
+https://github.com/xataio/xata
 
 File Explorer. Fast file explorer written with Tauri and React:
 
