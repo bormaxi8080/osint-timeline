@@ -55,11 +55,35 @@ OSINT for Human Rights. Violation Watch free online tool. An open log of reporte
 
 https://violationswatch.org/
 
+MapIndex. 2.8M+ searchable maps! Search by location (on interactive worldwide map) or by keyword:
+
+https://mapindex.org
+
+Historical Satellite Viewer. Open-source web tool for 3D terrain visualization (hillshade, LiDAR, DEMs) and historical satellite/aerial imagery comparison across timelines, for geospatial analysis and change detection:
+
+https://historical-satellite.iconem.com
+
 CyberView. Seven-day interactive world map of publicly reported cyber events, for defenders. Sourced, verified and updated hourly:
 
 https://xanderhutch.github.io/CyberView/
 
 (GitHub: https://github.com/xanderhutch/CyberView)
+
+----
+
+**Global Hack Map - tracking cyber incidents, exploited vulnerabilities and data breaches**  
+  
+Global Hack Map is an open-source platform that brings publicly reported breaches, ransomware claims, actively exploited vulnerabilities, malicious packages and connectivity disruptions together on an interactive globe.  
+  
+Incidents include links to their original sources and are labelled as confirmed, reported, claimed, precautionary or disputed. The platform also provides a feed of recently published critical CVEs and vulnerabilities added to the CISA Known Exploited Vulnerabilities catalog.  
+  
+Users can select products and companies to explore possible exposure. For developers, the project provides CVE remediation runbooks that can be opened in Claude Code, Codex or Cursor. It also includes a read-only MCP server and llms.txt for AI agents.  
+  
+The project is built with TypeScript, Next.js and Mapbox. It can be self-hosted under the MIT license. Public security feeds work without a Valyu API key, while news extraction, AI-generated answers, research reports and explainers require one.  
+  
+The map relies on public feeds, media reporting and attacker claims. Data may be delayed or incomplete, and a missing result should not be treated as evidence that an organization or product is unaffected.
+
+https://github.com/yorkeccak/globalhackmap
 
 ----
 
@@ -79,9 +103,17 @@ https://lite.ego.app/
 
 (GitHub: https://github.com/citrolabs/ego-lite)
 
-T3 Code. The best way to control Claude Code, Codex and more from any computer or phone:
+Reverse Video Search. Free online tool by MaxIntel. Simple and click. Pull the key frames out of a clip, read any on-screen text, and launch a reverse image search for each one:
 
-https://github.com/pingdotgg/t3code
+https://maxintel.org/video-reverse-search.html
+
+Misinformation spreads fast-verification shouldn't lag behind. Fact-checking tools and resources in one place:
+
+https://osint.link/#fake
+
+ASN Lookup Tool. Look up Autonomous System Numbers (ASNs) by IP address, AS number, or organization name to retrieve ASN details, organization, network prefixes, and datacenter classification. Supports IPv4/IPv6 with real-time BGP data for OSINT, threat intelligence, and network analysis:
+
+https://ip-api.io/asn-lookup
 
 Azimut. The OSINT investigator's workbench. One case, one folder, every tool. Local-first: your media and your investigations never leave your machine:
 
@@ -130,6 +162,10 @@ https://github.com/DinhLamPham/AgentControlCenter
 Lanes. Run many CLI (Coding) Agents in parallel lanes: issues, worktrees, sessions, and loops on one board. The agentic development environment:
 
 https://github.com/lanes-sh/app
+
+T3 Code. The best way to control Claude Code, Codex and more from any computer or phone:
+
+https://github.com/pingdotgg/t3code
 
 AgentFlow. Every agent. Every token. Every cost. Live. Watch your pipeline execute in real time. Inspect any phase. See exactly what each agent produced and what it cost - while it's still:
 
