@@ -59,7 +59,7 @@ CyberView. Seven-day interactive world map of publicly reported cyber events, fo
 
 https://xanderhutch.github.io/CyberView/
 
-(source: https://github.com/xanderhutch/CyberView)
+(GitHub: https://github.com/xanderhutch/CyberView)
 
 ----
 
@@ -68,6 +68,20 @@ https://xanderhutch.github.io/CyberView/
 plugin-audit. Vet third-party Claude plugins, skills, MCP servers and repos in a throwaway VM before running them:
 
 https://github.com/dl-portfolio/plugin-audit
+
+Awesome Browser Automation. Curated list of awesome browser automation tools and resources:
+
+https://github.com/angrykoala/awesome-browser-automation
+
+Ego. The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config:
+
+https://lite.ego.app/ 
+
+(GitHub: https://github.com/citrolabs/ego-lite)
+
+T3 Code. The best way to control Claude Code, Codex and more from any computer or phone:
+
+https://github.com/pingdotgg/t3code
 
 Azimut. The OSINT investigator's workbench. One case, one folder, every tool. Local-first: your media and your investigations never leave your machine:
 
@@ -168,6 +182,10 @@ https://github.com/huifenqi/dbhub
 ----
 
 **Linux & DevOps:**
+
+JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more:
+
+https://github.com/jumpserver/jumpserver
 
 Backhaul. Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support:
 
