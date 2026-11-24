@@ -99,6 +99,10 @@ Calibrain Harness. A forward-testing harness for trading crypto perpetuals with 
 
 https://github.com/zadescoxp/calibrain-harness
 
+Shirudo is a BPF-based security platform for Linux. After boot-time initialization, it restricts BPF program loads from userspace to signed loaders. Operators ship signed micropatches, called [upatches](https://docs.shirudo.dev/upatches/learn/concepts.html), and verify a target's measured upatch state with TPM-signed evidence:
+
+https://github.com/shirudo-dev/shirudo
+
 ARTEX is a self-hosted, LLM-driven penetration testing platform. It is not a chat wrapper around a scanner: a planner splits a goal into intents, workers execute them with real tools, and the results are written back into **two linked graphs**: one for what you know about the target, one for how the test is progressing. Every finding can carry the captured request and response that justify it, and every autonomous action passes through scope rules, approval gates and budgets:
 
 https://github.com/BaaRai/ARTEX
@@ -123,6 +127,10 @@ Agent Control Center. The open-source dashboard for AI agent orchestration. Mana
 
 https://github.com/DinhLamPham/AgentControlCenter
 
+Lanes. Run many CLI (Coding) Agents in parallel lanes: issues, worktrees, sessions, and loops on one board. The agentic development environment:
+
+https://github.com/lanes-sh/app
+
 AgentFlow. Every agent. Every token. Every cost. Live. Watch your pipeline execute in real time. Inspect any phase. See exactly what each agent produced and what it cost - while it's still:
 
 https://www.agflow.io/
@@ -142,6 +150,10 @@ https://dagu.sh/
 Every platform now sells you an ontology. [TrustGraph](https://trustgraph.ai/) is the one you own. For enterprises deploying AI agents where decisions carry real risk, TrustGraph is the **open-source ontology runtime** that turns your documents and data into ontology-grounded knowledge, and governs what every agent and user can see from it. Unlike other platform ontologies, TrustGraph is built on W3C standards (RDF, OWL, SHACL, PROV-O) for total ownership and portability of your knowledge and business logic. Your ontology, your knowledge, and your audit trail stay yours, portable across any cloud, model or deployment:
 
 https://github.com/trustgraph-ai/trustgraph
+
+Memoir. Hierarchical Agent Memory with Git-Like Version Control:
+
+https://github.com/zhangfengcdt/memoir
 
 Hyperresearch. Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP:
 
@@ -191,9 +203,33 @@ Backhaul. Lightning-fast reverse tunneling solution for NAT traversal, optimized
 
 https://github.com/Musixal/Backhaul
 
+MirrorSync. A Docker container that **mirrors folders one-way, 1:1** (like FreeFileSync "Mirror"): the destination becomes an exact copy of the source, including deletions. The sync engine is [rclone](https://rclone.org/), so **SMB, WebDAV (Nextcloud …), SFTP/SSH, FTP/FTPS, S3, local folders** and many more work, in any combination (e.g. SMB → WebDAV). Two-way sync is available too:
+
+https://github.com/DerMilderJoghurt/mirrorsync
+
 rs-top is a lightweight, agentless, and read-only remote system monitor. It provides a real-time TUI dashboard for monitoring multiple remote hosts simultaneously via SSH. Heavily influenced by classic tools like `top`, `htop`, and `btop`, it aims to provide a similar experience for remote servers:
 
 https://github.com/ruiiiijiiiiang/rs-top
+
+SysWatch. System diagnostics in your terminal. Investigate resource use and revisit recent activity on macOS and Linux:
+
+https://github.com/matthart1983/syswatch
+
+NetWatch. Network diagnostics in your terminal. Inspect traffic, connections and network behaviour. Built with Rust:
+
+https://github.com/matthart1983/netwatch
+
+DiskWatch. Read-only disk diagnostics in your terminal. Inspect activity, capacity, health and busy files:
+
+https://github.com/matthart1983/diskwatch
+
+KernWatch. Linux kernel diagnostics in your terminal. Investigate scheduling, memory pressure and block I/O. Built with Rust:
+
+https://github.com/matthart1983/kernwatch
+
+NetOxide. Open-source firewall and router for Linux, written in Rust. Home labs first. Preview: not for a network you depend on yet:
+
+https://github.com/matthart1983/netoxide
 
 Arcane. Modern Docker Management, Designed for Everyone:
 
