@@ -1,6 +1,5 @@
 # Timeline Summarized Draft
 
-
 Swift
 
 Light
@@ -187,6 +186,10 @@ Every platform now sells you an ontology.Â [TrustGraph](https://trustgraph.ai/)Â
 
 https://github.com/trustgraph-ai/trustgraph
 
+Archify. Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more:
+
+https://github.com/tt-a1i/archify
+
 Memoir. Hierarchical Agent Memory with Git-Like Version Control:
 
 https://github.com/zhangfengcdt/memoir
@@ -234,6 +237,10 @@ https://github.com/huifenqi/dbhub
 JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more:
 
 https://github.com/jumpserver/jumpserver
+
+Telescope. Web-based log viewer UI. Explore logs data stored in several sources: ClickHouse, Kubernetes or Docker:
+
+https://github.com/iamtelescope/telescope
 
 Backhaul. Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support:
 
