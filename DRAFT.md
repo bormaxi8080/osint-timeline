@@ -54,6 +54,10 @@ OSINT for Human Rights. Violation Watch free online tool. An open log of reporte
 
 https://violationswatch.org/
 
+OSINT of Kygryzstan by Unishka Research Service:
+
+https://substack.com/home/post/p-226799500
+
 MapIndex. 2.8M+ searchable maps! Search by location (on interactive worldwide map) or by keyword:
 
 https://mapindex.org
@@ -146,6 +150,10 @@ Pointless. An endless drawing canvas desktop app made with Tauri (Rust) and Reac
 
 https://github.com/kkoomen/pointless
 
+Claude Bug Hunter. A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices:
+
+https://github.com/elementalsouls/Claude-BugHunter
+
 ----
 
 **Universal Search & AI:**
@@ -194,6 +202,10 @@ Memoir. Hierarchical Agent Memory with Git-Like Version Control:
 
 https://github.com/zhangfengcdt/memoir
 
+llm.asm. Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies:
+
+https://github.com/alesha-pro/llm.asm
+
 Hyperresearch. Convert Claude Code or Codex into the most intelligent Deep Research Agent. Collect, search, and synthesize web research into a persistent, searchable wiki that builds on itself. Hosted API + MCP:
 
 https://github.com/jordan-gibbs/hyperresearch
@@ -241,6 +253,10 @@ https://github.com/jumpserver/jumpserver
 Telescope. Web-based log viewer UI. Explore logs data stored in several sources: ClickHouse, Kubernetes or Docker:
 
 https://github.com/iamtelescope/telescope
+
+VPS Monitor. A lightweight, Go-based VPS monitoring solution with real-time web dashboard supporting multiple agents. Monitor unlimited servers from a single dashboard overview analytics:
+
+https://github.com/hhftechnology/vps-monitor
 
 Backhaul. Lightning-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support:
 
