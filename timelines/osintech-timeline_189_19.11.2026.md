@@ -1,7 +1,6 @@
 
 ![](img/189.jpg)
 
-
 **Dove of Peace**
 
 ----
